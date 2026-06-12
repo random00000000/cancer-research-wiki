@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Riesgo relativo frente a riesgo absoluto</title>
+  <desc id="desc">Visual publico de comunicacion del riesgo que explica por que un porcentaje necesita riesgo inicial, denominador, tiempo y diferencia absoluta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.52" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#eefdf4"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/>
+    </filter>
+    <style>
+      .title { font: 800 50px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 23px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 29px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 30px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 18px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .dot { fill: #dbe4ef; stroke: #ffffff; stroke-width: 1; }
+      .event { fill: #ef4444; stroke: #ffffff; stroke-width: 1; }
+      .prevented { fill: #16a34a; stroke: #ffffff; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">Un porcentaje necesita punto de partida</text>
+    <text class="subtitle" x="2" y="100">El riesgo relativo puede sonar enorme. El riesgo absoluto muestra cuantas personas se ven afectadas.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(75 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Ejemplo: de 4 a 3 casos por cada 1000</text>
+    <text class="body" x="32" y="88">Ejemplo educativo, no una cifra universal sobre cancer.</text>
+    <text class="label" x="32" y="138">Sin la medida: 4 eventos</text>
+    <g transform="translate(32 165)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="event"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Cada cuadro representa personas de un grupo parecido.</text>
+    </g>
+    <text class="label" x="32" y="238">Con la medida: 3 eventos</text>
+    <g transform="translate(32 265)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="prevented"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Verde = diferencia absoluta: 1 evento menos por 1000.</text>
+    </g>
+    <rect class="pill" x="32" y="344" width="250" height="62" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="58" y="382">Relativo: 25% menos</text>
+    <rect class="pill" x="314" y="344" width="282" height="62" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="label" x="340" y="382">Absoluto: 1 en 1000</text>
+    <text class="body" x="32" y="456">Ambos numeros pueden ser ciertos. El numero absoluto ayuda</text>
+    <text class="body" x="32" y="484">a entender el tamano real de un beneficio o dano.</text>
+  </g>
+  <g transform="translate(785 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Antes de confiar en una cifra</text>
+    <text class="label" x="92" y="125">Comparado con que?</text>
+    <text class="body" x="92" y="155">Toda cifra necesita grupo de comparacion.</text>
+    <text class="label" x="92" y="210">En quien y durante cuanto tiempo?</text>
+    <text class="body" x="92" y="240">Edad, anatomia, exposicion, infeccion y seguimiento importan.</text>
+    <text class="label" x="92" y="295">Cuantos de cuantos?</text>
+    <text class="body" x="92" y="325">Busque conteos como 3 en 1000, no solo porcentajes.</text>
+    <text class="label" x="92" y="380">Beneficio, dano o deteccion?</text>
+    <text class="body" x="92" y="410">Incidencia, mortalidad, supervivencia y pruebas no son iguales.</text>
+    <text class="body" x="32" y="472">Una buena respuesta nombra fuente, poblacion, punto inicial,</text>
+    <text class="body" x="32" y="500">horizonte temporal e incertidumbre.</text>
+  </g>
+  <g transform="translate(110 775)">
+    <rect x="0" y="0" width="1280" height="130" rx="26" fill="#102033"/>
+    <text class="lightHead" x="38" y="48">La prevencion poblacional no es culpa personal</text>
+    <text class="lightBody" x="38" y="84">Una exposicion comun puede causar muchos casos aunque la mayoria de personas expuestas nunca tenga ese cancer.</text>
+    <text class="lightBody" x="38" y="114">Una fraccion atribuible poblacional es una estimacion de planificacion, no un veredicto sobre una persona.</text>
+  </g>
+  <g transform="translate(110 940)">
+    <rect x="0" y="0" width="1280" height="70" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="28">Use frecuencias naturales cuando sea posible: "x en 1000 durante y anos". No convierta porcentajes en consejo personal sin contexto.</text>
+    <text class="source" x="26" y="54">Fuente base: prevention/risk-communication.md; estudios de comunicacion del riesgo y fracciones atribuibles.</text>
+  </g>
+</svg>

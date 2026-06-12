@@ -39,6 +39,10 @@ Use `visual-qa-log.md` to track structural checks, browser rendering checks, cli
 | Site-specific prevention levers | `site-specific-prevention-levers.svg` | First-pass English SVG |
 | Relative versus absolute risk | `relative-vs-absolute-risk.svg` | First-pass English SVG |
 | Population burden is not personal blame | `population-burden-not-blame.svg` | First-pass English SVG |
+| Relative versus absolute risk - Spanish | `relative-vs-absolute-risk.es.svg` | First localized SVG |
+| Relative versus absolute risk - German | `relative-vs-absolute-risk.de.svg` | First localized SVG |
+| Relative versus absolute risk - Mandarin Chinese | `relative-vs-absolute-risk.zh.svg` | First localized SVG |
+| Relative versus absolute risk - Russian | `relative-vs-absolute-risk.ru.svg` | First localized SVG |
 | Screening and vaccination decision guide - Spanish | `screening-vaccination-decision.es.svg` | First localized SVG |
 | Screening and vaccination decision guide - German | `screening-vaccination-decision.de.svg` | First localized SVG |
 | Screening and vaccination decision guide - Mandarin Chinese | `screening-vaccination-decision.zh.svg` | First localized SVG |

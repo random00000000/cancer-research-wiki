@@ -30,6 +30,13 @@ Current localized screening/vaccination decision variants:
 - Mandarin Chinese: `visuals/screening-vaccination-decision.zh.svg`
 - Russian: `visuals/screening-vaccination-decision.ru.svg`
 
+Current localized relative/absolute risk variants:
+
+- Spanish: `visuals/relative-vs-absolute-risk.es.svg`
+- German: `visuals/relative-vs-absolute-risk.de.svg`
+- Mandarin Chinese: `visuals/relative-vs-absolute-risk.zh.svg`
+- Russian: `visuals/relative-vs-absolute-risk.ru.svg`
+
 Current localized companion mechanism variants:
 
 - Spanish: `visuals/cancer-keeps-adapting.es.svg`
@@ -60,16 +67,25 @@ Keep the flagship infographic's no-blame sentence short. Use this companion when
 New visual:
 
 - `visuals/relative-vs-absolute-risk.svg`
+- `visuals/relative-vs-absolute-risk.es.svg`
+- `visuals/relative-vs-absolute-risk.de.svg`
+- `visuals/relative-vs-absolute-risk.zh.svg`
+- `visuals/relative-vs-absolute-risk.ru.svg`
 
 ### What Changed
 
 - The wiki now has a public risk-communication visual explaining why a relative-risk percentage needs a baseline, denominator, time horizon, and absolute difference.
 - The visual uses an explicitly illustrative example so it does not invent a universal cancer effect size.
 - It also separates population prevention from personal blame, matching `prevention/risk-communication.md` and the population-attributable fraction cautions in `prevention/effect-size-evidence.md`.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
 
 ### Decision For The Flagship Infographic
 
 Keep the flagship infographic's short risk-reduction caveat. Use this companion when a reader or agent needs to interpret percentages, headlines, screening claims, prevention claims, or population-attributable burden.
+
+### Translation Impact
+
+Keep the translated risk visual conservative until native review. The localized versions preserve the English caveats: illustrative example, baseline risk, time horizon, uncertainty, and no personal blame.
 
 ## 2026-06-12 Check: Site-Specific Prevention Levers
 

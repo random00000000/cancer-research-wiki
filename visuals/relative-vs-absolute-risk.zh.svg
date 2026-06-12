@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">相对风险与绝对风险</title>
+  <desc id="desc">面向公众的风险沟通图，说明为什么百分比需要基线风险、分母、时间范围和绝对差异。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="0.52" stop-color="#fff7ed"/><stop offset="1" stop-color="#eefdf4"/></linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/></filter>
+    <style>
+      .title { font: 800 50px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 24px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 30px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 22px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 19px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 30px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 19px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .dot { fill: #dbe4ef; stroke: #ffffff; stroke-width: 1; }
+      .event { fill: #ef4444; stroke: #ffffff; stroke-width: 1; }
+      .prevented { fill: #16a34a; stroke: #ffffff; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">百分比需要基线</text>
+    <text class="subtitle" x="2" y="100">相对风险听起来可能很大。绝对风险说明一组人在一段时间里有多少人受影响。</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(75 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">例子：风险从每1000人4例降到3例</text>
+    <text class="body" x="32" y="88">这是教学例子，不是通用癌症估计。</text>
+    <text class="label" x="32" y="138">没有这个措施：4个事件</text>
+    <g transform="translate(32 165)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="event"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">每个小方块代表同一基线组中的人。</text>
+    </g>
+    <text class="label" x="32" y="238">有这个措施：3个事件</text>
+    <g transform="translate(32 265)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="prevented"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">绿色表示绝对差异：每1000人少1个事件。</text>
+    </g>
+    <rect class="pill" x="32" y="344" width="250" height="62" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="70" y="382">相对：降低25%</text>
+    <rect class="pill" x="314" y="344" width="282" height="62" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="label" x="360" y="382">绝对：1000人中1人</text>
+    <text class="body" x="32" y="456">两个数字都可能是真的。绝对数字常常更能说明</text>
+    <text class="body" x="32" y="484">收益或伤害的实际大小。</text>
+  </g>
+  <g transform="translate(785 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">相信风险数字前先问</text>
+    <text class="label" x="92" y="125">和什么相比？</text>
+    <text class="body" x="92" y="155">风险数字需要比较组。</text>
+    <text class="label" x="92" y="210">适用于谁？多长时间？</text>
+    <text class="body" x="92" y="240">年龄、解剖结构、暴露、感染和随访都会影响。</text>
+    <text class="label" x="92" y="295">多少人中有多少人？</text>
+    <text class="body" x="92" y="325">寻找“1000人中3人”这样的计数，而不只是百分比。</text>
+    <text class="label" x="92" y="380">收益、伤害还是发现？</text>
+    <text class="body" x="92" y="410">发病、死亡、生存和检测结果不是一回事。</text>
+    <text class="body" x="32" y="472">好的答案应说明来源、人群、基线、时间范围</text>
+    <text class="body" x="32" y="500">以及不确定性。</text>
+  </g>
+  <g transform="translate(110 775)">
+    <rect x="0" y="0" width="1280" height="130" rx="26" fill="#102033"/>
+    <text class="lightHead" x="38" y="48">群体预防不是个人责备</text>
+    <text class="lightBody" x="38" y="84">一种常见暴露可以在群体中造成许多病例，即使多数暴露者永远不会得这种癌症。</text>
+    <text class="lightBody" x="38" y="114">人群归因分数是规划估计，不是对某个患者的判决。</text>
+  </g>
+  <g transform="translate(110 940)">
+    <rect x="0" y="0" width="1280" height="70" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="28">尽量使用自然频率：“y年内1000人中有x人”。不要把研究百分比脱离背景变成个人建议。</text>
+    <text class="source" x="26" y="54">来源基础：prevention/risk-communication.md；风险沟通研究和人群归因方法论文。</text>
+  </g>
+</svg>

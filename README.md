@@ -60,6 +60,13 @@ Localized screening/vaccination decision variants:
 - [Mandarin Chinese screening/vaccination SVG](visuals/screening-vaccination-decision.zh.svg)
 - [Russian screening/vaccination SVG](visuals/screening-vaccination-decision.ru.svg)
 
+Localized relative/absolute risk variants:
+
+- [Spanish relative/absolute risk SVG](visuals/relative-vs-absolute-risk.es.svg)
+- [German relative/absolute risk SVG](visuals/relative-vs-absolute-risk.de.svg)
+- [Mandarin Chinese relative/absolute risk SVG](visuals/relative-vs-absolute-risk.zh.svg)
+- [Russian relative/absolute risk SVG](visuals/relative-vs-absolute-risk.ru.svg)
+
 Localized companion mechanism variants:
 
 - [Spanish companion SVG](visuals/cancer-keeps-adapting.es.svg)

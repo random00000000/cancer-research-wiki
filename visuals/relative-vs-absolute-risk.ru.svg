@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Относительный и абсолютный риск</title>
+  <desc id="desc">Публичная схема о риске: почему проценту нужны исходный риск, знаменатель, период времени и абсолютная разница.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="0.52" stop-color="#fff7ed"/><stop offset="1" stop-color="#eefdf4"/></linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/></filter>
+    <style>
+      .title { font: 800 50px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 23px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 29px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 30px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 18px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .dot { fill: #dbe4ef; stroke: #ffffff; stroke-width: 1; }
+      .event { fill: #ef4444; stroke: #ffffff; stroke-width: 1; }
+      .prevented { fill: #16a34a; stroke: #ffffff; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">Проценту нужна исходная точка</text>
+    <text class="subtitle" x="2" y="100">Относительный риск может звучать огромно. Абсолютный риск показывает, сколько людей затронуто.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(75 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Пример: риск падает с 4 до 3 на 1000</text>
+    <text class="body" x="32" y="88">Это учебный пример, а не универсальная оценка рака.</text>
+    <text class="label" x="32" y="138">Без меры: 4 события</text>
+    <g transform="translate(32 165)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="event"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Каждый квадрат означает людей в похожей исходной группе.</text>
+    </g>
+    <text class="label" x="32" y="238">С мерой: 3 события</text>
+    <g transform="translate(32 265)">
+      <rect x="0" y="0" width="10" height="10" class="event"/><rect x="14" y="0" width="10" height="10" class="event"/><rect x="28" y="0" width="10" height="10" class="event"/><rect x="42" y="0" width="10" height="10" class="prevented"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/><rect x="70" y="0" width="10" height="10" class="dot"/><rect x="84" y="0" width="10" height="10" class="dot"/><rect x="98" y="0" width="10" height="10" class="dot"/><rect x="112" y="0" width="10" height="10" class="dot"/><rect x="126" y="0" width="10" height="10" class="dot"/><rect x="140" y="0" width="10" height="10" class="dot"/><rect x="154" y="0" width="10" height="10" class="dot"/><rect x="168" y="0" width="10" height="10" class="dot"/><rect x="182" y="0" width="10" height="10" class="dot"/><rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Зеленый = абсолютная разница: на 1 событие меньше.</text>
+    </g>
+    <rect class="pill" x="32" y="344" width="250" height="62" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="55" y="382">Относит.: на 25% ниже</text>
+    <rect class="pill" x="314" y="344" width="282" height="62" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="label" x="342" y="382">Абсолютно: 1 из 1000</text>
+    <text class="body" x="32" y="456">Оба числа могут быть правдой. Абсолютное число чаще</text>
+    <text class="body" x="32" y="484">показывает реальный размер пользы или вреда.</text>
+  </g>
+  <g transform="translate(785 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Прежде чем верить цифре риска</text>
+    <text class="label" x="92" y="125">С чем сравнивают?</text>
+    <text class="body" x="92" y="155">Нужна группа сравнения.</text>
+    <text class="label" x="92" y="210">Для кого и за какой период?</text>
+    <text class="body" x="92" y="240">Возраст, анатомия, воздействие, инфекции и наблюдение важны.</text>
+    <text class="label" x="92" y="295">Сколько из скольких?</text>
+    <text class="body" x="92" y="325">Ищите частоты вроде 3 из 1000, а не только проценты.</text>
+    <text class="label" x="92" y="380">Польза, вред или выявление?</text>
+    <text class="body" x="92" y="410">Заболеваемость, смертность, выживаемость и тесты различаются.</text>
+    <text class="body" x="32" y="472">Хороший ответ называет источник, группу, исходный риск,</text>
+    <text class="body" x="32" y="500">период времени и неопределенность.</text>
+  </g>
+  <g transform="translate(110 775)">
+    <rect x="0" y="0" width="1280" height="130" rx="26" fill="#102033"/>
+    <text class="lightHead" x="38" y="48">Профилактика для населения не равна личной вине</text>
+    <text class="lightBody" x="38" y="84">Распространенное воздействие может дать много случаев, хотя большинство подвергшихся ему не заболеют этим раком.</text>
+    <text class="lightBody" x="38" y="114">Популяционная атрибутивная доля — оценка для планирования, а не приговор конкретному человеку.</text>
+  </g>
+  <g transform="translate(110 940)">
+    <rect x="0" y="0" width="1280" height="70" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="28">По возможности используйте естественные частоты: "x из 1000 за y лет". Не превращайте процент в личный совет без контекста.</text>
+    <text class="source" x="26" y="54">Основа: prevention/risk-communication.md; исследования коммуникации риска и атрибутивных долей.</text>
+  </g>
+</svg>

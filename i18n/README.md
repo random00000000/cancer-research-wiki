@@ -79,3 +79,15 @@ This public safety visual explains why symptoms, risk, screening, vaccination, b
 | German | [screening-vaccination-decision.de.svg](../visuals/screening-vaccination-decision.de.svg) | First localized SVG |
 | Mandarin Chinese | [screening-vaccination-decision.zh.svg](../visuals/screening-vaccination-decision.zh.svg) | First localized SVG |
 | Russian | [screening-vaccination-decision.ru.svg](../visuals/screening-vaccination-decision.ru.svg) | First localized SVG |
+
+## Relative And Absolute Risk Visual Variants
+
+This public risk-communication visual explains why percentages need baseline risk, denominator, time horizon, and absolute difference. These translations should receive native review before being treated as final medical wording.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [relative-vs-absolute-risk.svg](../visuals/relative-vs-absolute-risk.svg) | Canonical first-pass SVG |
+| Spanish | [relative-vs-absolute-risk.es.svg](../visuals/relative-vs-absolute-risk.es.svg) | First localized SVG |
+| German | [relative-vs-absolute-risk.de.svg](../visuals/relative-vs-absolute-risk.de.svg) | First localized SVG |
+| Mandarin Chinese | [relative-vs-absolute-risk.zh.svg](../visuals/relative-vs-absolute-risk.zh.svg) | First localized SVG |
+| Russian | [relative-vs-absolute-risk.ru.svg](../visuals/relative-vs-absolute-risk.ru.svg) | First localized SVG |
