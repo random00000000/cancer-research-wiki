@@ -26,6 +26,8 @@ Current infection-related cancer prevention visual: `visuals/infection-preventio
 
 Current environment/work prevention visual: `visuals/environment-work-cancer-prevention.svg`
 
+Current radon and lung cancer prevention visual: `visuals/radon-home-lung-cancer-prevention.svg`
+
 Current alcohol biology and tobacco co-exposure visual: `visuals/alcohol-aldh2-tobacco-risk.svg`
 
 Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-cancer-risk.svg`
@@ -78,6 +80,13 @@ Current localized environment/work variants:
 - German: `visuals/environment-work-cancer-prevention.de.svg`
 - Mandarin Chinese: `visuals/environment-work-cancer-prevention.zh.svg`
 - Russian: `visuals/environment-work-cancer-prevention.ru.svg`
+
+Current localized radon prevention variants:
+
+- Spanish: `visuals/radon-home-lung-cancer-prevention.es.svg`
+- German: `visuals/radon-home-lung-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/radon-home-lung-cancer-prevention.zh.svg`
+- Russian: `visuals/radon-home-lung-cancer-prevention.ru.svg`
 
 Current localized alcohol biology variants:
 
@@ -147,7 +156,7 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 81 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 86 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -157,6 +166,7 @@ New QA artifacts:
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
+- The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -190,6 +200,35 @@ Keep the flagship infographic's vaccination line short. Use this companion when 
 ### Translation Impact
 
 Keep localized vaccine-preventable cancer visuals under native review before promotion. Vaccine schedules, catch-up rules, sexual-health wording, hepatitis birth-dose systems, and stigma language vary by country.
+
+## 2026-06-12 Check: Radon Home And Lung Cancer Prevention Visual
+
+Evidence page:
+
+- `prevention/radon-home-lung-cancer-evidence.md`
+
+New visual:
+
+- `visuals/radon-home-lung-cancer-prevention.svg`
+- `visuals/radon-home-lung-cancer-prevention.es.svg`
+- `visuals/radon-home-lung-cancer-prevention.de.svg`
+- `visuals/radon-home-lung-cancer-prevention.zh.svg`
+- `visuals/radon-home-lung-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining radon as an invisible, building-specific lung cancer exposure.
+- The synthesis is grounded in residential radon meta-analysis, European and North American pooled case-control analyses, and never-smoker radon evidence rather than a public-agency fact sheet alone.
+- The visual separates testing from mitigation and highlights that tobacco exposure greatly raises absolute risk without implying never-smokers are safe.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's structural-exposure line short. Use the radon companion when readers need the concrete home action path: test, interpret local thresholds, mitigate, support quitting, and make radon-safe buildings normal.
+
+### Translation Impact
+
+Keep localized radon visuals under native review before promotion. Radon action levels, testing units, tenant rights, building codes, and mitigation systems differ across countries and regions.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 

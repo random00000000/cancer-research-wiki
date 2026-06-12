@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 81
-Nonblank renders: 81
+SVG files rendered: 86
+Nonblank renders: 86
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -17,6 +17,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
 
 ## Limits
 
@@ -78,6 +79,11 @@ Blank or near-blank renders: 0
 | `population-burden-not-blame.ru.svg` | 1500x1050 | True | 31.93 |
 | `population-burden-not-blame.svg` | 1500x1050 | True | 31.63 |
 | `population-burden-not-blame.zh.svg` | 1500x1050 | True | 30.18 |
+| `radon-home-lung-cancer-prevention.de.svg` | 1500x980 | True | 39.46 |
+| `radon-home-lung-cancer-prevention.es.svg` | 1500x980 | True | 37.93 |
+| `radon-home-lung-cancer-prevention.ru.svg` | 1500x980 | True | 38.94 |
+| `radon-home-lung-cancer-prevention.svg` | 1500x980 | True | 38.63 |
+| `radon-home-lung-cancer-prevention.zh.svg` | 1500x980 | True | 36.96 |
 | `relative-vs-absolute-risk.de.svg` | 1500x1050 | True | 35.10 |
 | `relative-vs-absolute-risk.es.svg` | 1500x1050 | True | 34.76 |
 | `relative-vs-absolute-risk.ru.svg` | 1500x1050 | True | 34.30 |

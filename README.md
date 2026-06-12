@@ -79,6 +79,17 @@ Environment and work cancer prevention visual:
 
 ![Cancer prevention is also clean air and safe work](visuals/environment-work-cancer-prevention.svg)
 
+Radon and lung cancer prevention visual:
+
+![Radon-safe homes are lung cancer prevention](visuals/radon-home-lung-cancer-prevention.svg)
+
+Localized radon prevention variants:
+
+- [Spanish radon prevention SVG](visuals/radon-home-lung-cancer-prevention.es.svg)
+- [German radon prevention SVG](visuals/radon-home-lung-cancer-prevention.de.svg)
+- [Mandarin Chinese radon prevention SVG](visuals/radon-home-lung-cancer-prevention.zh.svg)
+- [Russian radon prevention SVG](visuals/radon-home-lung-cancer-prevention.ru.svg)
+
 Alcohol biology and tobacco co-exposure visual:
 
 ![Alcohol risk depends on dose, biology, and tobacco](visuals/alcohol-aldh2-tobacco-risk.svg)
@@ -209,6 +220,7 @@ Research backing:
 - [Risk communication guide](prevention/risk-communication.md)
 - [Non-screening absolute risk examples](prevention/non-screening-absolute-risk-examples.md)
 - [Environmental and occupational exposure evidence](prevention/environmental-exposure-evidence.md)
+- [Radon, homes, and lung cancer evidence](prevention/radon-home-lung-cancer-evidence.md)
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)
 - [Cervical cancer prevention page](cancer-types/cervical-cancer.md)
@@ -235,6 +247,7 @@ Research backing:
 - [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)
+- [Radon and lung cancer prevention visual](visuals/radon-home-lung-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
 - [Vaccine-preventable cancer visual](visuals/vaccine-preventable-cancers.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)

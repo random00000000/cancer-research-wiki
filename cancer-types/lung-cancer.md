@@ -62,6 +62,7 @@ Radon is a naturally occurring radioactive gas that can accumulate indoors. Occu
 Public wording:
 
 - "Clean air, safer workplaces, and radon-safe homes are cancer prevention."
+- Focused evidence and public companion visual: `prevention/radon-home-lung-cancer-evidence.md` and `visuals/radon-home-lung-cancer-prevention.svg`.
 
 ## Screening
 
@@ -86,6 +87,16 @@ Caution:
   - Lung cancer is linked with environmental and occupational exposures including asbestos, radon, air pollution, and workplace carcinogens.
 - Caution:
   - Exposure levels, duration, and co-exposures matter.
+
+### Radon, Homes, And Lung Cancer Evidence Note
+
+- URL: `prevention/radon-home-lung-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - Radon can accumulate indoors and is detectable only by measurement.
+  - Testing, mitigation, radon-safe construction, and tobacco cessation support are lung cancer prevention.
+- Caution:
+  - Radon thresholds, testing units, tenant rights, and mitigation rules vary by country and region.
 
 ### Lung Cancer Risk In Never-Smokers
 

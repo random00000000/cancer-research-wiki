@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/environment-work-cancer-prevention.svg`
 - First localized visual variants: `visuals/environment-work-cancer-prevention.es.svg`, `visuals/environment-work-cancer-prevention.de.svg`, `visuals/environment-work-cancer-prevention.zh.svg`, and `visuals/environment-work-cancer-prevention.ru.svg`
+- Focused radon visual: `visuals/radon-home-lung-cancer-prevention.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
 ## Plain-Language Summary
 
@@ -43,6 +44,14 @@ Some carcinogen exposures come from homes, workplaces, outdoor air, building mat
   - A 100 Bq/m3 increment was associated with increased lung cancer risk.
 - Caution:
   - Risk is greater in smokers; public messaging should combine radon mitigation with tobacco prevention without erasing nonsmoker risk.
+
+### Focused Radon Home Evidence Note
+
+- URL: `prevention/radon-home-lung-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - Radon is invisible and building-specific, so testing is the only way to know whether a specific home has elevated levels.
+  - Radon-safe construction, mitigation, and tobacco cessation support are systems-level lung cancer prevention.
 
 ### European Residential Radon Pooled Analysis
 
@@ -111,6 +120,11 @@ Current companion visual:
 - `visuals/environment-work-cancer-prevention.de.svg`
 - `visuals/environment-work-cancer-prevention.zh.svg`
 - `visuals/environment-work-cancer-prevention.ru.svg`
+- `visuals/radon-home-lung-cancer-prevention.svg`
+- `visuals/radon-home-lung-cancer-prevention.es.svg`
+- `visuals/radon-home-lung-cancer-prevention.de.svg`
+- `visuals/radon-home-lung-cancer-prevention.zh.svg`
+- `visuals/radon-home-lung-cancer-prevention.ru.svg`
 
 Translation review task: keep localized environment/work visuals under native review before public-final use, because radon, asbestos, PM2.5, and worker-safety terminology vary by region and legal system.
 
