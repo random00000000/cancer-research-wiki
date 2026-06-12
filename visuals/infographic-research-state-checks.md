@@ -60,6 +60,27 @@ Current localized companion mechanism variants:
 
 Current visual QA log: `visuals/visual-qa-log.md`
 
+## 2026-06-12 Check: Headless Chrome Render QA
+
+New QA artifacts:
+
+- `tools/render_svg_contact_sheets.py`
+- `visuals/qa-renders/svg-browser-render-qa-report.md`
+- `visuals/qa-renders/contact-sheets/contact-sheet-01.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-02.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
+
+### What Changed
+
+- The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
+- All 42 SVGs rendered to nonblank PNGs at their declared canvas sizes.
+- Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
+
+### Decision For The Flagship Infographic
+
+Do not mark the visual set final yet. The render pass proves the files are not blank in Chrome, but close layout review and native/expert translation review are still needed before treating localized medical visuals as publication-ready.
+
 ## 2026-06-12 Check: Population Burden Is Not Personal Blame Visual
 
 New visual:

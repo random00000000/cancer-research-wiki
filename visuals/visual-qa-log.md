@@ -74,28 +74,58 @@ Browser QA attempt:
 - The temporary server was stopped after the blocked attempt.
 - Because browser rendering was blocked, this pass does not prove absence of text clipping, font fallback issues, or cross-browser layout problems.
 
+## 2026-06-12 Headless Chrome Render QA
+
+Scope:
+
+- All 42 SVG files in `visuals/`.
+
+Tooling:
+
+- `tools/render_svg_contact_sheets.py`
+- Local renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
+
+Generated artifacts:
+
+- `visuals/qa-renders/svg-browser-render-qa-report.md`
+- `visuals/qa-renders/contact-sheets/contact-sheet-01.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-02.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
+
+Result:
+
+- Headless Chrome rendered all 42 SVG files at their declared canvas sizes.
+- All 42 renders were nonblank.
+- Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
+- Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
+
+Repository note:
+
+- Full-size intermediate PNG renders are reproducible and ignored at `visuals/qa-renders/png/`.
+
 ## Current Visual QA Status
 
 | Asset group | Structural QA | Browser screenshot QA | Translation review |
 | --- | --- | --- | --- |
-| Flagship English SVG | Passed | Still needed | Not applicable |
-| Flagship localized SVGs | Passed | Still needed | Still needed |
-| Companion adaptation English SVG | Passed | Still needed | Not applicable |
-| Companion adaptation localized SVGs | Passed | Still needed | Still needed |
-| Screening/vaccination decision English SVG | Passed | Still needed | Not applicable |
-| Screening/vaccination decision localized SVGs | Passed | Still needed | Still needed |
-| Risk/mechanism/prevention agent map | Passed | Still needed | Not applicable |
-| Site-specific prevention levers SVG | Passed | Still needed | Not applicable |
-| Site-specific prevention levers localized SVGs | Passed | Still needed | Still needed |
-| Relative versus absolute risk SVG | Passed | Still needed | Not applicable |
-| Relative versus absolute risk localized SVGs | Passed | Still needed | Still needed |
-| Population burden/no-blame SVG | Passed | Still needed | Not applicable |
-| Population burden/no-blame localized SVGs | Passed | Still needed | Still needed |
-| Claim-filter SVG | Passed | Still needed | Not applicable |
+| Flagship English SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Flagship localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Companion adaptation English SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Companion adaptation localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Screening/vaccination decision English SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Screening/vaccination decision localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Risk/mechanism/prevention agent map | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Site-specific prevention levers SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Site-specific prevention levers localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Relative versus absolute risk SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Relative versus absolute risk localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Population burden/no-blame SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Population burden/no-blame localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Claim-filter SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 
 ## Next Visual QA Tasks
 
-- Render all SVGs in a normal browser outside the blocked in-app route and inspect for clipping, overflow, unreadable text, missing glyphs, and layout imbalance.
+- Closely inspect the contact sheets and, where needed, full-size browser renders for clipping, overflow, unreadable text, missing glyphs, and layout imbalance.
 - Prioritize visual QA for Mandarin Chinese, Arabic, Hindi, Japanese, Korean, Russian, and Vietnamese because font fallback and glyph shaping risks are higher.
 - Add native or expert translation review before treating any localized medical wording as final.
 - If browser QA finds clipping, shorten localized labels before expanding companion visuals to the remaining languages.

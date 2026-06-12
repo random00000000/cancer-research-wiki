@@ -10,6 +10,8 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 
 Use `visual-qa-log.md` to track structural checks, browser rendering checks, clipping risk, and translation-review gaps.
 
+Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headless Chrome and generate the QA report plus contact sheets in `qa-renders/`.
+
 ## Goal 1 Infographics
 
 | Language | Asset | Status |
