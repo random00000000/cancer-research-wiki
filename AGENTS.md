@@ -233,6 +233,17 @@ A research pass is not done until it has:
 - A list of next crawl targets.
 - A note on what changed in the wiki's understanding.
 
+## Git Workflow
+
+When an agent completes a coherent change in this repository, it should commit the work here with a clear message, unless the user explicitly asks not to commit.
+
+Before committing:
+
+- Check the working tree.
+- Stage only the files related to the completed change.
+- Avoid rewriting or reverting user work unless explicitly requested.
+- Keep commits focused on a single research, documentation, visual, or infrastructure step.
+
 ## Working Style
 
 Be ambitious, but exact.
