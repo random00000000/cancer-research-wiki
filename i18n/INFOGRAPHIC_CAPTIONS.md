@@ -17,6 +17,36 @@ Localized SVG variants currently available:
 - Portuguese: `visuals/cancer-literacy-infographic.pt.svg`
 - Arabic: `visuals/cancer-literacy-infographic.ar.svg`
 - Hindi: `visuals/cancer-literacy-infographic.hi.svg`
+- Japanese: `visuals/cancer-literacy-infographic.ja.svg`
+- Korean: `visuals/cancer-literacy-infographic.ko.svg`
+
+## Japanese
+
+Title:
+
+- がん：細胞が体のルールを破るしくみ
+
+Alt text:
+
+- がんを、細胞が変化を蓄積して成長し、死を避け、免疫の制御を逃れ、組織を変え、血管を呼び込み、時に広がる病気の集合として説明するインフォグラフィック。たばこを避ける、酒を減らす、体を動かす、紫外線を避ける、発がん性曝露を減らす、関連ワクチンを使う、推奨される検診を受けるなど、証拠に基づくリスク低減策も示す。リスク低減は保証ではない。
+
+Safety caption:
+
+- リスク低減は保証ではありません。症状、検診、個人リスクについては医療専門職に相談してください。
+
+## Korean
+
+Title:
+
+- 암: 세포가 몸의 규칙을 깨는 방식
+
+Alt text:
+
+- 암을, 세포가 변화를 쌓아 성장하고, 죽음을 피하고, 면역 조절을 벗어나고, 조직을 바꾸고, 혈관을 끌어들이며, 때로 퍼지는 질병들의 집합으로 설명하는 인포그래픽. 담배 피하기, 술 줄이기, 활동 유지, 자외선 보호, 발암성 노출 줄이기, 관련 백신 사용, 권장 검진 따르기 같은 근거 기반 위험 감소 방법도 제시한다. 위험 감소는 보장이 아니다.
+
+Safety caption:
+
+- 위험 감소는 보장이 아닙니다. 증상, 검진, 개인 위험은 의료 전문가와 상담하세요.
 
 ## Canonical English
 

@@ -1,6 +1,6 @@
 # Cancer Research Wiki
 
-Languages: [English](README.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [中文](i18n/README.zh.md) | [Русский](i18n/README.ru.md) | [Français](i18n/README.fr.md) | [Português](i18n/README.pt.md) | [العربية](i18n/README.ar.md) | [हिन्दी](i18n/README.hi.md) | [More languages](i18n/README.md)
+Languages: [English](README.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [中文](i18n/README.zh.md) | [Русский](i18n/README.ru.md) | [Français](i18n/README.fr.md) | [Português](i18n/README.pt.md) | [العربية](i18n/README.ar.md) | [हिन्दी](i18n/README.hi.md) | [日本語](i18n/README.ja.md) | [한국어](i18n/README.ko.md) | [More languages](i18n/README.md)
 
 Cancer Research Wiki is an automated, evidence-first research wiki with a long-term intent: help move cancer research, prevention literacy, and therapeutic reasoning toward eradication by focusing on root mechanisms, not only symptoms.
 
@@ -39,6 +39,8 @@ Localized infographic variants:
 - [Portuguese SVG](visuals/cancer-literacy-infographic.pt.svg)
 - [Arabic SVG](visuals/cancer-literacy-infographic.ar.svg)
 - [Hindi SVG](visuals/cancer-literacy-infographic.hi.svg)
+- [Japanese SVG](visuals/cancer-literacy-infographic.ja.svg)
+- [Korean SVG](visuals/cancer-literacy-infographic.ko.svg)
 - [Translated captions and alt text](i18n/INFOGRAPHIC_CAPTIONS.md)
 
 Research backing:

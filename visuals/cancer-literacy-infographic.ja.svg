@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">がん：細胞が体のルールを破るしくみ</title>
+  <desc id="desc">がんがどのように始まり成長するか、そしてゼロリスクを約束せずにリスクを下げる方法を説明する日本語インフォグラフィック。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbff"/><stop offset="0.52" stop-color="#fff8f2"/><stop offset="1" stop-color="#f5fff8"/></linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75d7b3"/><stop offset="1" stop-color="#1f9d8a"/></linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc70"/><stop offset="1" stop-color="#e85d5d"/></linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c678dd"/><stop offset="1" stop-color="#6a45b8"/></linearGradient>
+    <style>
+      .title { font: 800 43px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #102033; }
+      .subtitle { font: 400 24px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #31445c; }
+      .section { font: 800 29px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #102033; }
+      .label { font: 700 21px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, "Noto Sans CJK JP", "Yu Gothic", sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">がん：細胞がルールを破る</text>
+    <text class="subtitle" x="2" y="92">がんとは何か、どう成長するか、ゼロリスクを約束せずにどうリスクを下げるか。</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. 正常な細胞</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/><circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">健康な組織には制御がある：</text>
+    <text class="small" x="24" y="295">合図で成長し、傷を修復し、</text>
+    <text class="small" x="24" y="322">危険な細胞を取り除く。</text>
+  </g>
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. 変化が蓄積する</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/><circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">曝露、感染、加齢、</text>
+    <text class="small" x="24" y="295">遺伝的リスク、コピーエラーが</text>
+    <text class="small" x="24" y="322">細胞の指示を変えうる。</text>
+  </g>
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. がんのふるまい</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/><circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/><circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">過剰に分裂し、防御を逃れ、</text>
+    <text class="small" x="24" y="295">血管を呼び込み、侵入し、</text>
+    <text class="small" x="24" y="322">時に広がることがある。</text>
+  </g>
+  <path class="line" d="M380 405 H440"/><path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/><path class="line" d="M760 405 H820"/><path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">基本のループ</text>
+    <text class="body" x="30" y="88">変化した細胞が生き残り、増え、圧力に適応し、周囲の組織を変える。</text>
+    <text class="body" x="30" y="126">根本は一つの魔法の原因ではない。遺伝子、免疫、代謝、環境、</text>
+    <text class="body" x="30" y="164">年齢、感染、予防へのアクセスが相互に関わる。</text>
+    <text class="small" x="30" y="213">だから予防、早期発見、生物学、より良い治療が一緒に必要になる。</text>
+  </g>
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">リスク低減：可能性を下げる、ゼロではない</text>
+    <text class="body" x="0" y="36">これらは証拠に支えられた行動だが、がんのない人生を保証しない。</text>
+    <g transform="translate(0 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">たばこなし</text><text class="small" x="22" y="78">煙を避け、禁煙を支える。</text></g>
+    <g transform="translate(278 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">酒を減らす</text><text class="small" x="22" y="78">少ないほど安全。ゼロはそのリスクを避ける。</text></g>
+    <g transform="translate(556 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">よく動く</text><text class="small" x="22" y="78">定期的な活動は複数のリスクを下げる。</text></g>
+    <g transform="translate(834 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">紫外線対策</text><text class="small" x="22" y="78">安全な日光。日焼けマシンは避ける。</text></g>
+    <g transform="translate(0 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">ワクチン</text><text class="small" x="22" y="78">HPVとB型肝炎を適切に。</text></g>
+    <g transform="translate(278 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">検診</text><text class="small" x="22" y="78">年齢、リスク、地域の指針に沿う。</text></g>
+    <g transform="translate(556 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">健康的な型</text><text class="small" x="22" y="78">植物、全粒穀物、エネルギーのバランス。</text></g>
+    <g transform="translate(834 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">曝露を減らす</text><text class="small" x="22" y="78">空気、職場、ラドン、政策も重要。</text></g>
+  </g>
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, 'Noto Sans CJK JP', sans-serif; fill: #ffffff;">重要：予防は責めることではない</text>
+    <text x="32" y="86" style="font: 400 20px Arial, 'Noto Sans CJK JP', sans-serif; fill: #e2e8f0;">とても良い選択をしても、がんが起こることはある。年齢、遺伝的変異、感染、</text>
+    <text x="32" y="116" style="font: 400 20px Arial, 'Noto Sans CJK JP', sans-serif; fill: #e2e8f0;">細胞のエラー、環境、収入、地域、医療へのアクセスも関係する。</text>
+  </g>
+  <text class="tiny" x="60" y="1645">根拠: NCI, ACS, IARC/WHO, Hanahan/Weinberg, GBD, WCRF/AICR と wiki の証拠ページ。症状、検診、個人リスクは医療専門職に相談。</text>
+</svg>

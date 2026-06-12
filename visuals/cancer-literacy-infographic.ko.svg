@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">암: 세포가 몸의 규칙을 깨는 방식</title>
+  <desc id="desc">암이 어떻게 시작되고 자라는지, 그리고 위험을 0으로 약속하지 않고 낮추는 방법을 설명하는 한국어 인포그래픽.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbff"/><stop offset="0.52" stop-color="#fff8f2"/><stop offset="1" stop-color="#f5fff8"/></linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75d7b3"/><stop offset="1" stop-color="#1f9d8a"/></linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc70"/><stop offset="1" stop-color="#e85d5d"/></linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c678dd"/><stop offset="1" stop-color="#6a45b8"/></linearGradient>
+    <style>
+      .title { font: 800 43px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #102033; }
+      .subtitle { font: 400 24px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #31445c; }
+      .section { font: 800 29px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #102033; }
+      .label { font: 700 21px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, "Noto Sans CJK KR", "Malgun Gothic", sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">암: 세포가 규칙을 깨다</text>
+    <text class="subtitle" x="2" y="92">암이 무엇인지, 어떻게 자라는지, 위험을 낮추되 0을 약속하지 않는 방법.</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. 정상 세포</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/><circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">건강한 조직은 통제를 사용한다:</text>
+    <text class="small" x="24" y="295">신호가 있을 때 성장하고, 손상을 고치고,</text>
+    <text class="small" x="24" y="322">위험한 세포를 제거한다.</text>
+  </g>
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. 변화가 쌓인다</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/><circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">노출, 감염, 나이,</text>
+    <text class="small" x="24" y="295">유전 위험과 복사 오류가</text>
+    <text class="small" x="24" y="322">세포 지시를 바꿀 수 있다.</text>
+  </g>
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. 암의 행동</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/><circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/><circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">너무 많이 나뉘고, 방어를 피하고,</text>
+    <text class="small" x="24" y="295">혈관을 끌어들이고, 침범하며,</text>
+    <text class="small" x="24" y="322">때로 퍼질 수 있다.</text>
+  </g>
+  <path class="line" d="M380 405 H440"/><path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/><path class="line" d="M760 405 H820"/><path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">기본 순환</text>
+    <text class="body" x="30" y="88">변한 세포가 살아남고, 늘어나고, 압력에 적응하며 주변 조직을 바꾼다.</text>
+    <text class="body" x="30" y="126">뿌리는 하나의 마법 같은 원인이 아니다. 유전자, 면역, 대사, 환경,</text>
+    <text class="body" x="30" y="164">나이, 감염, 예방 접근성이 함께 작용한다.</text>
+    <text class="small" x="30" y="213">그래서 예방, 조기 발견, 생물학, 더 나은 치료가 함께 필요하다.</text>
+  </g>
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">위험 낮추기: 가능성을 줄일 뿐, 0은 아님</text>
+    <text class="body" x="0" y="36">이 행동들은 근거가 있지만 암 없는 삶을 보장하지 않는다.</text>
+    <g transform="translate(0 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">담배 없음</text><text class="small" x="22" y="78">연기를 피하고 금연을 돕기.</text></g>
+    <g transform="translate(278 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">술 줄이기</text><text class="small" x="22" y="78">적을수록 안전. 0은 그 위험을 피한다.</text></g>
+    <g transform="translate(556 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">움직이기</text><text class="small" x="22" y="78">규칙적 활동은 여러 위험을 낮춘다.</text></g>
+    <g transform="translate(834 75)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">자외선 보호</text><text class="small" x="22" y="78">햇빛 조심. 실내 태닝 피하기.</text></g>
+    <g transform="translate(0 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">백신</text><text class="small" x="22" y="78">HPV와 B형간염, 해당될 때.</text></g>
+    <g transform="translate(278 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">검진</text><text class="small" x="22" y="78">나이, 위험, 지역 권고에 맞게.</text></g>
+    <g transform="translate(556 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">건강한 패턴</text><text class="small" x="22" y="78">식물성 식품, 통곡물, 에너지 균형.</text></g>
+    <g transform="translate(834 225)"><rect class="card" x="0" y="0" width="245" height="120"/><text class="label" x="22" y="42">노출 줄이기</text><text class="small" x="22" y="78">공기, 직장, 라돈, 정책도 중요.</text></g>
+  </g>
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, 'Noto Sans CJK KR', sans-serif; fill: #ffffff;">중요: 예방은 비난이 아니다</text>
+    <text x="32" y="86" style="font: 400 20px Arial, 'Noto Sans CJK KR', sans-serif; fill: #e2e8f0;">좋은 선택을 해도 암은 생길 수 있다. 나이, 유전 변이, 감염, 세포 오류,</text>
+    <text x="32" y="116" style="font: 400 20px Arial, 'Noto Sans CJK KR', sans-serif; fill: #e2e8f0;">환경, 소득, 지역, 의료 접근성도 모두 중요하다.</text>
+  </g>
+  <text class="tiny" x="60" y="1645">근거: NCI, ACS, IARC/WHO, Hanahan/Weinberg, GBD, WCRF/AICR 및 wiki 근거 페이지. 증상, 검진, 개인 위험은 의료 전문가와 상담.</text>
+</svg>
