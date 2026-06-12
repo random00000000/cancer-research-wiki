@@ -38,6 +38,8 @@ Research backing:
 - [Cervical cancer prevention page](cancer-types/cervical-cancer.md)
 - [Breast cancer prevention page](cancer-types/breast-cancer.md)
 - [Liver cancer prevention page](cancer-types/liver-cancer.md)
+- [Stomach cancer prevention page](cancer-types/stomach-cancer.md)
+- [Lung cancer prevention page](cancer-types/lung-cancer.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
