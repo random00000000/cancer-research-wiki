@@ -49,3 +49,4 @@ Last updated: 2026-06-12
 - Deepen `i18n/` entry pages into reviewed evidence summaries for Spanish, German, Mandarin, Russian, and additional languages.
 - Add translated infographic captions and alt text for future visual releases.
 - Keep the root README language switcher current as new translations are added.
+- Use `i18n/TRANSLATION_GUIDE.md` as the safety checklist before expanding translated medical content.
