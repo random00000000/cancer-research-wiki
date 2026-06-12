@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">癌症如何持续适应</title>
+  <desc id="desc">中文信息图，说明变异、选择压力、肿瘤生态系统和转移过程。</desc>
+  <rect width="1200" height="900" fill="#f8fbff"/>
+  <rect x="48" y="42" width="1104" height="816" rx="24" fill="#ffffff" stroke="#d8e2ef" stroke-width="3"/>
+  <text x="86" y="112" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#102033">癌症如何持续适应</text>
+  <text x="88" y="154" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#334155">癌症不是单个坏细胞，而是在压力下演化的组织系统。</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="86" y="210" width="245" height="230" rx="18" fill="#fdf2f8" stroke="#be185d" stroke-width="2"/>
+    <text x="112" y="260" font-size="30" font-weight="800" fill="#102033">1. 变异</text>
+    <circle cx="150" cy="330" r="36" fill="#a855f7"/><circle cx="214" cy="318" r="28" fill="#f97316"/><circle cx="270" cy="354" r="32" fill="#0ea5e9"/>
+    <text x="112" y="402" font-size="22" fill="#334155">肿瘤细胞之间</text><text x="112" y="430" font-size="22" fill="#334155">可能并不相同。</text>
+    <rect x="358" y="210" width="245" height="230" rx="18" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+    <text x="384" y="260" font-size="30" font-weight="800" fill="#102033">2. 选择</text>
+    <rect x="388" y="306" width="160" height="42" rx="21" fill="#f97316"/>
+    <text x="420" y="335" font-size="22" font-weight="800" fill="#ffffff">压力</text>
+    <text x="384" y="402" font-size="22" fill="#334155">缺氧、免疫攻击或治疗</text><text x="384" y="430" font-size="22" fill="#334155">会筛选幸存细胞。</text>
+    <rect x="630" y="210" width="245" height="230" rx="18" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+    <text x="656" y="260" font-size="30" font-weight="800" fill="#102033">3. 生态系统</text>
+    <circle cx="730" cy="332" r="58" fill="#c084fc"/><circle cx="664" cy="310" r="24" fill="#38bdf8"/><rect x="790" y="300" width="58" height="24" rx="12" fill="#ef4444"/>
+    <text x="656" y="402" font-size="22" fill="#334155">免疫、血管、基质</text><text x="656" y="430" font-size="22" fill="#334155">和信号塑造肿瘤。</text>
+    <rect x="902" y="210" width="210" height="230" rx="18" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+    <text x="928" y="260" font-size="30" font-weight="800" fill="#102033">4. 扩散</text>
+    <path d="M930 330 L975 330 L1020 330 L1065 330" stroke="#475569" stroke-width="5" fill="none"/>
+    <circle cx="930" cy="330" r="18" fill="#7c3aed"/><circle cx="975" cy="330" r="18" fill="#f97316"/><circle cx="1020" cy="330" r="18" fill="#94a3b8"/><circle cx="1065" cy="330" r="18" fill="#dc2626"/>
+    <text x="928" y="402" font-size="22" fill="#334155">转移需要许多</text><text x="928" y="430" font-size="22" fill="#334155">罕见成功步骤。</text>
+  </g>
+  <rect x="86" y="510" width="1026" height="138" rx="20" fill="#102033"/>
+  <text x="124" y="560" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" fill="#ffffff">核心信息</text>
+  <text x="124" y="604" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#dbeafe">控制癌症需要同时关注细胞、演化、生态系统、免疫逃逸和扩散。</text>
+  <text x="86" y="740" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#475569">降低风险不是保证。症状、诊断、治疗或个人风险问题应咨询临床专业人员。</text>
+  <text x="86" y="790" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#334155">依据：Hallmarks of Cancer 2011/2022；克隆演化；肿瘤微环境；转移定植综述。</text>
+</svg>

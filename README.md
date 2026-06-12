@@ -33,6 +33,13 @@ Companion mechanism visual:
 
 ![How cancer keeps adapting](visuals/cancer-keeps-adapting.svg)
 
+Localized companion mechanism variants:
+
+- [Spanish companion SVG](visuals/cancer-keeps-adapting.es.svg)
+- [German companion SVG](visuals/cancer-keeps-adapting.de.svg)
+- [Mandarin Chinese companion SVG](visuals/cancer-keeps-adapting.zh.svg)
+- [Russian companion SVG](visuals/cancer-keeps-adapting.ru.svg)
+
 Localized infographic variants:
 
 - [Spanish SVG](visuals/cancer-literacy-infographic.es.svg)

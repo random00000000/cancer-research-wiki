@@ -38,7 +38,7 @@ Last updated: 2026-06-12
 ## Visual Follow-Up
 
 - Produce a second infographic draft focused only on "how cancer grows."
-- Translate and visually QA the new companion infographic draft: `visuals/cancer-keeps-adapting.svg`.
+- Visually QA the new companion infographic draft and first localized variants: `visuals/cancer-keeps-adapting.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Produce a public-safe screening/vaccination decision visual.
 - Produce an agent-facing concept map linking hallmarks, risk factors, and prevention levers.
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.

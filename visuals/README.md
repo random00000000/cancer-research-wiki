@@ -39,3 +39,7 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 | Visual | Asset | Status |
 | --- | --- | --- |
 | How cancer keeps adapting | `cancer-keeps-adapting.svg` | First-pass English SVG |
+| How cancer keeps adapting - Spanish | `cancer-keeps-adapting.es.svg` | First localized SVG |
+| How cancer keeps adapting - German | `cancer-keeps-adapting.de.svg` | First localized SVG |
+| How cancer keeps adapting - Mandarin Chinese | `cancer-keeps-adapting.zh.svg` | First localized SVG |
+| How cancer keeps adapting - Russian | `cancer-keeps-adapting.ru.svg` | First localized SVG |

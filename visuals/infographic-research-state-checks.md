@@ -13,6 +13,13 @@ Current safety add-on visual: `visuals/cancer-claim-filter.svg`
 
 Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
+Current localized companion mechanism variants:
+
+- Spanish: `visuals/cancer-keeps-adapting.es.svg`
+- German: `visuals/cancer-keeps-adapting.de.svg`
+- Mandarin Chinese: `visuals/cancer-keeps-adapting.zh.svg`
+- Russian: `visuals/cancer-keeps-adapting.ru.svg`
+
 Current localized image variants:
 
 - Spanish: `visuals/cancer-literacy-infographic.es.svg`
@@ -39,6 +46,10 @@ New evidence page:
 New companion visual:
 
 - `visuals/cancer-keeps-adapting.svg`
+- `visuals/cancer-keeps-adapting.es.svg`
+- `visuals/cancer-keeps-adapting.de.svg`
+- `visuals/cancer-keeps-adapting.zh.svg`
+- `visuals/cancer-keeps-adapting.ru.svg`
 
 ### What Changed
 
@@ -59,7 +70,7 @@ Do not add the full mechanism map to the flagship image. The next visual should 
 
 ### Translation Impact
 
-The companion visual is English-only for now. Future work should translate it after the flagship localized set receives visual QA, because the mechanism wording is denser than the first public literacy image.
+First-pass companion translations now exist for Spanish, German, Mandarin Chinese, and Russian. Future work should visually QA these and expand to the remaining flagship languages only after checking text fit and translation safety.
 
 ## 2026-06-12 Check: Claim Filter Evidence Add-On
 

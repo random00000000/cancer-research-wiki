@@ -55,3 +55,15 @@ The English infographic is the canonical first-pass image. Localized SVG variant
 | Vietnamese | [cancer-literacy-infographic.vi.svg](../visuals/cancer-literacy-infographic.vi.svg) | First localized SVG |
 
 Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should visually QA each localized SVG and add new languages only when the translation safety guide can be followed.
+
+## Companion Mechanism Visual Variants
+
+The companion mechanism visual is a denser public explanation of cancer adaptation. It should be translated more slowly than the flagship image because the wording is more mechanistic.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [cancer-keeps-adapting.svg](../visuals/cancer-keeps-adapting.svg) | Canonical first-pass SVG |
+| Spanish | [cancer-keeps-adapting.es.svg](../visuals/cancer-keeps-adapting.es.svg) | First localized SVG |
+| German | [cancer-keeps-adapting.de.svg](../visuals/cancer-keeps-adapting.de.svg) | First localized SVG |
+| Mandarin Chinese | [cancer-keeps-adapting.zh.svg](../visuals/cancer-keeps-adapting.zh.svg) | First localized SVG |
+| Russian | [cancer-keeps-adapting.ru.svg](../visuals/cancer-keeps-adapting.ru.svg) | First localized SVG |

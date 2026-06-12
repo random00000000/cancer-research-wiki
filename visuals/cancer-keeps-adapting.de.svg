@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Wie Krebs sich weiter anpasst</title>
+  <desc id="desc">Deutsche Infografik zu Variation, Selektionsdruck, Tumorökosystem und Metastasierung.</desc>
+  <rect width="1200" height="900" fill="#f8fbff"/>
+  <rect x="48" y="42" width="1104" height="816" rx="24" fill="#ffffff" stroke="#d8e2ef" stroke-width="3"/>
+  <text x="86" y="112" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#102033">Wie Krebs sich weiter anpasst</text>
+  <text x="88" y="154" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">Nicht nur eine schlechte Zelle: ein Gewebesystem, das unter Druck evolviert.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="86" y="210" width="245" height="230" rx="18" fill="#fdf2f8" stroke="#be185d" stroke-width="2"/>
+    <text x="112" y="260" font-size="28" font-weight="800" fill="#102033">1. Variation</text>
+    <circle cx="150" cy="330" r="36" fill="#a855f7"/><circle cx="214" cy="318" r="28" fill="#f97316"/><circle cx="270" cy="354" r="32" fill="#0ea5e9"/>
+    <text x="112" y="402" font-size="20" fill="#334155">Tumorzellen können</text><text x="112" y="428" font-size="20" fill="#334155">sich unterscheiden.</text>
+    <rect x="358" y="210" width="245" height="230" rx="18" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+    <text x="384" y="260" font-size="28" font-weight="800" fill="#102033">2. Selektion</text>
+    <rect x="388" y="306" width="160" height="42" rx="21" fill="#f97316"/>
+    <text x="410" y="335" font-size="20" font-weight="800" fill="#ffffff">Druck</text>
+    <text x="384" y="402" font-size="20" fill="#334155">Sauerstoffmangel, Immunangriff</text><text x="384" y="428" font-size="20" fill="#334155">oder Therapie wählen Überlebende.</text>
+    <rect x="630" y="210" width="245" height="230" rx="18" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+    <text x="656" y="260" font-size="28" font-weight="800" fill="#102033">3. Ökosystem</text>
+    <circle cx="730" cy="332" r="58" fill="#c084fc"/><circle cx="664" cy="310" r="24" fill="#38bdf8"/><rect x="790" y="300" width="58" height="24" rx="12" fill="#ef4444"/>
+    <text x="656" y="402" font-size="20" fill="#334155">Immunsystem, Gefäße, Matrix</text><text x="656" y="428" font-size="20" fill="#334155">und Signale formen den Tumor.</text>
+    <rect x="902" y="210" width="210" height="230" rx="18" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+    <text x="928" y="260" font-size="28" font-weight="800" fill="#102033">4. Streuung</text>
+    <path d="M930 330 L975 330 L1020 330 L1065 330" stroke="#475569" stroke-width="5" fill="none"/>
+    <circle cx="930" cy="330" r="18" fill="#7c3aed"/><circle cx="975" cy="330" r="18" fill="#f97316"/><circle cx="1020" cy="330" r="18" fill="#94a3b8"/><circle cx="1065" cy="330" r="18" fill="#dc2626"/>
+    <text x="928" y="402" font-size="20" fill="#334155">Metastasierung braucht</text><text x="928" y="428" font-size="20" fill="#334155">viele seltene Erfolge.</text>
+  </g>
+  <rect x="86" y="510" width="1026" height="138" rx="20" fill="#102033"/>
+  <text x="124" y="560" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800" fill="#ffffff">Kernaussage</text>
+  <text x="124" y="604" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#dbeafe">Krebskontrolle muss Zellen, Evolution, Ökosystem, Immunflucht und Streuung beachten.</text>
+  <text x="86" y="740" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Risikosenkung ist keine Garantie. Bei Symptomen, Diagnose, Therapie oder persönlichem Risiko klinische Fachleute einbeziehen.</text>
+  <text x="86" y="790" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#334155">Basis: Hallmarks of Cancer 2011/2022; klonale Evolution; Tumormikroumgebung; Metastasen-Kolonisierung.</text>
+</svg>
