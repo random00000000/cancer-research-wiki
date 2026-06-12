@@ -14,4 +14,6 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 | --- | --- | --- |
 | English | `cancer-literacy-infographic.svg` | Canonical first-pass SVG |
 | Spanish | `cancer-literacy-infographic.es.svg` | First localized SVG |
+| German | `cancer-literacy-infographic.de.svg` | First localized SVG |
 | Mandarin Chinese | `cancer-literacy-infographic.zh.svg` | First localized SVG |
+| Russian | `cancer-literacy-infographic.ru.svg` | First localized SVG |

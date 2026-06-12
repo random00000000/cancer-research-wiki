@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">Рак: как клетки нарушают правила организма</title>
+  <desc id="desc">Инфографика на русском языке о том, как начинается и растет рак, и как снижать риск без обещания нулевого риска.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.52" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 43px Arial, Helvetica, sans-serif; fill: #102033; }
+      .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #31445c; }
+      .section { font: 800 29px Arial, Helvetica, sans-serif; fill: #102033; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, Helvetica, sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, Helvetica, sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, Helvetica, sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">Рак: клетки нарушают правила организма</text>
+    <text class="subtitle" x="2" y="92">Что такое рак, как он растет и как снижать риск без ложных обещаний.</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. Нормальная клетка</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/>
+    <circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">Здоровая ткань использует контроль:</text>
+    <text class="small" x="24" y="295">расти по сигналу, чинить повреждения</text>
+    <text class="small" x="24" y="322">и удалять опасные клетки.</text>
+  </g>
+
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. Изменения копятся</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/>
+    <circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">Воздействия, инфекции, возраст,</text>
+    <text class="small" x="24" y="295">наследственный риск и ошибки копирования</text>
+    <text class="small" x="24" y="322">могут менять инструкции клетки.</text>
+  </g>
+
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. Поведение рака</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/>
+    <circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">Клетки могут делиться слишком много,</text>
+    <text class="small" x="24" y="295">уходить от иммунного контроля,</text>
+    <text class="small" x="24" y="322">врастать и иногда распространяться.</text>
+  </g>
+
+  <path class="line" d="M380 405 H440"/>
+  <path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/>
+  <path class="line" d="M760 405 H820"/>
+  <path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">Базовый цикл</text>
+    <text class="body" x="30" y="88">Измененная клетка выживает, размножается, адаптируется и меняет ткань вокруг.</text>
+    <text class="body" x="30" y="126">Корень проблемы не один волшебный триггер: гены, иммунитет, обмен веществ, среда,</text>
+    <text class="body" x="30" y="164">возраст, инфекции и доступ к профилактике действуют вместе.</text>
+    <text class="small" x="30" y="213">Поэтому нужны профилактика, раннее выявление, биология и лучшие методы лечения.</text>
+  </g>
+
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">Снижение риска: меньше вероятность, не ноль</text>
+    <text class="body" x="0" y="36">Эти действия подтверждены доказательствами, но не гарантируют жизнь без рака.</text>
+
+    <g transform="translate(0 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Без табака</text>
+      <text class="small" x="22" y="78">Избегать дыма и поддерживать отказ.</text>
+    </g>
+    <g transform="translate(278 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Меньше алкоголя</text>
+      <text class="small" x="22" y="78">Меньше безопаснее; ноль избегает этого риска.</text>
+    </g>
+    <g transform="translate(556 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Двигаться</text>
+      <text class="small" x="22" y="78">Регулярная активность снижает ряд рисков.</text>
+    </g>
+    <g transform="translate(834 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Защита от UV</text>
+      <text class="small" x="22" y="78">Солнцезащита; без соляриев.</text>
+    </g>
+
+    <g transform="translate(0 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Вакцины</text>
+      <text class="small" x="22" y="78">HPV и гепатит B, когда уместно.</text>
+    </g>
+    <g transform="translate(278 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Скрининг</text>
+      <text class="small" x="22" y="78">По возрасту, риску и местным правилам.</text>
+    </g>
+    <g transform="translate(556 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Здоровый образ</text>
+      <text class="small" x="22" y="78">Растительная пища, цельные злаки, баланс.</text>
+    </g>
+    <g transform="translate(834 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Меньше воздействий</text>
+      <text class="small" x="22" y="78">Воздух, работа, радон и политика важны.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, Helvetica, sans-serif; fill: #ffffff;">Важно: профилактика не означает вину</text>
+    <text x="32" y="86" style="font: 400 20px Arial, Helvetica, sans-serif; fill: #e2e8f0;">Некоторые случаи рака возникают несмотря на отличные решения. Возраст, наследственные варианты,</text>
+    <text x="32" y="116" style="font: 400 20px Arial, Helvetica, sans-serif; fill: #e2e8f0;">инфекции, ошибки клеток, среда, доход, география и доступ к помощи тоже важны.</text>
+  </g>
+
+  <text class="tiny" x="60" y="1645">Основа: NCI, ACS, IARC/WHO, Hanahan/Weinberg, GBD, WCRF/AICR и страницы wiki. При симптомах, скрининге или личном риске обращайтесь к медицинскому специалисту.</text>
+</svg>

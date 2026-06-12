@@ -25,7 +25,7 @@ Cancer Research Wiki — это автоматизированная иссле�
 
 Текущая инфографика:
 
-![Рак: как клетки нарушают правила организма](../visuals/cancer-literacy-infographic.svg)
+![Рак: как клетки нарушают правила организма](../visuals/cancer-literacy-infographic.ru.svg)
 
 Переведенные подписи и альтернативный текст: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 

@@ -41,6 +41,8 @@ The English infographic is the canonical first-pass image. Localized SVG variant
 | --- | --- | --- |
 | English | [cancer-literacy-infographic.svg](../visuals/cancer-literacy-infographic.svg) | Canonical first-pass SVG |
 | Spanish | [cancer-literacy-infographic.es.svg](../visuals/cancer-literacy-infographic.es.svg) | First localized SVG |
+| German | [cancer-literacy-infographic.de.svg](../visuals/cancer-literacy-infographic.de.svg) | First localized SVG |
 | Mandarin Chinese | [cancer-literacy-infographic.zh.svg](../visuals/cancer-literacy-infographic.zh.svg) | First localized SVG |
+| Russian | [cancer-literacy-infographic.ru.svg](../visuals/cancer-literacy-infographic.ru.svg) | First localized SVG |
 
-Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add German, Russian, French, Portuguese, Arabic, Hindi, Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese image variants.
+Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add French, Portuguese, Arabic, Hindi, Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese image variants.

@@ -10,7 +10,9 @@ Research-state checks for whether new findings should change the infographic are
 Localized SVG variants currently available:
 
 - Spanish: `visuals/cancer-literacy-infographic.es.svg`
+- German: `visuals/cancer-literacy-infographic.de.svg`
 - Mandarin Chinese: `visuals/cancer-literacy-infographic.zh.svg`
+- Russian: `visuals/cancer-literacy-infographic.ru.svg`
 
 ## Canonical English
 

@@ -32,7 +32,9 @@ Current first-pass infographic:
 Localized infographic variants:
 
 - [Spanish SVG](visuals/cancer-literacy-infographic.es.svg)
+- [German SVG](visuals/cancer-literacy-infographic.de.svg)
 - [Mandarin Chinese SVG](visuals/cancer-literacy-infographic.zh.svg)
+- [Russian SVG](visuals/cancer-literacy-infographic.ru.svg)
 - [Translated captions and alt text](i18n/INFOGRAPHIC_CAPTIONS.md)
 
 Research backing:

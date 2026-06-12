@@ -25,7 +25,7 @@ Die Infografik soll erklären:
 
 Aktuelle Infografik:
 
-![Krebs: wie Zellen die Regeln des Körpers brechen](../visuals/cancer-literacy-infographic.svg)
+![Krebs: wie Zellen die Regeln des Körpers brechen](../visuals/cancer-literacy-infographic.de.svg)
 
 Übersetzte Bildbeschreibungen und Untertitel: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 
