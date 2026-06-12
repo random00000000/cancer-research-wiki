@@ -18,7 +18,7 @@ Cancer risk can often be lowered, not erased. Public guidance should distinguish
 | Lever | Public message | Evidence posture | Key source |
 | --- | --- | --- | --- |
 | Tobacco | Avoid tobacco and secondhand smoke; quitting lowers cancer risk. | High confidence. | CDC Tobacco and Cancer |
-| Alcohol | Less alcohol means lower cancer risk; no alcohol avoids alcohol-attributable cancer risk. | High confidence for several cancers. | NCI Alcohol and Cancer Risk |
+| Alcohol | Less alcohol means lower cancer risk; no alcohol avoids alcohol-attributable cancer risk. | High confidence for several cancers. | `prevention/alcohol-and-cancer-evidence.md` |
 | Activity | Regular physical activity is associated with lower risk for several cancers. | High confidence as a public-health recommendation. | ACS guideline; NCI Cancer Trends Progress Report |
 | Weight | Healthy weight where possible lowers risk for multiple cancers. | High confidence, but must avoid blame. | NCI Obesity Fact Sheet; ACS guideline |
 | Diet pattern | Favor healthy dietary patterns rich in plant foods and whole grains. | Moderate-to-high confidence as part of overall pattern. | ACS guideline |
@@ -28,6 +28,17 @@ Cancer risk can often be lowered, not erased. Public guidance should distinguish
 | Radon and exposures | Test homes for radon where relevant; reduce occupational/environmental carcinogen exposure. | High confidence for radon-lung cancer risk; exposure guidance is context-specific. | EPA Radon; IARC Monographs |
 
 ## Source Cards
+
+### Local: Alcohol And Cancer Evidence
+
+- URL: `prevention/alcohol-and-cancer-evidence.md`
+- Source type: local synthesis of peer-reviewed dose-response, burden, independent review, and mechanistic sources
+- Reusable claims:
+  - Alcohol is a cancer-risk lever for several cancer sites, especially oral/pharyngeal, esophageal squamous cell, laryngeal, breast, colorectal, and liver cancers.
+  - Ethanol metabolism to acetaldehyde provides a plain-language mechanism for DNA damage and genome instability.
+  - Public wording should be "less alcohol lowers risk" and "no alcohol avoids alcohol-attributable risk," while avoiding blame.
+- Caution:
+  - Use absolute risk only when a source provides a clear denominator, baseline population, and time horizon.
 
 ### CDC: Tobacco and Cancer
 

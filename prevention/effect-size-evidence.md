@@ -9,6 +9,8 @@ Before translating any number here into public advice, check `prevention/risk-co
 
 For denominator-friendly non-screening examples, see `prevention/non-screening-absolute-risk-examples.md`.
 
+For a focused alcohol synthesis with mechanism and source cards, see `prevention/alcohol-and-cancer-evidence.md`.
+
 ## How To Use These Numbers
 
 Use numbers when they make the infographic more honest and concrete. Do not use them to imply that cancer is fully controllable.
@@ -113,6 +115,7 @@ Suggested public text:
 ### Alcohol Dose-Response Meta-Analysis
 
 - URL: https://e-epih.org/journal/view.php?doi=10.4178%2Fepih.e2023092
+- Related local synthesis: `prevention/alcohol-and-cancer-evidence.md`
 - Source type: systematic review and meta-analysis
 - Reusable claims:
   - Alcohol showed a dose-response relationship with all-cancer risk.

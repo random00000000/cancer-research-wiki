@@ -12,7 +12,7 @@ Last updated: 2026-06-12
 ## Prevention Levers
 
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
-- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, screening harm, first-pass absolute screening tradeoffs, and first-pass non-screening absolute examples. Next priority: more HPV, HBV, alcohol, radon, and air pollution absolute examples.
+- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, screening harm, first-pass absolute screening tradeoffs, first-pass non-screening absolute examples, and focused alcohol mechanism/source synthesis. Next priority: more HPV, HBV, alcohol absolute denominators, radon, and air pollution absolute examples.
 - Add claim cards for misleading prevention claims, especially supplements, sugar, detoxes, alkaline diets, fasting, ketogenic diets, and "immune boosting."
 - Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal, cervical, breast, liver, stomach, lung, skin, and oral/oropharyngeal. Next: deepen each page with effect sizes, geographic modifiers, and dedicated mechanism/source cards.
 - CDC tobacco cessation and quitline resources.
@@ -21,6 +21,7 @@ Last updated: 2026-06-12
 - CDC sun safety and indoor tanning materials.
 - EPA radon testing and mitigation guidance.
 - Deepen `prevention/environmental-exposure-evidence.md` with environmental justice, diesel exhaust, silica, arsenic, chromium, nickel, cadmium, and beryllium.
+- Deepen `prevention/alcohol-and-cancer-evidence.md` with ALDH2/esophageal cancer evidence, tobacco-plus-alcohol interaction evidence, alcohol warning-label communication studies, and country-specific attributable burden tables.
 
 ## Infection-Related Cancer
 
