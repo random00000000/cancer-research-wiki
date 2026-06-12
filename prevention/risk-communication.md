@@ -48,6 +48,8 @@ Clearer:
 
 The numbers above are an illustrative communication pattern, not a universal screening estimate. Always tie numbers to a source and population before using them as evidence.
 
+Concrete screening benefit/harm examples are tracked in `prevention/screening-harms-and-tradeoffs.md`.
+
 ## Public Translation Patterns
 
 Use:
@@ -184,6 +186,6 @@ Before giving a number, include:
 
 ## Next Research Tasks
 
-- Add absolute-risk examples for breast, lung, colorectal, and cervical screening from modeling or trial evidence.
 - Add an icon-array visual template for 1000-person public explanations.
 - Add a short "how to read cancer headlines" page.
+- Add absolute-risk examples for non-screening prevention levers where sources give clean denominators.

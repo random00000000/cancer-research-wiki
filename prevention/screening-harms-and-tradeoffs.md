@@ -32,6 +32,18 @@ Cancer screening is useful when the benefits outweigh the harms for a defined gr
 | Cervical screening | USPSTF notes abnormal cervical screening and positive hrHPV results can cause psychological harms. | HPV-positive or abnormal results need calm explanation and follow-up, not panic. | HPV is common; many infections clear without becoming cancer. |
 | Cervical screening | Reviews warn about overdiagnosis, overtreatment, labelling, psychosocial harms, and treatment-related reproductive harms. | More screening is not always better. | Harms are reduced by appropriate intervals and avoiding overscreening. |
 
+## Absolute Benefit And Harm Examples
+
+These examples are for public risk communication and agent calibration. They are not personal screening recommendations. Use them to show why "screening saves lives" and "screening has harms" can both be true.
+
+| Scenario | Approximate benefit | Approximate harms / burden | Public translation | Caution |
+| --- | --- | --- | --- | --- |
+| Breast screening, modeled biennial DBT from age 40 to 74 versus no screening | 8.2 breast cancer deaths averted per 1000 women screened; 30.0% breast cancer mortality reduction. | 1376 false-positive recalls, 201 benign biopsies, and 14 overdiagnosed cases per 1000 women screened. | "For 1000 women like the modeled group, screening prevents some deaths but also causes many false alarms and some overdiagnosis." | Model used a US cohort born in 1980 and excludes the highest-risk groups; digital mammography had similar benefits but more false positives. |
+| Lung LDCT, selected 20 pack-year strategies in USPSTF modeling | 469 to 558 lung cancer deaths averted per 100,000 population; number needed to screen 42 to 45 per lung cancer death averted. | 1.9 to 2.5 false-positive results per screened person over lifetime screening; 83 to 94 overdiagnosed cases and 29.0 to 42.5 radiation-related lung cancer deaths per 100,000 population. | "LDCT helps when targeted to high-risk people, but the programme creates false positives, overdiagnosis, and radiation tradeoffs." | These are model estimates for policy strategies, not direct personal predictions. |
+| Colorectal screening, USPSTF recommended strategies from age 45 to 75 | 286 to 337 life-years gained, 42 to 61 colorectal cancer cases averted, and 24 to 28 colorectal cancer deaths averted per 1000 adults screened. | Modeled lifetime complications ranged roughly 10 to 16 per 1000 screened for common strategies, with 1.5 to 4.2 colonoscopies per person over the lifetime programme. | "Colorectal screening can prevent cancers and deaths, but follow-up colonoscopy burden and complications are part of the deal." | Assumes screening from ages 45 to 75 and high adherence; exact results differ by test strategy. |
+| Starting colorectal screening at 45 instead of 50 | 2 to 3 additional colorectal cancer cases averted, about 1 additional colorectal cancer death averted, and 22 to 27 additional life-years gained per 1000 adults. | Additional testing and colonoscopy burden compared with starting at 50. | "Starting earlier can add benefit, but the extra benefit is modest in absolute terms and comes with more testing." | Based on US modeling assumptions and average-risk population. |
+| Cervical screening modeled strategies | Guidelines-based strategies were associated with about 0.30 to 0.76 cervical cancer deaths per 1000 women, while primary hrHPV/cotesting strategies had about 0.23 to 0.29 deaths per 1000. | Primary hrHPV/cotesting strategies had slightly higher effectiveness but greater harms, including more tests/colposcopies. | "Cervical screening is powerful, but more intensive strategies can add harms for small mortality differences." | HPV vaccination status, screening history, age, and follow-up access change the picture. |
+
 ## What To Say In The Infographic
 
 Short public wording:
@@ -77,6 +89,16 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
 - Caution:
   - Overdiagnosis estimates varied widely; do not give a single precise number without context.
 
+### USPSTF Lung Screening Modeling Study
+
+- URL: https://www.uspreventiveservicestaskforce.org/home/getfilebytoken/TVsn4SVh_jtaeqSTyrz-Gp
+- Source type: modeling study
+- Reusable claims:
+  - Selected 20 pack-year LDCT screening strategies were estimated to avert lung cancer deaths with number needed to screen around 42 to 45 per lung cancer death averted.
+  - Modeled harms included false-positive results, biopsies, overdiagnosis, and radiation-related lung cancer deaths.
+- Caution:
+  - Modeling strategies are population-policy estimates; do not convert them into a personal screening instruction.
+
 ### LDCT Screening Harms Narrative Review
 
 - URL: https://ccts.amegroups.org/article/view/51427/html
@@ -95,6 +117,16 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
   - Harms include false positives, additional imaging, biopsies, overdiagnosis, and anxiety.
 - Caution:
   - USPSTF is US-focused and may differ from ACS, ACR, NCCN, or country-specific guidance.
+
+### USPSTF Breast Screening Modeling Study
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/document/modeling-study/breast-cancer-screening
+- Source type: modeling study
+- Reusable claims:
+  - Biennial DBT screening from ages 40 to 74 was modeled to avert breast cancer deaths and produce life-years gained.
+  - Harms included false-positive recalls, benign biopsies, and overdiagnosis.
+- Caution:
+  - Results depend on cohort assumptions, modality, screening interval, breast density, comorbidity, and inequities in treatment.
 
 ### NCI Breast Screening PDQ
 
@@ -116,6 +148,16 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
 - Caution:
   - Harms are procedure- and age-dependent.
 
+### USPSTF Colorectal Screening Modeling
+
+- URL: https://www.uspreventiveservicestaskforce.org/home/getfilebytoken/2Wc3FRHpVDPX2jT_WzjEXX
+- Source type: modeling study / recommendation evidence
+- Reusable claims:
+  - Recommended colorectal screening strategies from ages 45 to 75 were modeled to avert cases and deaths and gain life-years per 1000 adults screened.
+  - Earlier start at age 45 versus age 50 added a smaller absolute benefit with more testing burden.
+- Caution:
+  - Assumes average-risk populations and modeled adherence; individual history can change screening substantially.
+
 ### Severe Harms Due To Screening Colonoscopy
 
 - URL: https://www.jabfm.org/content/jabfp/early/2023/05/11/jabfm.2022.220320R2.full.pdf
@@ -135,6 +177,16 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
 - Caution:
   - Cervical screening guidance depends on age, cervix status, immunocompromise, prior results, and local guidance.
 
+### USPSTF Cervical Screening Modeling Study
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/document/modeling-study/cervical-cancer-screening
+- Source type: modeling study
+- Reusable claims:
+  - All modeled cervical screening strategies substantially reduced cancer cases and deaths compared with no screening.
+  - Primary hrHPV testing and cotesting strategies were slightly more effective but had greater harms than guideline-based cytology strategies.
+- Caution:
+  - HPV vaccination and current screening technologies may change future model assumptions.
+
 ### Consequences Of Cervical Cancer Screening
 
 - URL: https://link.springer.com/article/10.1186/s40359-018-0251-2
@@ -146,6 +198,6 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
 
 ## Next Research Tasks
 
-- Add absolute benefit/harm examples per 1000 people screened for breast, lung, colorectal, and cervical screening.
 - Compare USPSTF, ACS, NCCN, WHO, and Cancer Research UK screening communication.
 - Add a public "screening question checklist" visual.
+- Add overdiagnosis-specific source cards for mammography, LDCT, prostate screening boundary notes, and thyroid/whole-body scan caution.

@@ -56,6 +56,8 @@ Avoid:
 | Lung screening false positives | USPSTF evidence review: for every 1000 people screened in NLST, false-positive results led to 17 invasive procedures and fewer than 1 major complication. | Screening harms are real even when the test saves lives in the right group. | JAMA evidence review: https://jamanetwork.com/journals/jama/fullarticle/2777242 | "A positive screen is not a diagnosis." |
 | Colonoscopy harms | USPSTF colorectal evidence: screening colonoscopy harms included about 3.1 perforations and 14.6 major bleeding events per 10,000 procedures. | Preventive procedures can still cause harm. | USPSTF/JAMA: https://jamanetwork.com/journals/jama/fullarticle/2779985 | "Screening needs benefit-harm balance." |
 | Mammography false positives | NCI PDQ: about 50% of women screened annually for 10 years in the US experience a false-positive exam; 7%-17% of those undergo biopsies. | Repeated screening can produce false alarms and biopsies. | NCI PDQ: https://www.cancer.gov/types/breast/hp/breast-screening-pdq | "False alarms are part of screening." |
+| Breast screening modeled tradeoff | Biennial DBT screening ages 40-74: 8.2 breast cancer deaths averted, 1376 false-positive recalls, 201 benign biopsies, and 14 overdiagnosed cases per 1000 women screened. | Screening benefit and harm should be shown together. | USPSTF modeling: https://www.uspreventiveservicestaskforce.org/uspstf/document/modeling-study/breast-cancer-screening | "Deaths averted and false alarms both matter." |
+| Colorectal screening modeled tradeoff | USPSTF recommended strategies ages 45-75: 42-61 colorectal cancer cases and 24-28 deaths averted per 1000 adults screened; common strategies had roughly 10-16 lifetime complications per 1000 screened. | Colorectal screening can prevent cancer and death, with colonoscopy burden and complications. | USPSTF/JAMA: https://jamanetwork.com/journals/jama/fullarticle/2779985 | "Cancer prevention can require follow-up procedures." |
 
 ## What These Numbers Do Not Prove
 
@@ -242,6 +244,6 @@ Suggested public text:
 
 ## Next Research Tasks
 
-- Add per-cancer absolute-risk examples where the source provides clean absolute numbers.
 - Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
 - Add effect-size cards for screening overdiagnosis and absolute-risk examples.
+- Add source-backed absolute-risk examples for non-screening prevention levers.
