@@ -13,7 +13,7 @@ Last updated: 2026-06-12
 
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
 - Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, screening harm, first-pass absolute screening tradeoffs, first-pass non-screening absolute examples, and focused alcohol mechanism/source synthesis. Next priority: more HPV, HBV, alcohol absolute denominators, radon, and air pollution absolute examples.
-- Deepen claim cards for misleading prevention and treatment claims. Started: supplements, sugar, detoxes, alkaline diets, high-dose vitamin C, cannabis, ivermectin/fenbendazole, fasting, and ketogenic diets. Next: "immune boosting," oxygen therapies, turmeric/curcumin, apricot kernels/laetrile, and headline-reading examples.
+- Deepen claim cards for misleading prevention and treatment claims. Started: supplements, sugar, detoxes, alkaline diets, high-dose vitamin C, cannabis, ivermectin/fenbendazole, fasting, ketogenic diets, and headline-reading examples. Next: "immune boosting," oxygen therapies, turmeric/curcumin, apricot kernels/laetrile, and translated headline examples.
 - Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal, cervical, breast, liver, stomach, lung, skin, and oral/oropharyngeal. Next: deepen each page with effect sizes, geographic modifiers, and dedicated mechanism/source cards.
 - CDC tobacco cessation and quitline resources.
 - CDC physical activity and cancer prevention pages.

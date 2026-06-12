@@ -9,6 +9,7 @@ Use this with:
 
 - `sources/claim-evaluation-framework.md`
 - `prevention/misleading-prevention-claims.md`
+- `prevention/how-to-read-cancer-headlines.md`
 - `visuals/cancer-claim-filter.svg`
 
 ## Public Rule

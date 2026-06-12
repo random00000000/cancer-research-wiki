@@ -83,6 +83,7 @@ Research backing:
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
 - [Cancer claim filter](prevention/cancer-claim-filter.md)
+- [How to read cancer headlines](prevention/how-to-read-cancer-headlines.md)
 - [Screening public guidance](prevention/screening-public-guidance.md)
 - [Screening harms and tradeoffs](prevention/screening-harms-and-tradeoffs.md)
 - [How cancer grows](concepts/how-cancer-grows.md)

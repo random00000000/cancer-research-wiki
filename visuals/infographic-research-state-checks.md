@@ -22,6 +22,22 @@ Current localized companion mechanism variants:
 
 Current visual QA log: `visuals/visual-qa-log.md`
 
+## 2026-06-12 Check: Cancer Headline Reading Guide
+
+New evidence page:
+
+- `prevention/how-to-read-cancer-headlines.md`
+
+### What Changed
+
+- The wiki now has a public and agent-facing guide for interpreting cancer "breakthrough" stories, viral protocols, clinical-trial headlines, and early research claims.
+- The guide adds an evidence ladder, red-flag headline patterns, safer question rewrites, and source cards on health-news exaggeration and cancer misinformation.
+- This supports the claim-filter visual without overcrowding the flagship cancer literacy infographic.
+
+### Decision For The Flagship Infographic
+
+Do not add headline-reading rules to the flagship infographic. Keep the flagship image focused on what cancer is and how risk can be reduced, and keep headline evaluation in the claim-filter/headline-reading companion material.
+
 ## 2026-06-12 Check: Visual QA Baseline
 
 New QA page:
