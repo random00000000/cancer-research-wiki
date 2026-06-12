@@ -96,6 +96,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Metabolic health, movement, and food pattern - German | `metabolic-health-cancer-prevention.de.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Mandarin Chinese | `metabolic-health-cancer-prevention.zh.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Russian | `metabolic-health-cancer-prevention.ru.svg` | First localized SVG; native review needed |
+| Body fatness, metabolic signaling, and cancer sites | `body-fatness-metabolic-cancer-sites.svg` | First-pass English SVG |
+| Body fatness, metabolic signaling, and cancer sites - Spanish | `body-fatness-metabolic-cancer-sites.es.svg` | First localized SVG; native review needed |
+| Body fatness, metabolic signaling, and cancer sites - German | `body-fatness-metabolic-cancer-sites.de.svg` | First localized SVG; native review needed |
+| Body fatness, metabolic signaling, and cancer sites - Mandarin Chinese | `body-fatness-metabolic-cancer-sites.zh.svg` | First localized SVG; native review needed |
+| Body fatness, metabolic signaling, and cancer sites - Russian | `body-fatness-metabolic-cancer-sites.ru.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention | `colorectal-food-pattern-prevention.svg` | First-pass English SVG |
 | Colorectal food pattern prevention - Spanish | `colorectal-food-pattern-prevention.es.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention - German | `colorectal-food-pattern-prevention.de.svg` | First localized SVG; native review needed |

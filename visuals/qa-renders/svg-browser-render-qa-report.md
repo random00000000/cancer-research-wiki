@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 101
-Nonblank renders: 101
+SVG files rendered: 106
+Nonblank renders: 106
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -40,6 +40,11 @@ Blank or near-blank renders: 0
 | `alcohol-aldh2-tobacco-risk.ru.svg` | 1500x980 | True | 37.43 |
 | `alcohol-aldh2-tobacco-risk.svg` | 1500x980 | True | 37.96 |
 | `alcohol-aldh2-tobacco-risk.zh.svg` | 1500x980 | True | 37.82 |
+| `body-fatness-metabolic-cancer-sites.de.svg` | 1500x980 | True | 38.60 |
+| `body-fatness-metabolic-cancer-sites.es.svg` | 1500x980 | True | 38.12 |
+| `body-fatness-metabolic-cancer-sites.ru.svg` | 1500x980 | True | 38.15 |
+| `body-fatness-metabolic-cancer-sites.svg` | 1500x980 | True | 38.50 |
+| `body-fatness-metabolic-cancer-sites.zh.svg` | 1500x980 | True | 37.46 |
 | `cancer-claim-filter.de.svg` | 1200x760 | True | 37.02 |
 | `cancer-claim-filter.es.svg` | 1200x760 | True | 37.48 |
 | `cancer-claim-filter.ru.svg` | 1200x760 | True | 36.55 |

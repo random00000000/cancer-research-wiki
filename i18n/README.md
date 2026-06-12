@@ -188,6 +188,18 @@ This public visual explains movement, food pattern, body fatness, metabolic sign
 | Mandarin Chinese | [metabolic-health-cancer-prevention.zh.svg](../visuals/metabolic-health-cancer-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [metabolic-health-cancer-prevention.ru.svg](../visuals/metabolic-health-cancer-prevention.ru.svg) | First localized SVG; native review needed |
 
+## Body Fatness Metabolic Cancer-Site Visual Variants
+
+This public visual explains body fatness and metabolic signaling as site-specific cancer-risk biology while avoiding body shame. These translations should receive native review because weight, disability, eating-disorder, body-size, and stigma language varies by country and culture.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [body-fatness-metabolic-cancer-sites.svg](../visuals/body-fatness-metabolic-cancer-sites.svg) | Canonical first-pass SVG |
+| Spanish | [body-fatness-metabolic-cancer-sites.es.svg](../visuals/body-fatness-metabolic-cancer-sites.es.svg) | First localized SVG; native review needed |
+| German | [body-fatness-metabolic-cancer-sites.de.svg](../visuals/body-fatness-metabolic-cancer-sites.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [body-fatness-metabolic-cancer-sites.zh.svg](../visuals/body-fatness-metabolic-cancer-sites.zh.svg) | First localized SVG; native review needed |
+| Russian | [body-fatness-metabolic-cancer-sites.ru.svg](../visuals/body-fatness-metabolic-cancer-sites.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

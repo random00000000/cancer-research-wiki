@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Koerperfett und Stoffwechsel beeinflussen Krebsrisiko</title>
+  <desc id="desc">Oeffentliche Infografik zu Koerperfett, Stoffwechselsignalen, krebsartspezifischem Risiko, Zugangssystemen und Grenzen ohne Stigma.</desc>
+  <rect width="1500" height="980" fill="#f8fbf7"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#102033">Koerperfett und Stoffwechsel beeinflussen Krebsrisiko</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Stoffwechselgesundheit ist Biologie plus Umgebung, kein moralischer Wert.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e7f5f2" stroke="#1f6f6b" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#1f6f6b"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="354" font-family="Arial" font-size="28" font-weight="800" fill="#102033">Signal je Krebsart</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Staerkere Links betreffen</text><text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">Endometrium, Niere, Leber,</text><text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">Darm, Pankreas, Brust.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Krebsart-Karten nutzen;</text><text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">nicht alles vermischen.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff2d9" stroke="#b46b13" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b46b13"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="354" font-family="Arial" font-size="27" font-weight="800" fill="#102033">Mechanismen zaehlen</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Insulin/IGF, Hormone,</text><text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">Entzuendung, Adipokine</text><text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">und Fettleber koennen wirken.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Stoffwechsel stuetzen;</text><text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">keine Wunder versprechen.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#fde8e8" stroke="#b93636" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#b93636"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="354" font-family="Arial" font-size="27" font-weight="800" fill="#102033">BMI ist nicht Person</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">BMI ist grob. Koerperbau,</text><text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">Krankheit, Alter und</text><text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">Zugang aendern den Kontext.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Risiko demuetig messen;</text><text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">Koerper nie beschaemen.</text>
+  <rect x="92" y="655" width="625" height="160" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">Systeme zaehlen</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Essen, Bewegung, Schlaf, Medikamente, Behinderung,</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">Stress, Armut, Arbeit und Versorgung praegen Risiko.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#ffdf61" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Sicherheitsgrenze</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Gewicht ersetzt keine Diagnose, Tests oder Therapie.</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">Symptome, Essstoerungen, Diabetes, Schwangerschaft</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">oder Krebsbehandlung brauchen klinische Hilfe.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Evidenz: BMJ Umbrella Review; IARC Bewertung; WCRF/AICR; Mendelsche-Randomisierungsstudien.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Erste Uebersetzung: vor endgueltiger medizinischer Nutzung native Pruefung erforderlich.</text>
+</svg>

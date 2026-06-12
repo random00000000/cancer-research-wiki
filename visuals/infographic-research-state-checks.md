@@ -36,6 +36,8 @@ Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-can
 
 Current metabolic health, movement, and food pattern visual: `visuals/metabolic-health-cancer-prevention.svg`
 
+Current body fatness, metabolic signaling, and cancer-site visual: `visuals/body-fatness-metabolic-cancer-sites.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -122,6 +124,13 @@ Current localized metabolic health variants:
 - Mandarin Chinese: `visuals/metabolic-health-cancer-prevention.zh.svg`
 - Russian: `visuals/metabolic-health-cancer-prevention.ru.svg`
 
+Current localized body-fatness/metabolic variants:
+
+- Spanish: `visuals/body-fatness-metabolic-cancer-sites.es.svg`
+- German: `visuals/body-fatness-metabolic-cancer-sites.de.svg`
+- Mandarin Chinese: `visuals/body-fatness-metabolic-cancer-sites.zh.svg`
+- Russian: `visuals/body-fatness-metabolic-cancer-sites.ru.svg`
+
 Current localized colorectal food-pattern variants:
 
 - Spanish: `visuals/colorectal-food-pattern-prevention.es.svg`
@@ -185,7 +194,7 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 101 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 106 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -193,6 +202,7 @@ New QA artifacts:
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
+- The body-fatness/metabolic cancer-site visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
@@ -348,6 +358,35 @@ Keep the flagship infographic's food-pattern line short. Use the UPF companion w
 ### Translation Impact
 
 Keep localized ultra-processed-food visuals under native review before promotion. Food-processing categories, shopping constraints, stigma-sensitive diet wording, and examples of affordable staples vary by country and language.
+
+## 2026-06-12 Check: Body Fatness Metabolic Cancer-Site Visual
+
+Evidence page:
+
+- `prevention/body-fatness-metabolic-cancer-sites-evidence.md`
+
+New visual:
+
+- `visuals/body-fatness-metabolic-cancer-sites.svg`
+- `visuals/body-fatness-metabolic-cancer-sites.es.svg`
+- `visuals/body-fatness-metabolic-cancer-sites.de.svg`
+- `visuals/body-fatness-metabolic-cancer-sites.zh.svg`
+- `visuals/body-fatness-metabolic-cancer-sites.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining body fatness and metabolic signaling as site-specific cancer-risk biology, not as body blame.
+- The synthesis uses non-CDC-heavy evidence: BMJ adiposity umbrella review, IARC/NEJM body-fatness evaluation, WCRF/AICR evidence review, and Mendelian-randomization mechanism evidence.
+- The visual separates cancer-site strength, mechanism, BMI limitations, systems access, and safety boundaries.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's metabolic-health line short. Use the body-fatness companion when readers need the nuance: body fatness can affect hormone, insulin, inflammation, adipokine, fatty-liver, and tissue-stress signals, but prevention must be systems-based and non-stigmatizing.
+
+### Translation Impact
+
+Keep localized body-fatness/metabolic visuals under native review before promotion. Weight, disability, eating-disorder, body-size, pregnancy, diabetes, and stigma-sensitive wording vary by country and language.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 

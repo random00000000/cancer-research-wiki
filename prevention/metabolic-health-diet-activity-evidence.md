@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/metabolic-health-cancer-prevention.svg`
 - First localized visual variants: `visuals/metabolic-health-cancer-prevention.es.svg`, `visuals/metabolic-health-cancer-prevention.de.svg`, `visuals/metabolic-health-cancer-prevention.zh.svg`, and `visuals/metabolic-health-cancer-prevention.ru.svg`
+- Focused body-fatness/metabolic cancer-site companion: `visuals/body-fatness-metabolic-cancer-sites.svg` plus `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 - Focused colorectal food-pattern companion: `visuals/colorectal-food-pattern-prevention.svg` plus `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 - Focused ultra-processed-food pattern companion: `visuals/ultra-processed-foods-cancer-risk.svg` plus `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
@@ -131,12 +132,13 @@ The flagship infographic should keep this as a broad lever: movement, healthy fo
 - Body fatness can affect hormones, insulin/IGF, inflammation, adipokines, and tissue ecology.
 - Systems matter: safe streets, time, food access, disability support, sleep, work, stress, medication effects, and poverty.
 - Risk reduction is not personal blame.
+- Use `prevention/body-fatness-metabolic-cancer-sites-evidence.md` and `visuals/body-fatness-metabolic-cancer-sites.svg` for site-specific body-fatness and metabolic-signaling nuance without body shame.
 - Use `prevention/colorectal-food-pattern-evidence.md` and `visuals/colorectal-food-pattern-prevention.svg` for colorectal-specific fiber, whole-grain, processed-meat, screening, and symptom-safety nuance.
 - Use `prevention/ultra-processed-foods-cancer-evidence.md` and `visuals/ultra-processed-foods-cancer-risk.svg` for UPF-specific pattern-warning nuance without turning processing into a purity rule.
 
 ## Next Research Tasks
 
 - Deepen the new colorectal-specific fiber/whole-grain/process-meat page with absolute-risk examples and country-specific food-access examples.
-- Add a body-weight and cancer-site map with WCRF/IARC/ACS comparisons.
+- Deepen the new body-fatness cancer-site map with site-specific effect sizes, intervention evidence, and early-life body-size evidence.
 - Add physical activity intervention and survivorship evidence separately from prevention evidence.
 - Deepen the ultra-processed-food page with subgroup-specific source cards, additive-specific evidence, and region-sensitive affordable swap examples.
