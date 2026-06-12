@@ -17,6 +17,18 @@ Some cancers are caused or promoted by infections. This does not mean cancer is 
 - H. pylori detection and eradication can reduce gastric cancer risk in appropriate populations.
 - Cervical screening still matters even in vaccinated populations until local guidance says otherwise.
 
+## Effect-Size Anchors
+
+These numbers are for agent retrieval and infographic calibration. They should be translated into public language carefully.
+
+| Prevention lever | Effect-size anchor | Public translation | Caution |
+| --- | --- | --- | --- |
+| HPV vaccination before exposure | Swedish cohort: adjusted incidence rate ratio 0.12 for invasive cervical cancer when vaccination began before age 17 compared with unvaccinated women. | Vaccinating early can sharply reduce future cervical cancer risk. | Screening and follow-up still matter; effects differ by programme and cohort. |
+| HPV vaccination programme impact | England programme: large cervical cancer and CIN3 reductions, strongest in girls offered vaccination at ages 12-13. | High-coverage vaccination can move a country toward cervical cancer elimination. | Requires coverage, equity, screening, and long follow-up. |
+| Hepatitis B infant vaccination | Taiwan: age- and sex-adjusted relative risk 0.31 for HCC among people vaccinated at birth versus unvaccinated cohorts ages 6-19. | HBV vaccination is liver cancer prevention. | Birth dose, series completion, maternal viral status, and immunoglobulin access affect protection. |
+| Hepatitis C cure | Large VA cohort: direct-acting antiviral sustained virological response had adjusted hazard ratio 0.29 for HCC versus no SVR. | Cure HCV before liver damage becomes advanced. | Cure lowers but does not erase HCC risk in cirrhosis. |
+| H. pylori eradication | 2025 meta-analysis: gastric cancer RR 0.61 after eradication in infected individuals, with NNT 332 in the pooled estimate. | In the right population, finding and treating H. pylori can prevent stomach cancer. | Best strategy depends on regional gastric cancer risk and antibiotic resistance. |
+
 ## Source Cards
 
 ### de Martel et al.: Global Burden of Cancer Attributable to Infections in 2018
@@ -47,6 +59,7 @@ Some cancers are caused or promoted by infections. This does not mean cancer is 
 ### Lancet / UK HPV Vaccination Impact
 
 - URL: https://pubmed.ncbi.nlm.nih.gov/38247547/
+- Earlier programme paper: https://pubmed.ncbi.nlm.nih.gov/34741816/
 - Source type: population-level vaccine effectiveness study
 - Reusable claims:
   - Findings support that HPV vaccination prevents invasive cervical cancer.
@@ -54,9 +67,30 @@ Some cancers are caused or promoted by infections. This does not mean cancer is 
 - Caution:
   - Dose schedules and program implementation differ across countries.
 
+### Taiwan HBV Vaccination And Hepatocellular Carcinoma
+
+- URL: https://academic.oup.com/jnci/article/101/19/1348/1074629
+- Source type: population-based programme evaluation
+- Reusable claims:
+  - Taiwan's universal infant HBV vaccination programme was associated with lower HCC incidence in vaccinated birth cohorts.
+  - Prevention failures clustered around incomplete vaccination and high-risk maternal HBV status.
+- Caution:
+  - HBV cancer prevention needs perinatal prevention systems, not vaccine availability alone.
+
+### HCV Cure And Hepatocellular Carcinoma Risk
+
+- URL: https://www.natap.org/2017/HCV/PIIS0168827817322730N2.pdf
+- Source type: large retrospective cohort
+- Reusable claims:
+  - Sustained virological response after HCV antiviral treatment was associated with substantially lower HCC risk.
+  - Direct-acting antiviral treatment was not associated with increased HCC risk compared with interferon regimens in this analysis.
+- Caution:
+  - Patients with cirrhosis can remain at risk after HCV cure and may need ongoing surveillance.
+
 ### H. pylori Eradication and Gastric Cancer Prevention
 
 - URL: https://pubmed.ncbi.nlm.nih.gov/39824392/
+- Additional meta-analysis: https://pubmed.ncbi.nlm.nih.gov/40259215/
 - Source type: systematic review / meta-analysis
 - Reusable claims:
   - Eradication therapy in H. pylori-positive individuals provides evidence for reducing gastric cancer incidence.

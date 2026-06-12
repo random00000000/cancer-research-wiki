@@ -38,6 +38,11 @@ Avoid:
 | Physical activity | Recommended leisure-time activity levels, 7.5-15 MET-hours/week, were associated with significantly lower risk of 7 of 15 cancer types in a pooled study. | Activity is a broad, non-drug prevention lever, though magnitude differs by cancer site. | JCO 2020: https://ascopubs.org/doi/10.1200/JCO.19.02407 | "Move more where possible; even systems that make movement easier are cancer prevention." |
 | UV and indoor tanning | Reviews and meta-analyses consistently associate indoor tanning with increased melanoma and nonmelanoma skin cancer risk. | Avoiding tanning beds is a clear, practical skin cancer lever. | Indoor tanning review: https://pmc.ncbi.nlm.nih.gov/articles/PMC9689757/ | "No tanning bed is a cancer-prevention tool." |
 | Sunscreen | Trial and follow-up evidence supports sunscreen as part of skin cancer prevention, with clearer evidence for squamous cell carcinoma and supportive evidence for melanoma. | Sunscreen helps, but layered sun protection is better public advice. | Sunscreen review: https://pmc.ncbi.nlm.nih.gov/articles/PMC7759112/ | "Shade, clothing, hats, sunglasses, and sunscreen work together." |
+| HPV vaccination and cervical cancer | A Swedish registry cohort found adjusted incidence rate ratio 0.37 for vaccinated versus unvaccinated women, and 0.12 for vaccination before age 17. | HPV vaccination is one of the clearest examples of primary cancer prevention, with stronger benefit before exposure. | NEJM 2020: https://pubmed.ncbi.nlm.nih.gov/32997908/ | "HPV vaccination is cancer prevention, especially before exposure." |
+| HPV vaccination in England | The England programme was associated with large reductions in cervical cancer and CIN3, with the strongest effects in cohorts offered vaccination at ages 12-13. | Real-world programme effects depend on uptake, age at vaccination, screening, and follow-up time. | Lancet 2021: https://pubmed.ncbi.nlm.nih.gov/34741816/ | "Vaccination plus screening can push cervical cancer toward elimination." |
+| Hepatitis B vaccination and liver cancer | Taiwan's universal infant HBV vaccine programme found age- and sex-adjusted relative risk 0.31 for hepatocellular carcinoma among persons vaccinated at birth versus unvaccinated cohorts ages 6-19. | HBV vaccination can reduce liver cancer risk, but perinatal infection risk and incomplete vaccination still matter. | JNCI 2009: https://academic.oup.com/jnci/article/101/19/1348/1074629 | "Hepatitis B vaccination helps prevent liver cancer." |
+| Hepatitis C cure and liver cancer | In a large VA cohort, sustained virological response after antiviral therapy was associated with lower HCC risk; DAA-induced SVR adjusted hazard ratio 0.29. | HCV cure reduces but does not erase HCC risk, especially after cirrhosis has developed. | Journal of Hepatology 2018: https://www.natap.org/2017/HCV/PIIS0168827817322730N2.pdf | "Find and cure hepatitis C before liver damage locks in risk." |
+| H. pylori eradication and gastric cancer | A 2025 meta-analysis reported gastric cancer risk reduction after H. pylori eradication in infected people, with RR 0.61 and NNT 332 in the pooled analysis. | Benefit depends on baseline gastric cancer risk, age, precancerous changes, antibiotic resistance, and reinfection risk. | BMC Gastroenterology 2025: https://pubmed.ncbi.nlm.nih.gov/40259215/ | "In the right population, finding and treating H. pylori can prevent stomach cancer." |
 
 ## What These Numbers Do Not Prove
 
@@ -116,9 +121,58 @@ Suggested public text:
 - Caution:
   - Activity is correlated with other health and socioeconomic factors; communicate as risk reduction, not immunity.
 
+### NEJM HPV Vaccination And Invasive Cervical Cancer
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/32997908/
+- Source type: population-based cohort
+- Reusable claims:
+  - HPV vaccination was associated with substantially lower invasive cervical cancer risk.
+  - Vaccination before age 17 had the strongest observed association.
+- Caution:
+  - Do not use HPV vaccination as a substitute for indicated cervical screening.
+
+### England HPV Vaccination Programme
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/34741816/
+- Source type: population-level programme evaluation
+- Reusable claims:
+  - HPV immunisation in England was associated with large reductions in cervical cancer and CIN3 among young women, especially when offered at ages 12-13.
+- Caution:
+  - Programme results depend on coverage, vaccine type, age cohorts, screening, and follow-up duration.
+
+### Taiwan Hepatitis B Vaccination And HCC
+
+- URL: https://academic.oup.com/jnci/article/101/19/1348/1074629
+- Source type: population-based cohort/programme evaluation
+- Reusable claims:
+  - Infant HBV vaccination was associated with lower hepatocellular carcinoma incidence in vaccinated birth cohorts.
+  - Incomplete vaccination and maternal HBV infectiousness remained important failure points.
+- Caution:
+  - HBV prevention includes birth-dose timing, completion, maternal testing, and hepatitis B immunoglobulin where indicated.
+
+### HCV Sustained Virological Response And HCC
+
+- URL: https://www.natap.org/2017/HCV/PIIS0168827817322730N2.pdf
+- Source type: large retrospective cohort
+- Reusable claims:
+  - HCV eradication after antiviral therapy was associated with substantially lower hepatocellular carcinoma risk.
+  - Risk reduction was seen with direct-acting antiviral-induced sustained virological response.
+- Caution:
+  - People with cirrhosis can remain at elevated HCC risk after cure and may still need surveillance.
+
+### H. pylori Eradication Meta-Analysis
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/40259215/
+- Source type: systematic review and meta-analysis
+- Reusable claims:
+  - H. pylori eradication in infected people was associated with lower gastric cancer risk.
+  - The prevention strategy is most compelling where gastric cancer incidence and H. pylori prevalence are high.
+- Caution:
+  - Screen-and-treat programmes must account for local antibiotic resistance, test accuracy, reinfection, and adverse effects.
+
 ## Next Research Tasks
 
 - Add per-cancer absolute-risk examples where the source provides clean absolute numbers.
 - Add "relative risk versus absolute risk" explainer for the wiki.
 - Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
-- Add effect-size cards for HPV vaccination, hepatitis B vaccination, H. pylori eradication, radon, asbestos, air pollution, and screening mortality effects.
+- Add effect-size cards for radon, asbestos, air pollution, and screening mortality effects.
