@@ -14,6 +14,7 @@ Related pages:
 
 - `prevention/circadian-sleep-light-cancer-evidence.md`
 - `prevention/night-shift-work-systems-cancer-prevention.md`
+- `prevention/night-shift-sleep-disorder-clinical-support.md`
 
 ## Plain-Language Summary
 
@@ -133,3 +134,4 @@ The public hierarchy should be:
 - Add occupation-specific pages for healthcare, trucking, emergency work, factory work, warehouse work, security, and hospitality.
 - Add practical fatigue-countermeasure evidence for naps, caffeine timing, light exposure, commute duration, and ride programs.
 - Add equity notes for workers who cannot afford rideshare, live far from work, lack transit, or fear punishment for reporting fatigue.
+- Use `prevention/night-shift-sleep-disorder-clinical-support.md` for sleep apnea, severe insomnia, medication, pregnancy, mental-health, and Shift Work Disorder boundaries.

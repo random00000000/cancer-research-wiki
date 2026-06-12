@@ -10,6 +10,7 @@ Companion visual:
 - `visuals/night-shift-worker-protection-cancer.svg`
 - First localized visual variants: `visuals/night-shift-worker-protection-cancer.es.svg`, `visuals/night-shift-worker-protection-cancer.de.svg`, `visuals/night-shift-worker-protection-cancer.zh.svg`, and `visuals/night-shift-worker-protection-cancer.ru.svg`
 - Commute safety follow-up: `visuals/night-shift-drowsy-driving-safety.svg` and `prevention/night-shift-drowsy-driving-injury-safety.md`
+- Sleep-disorder support follow-up: `visuals/night-shift-sleep-disorder-support.svg` and `prevention/night-shift-sleep-disorder-clinical-support.md`
 
 Related page:
 
@@ -134,4 +135,4 @@ Do not promote a single "perfect" schedule. Use the evidence as a design checkli
 - Add occupation-specific notes for nurses, emergency workers, factory workers, drivers, warehouse workers, hospitality workers, caregivers, and security workers.
 - Deepen drowsy-driving and workplace-injury evidence beyond the first safety page: newer transport-injury reviews, shift-specific crash data, commute length, transit access, and non-punitive fatigue reporting.
 - Add a practical light-timing page that separates alertness, circadian adaptation, post-shift sleep, and cancer uncertainty.
-- Add labor-policy and equity source cards on predictable scheduling, staffing levels, childcare, and worker voice.
+- Add labor-policy and equity source cards on predictable scheduling, staffing levels, childcare, sleep-health referral access, and worker voice.

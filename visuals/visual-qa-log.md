@@ -178,7 +178,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 136 SVG files in `visuals/`.
+- All 141 SVG files in `visuals/`.
 
 Tooling:
 
@@ -203,8 +203,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 136 SVG files at their declared canvas sizes.
-- All 136 renders were nonblank.
+- Headless Chrome rendered all 141 SVG files at their declared canvas sizes.
+- All 141 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -223,6 +223,7 @@ Result:
 - The circadian/sleep/light-at-night visual set was included in the latest render pass; English, German, and Russian full-size previews were inspected before commit.
 - The night-shift worker protection visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 - The night-shift drowsy-driving safety visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
+- The night-shift sleep-disorder support visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 
 Repository note:
 

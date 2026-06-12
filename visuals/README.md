@@ -131,6 +131,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Night shift drowsy-driving safety - German | `night-shift-drowsy-driving-safety.de.svg` | First localized SVG; native review needed |
 | Night shift drowsy-driving safety - Mandarin Chinese | `night-shift-drowsy-driving-safety.zh.svg` | First localized SVG; native review needed |
 | Night shift drowsy-driving safety - Russian | `night-shift-drowsy-driving-safety.ru.svg` | First localized SVG; native review needed |
+| Night shift sleep-disorder support | `night-shift-sleep-disorder-support.svg` | First-pass English SVG |
+| Night shift sleep-disorder support - Spanish | `night-shift-sleep-disorder-support.es.svg` | First localized SVG; native review needed |
+| Night shift sleep-disorder support - German | `night-shift-sleep-disorder-support.de.svg` | First localized SVG; native review needed |
+| Night shift sleep-disorder support - Mandarin Chinese | `night-shift-sleep-disorder-support.zh.svg` | First localized SVG; native review needed |
+| Night shift sleep-disorder support - Russian | `night-shift-sleep-disorder-support.ru.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention | `colorectal-food-pattern-prevention.svg` | First-pass English SVG |
 | Colorectal food pattern prevention - Spanish | `colorectal-food-pattern-prevention.es.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention - German | `colorectal-food-pattern-prevention.de.svg` | First localized SVG; native review needed |

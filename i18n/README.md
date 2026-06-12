@@ -272,6 +272,18 @@ This public safety visual explains that the commute after a night shift can be p
 | Mandarin Chinese | [night-shift-drowsy-driving-safety.zh.svg](../visuals/night-shift-drowsy-driving-safety.zh.svg) | First localized SVG; native review needed |
 | Russian | [night-shift-drowsy-driving-safety.ru.svg](../visuals/night-shift-drowsy-driving-safety.ru.svg) | First localized SVG; native review needed |
 
+## Night Shift Sleep-Disorder Support Visual Variants
+
+This public safety visual separates ordinary night-shift fatigue from symptoms that deserve clinical or occupational-health support. It names Shift Work Disorder carefully, flags sleep apnea and severe insomnia, and warns against guessing with melatonin, caffeine, sedatives, or wake-promoting drugs. These translations need native review because sleep-disorder terms, emergency mental-health wording, medication access, and occupational-health pathways vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [night-shift-sleep-disorder-support.svg](../visuals/night-shift-sleep-disorder-support.svg) | Canonical first-pass SVG |
+| Spanish | [night-shift-sleep-disorder-support.es.svg](../visuals/night-shift-sleep-disorder-support.es.svg) | First localized SVG; native review needed |
+| German | [night-shift-sleep-disorder-support.de.svg](../visuals/night-shift-sleep-disorder-support.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [night-shift-sleep-disorder-support.zh.svg](../visuals/night-shift-sleep-disorder-support.zh.svg) | First localized SVG; native review needed |
+| Russian | [night-shift-sleep-disorder-support.ru.svg](../visuals/night-shift-sleep-disorder-support.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

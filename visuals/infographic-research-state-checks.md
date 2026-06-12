@@ -57,6 +57,8 @@ Current night shift worker protection visual: `visuals/night-shift-worker-protec
 
 Current night shift drowsy-driving safety visual: `visuals/night-shift-drowsy-driving-safety.svg`
 
+Current night shift sleep-disorder support visual: `visuals/night-shift-sleep-disorder-support.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -184,6 +186,13 @@ Current localized night-shift drowsy-driving safety variants:
 - German: `visuals/night-shift-drowsy-driving-safety.de.svg`
 - Mandarin Chinese: `visuals/night-shift-drowsy-driving-safety.zh.svg`
 - Russian: `visuals/night-shift-drowsy-driving-safety.ru.svg`
+
+Current localized night-shift sleep-disorder support variants:
+
+- Spanish: `visuals/night-shift-sleep-disorder-support.es.svg`
+- German: `visuals/night-shift-sleep-disorder-support.de.svg`
+- Mandarin Chinese: `visuals/night-shift-sleep-disorder-support.zh.svg`
+- Russian: `visuals/night-shift-sleep-disorder-support.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -1121,3 +1130,37 @@ Instead:
 ### Translation Impact
 
 First-pass drowsy-driving safety visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because transport options, labor protections, fatigue-reporting norms, and emergency driving advice vary by country.
+
+## 2026-06-12 Check: Night Shift Sleep-Disorder Support
+
+New evidence page:
+
+- `prevention/night-shift-sleep-disorder-clinical-support.md`
+
+New visual:
+
+- `visuals/night-shift-sleep-disorder-support.svg`
+- `visuals/night-shift-sleep-disorder-support.es.svg`
+- `visuals/night-shift-sleep-disorder-support.de.svg`
+- `visuals/night-shift-sleep-disorder-support.zh.svg`
+- `visuals/night-shift-sleep-disorder-support.ru.svg`
+
+### What Changed
+
+- The wiki now separates ordinary night-shift fatigue from symptoms that need clinical or occupational-health support.
+- The page uses Shift Work Disorder prevalence/review evidence, sleep-disorder studies in shift workers, and clinical sleep-medicine summaries.
+- The visual flags the practical boundary: severe sleepiness, drowsy-driving near misses, breathing pauses, severe insomnia, unintentional sleep, pregnancy concerns, medication effects, or self-harm thoughts need support.
+
+### Decision For The Flagship Infographic
+
+Do not add sleep-disorder symptoms or medication advice to the flagship cancer-literacy infographic. The flagship should keep sleep/circadian wording short and non-blaming.
+
+Instead:
+
+- Use `visuals/night-shift-sleep-disorder-support.svg` for readers asking whether fatigue is "normal," whether they might have Shift Work Disorder, when sleep apnea matters, or whether melatonin/caffeine/sleep medicines are simple answers.
+- Keep medication and melatonin language out of the flagship unless a future version has clinician-reviewed wording.
+- Use the focused visual to reinforce that fatigue safety is an employer, clinician, and health-system issue, not a personal weakness.
+
+### Translation Impact
+
+First-pass sleep-disorder support visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because sleep-disorder terms, emergency mental-health wording, pregnancy language, medication access, and occupational-health pathways vary by country.

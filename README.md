@@ -141,6 +141,10 @@ Night shift drowsy-driving safety visual:
 
 ![The drive home is part of night-shift safety](visuals/night-shift-drowsy-driving-safety.svg)
 
+Night shift sleep-disorder support visual:
+
+![Dangerous sleepiness needs support](visuals/night-shift-sleep-disorder-support.svg)
+
 Colorectal food pattern prevention visual:
 
 ![Food pattern matters for colorectal cancer](visuals/colorectal-food-pattern-prevention.svg)
@@ -194,6 +198,13 @@ Localized night-shift drowsy-driving safety variants:
 - [German night-shift drowsy-driving safety SVG](visuals/night-shift-drowsy-driving-safety.de.svg)
 - [Mandarin Chinese night-shift drowsy-driving safety SVG](visuals/night-shift-drowsy-driving-safety.zh.svg)
 - [Russian night-shift drowsy-driving safety SVG](visuals/night-shift-drowsy-driving-safety.ru.svg)
+
+Localized night-shift sleep-disorder support variants:
+
+- [Spanish night-shift sleep-disorder support SVG](visuals/night-shift-sleep-disorder-support.es.svg)
+- [German night-shift sleep-disorder support SVG](visuals/night-shift-sleep-disorder-support.de.svg)
+- [Mandarin Chinese night-shift sleep-disorder support SVG](visuals/night-shift-sleep-disorder-support.zh.svg)
+- [Russian night-shift sleep-disorder support SVG](visuals/night-shift-sleep-disorder-support.ru.svg)
 
 Localized colorectal food-pattern variants:
 
@@ -326,6 +337,7 @@ Research backing:
 - [Circadian disruption, sleep, light at night, and cancer](prevention/circadian-sleep-light-cancer-evidence.md)
 - [Night shift work systems and cancer prevention](prevention/night-shift-work-systems-cancer-prevention.md)
 - [Night shift drowsy driving and injury safety](prevention/night-shift-drowsy-driving-injury-safety.md)
+- [Night shift sleep disorder and clinical support](prevention/night-shift-sleep-disorder-clinical-support.md)
 - [Colorectal food pattern evidence](prevention/colorectal-food-pattern-evidence.md)
 - [Ultra-processed foods and cancer evidence](prevention/ultra-processed-foods-cancer-evidence.md)
 - [UV, sun, and indoor tanning evidence](prevention/uv-sun-indoor-tanning-evidence.md)
@@ -366,6 +378,7 @@ Research backing:
 - [Circadian rhythm, sleep, and light-at-night visual](visuals/circadian-sleep-light-cancer-risk.svg)
 - [Night shift worker protection visual](visuals/night-shift-worker-protection-cancer.svg)
 - [Night shift drowsy-driving safety visual](visuals/night-shift-drowsy-driving-safety.svg)
+- [Night shift sleep-disorder support visual](visuals/night-shift-sleep-disorder-support.svg)
 - [Colorectal food pattern prevention visual](visuals/colorectal-food-pattern-prevention.svg)
 - [Ultra-processed foods and cancer-risk pattern visual](visuals/ultra-processed-foods-cancer-risk.svg)
 - [UV, sun, and indoor tanning prevention visual](visuals/uv-sun-tanning-cancer-prevention.svg)

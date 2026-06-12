@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 136
-Nonblank renders: 136
+SVG files rendered: 141
+Nonblank renders: 141
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -113,6 +113,11 @@ Blank or near-blank renders: 0
 | `night-shift-drowsy-driving-safety.ru.svg` | 1500x980 | True | 36.86 |
 | `night-shift-drowsy-driving-safety.svg` | 1500x980 | True | 36.28 |
 | `night-shift-drowsy-driving-safety.zh.svg` | 1500x980 | True | 35.49 |
+| `night-shift-sleep-disorder-support.de.svg` | 1500x980 | True | 37.13 |
+| `night-shift-sleep-disorder-support.es.svg` | 1500x980 | True | 36.53 |
+| `night-shift-sleep-disorder-support.ru.svg` | 1500x980 | True | 37.06 |
+| `night-shift-sleep-disorder-support.svg` | 1500x980 | True | 36.44 |
+| `night-shift-sleep-disorder-support.zh.svg` | 1500x980 | True | 34.85 |
 | `night-shift-worker-protection-cancer.de.svg` | 1500x980 | True | 36.85 |
 | `night-shift-worker-protection-cancer.es.svg` | 1500x980 | True | 36.21 |
 | `night-shift-worker-protection-cancer.ru.svg` | 1500x980 | True | 36.24 |
