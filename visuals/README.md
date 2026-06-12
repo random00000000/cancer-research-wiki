@@ -8,6 +8,8 @@ Every educational visual should be traceable to source-backed claims.
 
 Use `infographic-research-state-checks.md` to compare the current infographic against new research before deciding whether the flagship image, translated captions, or localized visual variants need updates.
 
+Use `visual-qa-log.md` to track structural checks, browser rendering checks, clipping risk, and translation-review gaps.
+
 ## Goal 1 Infographics
 
 | Language | Asset | Status |

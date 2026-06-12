@@ -20,6 +20,24 @@ Current localized companion mechanism variants:
 - Mandarin Chinese: `visuals/cancer-keeps-adapting.zh.svg`
 - Russian: `visuals/cancer-keeps-adapting.ru.svg`
 
+Current visual QA log: `visuals/visual-qa-log.md`
+
+## 2026-06-12 Check: Visual QA Baseline
+
+New QA page:
+
+- `visuals/visual-qa-log.md`
+
+### What Changed
+
+- The current SVG set now has a structural QA record covering XML parsing, `width`, `height`, `viewBox`, `<title>`, and `<desc>` checks.
+- Browser rendering was attempted through a temporary local server, but the in-app browser blocked the direct render route through client security policy.
+- The QA log therefore distinguishes proven structural validity from still-needed browser screenshot QA and translation review.
+
+### Decision For The Flagship Infographic
+
+Do not mark the visual work as finished yet. The README can keep embedding the current flagship and companion images, but future completion requires browser or renderer screenshots that prove text does not clip and non-Latin glyphs render acceptably.
+
 Current localized image variants:
 
 - Spanish: `visuals/cancer-literacy-infographic.es.svg`
