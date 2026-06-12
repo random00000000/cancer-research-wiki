@@ -53,6 +53,13 @@ Population burden is not personal blame visual:
 
 ![Population prevention is not personal blame](visuals/population-burden-not-blame.svg)
 
+Localized population burden/no-blame variants:
+
+- [Spanish population burden/no-blame SVG](visuals/population-burden-not-blame.es.svg)
+- [German population burden/no-blame SVG](visuals/population-burden-not-blame.de.svg)
+- [Mandarin Chinese population burden/no-blame SVG](visuals/population-burden-not-blame.zh.svg)
+- [Russian population burden/no-blame SVG](visuals/population-burden-not-blame.ru.svg)
+
 Localized screening/vaccination decision variants:
 
 - [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)

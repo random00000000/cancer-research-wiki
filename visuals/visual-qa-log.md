@@ -48,6 +48,10 @@ Checked files:
 - `visuals/relative-vs-absolute-risk.zh.svg`
 - `visuals/relative-vs-absolute-risk.ru.svg`
 - `visuals/population-burden-not-blame.svg`
+- `visuals/population-burden-not-blame.es.svg`
+- `visuals/population-burden-not-blame.de.svg`
+- `visuals/population-burden-not-blame.zh.svg`
+- `visuals/population-burden-not-blame.ru.svg`
 - `visuals/cancer-claim-filter.svg`
 
 Result:
@@ -81,6 +85,7 @@ Browser QA attempt:
 | Relative versus absolute risk SVG | Passed | Still needed | Not applicable |
 | Relative versus absolute risk localized SVGs | Passed | Still needed | Still needed |
 | Population burden/no-blame SVG | Passed | Still needed | Not applicable |
+| Population burden/no-blame localized SVGs | Passed | Still needed | Still needed |
 | Claim-filter SVG | Passed | Still needed | Not applicable |
 
 ## Next Visual QA Tasks

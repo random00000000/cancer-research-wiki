@@ -23,6 +23,13 @@ Current population burden/no-blame visual: `visuals/population-burden-not-blame.
 
 Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
 
+Current localized population burden/no-blame variants:
+
+- Spanish: `visuals/population-burden-not-blame.es.svg`
+- German: `visuals/population-burden-not-blame.de.svg`
+- Mandarin Chinese: `visuals/population-burden-not-blame.zh.svg`
+- Russian: `visuals/population-burden-not-blame.ru.svg`
+
 Current localized screening/vaccination decision variants:
 
 - Spanish: `visuals/screening-vaccination-decision.es.svg`
@@ -51,16 +58,25 @@ Current visual QA log: `visuals/visual-qa-log.md`
 New visual:
 
 - `visuals/population-burden-not-blame.svg`
+- `visuals/population-burden-not-blame.es.svg`
+- `visuals/population-burden-not-blame.de.svg`
+- `visuals/population-burden-not-blame.zh.svg`
+- `visuals/population-burden-not-blame.ru.svg`
 
 ### What Changed
 
 - The wiki now has a public visual separating population-attributable burden from individual causation or moral blame.
 - The visual uses peer-reviewed/global-burden source anchors already tracked in `prevention/effect-size-evidence.md`, `prevention/lifestyle-and-burden-evidence.md`, and `prevention/non-screening-absolute-risk-examples.md`.
 - It highlights global risk-attributable cancer deaths, U.S. evaluated modifiable-risk-attributable cases, and infection-attributable cases while emphasizing systems: policy, access, housing, food, vaccines, screening follow-up, work safety, and support.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
 
 ### Decision For The Flagship Infographic
 
 Keep the flagship infographic's no-blame sentence short. Use this companion when readers need a stronger explanation of why population prevention matters without implying that cancer patients caused their disease.
+
+### Translation Impact
+
+Keep the localized no-blame visual under native review before promotion. The translations must preserve that population-attributable burden is a planning model and prevention opportunity, not a personal-causation or moral-blame claim.
 
 ## 2026-06-12 Check: Relative Versus Absolute Risk Visual
 

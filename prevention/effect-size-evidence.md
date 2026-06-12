@@ -92,6 +92,7 @@ Suggested public text:
 Current companion visual:
 
 - `visuals/population-burden-not-blame.svg`
+- First localized variants: `visuals/population-burden-not-blame.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
 
 ## Source Cards
 
@@ -264,6 +265,6 @@ Current companion visual:
 
 ## Next Research Tasks
 
-- Visually QA and translate `visuals/population-burden-not-blame.svg`.
+- Visually QA `visuals/population-burden-not-blame.svg` and first localized variants.
 - Add effect-size cards for screening overdiagnosis and absolute-risk examples.
 - Add more source-backed absolute-risk examples for HPV, HBV, alcohol, radon, and air pollution.

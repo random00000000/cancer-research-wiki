@@ -125,6 +125,7 @@ The public infographic should empower individuals while making clear that preven
 Current companion visual:
 
 - `visuals/population-burden-not-blame.svg`
+- First localized variants: `visuals/population-burden-not-blame.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
 
 ## Next Research Tasks
 

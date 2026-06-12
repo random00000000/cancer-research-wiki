@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Бремя профилактики рака — не личная вина</title>
+  <desc id="desc">Публичная схема профилактики рака: популяционно-атрибутивное бремя — это системная возможность профилактики, а не моральное суждение о пациентах.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="0.5" stop-color="#fff7ed"/><stop offset="1" stop-color="#eefdf4"/></linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/></filter>
+    <style>
+      .title { font: 800 48px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 23px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 29px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .big { font: 800 58px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 29px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 18px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .barBg { fill: #e5eaf2; }
+    </style>
+  </defs>
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">Профилактика для населения — не личная вина</text>
+    <text class="subtitle" x="2" y="100">Атрибутивное бремя показывает, где системы могут предотвращать рак, а не почему заболел один человек.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(70 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">Глобальная модель</text>
+    <text class="big" x="30" y="118">4.45M</text>
+    <text class="label" x="30" y="155">смертей от рака в 2019</text>
+    <text class="body" x="30" y="190">связано с оцененными факторами риска</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="142" height="22" rx="11" fill="#ef4444"/>
+    <text class="small" x="30" y="272">44.4% глобальных смертей от рака в модели GBD.</text>
+  </g>
+  <g transform="translate(540 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">Модель взрослых США</text>
+    <text class="big" x="30" y="118">713K</text>
+    <text class="label" x="30" y="155">новых случаев рака</text>
+    <text class="body" x="30" y="190">связано с оцененными изменяемыми рисками</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="128" height="22" rx="11" fill="#f97316"/>
+    <text class="small" x="30" y="272">40.0% случаев у взрослых 30+ в 2019 году.</text>
+  </g>
+  <g transform="translate(1010 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">Профилактика инфекций</text>
+    <text class="big" x="30" y="118">2.2M</text>
+    <text class="label" x="30" y="155">новых случаев в 2018</text>
+    <text class="body" x="30" y="190">во всем мире связано с инфекциями</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="42" height="22" rx="11" fill="#7c3aed"/>
+    <text class="small" x="30" y="272">Около 13% новых случаев рака в мире.</text>
+  </g>
+  <g transform="translate(95 570)">
+    <rect class="pill" x="0" y="0" width="280" height="64" fill="#fee2e2" stroke="#ef4444"/><text class="label" x="38" y="40">Табак / дым</text>
+    <rect class="pill" x="310" y="0" width="220" height="64" fill="#ffedd5" stroke="#f97316"/><text class="label" x="365" y="40">Алкоголь</text>
+    <rect class="pill" x="560" y="0" width="250" height="64" fill="#fef3c7" stroke="#d97706"/><text class="label" x="628" y="40">Вес тела</text>
+    <rect class="pill" x="840" y="0" width="250" height="64" fill="#ecfeff" stroke="#0891b2"/><text class="label" x="890" y="40">Инфекции</text>
+    <rect class="pill" x="1120" y="0" width="260" height="64" fill="#dcfce7" stroke="#16a34a"/><text class="label" x="1142" y="40">Воздух / работа / УФ</text>
+  </g>
+  <g transform="translate(95 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#102033"/>
+    <text class="lightHead" x="34" y="50">Что означают эти числа</text>
+    <text class="lightBody" x="34" y="88">Если частое воздействие немного повышает риск,</text>
+    <text class="lightBody" x="34" y="120">пострадать могут миллионы. Профилактика требует политики,</text>
+    <text class="lightBody" x="34" y="152">доступа, жилья, вакцин, безопасной работы и поддержки.</text>
+  </g>
+  <g transform="translate(785 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="head" x="34" y="50">Чего эти числа не означают</text>
+    <text class="body" x="34" y="88">Они не доказывают, что пациент виноват.</text>
+    <text class="body" x="34" y="120">Они не включают все причины, прошлые воздействия,</text>
+    <text class="body" x="34" y="152">наследственность, возраст, случайность, иммунитет и среду.</text>
+  </g>
+  <g transform="translate(110 915)">
+    <rect x="0" y="0" width="1280" height="76" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="30">Безопасная фраза: "На многие раки влияют воздействия, которые можно снизить, но изменяемое не значит твоя вина."</text>
+    <text class="source" x="26" y="58">Основа: ACS 2024, Lancet/GBD 2019, инфекционное бремя, prevention/effect-size-evidence.md.</text>
+  </g>
+</svg>

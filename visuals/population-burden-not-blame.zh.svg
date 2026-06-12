@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">癌症预防负担不是个人责备</title>
+  <desc id="desc">面向公众的癌症预防图，说明人群归因癌症负担是系统层面的预防机会，不是对患者的道德判断。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="0.5" stop-color="#fff7ed"/><stop offset="1" stop-color="#eefdf4"/></linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/></filter>
+    <style>
+      .title { font: 800 50px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 24px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 30px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .big { font: 800 58px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 22px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 19px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 30px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 19px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .barBg { fill: #e5eaf2; }
+    </style>
+  </defs>
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">群体预防不是个人责备</text>
+    <text class="subtitle" x="2" y="100">归因负担告诉我们系统在哪里能预防癌症，而不是说明某个人为什么患癌。</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(70 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">全球模型</text>
+    <text class="big" x="30" y="118">4.45M</text>
+    <text class="label" x="30" y="155">2019年癌症死亡</text>
+    <text class="body" x="30" y="190">归因于已评估风险因素</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="142" height="22" rx="11" fill="#ef4444"/>
+    <text class="small" x="30" y="272">GBD模型中占全球癌症死亡44.4%。</text>
+  </g>
+  <g transform="translate(540 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">美国成人模型</text>
+    <text class="big" x="30" y="118">713K</text>
+    <text class="label" x="30" y="155">新发癌症病例</text>
+    <text class="body" x="30" y="190">归因于已评估可改变风险</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="128" height="22" rx="11" fill="#f97316"/>
+    <text class="small" x="30" y="272">2019年30岁以上成人病例的40.0%。</text>
+  </g>
+  <g transform="translate(1010 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">感染预防</text>
+    <text class="big" x="30" y="118">2.2M</text>
+    <text class="label" x="30" y="155">2018年新发病例</text>
+    <text class="body" x="30" y="190">全球归因于感染</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="42" height="22" rx="11" fill="#7c3aed"/>
+    <text class="small" x="30" y="272">约占全球新发癌症病例13%。</text>
+  </g>
+  <g transform="translate(95 570)">
+    <rect class="pill" x="0" y="0" width="280" height="64" fill="#fee2e2" stroke="#ef4444"/><text class="label" x="55" y="40">烟草 / 烟雾</text>
+    <rect class="pill" x="310" y="0" width="220" height="64" fill="#ffedd5" stroke="#f97316"/><text class="label" x="380" y="40">酒精</text>
+    <rect class="pill" x="560" y="0" width="250" height="64" fill="#fef3c7" stroke="#d97706"/><text class="label" x="650" y="40">体重</text>
+    <rect class="pill" x="840" y="0" width="250" height="64" fill="#ecfeff" stroke="#0891b2"/><text class="label" x="905" y="40">感染</text>
+    <rect class="pill" x="1120" y="0" width="260" height="64" fill="#dcfce7" stroke="#16a34a"/><text class="label" x="1165" y="40">空气 / 工作 / 紫外线</text>
+  </g>
+  <g transform="translate(95 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#102033"/>
+    <text class="lightHead" x="34" y="50">这些数字意味着什么</text>
+    <text class="lightBody" x="34" y="88">如果常见暴露让风险小幅上升，</text>
+    <text class="lightBody" x="34" y="120">许多人会受到影响。预防需要政策、可及性、</text>
+    <text class="lightBody" x="34" y="152">住房、疫苗、随访、安全工作和支持。</text>
+  </g>
+  <g transform="translate(785 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="head" x="34" y="50">这些数字不意味着什么</text>
+    <text class="body" x="34" y="88">它们不能证明患者的癌症是自己的错。</text>
+    <text class="body" x="34" y="120">它们不包括所有原因、过去暴露、遗传风险、</text>
+    <text class="body" x="34" y="152">衰老、偶然、免疫状态或不平等环境。</text>
+  </g>
+  <g transform="translate(110 915)">
+    <rect x="0" y="0" width="1280" height="76" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="30">安全说法：“许多癌症受可减少的暴露影响，但可改变并不等于你的错。”</text>
+    <text class="source" x="26" y="58">来源基础：ACS 2024、Lancet/GBD 2019、感染负担、prevention/effect-size-evidence.md。</text>
+  </g>
+</svg>

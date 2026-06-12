@@ -91,3 +91,15 @@ This public risk-communication visual explains why percentages need baseline ris
 | German | [relative-vs-absolute-risk.de.svg](../visuals/relative-vs-absolute-risk.de.svg) | First localized SVG |
 | Mandarin Chinese | [relative-vs-absolute-risk.zh.svg](../visuals/relative-vs-absolute-risk.zh.svg) | First localized SVG |
 | Russian | [relative-vs-absolute-risk.ru.svg](../visuals/relative-vs-absolute-risk.ru.svg) | First localized SVG |
+
+## Population Burden And No-Blame Visual Variants
+
+This public visual explains why population-attributable burden is a systems-scale prevention opportunity, not personal blame. These translations should receive native review before being treated as final medical wording.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [population-burden-not-blame.svg](../visuals/population-burden-not-blame.svg) | Canonical first-pass SVG |
+| Spanish | [population-burden-not-blame.es.svg](../visuals/population-burden-not-blame.es.svg) | First localized SVG |
+| German | [population-burden-not-blame.de.svg](../visuals/population-burden-not-blame.de.svg) | First localized SVG |
+| Mandarin Chinese | [population-burden-not-blame.zh.svg](../visuals/population-burden-not-blame.zh.svg) | First localized SVG |
+| Russian | [population-burden-not-blame.ru.svg](../visuals/population-burden-not-blame.ru.svg) | First localized SVG |
