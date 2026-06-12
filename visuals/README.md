@@ -66,6 +66,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Infection-related cancer prevention - German | `infection-prevention-cancer.de.svg` | First localized SVG; native review needed |
 | Infection-related cancer prevention - Mandarin Chinese | `infection-prevention-cancer.zh.svg` | First localized SVG; native review needed |
 | Infection-related cancer prevention - Russian | `infection-prevention-cancer.ru.svg` | First localized SVG; native review needed |
+| Environment and work cancer prevention | `environment-work-cancer-prevention.svg` | First-pass English SVG |
+| Environment and work cancer prevention - Spanish | `environment-work-cancer-prevention.es.svg` | First localized SVG; native review needed |
+| Environment and work cancer prevention - German | `environment-work-cancer-prevention.de.svg` | First localized SVG; native review needed |
+| Environment and work cancer prevention - Mandarin Chinese | `environment-work-cancer-prevention.zh.svg` | First localized SVG; native review needed |
+| Environment and work cancer prevention - Russian | `environment-work-cancer-prevention.ru.svg` | First localized SVG; native review needed |
 
 ## Companion Mechanism Visuals
 

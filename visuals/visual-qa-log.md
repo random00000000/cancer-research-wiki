@@ -13,6 +13,7 @@ Scope:
 - Companion adaptation infographic: English plus first localized SVGs.
 - Claim-filter add-on visual: English plus first localized SVGs.
 - Infection-prevention add-on visual: English plus first localized SVGs.
+- Environment/work add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -67,6 +68,11 @@ Checked files:
 - `visuals/infection-prevention-cancer.de.svg`
 - `visuals/infection-prevention-cancer.zh.svg`
 - `visuals/infection-prevention-cancer.ru.svg`
+- `visuals/environment-work-cancer-prevention.svg`
+- `visuals/environment-work-cancer-prevention.es.svg`
+- `visuals/environment-work-cancer-prevention.de.svg`
+- `visuals/environment-work-cancer-prevention.zh.svg`
+- `visuals/environment-work-cancer-prevention.ru.svg`
 
 Result:
 
@@ -88,7 +94,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 51 SVG files in `visuals/`.
+- All 56 SVG files in `visuals/`.
 
 Tooling:
 
@@ -105,8 +111,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 51 SVG files at their declared canvas sizes.
-- All 51 renders were nonblank.
+- Headless Chrome rendered all 56 SVG files at their declared canvas sizes.
+- All 56 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 
@@ -135,6 +141,8 @@ Repository note:
 | Claim-filter localized SVGs | Passed | Headless Chrome nonblank passed; obvious German/Russian overflow fixed; close layout review still needed | Still needed |
 | Infection-prevention SVG | Passed | Headless Chrome nonblank passed; obvious overflow fixed; close layout review still needed | Not applicable |
 | Infection-prevention localized SVGs | Passed | Headless Chrome nonblank passed; English/German/Russian/Mandarin full-size previews checked; close layout review still needed | Still needed |
+| Environment/work prevention SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Environment/work prevention localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian/Mandarin full-size previews checked; obvious Russian overflow fixed | Still needed |
 
 ## Next Visual QA Tasks
 

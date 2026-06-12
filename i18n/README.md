@@ -104,6 +104,18 @@ This public visual explains that cancer is not contagious like a cold, but some 
 | Mandarin Chinese | [infection-prevention-cancer.zh.svg](../visuals/infection-prevention-cancer.zh.svg) | First localized SVG; native review needed |
 | Russian | [infection-prevention-cancer.ru.svg](../visuals/infection-prevention-cancer.ru.svg) | First localized SVG; native review needed |
 
+## Environment And Work Prevention Visual Variants
+
+This public visual explains that cancer prevention also includes clean air, radon-safe buildings, asbestos control, and workplace carcinogen protection. These translations should receive native review before final wording because exposure terms and worker-safety systems vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [environment-work-cancer-prevention.svg](../visuals/environment-work-cancer-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [environment-work-cancer-prevention.es.svg](../visuals/environment-work-cancer-prevention.es.svg) | First localized SVG; native review needed |
+| German | [environment-work-cancer-prevention.de.svg](../visuals/environment-work-cancer-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [environment-work-cancer-prevention.zh.svg](../visuals/environment-work-cancer-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [environment-work-cancer-prevention.ru.svg](../visuals/environment-work-cancer-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.

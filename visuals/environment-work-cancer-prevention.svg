@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Cancer prevention is also environmental protection</title>
+  <desc id="desc">A public infographic explaining that radon, asbestos, air pollution, and workplace carcinogens are cancer prevention targets that need testing, controls, policy, and remediation.</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#102033">Cancer Prevention Is Also Clean Air and Safe Work</text>
+  <text x="94" y="158" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#46515f">Some cancer risks come from buildings, jobs, air, materials, and policy choices, not only personal habits.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="220" width="305" height="340" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="152" cy="285" r="40" fill="#1b5d66"/>
+    <text x="152" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="122" y="358" font-size="28" font-weight="700" fill="#102033">Radon</text>
+    <text x="122" y="400" font-size="20" fill="#46515f">Invisible gas in some</text>
+    <text x="122" y="428" font-size="20" fill="#46515f">homes and buildings.</text>
+    <text x="122" y="486" font-size="23" font-weight="700" fill="#102033">Lever</text>
+    <text x="122" y="520" font-size="20" fill="#46515f">Test, mitigate, ventilate,</text>
+    <text x="122" y="548" font-size="20" fill="#46515f">and build safer.</text>
+    <rect x="432" y="220" width="305" height="340" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="492" cy="285" r="40" fill="#a26119"/>
+    <text x="492" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="462" y="358" font-size="28" font-weight="700" fill="#102033">Asbestos</text>
+    <text x="462" y="400" font-size="20" fill="#46515f">Fibers can move from</text>
+    <text x="462" y="428" font-size="20" fill="#46515f">worksites into homes.</text>
+    <text x="462" y="486" font-size="23" font-weight="700" fill="#102033">Lever</text>
+    <text x="462" y="520" font-size="20" fill="#46515f">Do not disturb; use trained</text>
+    <text x="462" y="548" font-size="20" fill="#46515f">assessment and removal.</text>
+    <rect x="772" y="220" width="305" height="340" rx="18" fill="#e9ecff" stroke="#3e4d9a" stroke-width="3"/>
+    <circle cx="832" cy="285" r="40" fill="#3e4d9a"/>
+    <text x="832" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="802" y="358" font-size="28" font-weight="700" fill="#102033">PM2.5 Air</text>
+    <text x="802" y="400" font-size="20" fill="#46515f">Fine particles raise</text>
+    <text x="802" y="428" font-size="20" fill="#46515f">lung cancer risk.</text>
+    <text x="802" y="486" font-size="23" font-weight="700" fill="#102033">Lever</text>
+    <text x="802" y="520" font-size="20" fill="#46515f">Cleaner transport, energy,</text>
+    <text x="802" y="548" font-size="20" fill="#46515f">industry, and indoor air.</text>
+    <rect x="1112" y="220" width="305" height="340" rx="18" fill="#fde8e6" stroke="#ad3434" stroke-width="3"/>
+    <circle cx="1172" cy="285" r="40" fill="#ad3434"/>
+    <text x="1172" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="1142" y="358" font-size="28" font-weight="700" fill="#102033">Workplace</text>
+    <text x="1142" y="400" font-size="20" fill="#46515f">Dusts, fumes, diesel,</text>
+    <text x="1142" y="428" font-size="20" fill="#46515f">silica, metals, solvents.</text>
+    <text x="1142" y="486" font-size="23" font-weight="700" fill="#102033">Lever</text>
+    <text x="1142" y="520" font-size="20" fill="#46515f">Substitute, enclose, ventilate,</text>
+    <text x="1142" y="548" font-size="20" fill="#46515f">monitor, protect workers.</text>
+  </g>
+  <rect x="92" y="625" width="625" height="172" rx="18" fill="#102033"/>
+  <text x="130" y="674" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Public meaning</text>
+  <text x="130" y="718" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">Cancer prevention includes safer buildings, clean air,</text>
+  <text x="130" y="750" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">worker protection, remediation, and fair policy.</text>
+  <text x="130" y="782" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">Do not turn structural exposure into personal blame.</text>
+  <rect x="775" y="625" width="633" height="172" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="674" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#102033">Safety boundary</text>
+  <text x="813" y="718" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">Asbestos, high radon, and workplace exposures need</text>
+  <text x="813" y="750" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">qualified assessment. Symptoms or test results belong</text>
+  <text x="813" y="782" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">with a clinician or exposure professional.</text>
+  <text x="92" y="858" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#46515f">Evidence anchors: residential radon meta-analysis; European radon pooled analysis; asbestos lung cancer review;</text>
+  <text x="92" y="886" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#46515f">non-occupational asbestos/mesothelioma meta-analysis; PM2.5 and lung cancer meta-analysis.</text>
+  <text x="92" y="918" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b7280">Risk reduction is not a guarantee. Dose, duration, smoking, housing, occupation, location, and policy all change exposure and risk.</text>
+</svg>

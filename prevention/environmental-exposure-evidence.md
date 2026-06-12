@@ -5,6 +5,11 @@ Last updated: 2026-06-12
 
 This page supports the public infographic by making structural exposure prevention visible. Cancer prevention is not only personal behavior; it is also clean air, safe buildings, safe work, and exposure controls.
 
+Companion visual:
+
+- `visuals/environment-work-cancer-prevention.svg`
+- First localized visual variants: `visuals/environment-work-cancer-prevention.es.svg`, `visuals/environment-work-cancer-prevention.de.svg`, `visuals/environment-work-cancer-prevention.zh.svg`, and `visuals/environment-work-cancer-prevention.ru.svg`
+
 ## Plain-Language Summary
 
 Some carcinogen exposures come from homes, workplaces, outdoor air, building materials, industrial history, transportation systems, and policy choices. Individuals can sometimes test, mitigate, avoid, or use protective equipment, but many of the biggest levers are collective: regulation, remediation, safer materials, ventilation, worker protection, and pollution reduction.
@@ -98,6 +103,16 @@ Visuals:
 - Factory/work helmet with shield.
 - Clean air icon.
 - Warning label for asbestos disturbance.
+
+Current companion visual:
+
+- `visuals/environment-work-cancer-prevention.svg`
+- `visuals/environment-work-cancer-prevention.es.svg`
+- `visuals/environment-work-cancer-prevention.de.svg`
+- `visuals/environment-work-cancer-prevention.zh.svg`
+- `visuals/environment-work-cancer-prevention.ru.svg`
+
+Translation review task: keep localized environment/work visuals under native review before public-final use, because radon, asbestos, PM2.5, and worker-safety terminology vary by region and legal system.
 
 ## Next Research Tasks
 

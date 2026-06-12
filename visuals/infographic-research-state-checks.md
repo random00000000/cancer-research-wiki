@@ -24,6 +24,8 @@ Current screening/vaccination decision visual: `visuals/screening-vaccination-de
 
 Current infection-related cancer prevention visual: `visuals/infection-prevention-cancer.svg`
 
+Current environment/work prevention visual: `visuals/environment-work-cancer-prevention.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -60,6 +62,13 @@ Current localized infection-prevention variants:
 - Mandarin Chinese: `visuals/infection-prevention-cancer.zh.svg`
 - Russian: `visuals/infection-prevention-cancer.ru.svg`
 
+Current localized environment/work variants:
+
+- Spanish: `visuals/environment-work-cancer-prevention.es.svg`
+- German: `visuals/environment-work-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/environment-work-cancer-prevention.zh.svg`
+- Russian: `visuals/environment-work-cancer-prevention.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -90,10 +99,11 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 51 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 56 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
+- The environment/work visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious Russian card overflow was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -151,6 +161,34 @@ Keep the flagship infographic's vaccine/screening wording broad. Use this compan
 ### Translation Impact
 
 Keep localized infection-prevention visuals under native review before promotion. Vaccine, screening, pathogen, and stigma-related wording varies by country and language, and should avoid implying that cancer itself is casually contagious.
+
+## 2026-06-12 Check: Environment And Work Prevention Visual
+
+Evidence page:
+
+- `prevention/environmental-exposure-evidence.md`
+
+New visual:
+
+- `visuals/environment-work-cancer-prevention.svg`
+- `visuals/environment-work-cancer-prevention.es.svg`
+- `visuals/environment-work-cancer-prevention.de.svg`
+- `visuals/environment-work-cancer-prevention.zh.svg`
+- `visuals/environment-work-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual showing that cancer prevention is also clean air, safe buildings, worker protection, remediation, and fair policy.
+- The visual highlights radon, asbestos, PM2.5 air pollution, and workplace carcinogen controls using the existing environmental evidence page, which tracks meta-analyses and specialist reviews rather than relying on CDC-only public summaries.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's structural-exposure message short. Use this companion when readers need a concrete explanation of why cancer prevention includes environmental and occupational controls, not only personal choices.
+
+### Translation Impact
+
+Keep localized environment/work visuals under native review before promotion. Radon, asbestos, PM2.5, remediation, and worker-safety terms vary by region and legal system.
 
 ## 2026-06-12 Check: Relative Versus Absolute Risk Visual
 

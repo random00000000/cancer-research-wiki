@@ -64,6 +64,17 @@ Infection-related cancer prevention visual:
 
 ![Some infections can become cancer risks](visuals/infection-prevention-cancer.svg)
 
+Environment and work cancer prevention visual:
+
+![Cancer prevention is also clean air and safe work](visuals/environment-work-cancer-prevention.svg)
+
+Localized environment/work variants:
+
+- [Spanish environment/work SVG](visuals/environment-work-cancer-prevention.es.svg)
+- [German environment/work SVG](visuals/environment-work-cancer-prevention.de.svg)
+- [Mandarin Chinese environment/work SVG](visuals/environment-work-cancer-prevention.zh.svg)
+- [Russian environment/work SVG](visuals/environment-work-cancer-prevention.ru.svg)
+
 Localized infection-prevention variants:
 
 - [Spanish infection-prevention SVG](visuals/infection-prevention-cancer.es.svg)
@@ -160,6 +171,7 @@ Research backing:
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
+- [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
