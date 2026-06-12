@@ -44,6 +44,8 @@ Agents must:
 - State when evidence is preliminary, conflicting, indirect, preclinical, or not yet replicated.
 - Prefer "risk reduction" over absolute promises.
 
+When a claim could steer someone away from proven prevention, screening, diagnosis, or treatment, agents must use the claim-evaluation framework in `sources/claim-evaluation-framework.md` and clearly label weak, misleading, or dangerous claims.
+
 ## Research Philosophy
 
 Use the scientific method as a core tool.

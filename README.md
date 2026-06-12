@@ -30,10 +30,12 @@ Current first-pass infographic:
 Research backing:
 
 - [Non-official source strategy](sources/non-official-source-strategy.md)
+- [Claim evaluation framework](sources/claim-evaluation-framework.md)
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
+- [Misleading prevention claims](prevention/misleading-prevention-claims.md)
 - [Screening public guidance](prevention/screening-public-guidance.md)
 - [How cancer grows](concepts/how-cancer-grows.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
