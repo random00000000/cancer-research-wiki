@@ -35,6 +35,8 @@ Localized infographic variants:
 - [German SVG](visuals/cancer-literacy-infographic.de.svg)
 - [Mandarin Chinese SVG](visuals/cancer-literacy-infographic.zh.svg)
 - [Russian SVG](visuals/cancer-literacy-infographic.ru.svg)
+- [French SVG](visuals/cancer-literacy-infographic.fr.svg)
+- [Portuguese SVG](visuals/cancer-literacy-infographic.pt.svg)
 - [Translated captions and alt text](i18n/INFOGRAPHIC_CAPTIONS.md)
 
 Research backing:

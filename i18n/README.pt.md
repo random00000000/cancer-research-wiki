@@ -25,7 +25,7 @@ O infográfico deve explicar:
 
 Infográfico atual:
 
-![Câncer: como as células quebram as regras do corpo](../visuals/cancer-literacy-infographic.svg)
+![Câncer: como as células quebram as regras do corpo](../visuals/cancer-literacy-infographic.pt.svg)
 
 Texto alternativo e legendas traduzidos: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 

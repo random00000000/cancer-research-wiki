@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">Câncer: como as células quebram as regras do corpo</title>
+  <desc id="desc">Infográfico em português explicando como o câncer começa e cresce, e como reduzir risco sem prometer risco zero.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.52" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 43px Arial, Helvetica, sans-serif; fill: #102033; }
+      .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #31445c; }
+      .section { font: 800 29px Arial, Helvetica, sans-serif; fill: #102033; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, Helvetica, sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, Helvetica, sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, Helvetica, sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">Câncer: células quebrando regras</text>
+    <text class="subtitle" x="2" y="92">O que é, como cresce e como reduzir risco sem prometer risco zero.</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. Célula normal</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/>
+    <circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">Tecidos saudáveis usam controles:</text>
+    <text class="small" x="24" y="295">crescer com sinal, reparar danos</text>
+    <text class="small" x="24" y="322">e remover células inseguras.</text>
+  </g>
+
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. Mudanças se acumulam</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/>
+    <circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">Exposições, infecções, idade,</text>
+    <text class="small" x="24" y="295">risco herdado e erros de cópia</text>
+    <text class="small" x="24" y="322">podem alterar instruções celulares.</text>
+  </g>
+
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. Comportamento canceroso</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/>
+    <circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">Células podem se dividir demais,</text>
+    <text class="small" x="24" y="295">escapar da defesa, recrutar vasos,</text>
+    <text class="small" x="24" y="322">invadir e às vezes se espalhar.</text>
+  </g>
+
+  <path class="line" d="M380 405 H440"/>
+  <path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/>
+  <path class="line" d="M760 405 H820"/>
+  <path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">O ciclo básico</text>
+    <text class="body" x="30" y="88">Uma célula alterada sobrevive, se multiplica, se adapta e muda o tecido ao redor.</text>
+    <text class="body" x="30" y="126">A raiz não é um único gatilho mágico: genes, imunidade, metabolismo, ambiente,</text>
+    <text class="body" x="30" y="164">idade, infecções e acesso à prevenção interagem.</text>
+    <text class="small" x="30" y="213">Por isso, erradicar câncer exige prevenção, detecção precoce, biologia e melhores tratamentos.</text>
+  </g>
+
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">Reduzir risco: menor probabilidade, não zero</text>
+    <text class="body" x="0" y="36">Essas ações têm respaldo de evidências, mas não garantem uma vida sem câncer.</text>
+
+    <g transform="translate(0 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Sem tabaco</text>
+      <text class="small" x="22" y="78">Evitar fumaça e apoiar parar.</text>
+    </g>
+    <g transform="translate(278 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Menos álcool</text>
+      <text class="small" x="22" y="78">Menos é mais seguro; zero evita esse risco.</text>
+    </g>
+    <g transform="translate(556 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Movimento</text>
+      <text class="small" x="22" y="78">Atividade regular reduz vários riscos.</text>
+    </g>
+    <g transform="translate(834 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Proteção UV</text>
+      <text class="small" x="22" y="78">Sol com cuidado; sem bronzeamento artificial.</text>
+    </g>
+
+    <g transform="translate(0 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Vacinas</text>
+      <text class="small" x="22" y="78">HPV e hepatite B quando indicado.</text>
+    </g>
+    <g transform="translate(278 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Rastreamento</text>
+      <text class="small" x="22" y="78">Por idade, risco e orientação local.</text>
+    </g>
+    <g transform="translate(556 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Padrão saudável</text>
+      <text class="small" x="22" y="78">Plantas, grãos integrais e equilíbrio energético.</text>
+    </g>
+    <g transform="translate(834 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">Menos exposições</text>
+      <text class="small" x="22" y="78">Ar, trabalho, radônio e políticas importam.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, Helvetica, sans-serif; fill: #ffffff;">Importante: prevenção não é culpa</text>
+    <text x="32" y="86" style="font: 400 20px Arial, Helvetica, sans-serif; fill: #e2e8f0;">Alguns cânceres acontecem apesar de ótimas escolhas. Idade, variantes herdadas, infecções,</text>
+    <text x="32" y="116" style="font: 400 20px Arial, Helvetica, sans-serif; fill: #e2e8f0;">erros celulares, ambiente, renda, geografia e acesso ao cuidado também importam.</text>
+  </g>
+
+  <text class="tiny" x="60" y="1645">Base: NCI, ACS, IARC/WHO, Hanahan/Weinberg, GBD, WCRF/AICR e páginas de evidência do wiki. Para sintomas, rastreamento ou risco pessoal, fale com profissional de saúde.</text>
+</svg>

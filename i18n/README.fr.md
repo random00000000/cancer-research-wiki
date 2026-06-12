@@ -25,7 +25,7 @@ L’infographie doit expliquer :
 
 Infographie actuelle :
 
-![Cancer : comment les cellules enfreignent les règles du corps](../visuals/cancer-literacy-infographic.svg)
+![Cancer : comment les cellules enfreignent les règles du corps](../visuals/cancer-literacy-infographic.fr.svg)
 
 Texte alternatif et légendes traduits : [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 
