@@ -1,5 +1,7 @@
 # Cancer Research Wiki
 
+Languages: [English](README.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [中文](i18n/README.zh.md) | [Русский](i18n/README.ru.md)
+
 Cancer Research Wiki is an automated, evidence-first research wiki with a long-term intent: help move cancer research, prevention literacy, and therapeutic reasoning toward eradication by focusing on root mechanisms, not only symptoms.
 
 This repository is meant to become a structured memory for cancer research agents. Over time, a new thread inside this repo should feel less like searching a pile of links and more like talking to a careful cancer specialist: mechanistic, visual, source-grounded, honest about uncertainty, and clear about when a licensed clinician must be involved.
@@ -35,6 +37,7 @@ Research backing:
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Goal 1 effect-size evidence](prevention/effect-size-evidence.md)
 - [Risk communication guide](prevention/risk-communication.md)
+- [Non-screening absolute risk examples](prevention/non-screening-absolute-risk-examples.md)
 - [Environmental and occupational exposure evidence](prevention/environmental-exposure-evidence.md)
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)

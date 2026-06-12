@@ -12,7 +12,7 @@ Last updated: 2026-06-12
 ## Prevention Levers
 
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
-- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, screening harm, and first-pass absolute benefit/harm anchors; next priority is non-screening absolute-risk examples.
+- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, screening harm, first-pass absolute screening tradeoffs, and first-pass non-screening absolute examples. Next priority: more HPV, HBV, alcohol, radon, and air pollution absolute examples.
 - Add claim cards for misleading prevention claims, especially supplements, sugar, detoxes, alkaline diets, fasting, ketogenic diets, and "immune boosting."
 - Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal, cervical, breast, liver, stomach, lung, skin, and oral/oropharyngeal. Next: deepen each page with effect sizes, geographic modifiers, and dedicated mechanism/source cards.
 - CDC tobacco cessation and quitline resources.
@@ -42,3 +42,10 @@ Last updated: 2026-06-12
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.
 - Produce a site-specific prevention visual: "Which levers matter most for which cancers?"
 - Produce an icon-array visual explaining relative risk versus absolute risk.
+- Produce a population-count visual separating "public-health burden" from "personal blame."
+
+## Multilingual Access
+
+- Deepen `i18n/` entry pages into reviewed evidence summaries for Spanish, German, Mandarin, Russian, and additional languages.
+- Add translated infographic captions and alt text for future visual releases.
+- Keep the root README language switcher current as new translations are added.
