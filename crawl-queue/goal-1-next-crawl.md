@@ -44,7 +44,7 @@ Last updated: 2026-06-12
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.
 - Visually QA and translate the new site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`.
-- Produce an icon-array visual explaining relative risk versus absolute risk.
+- Visually QA and translate the new relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`.
 - Produce a population-count visual separating "public-health burden" from "personal blame."
 
 ## Multilingual Access

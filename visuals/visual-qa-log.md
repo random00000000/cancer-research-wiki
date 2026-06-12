@@ -42,6 +42,7 @@ Checked files:
 - `visuals/screening-vaccination-decision.ru.svg`
 - `visuals/risk-mechanism-prevention-map.svg`
 - `visuals/site-specific-prevention-levers.svg`
+- `visuals/relative-vs-absolute-risk.svg`
 - `visuals/cancer-claim-filter.svg`
 
 Result:
@@ -72,6 +73,7 @@ Browser QA attempt:
 | Screening/vaccination decision localized SVGs | Passed | Still needed | Still needed |
 | Risk/mechanism/prevention agent map | Passed | Still needed | Not applicable |
 | Site-specific prevention levers SVG | Passed | Still needed | Not applicable |
+| Relative versus absolute risk SVG | Passed | Still needed | Not applicable |
 | Claim-filter SVG | Passed | Still needed | Not applicable |
 
 ## Next Visual QA Tasks

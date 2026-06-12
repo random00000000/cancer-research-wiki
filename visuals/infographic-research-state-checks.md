@@ -17,6 +17,8 @@ Current screening/vaccination decision visual: `visuals/screening-vaccination-de
 
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
+Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
+
 Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
 
 Current localized screening/vaccination decision variants:
@@ -34,6 +36,22 @@ Current localized companion mechanism variants:
 - Russian: `visuals/cancer-keeps-adapting.ru.svg`
 
 Current visual QA log: `visuals/visual-qa-log.md`
+
+## 2026-06-12 Check: Relative Versus Absolute Risk Visual
+
+New visual:
+
+- `visuals/relative-vs-absolute-risk.svg`
+
+### What Changed
+
+- The wiki now has a public risk-communication visual explaining why a relative-risk percentage needs a baseline, denominator, time horizon, and absolute difference.
+- The visual uses an explicitly illustrative example so it does not invent a universal cancer effect size.
+- It also separates population prevention from personal blame, matching `prevention/risk-communication.md` and the population-attributable fraction cautions in `prevention/effect-size-evidence.md`.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's short risk-reduction caveat. Use this companion when a reader or agent needs to interpret percentages, headlines, screening claims, prevention claims, or population-attributable burden.
 
 ## 2026-06-12 Check: Site-Specific Prevention Levers
 

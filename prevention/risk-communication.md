@@ -124,6 +124,10 @@ A later visual can show:
 - Relative risk label and absolute difference label.
 - Population-attributable fraction as a separate community-level frame.
 
+Current companion visual:
+
+- `visuals/relative-vs-absolute-risk.svg`
+
 ## Source Cards
 
 ### Understanding And Communicating Risk
@@ -188,6 +192,6 @@ Before giving a number, include:
 
 ## Next Research Tasks
 
-- Add an icon-array visual template for 1000-person public explanations.
+- Visually QA and translate `visuals/relative-vs-absolute-risk.svg`.
 - Add a short "how to read cancer headlines" page.
 - Add more absolute-risk examples for HPV, HBV, alcohol, radon, and air pollution where sources give clean denominators.

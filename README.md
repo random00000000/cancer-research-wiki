@@ -45,6 +45,10 @@ Site-specific prevention levers visual:
 
 ![Which prevention levers matter most by cancer site](visuals/site-specific-prevention-levers.svg)
 
+Relative versus absolute risk visual:
+
+![A percentage needs a baseline](visuals/relative-vs-absolute-risk.svg)
+
 Localized screening/vaccination decision variants:
 
 - [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)
@@ -113,6 +117,7 @@ Research backing:
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)
 - [Site-specific prevention levers visual](visuals/site-specific-prevention-levers.svg)
+- [Relative versus absolute risk visual](visuals/relative-vs-absolute-risk.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

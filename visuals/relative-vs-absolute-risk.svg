@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Relative risk versus absolute risk</title>
+  <desc id="desc">A public risk communication visual showing why a relative risk percentage needs a baseline, denominator, time period, and absolute difference.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.52" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#eefdf4"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/>
+    </filter>
+    <style>
+      .title { font: 800 52px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 31px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 22px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 19px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 31px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 19px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .dot { fill: #dbe4ef; stroke: #ffffff; stroke-width: 1; }
+      .event { fill: #ef4444; stroke: #ffffff; stroke-width: 1; }
+      .prevented { fill: #16a34a; stroke: #ffffff; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">A percentage needs a baseline</text>
+    <text class="subtitle" x="2" y="100">Relative risk can sound huge. Absolute risk tells you how many people are affected in a group over time.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(75 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Example: risk falls from 4 to 3 in 1000</text>
+    <text class="body" x="32" y="88">This is a teaching example, not a universal cancer estimate.</text>
+    <text class="label" x="32" y="138">Without the lever: 4 events</text>
+    <g transform="translate(32 165)">
+      <rect x="0" y="0" width="10" height="10" class="event"/>
+      <rect x="14" y="0" width="10" height="10" class="event"/>
+      <rect x="28" y="0" width="10" height="10" class="event"/>
+      <rect x="42" y="0" width="10" height="10" class="event"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/>
+      <rect x="70" y="0" width="10" height="10" class="dot"/>
+      <rect x="84" y="0" width="10" height="10" class="dot"/>
+      <rect x="98" y="0" width="10" height="10" class="dot"/>
+      <rect x="112" y="0" width="10" height="10" class="dot"/>
+      <rect x="126" y="0" width="10" height="10" class="dot"/>
+      <rect x="140" y="0" width="10" height="10" class="dot"/>
+      <rect x="154" y="0" width="10" height="10" class="dot"/>
+      <rect x="168" y="0" width="10" height="10" class="dot"/>
+      <rect x="182" y="0" width="10" height="10" class="dot"/>
+      <rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Each small square stands for people in the same baseline group.</text>
+    </g>
+    <text class="label" x="32" y="238">With the lever: 3 events</text>
+    <g transform="translate(32 265)">
+      <rect x="0" y="0" width="10" height="10" class="event"/>
+      <rect x="14" y="0" width="10" height="10" class="event"/>
+      <rect x="28" y="0" width="10" height="10" class="event"/>
+      <rect x="42" y="0" width="10" height="10" class="prevented"/>
+      <rect x="56" y="0" width="10" height="10" class="dot"/>
+      <rect x="70" y="0" width="10" height="10" class="dot"/>
+      <rect x="84" y="0" width="10" height="10" class="dot"/>
+      <rect x="98" y="0" width="10" height="10" class="dot"/>
+      <rect x="112" y="0" width="10" height="10" class="dot"/>
+      <rect x="126" y="0" width="10" height="10" class="dot"/>
+      <rect x="140" y="0" width="10" height="10" class="dot"/>
+      <rect x="154" y="0" width="10" height="10" class="dot"/>
+      <rect x="168" y="0" width="10" height="10" class="dot"/>
+      <rect x="182" y="0" width="10" height="10" class="dot"/>
+      <rect x="196" y="0" width="10" height="10" class="dot"/>
+      <text class="small" x="226" y="10">Green means the absolute difference: 1 fewer event per 1000.</text>
+    </g>
+
+    <rect class="pill" x="32" y="344" width="250" height="62" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="56" y="382">Relative: 25% lower</text>
+    <rect class="pill" x="314" y="344" width="282" height="62" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="label" x="337" y="382">Absolute: 1 in 1000</text>
+    <text class="body" x="32" y="456">Both numbers are true. The absolute number is often what helps</text>
+    <text class="body" x="32" y="484">people understand the size of a benefit or harm.</text>
+  </g>
+
+  <g transform="translate(785 205)">
+    <rect class="card" x="0" y="0" width="640" height="520"/>
+    <text class="head" x="32" y="54">Ask these before trusting a risk claim</text>
+    <g transform="translate(32 100)">
+      <circle cx="22" cy="18" r="18" fill="#2563eb"/>
+      <text class="label" x="60" y="25">Compared with what?</text>
+      <text class="body" x="60" y="55">A risk number needs a comparison group.</text>
+    </g>
+    <g transform="translate(32 185)">
+      <circle cx="22" cy="18" r="18" fill="#16a34a"/>
+      <text class="label" x="60" y="25">In whom, and over what time?</text>
+      <text class="body" x="60" y="55">Age, sex, anatomy, exposure, infection, and follow-up matter.</text>
+    </g>
+    <g transform="translate(32 270)">
+      <circle cx="22" cy="18" r="18" fill="#f97316"/>
+      <text class="label" x="60" y="25">How many out of how many?</text>
+      <text class="body" x="60" y="55">Look for counts such as 3 in 1000, not only percentages.</text>
+    </g>
+    <g transform="translate(32 355)">
+      <circle cx="22" cy="18" r="18" fill="#7c3aed"/>
+      <text class="label" x="60" y="25">Benefit, harm, or detection?</text>
+      <text class="body" x="60" y="55">Incidence, mortality, survival, and test results are different.</text>
+    </g>
+    <text class="body" x="32" y="472">For cancer prevention, a strong answer should name the source,</text>
+    <text class="body" x="32" y="500">the population, the baseline, the time horizon, and the uncertainty.</text>
+  </g>
+
+  <g transform="translate(110 775)">
+    <rect x="0" y="0" width="1280" height="130" rx="26" fill="#102033"/>
+    <text class="lightHead" x="38" y="48">Population prevention is not personal blame</text>
+    <text class="lightBody" x="38" y="84">A common exposure can cause many cases across a population even when most exposed people never get that cancer.</text>
+    <text class="lightBody" x="38" y="114">A population-attributable fraction is a planning estimate, not a verdict about any one person's cancer.</text>
+  </g>
+
+  <g transform="translate(110 940)">
+    <rect x="0" y="0" width="1280" height="70" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="28">Use natural frequencies when possible: "x in 1000 over y years." Never convert a study percentage into personal advice without context.</text>
+    <text class="source" x="26" y="54">Source backbone: prevention/risk-communication.md; Gigerenzer, risk communication reviews, and population-attributable fraction methods papers.</text>
+  </g>
+</svg>
