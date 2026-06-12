@@ -255,6 +255,8 @@ The canonical public destination is `random00000000/cancer-research-wiki`. After
 
 This repository itself is the working wiki and memory. Agents should commit directly in this repo, then push to `random00000000/cancer-research-wiki`, so later cancer-specialist threads inherit the newest crawl notes, source cards, visuals, QA logs, and safety rules.
 
+Default behavior: every finished automated research, synthesis, visual, translation, QA, or infrastructure pass should end with a local commit in this checkout and a push to `origin` for `random00000000/cancer-research-wiki`. Treat the GitHub repository as the durable project memory, not an optional mirror.
+
 Do not treat a completed automated crawl, synthesis, visual, or QA pass as finished until it has been committed in this repository and pushed to `random00000000/cancer-research-wiki`, unless the user explicitly says to keep that pass uncommitted.
 
 Before committing:
