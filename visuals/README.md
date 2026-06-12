@@ -33,3 +33,9 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 | Visual | Asset | Status |
 | --- | --- | --- |
 | Cancer claim filter | `cancer-claim-filter.svg` | First-pass English SVG |
+
+## Companion Mechanism Visuals
+
+| Visual | Asset | Status |
+| --- | --- | --- |
+| How cancer keeps adapting | `cancer-keeps-adapting.svg` | First-pass English SVG |

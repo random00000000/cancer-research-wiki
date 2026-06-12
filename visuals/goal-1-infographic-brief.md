@@ -63,3 +63,7 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 - Use source labels in the footer, not dense citation text in the body.
 - Avoid scary gore, miracle-cure language, and individual blame.
 - Add a companion explainer visual for "how cancer keeps adapting."
+
+## Companion Visuals
+
+- `cancer-keeps-adapting.svg` - English first-pass mechanism companion showing variation, selection pressure, tumor ecosystem support, and metastasis as an obstacle course.

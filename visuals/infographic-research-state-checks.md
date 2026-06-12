@@ -11,6 +11,8 @@ Current translated support: `i18n/INFOGRAPHIC_CAPTIONS.md`
 
 Current safety add-on visual: `visuals/cancer-claim-filter.svg`
 
+Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
+
 Current localized image variants:
 
 - Spanish: `visuals/cancer-literacy-infographic.es.svg`
@@ -34,11 +36,16 @@ New evidence page:
 
 - `concepts/cancer-growth-mechanism-map.md`
 
+New companion visual:
+
+- `visuals/cancer-keeps-adapting.svg`
+
 ### What Changed
 
 - The wiki now separates cancer growth into five retrieval layers: cell instructions, cell behavior, evolution, ecosystem, and spread.
 - The mechanism map strengthens the infographic's "how cancer keeps growing" claim with hallmarks, clonal evolution, tumor microenvironment, immune escape, and metastasis-colonization source cards.
 - The source mix is primarily peer-reviewed literature and conceptual reviews rather than CDC-style public-health summaries.
+- The companion SVG turns the deeper map into a public visual without overloading the flagship README infographic.
 
 ### Decision For The Flagship Infographic
 
@@ -49,6 +56,10 @@ Do not add the full mechanism map to the flagship image. The next visual should 
 - A visible selection-pressure loop.
 - A tumor ecosystem ring around cancer cells.
 - A metastasis obstacle-course strip that makes clear most disseminated cells fail.
+
+### Translation Impact
+
+The companion visual is English-only for now. Future work should translate it after the flagship localized set receives visual QA, because the mechanism wording is denser than the first public literacy image.
 
 ## 2026-06-12 Check: Claim Filter Evidence Add-On
 

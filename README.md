@@ -29,6 +29,10 @@ Current first-pass infographic:
 
 ![Cancer: how cells break the body's rules](visuals/cancer-literacy-infographic.svg)
 
+Companion mechanism visual:
+
+![How cancer keeps adapting](visuals/cancer-keeps-adapting.svg)
+
 Localized infographic variants:
 
 - [Spanish SVG](visuals/cancer-literacy-infographic.es.svg)
@@ -78,6 +82,7 @@ Research backing:
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
+- [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

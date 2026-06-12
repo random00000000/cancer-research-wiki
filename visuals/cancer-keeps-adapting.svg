@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2100" viewBox="0 0 1600 2100" role="img" aria-labelledby="title desc">
+  <title id="title">How cancer keeps adapting</title>
+  <desc id="desc">A companion public cancer research infographic showing selection pressure, tumor ecosystem support, immune escape, and metastatic spread as a difficult multistep process.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.52" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#f0fdf4"/>
+    </linearGradient>
+    <linearGradient id="tumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="pressure" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#dc2626"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#111827" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .title { font: 800 64px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 31px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .section { font: 800 39px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 27px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 24px Arial, Helvetica, sans-serif; fill: #24364b; letter-spacing: 0; }
+      .small { font: 400 20px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .tiny { font: 400 18px Arial, Helvetica, sans-serif; fill: #64748b; letter-spacing: 0; }
+      .source { font: 700 17px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 28; filter: url(#shadow); }
+      .line { stroke: #475569; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; marker-end: url(#arrow); }
+      .dash { stroke: #94a3b8; stroke-width: 4; stroke-dasharray: 12 12; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="2100" fill="url(#bg)"/>
+
+  <g transform="translate(88 70)">
+    <text class="title" x="0" y="72">How cancer keeps adapting</text>
+    <text class="subtitle" x="4" y="124">Cancer is not a single bad cell. It is an evolving tissue system shaped by pressure, ecology, and chance.</text>
+    <rect x="0" y="168" width="1424" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(90 260)">
+    <rect class="card" x="0" y="0" width="690" height="500"/>
+    <text class="section" x="38" y="62">1. Variation appears</text>
+    <text class="body" x="38" y="112">Cell lineages can differ through DNA changes, chromosome changes,</text>
+    <text class="body" x="38" y="143">epigenetic state, viral effects, stress responses, or phenotype switching.</text>
+    <g transform="translate(70 198)">
+      <circle cx="95" cy="95" r="72" fill="url(#tumor)"/>
+      <circle cx="210" cy="70" r="54" fill="#f97316" opacity="0.88"/>
+      <circle cx="300" cy="135" r="62" fill="#0ea5e9" opacity="0.86"/>
+      <circle cx="420" cy="92" r="50" fill="#22c55e" opacity="0.86"/>
+      <circle cx="520" cy="154" r="66" fill="#a855f7" opacity="0.9"/>
+      <circle cx="95" cy="95" r="26" fill="#fdf4ff"/>
+      <circle cx="300" cy="135" r="22" fill="#eff6ff"/>
+      <circle cx="520" cy="154" r="23" fill="#fdf4ff"/>
+    </g>
+    <text class="small" x="38" y="414">Plain meaning: one tumor can contain many related but different</text>
+    <text class="small" x="38" y="442">cell populations. That diversity gives adaptation something to select.</text>
+  </g>
+
+  <g transform="translate(820 260)">
+    <rect class="card" x="0" y="0" width="690" height="500"/>
+    <text class="section" x="38" y="62">2. Pressure selects survivors</text>
+    <text class="body" x="38" y="112">Low oxygen, immune attack, nutrient limits, tissue barriers, acidity,</text>
+    <text class="body" x="38" y="143">and therapy can favor cells that already tolerate that pressure.</text>
+    <rect x="70" y="214" width="550" height="58" rx="29" fill="url(#pressure)"/>
+    <text class="label" x="104" y="252" fill="#ffffff">selection pressure</text>
+    <g transform="translate(92 326)">
+      <circle cx="0" cy="0" r="32" fill="#94a3b8" opacity="0.55"/>
+      <circle cx="105" cy="0" r="32" fill="#94a3b8" opacity="0.55"/>
+      <circle cx="210" cy="0" r="32" fill="#7c3aed"/>
+      <circle cx="315" cy="0" r="32" fill="#94a3b8" opacity="0.55"/>
+      <circle cx="420" cy="0" r="32" fill="#7c3aed"/>
+      <line x1="-20" y1="62" x2="450" y2="62" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+      <text class="tiny" x="-20" y="105">many fail</text>
+      <text class="tiny" x="340" y="105">survivors expand</text>
+    </g>
+  </g>
+
+  <path class="line" d="M780 510 C795 510, 805 510, 820 510"/>
+
+  <g transform="translate(90 825)">
+    <rect class="card" x="0" y="0" width="1420" height="560"/>
+    <text class="section" x="38" y="64">3. Tumors behave like ecosystems</text>
+    <text class="body" x="38" y="114">Cancer cells interact with immune cells, fibroblasts, blood vessels, extracellular matrix, microbes, nerves, and soluble signals.</text>
+    <g transform="translate(135 178)">
+      <circle cx="520" cy="170" r="150" fill="#f5d0fe" stroke="#9333ea" stroke-width="7"/>
+      <circle cx="470" cy="130" r="68" fill="url(#tumor)"/>
+      <circle cx="570" cy="175" r="76" fill="#8b5cf6" opacity="0.92"/>
+      <circle cx="500" cy="245" r="54" fill="#ec4899" opacity="0.86"/>
+      <circle cx="560" cy="128" r="24" fill="#fdf4ff"/>
+      <circle cx="430" cy="225" r="18" fill="#fdf4ff"/>
+
+      <circle cx="210" cy="84" r="38" fill="#38bdf8"/>
+      <text class="small" x="265" y="92">immune cells</text>
+      <path class="dash" d="M250 95 C330 120, 370 130, 425 145"/>
+
+      <rect x="245" y="260" width="108" height="46" rx="23" fill="#f59e0b"/>
+      <text class="small" x="374" y="291">fibroblasts / matrix</text>
+      <path class="dash" d="M354 270 C420 250, 438 238, 472 220"/>
+
+      <path d="M820 82 C910 120, 910 225, 820 268" fill="none" stroke="#ef4444" stroke-width="18" stroke-linecap="round"/>
+      <path d="M820 82 C910 120, 910 225, 820 268" fill="none" stroke="#fee2e2" stroke-width="6" stroke-linecap="round"/>
+      <text class="small" x="940" y="148">blood vessels</text>
+      <text class="small" x="940" y="180">and routes</text>
+      <path class="dash" d="M802 170 C720 170, 692 170, 650 170"/>
+
+      <circle cx="800" cy="332" r="35" fill="#84cc16"/>
+      <text class="small" x="852" y="340">microbes / signals</text>
+      <path class="dash" d="M780 312 C705 260, 670 230, 628 205"/>
+    </g>
+    <text class="small" x="48" y="490">Plain meaning: the neighborhood can restrain abnormal cells, feed them, hide them, inflame them, or shape how they respond to treatment.</text>
+  </g>
+
+  <g transform="translate(90 1450)">
+    <rect class="card" x="0" y="0" width="1420" height="420"/>
+    <text class="section" x="38" y="64">4. Spread is an obstacle course, not a simple jump</text>
+    <text class="body" x="38" y="112">Metastasis requires many rare successes. Most traveling cancer cells fail before they colonize a distant organ.</text>
+    <g transform="translate(80 178)">
+      <circle cx="38" cy="52" r="34" fill="#7c3aed"/>
+      <text class="tiny" x="0" y="118">invade</text>
+      <path class="line" d="M82 52 L196 52"/>
+      <circle cx="246" cy="52" r="34" fill="#f97316"/>
+      <text class="tiny" x="200" y="118">enter blood</text>
+      <path class="line" d="M290 52 L404 52"/>
+      <circle cx="454" cy="52" r="34" fill="#64748b"/>
+      <text class="tiny" x="400" y="118">survive travel</text>
+      <path class="line" d="M498 52 L612 52"/>
+      <circle cx="662" cy="52" r="34" fill="#38bdf8"/>
+      <text class="tiny" x="612" y="118">exit vessel</text>
+      <path class="line" d="M706 52 L820 52"/>
+      <circle cx="870" cy="52" r="34" fill="#22c55e"/>
+      <text class="tiny" x="818" y="118">stay dormant</text>
+      <path class="line" d="M914 52 L1028 52"/>
+      <circle cx="1078" cy="52" r="34" fill="#dc2626"/>
+      <text class="tiny" x="1028" y="118">colonize</text>
+      <text class="label" x="1148" y="43">rare success,</text>
+      <text class="label" x="1148" y="78">high danger</text>
+    </g>
+    <text class="small" x="38" y="354">Public safety note: understanding metastasis should guide prevention, screening, and care decisions, not fatalism.</text>
+  </g>
+
+  <g transform="translate(90 1930)">
+    <rect x="0" y="0" width="1420" height="110" rx="24" fill="#102033"/>
+    <text x="38" y="42" style="font: 800 28px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0;">Takeaway</text>
+    <text x="38" y="78" style="font: 400 24px Arial, Helvetica, sans-serif; fill: #dbeafe; letter-spacing: 0;">Cancer control must target cells, evolution, ecosystem support, immune escape, and spread. No single slogan explains every cancer.</text>
+  </g>
+
+  <text class="source" x="92" y="2072">Source backbone: Hallmarks of Cancer 2011/2022; clonal evolution; tumor microenvironment; metastatic colonization reviews. Educational only, not medical advice.</text>
+</svg>
