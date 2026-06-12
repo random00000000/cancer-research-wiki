@@ -12,6 +12,7 @@ Scope:
 - Flagship cancer literacy infographic: English plus localized SVGs.
 - Companion adaptation infographic: English plus first localized SVGs.
 - Claim-filter add-on visual: English plus first localized SVGs.
+- Screening benefit-harm add-on visual: English plus first localized SVGs.
 - Infection-prevention add-on visual: English plus first localized SVGs.
 - H. pylori/stomach cancer add-on visual: English plus first localized SVGs.
 - Environment/work add-on visual: English plus first localized SVGs.
@@ -53,6 +54,11 @@ Checked files:
 - `visuals/screening-vaccination-decision.de.svg`
 - `visuals/screening-vaccination-decision.zh.svg`
 - `visuals/screening-vaccination-decision.ru.svg`
+- `visuals/screening-benefit-harm-balance.svg`
+- `visuals/screening-benefit-harm-balance.es.svg`
+- `visuals/screening-benefit-harm-balance.de.svg`
+- `visuals/screening-benefit-harm-balance.zh.svg`
+- `visuals/screening-benefit-harm-balance.ru.svg`
 - `visuals/risk-mechanism-prevention-map.svg`
 - `visuals/site-specific-prevention-levers.svg`
 - `visuals/site-specific-prevention-levers.es.svg`
@@ -160,7 +166,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 111 SVG files in `visuals/`.
+- All 116 SVG files in `visuals/`.
 
 Tooling:
 
@@ -183,8 +189,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 111 SVG files at their declared canvas sizes.
-- All 111 renders were nonblank.
+- Headless Chrome rendered all 116 SVG files at their declared canvas sizes.
+- All 116 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -198,6 +204,7 @@ Result:
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The air pollution visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The H. pylori/stomach cancer prevention visual set was included in the latest render pass; English and Mandarin full-size previews plus the contact sheet containing all five variants were inspected before commit.
+- The screening benefit-harm balance visual set was included in the latest render pass; English, German, and Russian full-size previews were inspected, and German heading overflow was corrected before commit.
 
 Repository note:
 
@@ -213,6 +220,8 @@ Repository note:
 | Companion adaptation localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
 | Screening/vaccination decision English SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 | Screening/vaccination decision localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
+| Screening benefit-harm balance SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Screening benefit-harm balance localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian full-size previews checked; German overflow fixed | Still needed |
 | Risk/mechanism/prevention agent map | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 | Site-specific prevention levers SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 | Site-specific prevention levers localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |

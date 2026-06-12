@@ -92,6 +92,18 @@ This public safety visual explains why symptoms, risk, screening, vaccination, b
 | Mandarin Chinese | [screening-vaccination-decision.zh.svg](../visuals/screening-vaccination-decision.zh.svg) | First localized SVG |
 | Russian | [screening-vaccination-decision.ru.svg](../visuals/screening-vaccination-decision.ru.svg) | First localized SVG |
 
+## Screening Benefit-Harm Balance Visual Variants
+
+This public visual explains that screening can help, but benefit and harm must be shown together with absolute numbers, symptoms kept separate, and follow-up access treated as part of the intervention. These translations should receive native review because screening terms, program names, and follow-up systems vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [screening-benefit-harm-balance.svg](../visuals/screening-benefit-harm-balance.svg) | Canonical first-pass SVG |
+| Spanish | [screening-benefit-harm-balance.es.svg](../visuals/screening-benefit-harm-balance.es.svg) | First localized SVG; native review needed |
+| German | [screening-benefit-harm-balance.de.svg](../visuals/screening-benefit-harm-balance.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [screening-benefit-harm-balance.zh.svg](../visuals/screening-benefit-harm-balance.zh.svg) | First localized SVG; native review needed |
+| Russian | [screening-benefit-harm-balance.ru.svg](../visuals/screening-benefit-harm-balance.ru.svg) | First localized SVG; native review needed |
+
 ## Infection-Related Cancer Prevention Visual Variants
 
 This public visual explains that cancer is not contagious like a cold, but some persistent infections can raise cancer risk and can be prevented, detected, or treated. These translations should receive native review before final medical wording, especially because vaccine, screening, and testing terms vary by region.

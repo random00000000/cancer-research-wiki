@@ -5,6 +5,12 @@ Last updated: 2026-06-12
 
 This page supports public cancer literacy and future agent answers. It is not a personal screening plan. Screening can save lives, but honest screening guidance must include harms, follow-up burden, and uncertainty.
 
+Companion balance page and visual:
+
+- `prevention/screening-benefit-harm-balance.md`
+- `visuals/screening-benefit-harm-balance.svg`
+- First localized variants: `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
+
 ## Plain-Language Summary
 
 Cancer screening is useful when the benefits outweigh the harms for a defined group. It is not automatically good for every person, every age, every risk level, or every test. The same test can be life-saving for one group and mostly harmful for another. Good public messaging should say "recommended screening" and make room for false positives, false negatives, overdiagnosis, overtreatment, radiation exposure, procedure harms, anxiety, cost, and unequal access to follow-up.
@@ -200,4 +206,5 @@ If the user reports symptoms, the agent should treat it as a medical-evaluation 
 
 - Compare USPSTF, ACS, NCCN, WHO, and Cancer Research UK screening communication.
 - Add a public "screening question checklist" visual.
+- Expand the screening benefit-harm balance visual with absolute examples per 1000 screened.
 - Add overdiagnosis-specific source cards for mammography, LDCT, prostate screening boundary notes, and thyroid/whole-body scan caution.

@@ -6,7 +6,7 @@ Last updated: 2026-06-12
 ## Screening
 
 - Compare USPSTF, ACS, NCCN, and WHO screening guidance for public-facing differences.
-- Deepen `prevention/screening-harms-and-tradeoffs.md` with overdiagnosis, radiation exposure, false negatives, and inequitable follow-up access.
+- Deepen `prevention/screening-harms-and-tradeoffs.md` with overdiagnosis, radiation exposure, false negatives, and inequitable follow-up access. Started: `prevention/screening-benefit-harm-balance.md` plus localized public visual variants. Next: absolute examples per 1000 screened and current guideline comparisons.
 - Deepen screening mortality effect-size anchors with non-US guidance comparisons and overdiagnosis-specific source cards.
 
 ## Prevention Levers
@@ -44,6 +44,7 @@ Last updated: 2026-06-12
 - Visually QA the new companion infographic draft and first localized variants: `visuals/cancer-keeps-adapting.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Continue close visual inspection of the headless Chrome contact sheets in `visuals/qa-renders/`; current renderer QA must be refreshed after each new SVG set and does not finish clipping, glyph, layout, or translation review.
 - Visually QA the public-safe screening/vaccination decision visual and first localized variants: `visuals/screening-vaccination-decision.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
+- Visually QA the screening benefit-harm balance visual and first localized variants: `visuals/screening-benefit-harm-balance.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then add absolute benefit/harm examples and expand to additional languages after native review.
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
 - Visually QA the public "cancer claim filter" visual and first localized variants: `visuals/cancer-claim-filter.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then gather native-language examples of misleading cancer-claim wording before expanding the visual to additional languages.
 - Visually QA the infection-related cancer prevention visual and first localized variants: `visuals/infection-prevention-cancer.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen regional H. pylori, HBV, HCV, and HPV evidence before expanding to additional languages.

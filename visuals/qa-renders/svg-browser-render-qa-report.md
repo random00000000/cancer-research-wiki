@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 111
-Nonblank renders: 111
+SVG files rendered: 116
+Nonblank renders: 116
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -112,6 +112,11 @@ Blank or near-blank renders: 0
 | `relative-vs-absolute-risk.svg` | 1500x1050 | True | 35.62 |
 | `relative-vs-absolute-risk.zh.svg` | 1500x1050 | True | 34.39 |
 | `risk-mechanism-prevention-map.svg` | 1600x1100 | True | 27.36 |
+| `screening-benefit-harm-balance.de.svg` | 1500x980 | True | 37.78 |
+| `screening-benefit-harm-balance.es.svg` | 1500x980 | True | 37.58 |
+| `screening-benefit-harm-balance.ru.svg` | 1500x980 | True | 37.53 |
+| `screening-benefit-harm-balance.svg` | 1500x980 | True | 37.24 |
+| `screening-benefit-harm-balance.zh.svg` | 1500x980 | True | 36.28 |
 | `screening-vaccination-decision.de.svg` | 1200x850 | True | 28.83 |
 | `screening-vaccination-decision.es.svg` | 1200x850 | True | 27.86 |
 | `screening-vaccination-decision.ru.svg` | 1200x850 | True | 28.22 |

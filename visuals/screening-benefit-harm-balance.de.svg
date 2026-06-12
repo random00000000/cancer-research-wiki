@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Krebs-Screening braucht eine Bilanz</title>
+  <desc id="desc">Eine offentliche Infografik zu Nutzen und Schaden von Krebs-Screening, falsch positiven Befunden, ubersehenen Krebsen, Uberdiagnose und Nachsorge.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" fill="#102033">Krebs-Screening braucht eine Bilanz</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Der richtige Test kann Leben retten, aber mehr Tests sind nicht immer besser.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e6f4f3" stroke="#1f6f6b" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#1f6f6b"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Moeglicher Nutzen</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Einige Screenings senken</text><text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">Krebstodesfaelle oder finden</text><text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">Vorstufen vor Krebs.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Fragen</text><text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Welcher Krebs, welcher Test,</text><text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">welches Alter und Risiko?</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff2d9" stroke="#b46b13" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b46b13"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Moeglicher Schaden</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Fehlalarm, uebersehener</text><text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">Krebs, Uberdiagnose,</text><text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">Eingriffe, Kosten, Stress.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Fragen</text><text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Was passiert nach einem</text><text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">auffaelligen Ergebnis?</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#fde8e8" stroke="#b93636" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#b93636"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Symptome anders</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Screening ist fuer Menschen</text><text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">ohne Symptome.</text><text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">Symptome brauchen Abklaerung.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Fragen</text><text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Ist es Praevention, fruehe</text><text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">Erkennung oder Diagnose?</text>
+  <rect x="92" y="655" width="625" height="160" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">Absolute Zahlen nutzen</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Relative Prozente koennen gross klingen. Fragen:</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">Wie viele profitieren oder werden geschadet pro 1.000?</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#ffdf61" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Sicherheitsgrenze</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Neue, anhaltende oder beunruhigende Symptome</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">sind keine Screening-Frage. Sie brauchen</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">medizinische Abklaerung und Nachsorge.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Evidenzanker: randomisierte Studien, Screening-Metaanalysen, Uberdiagnose-Reviews, Nutzen-Schaden-Leitlinienanalysen.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Screening haengt von Krebsart, Alter, Anatomie, Risiko, Vorbefunden, lokaler Leitlinie und Nachsorge ab.</text>
+</svg>

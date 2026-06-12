@@ -17,6 +17,7 @@ Cancer screening means checking for cancer, or for abnormal cells that may becom
 - Screening decisions should weigh benefits and harms.
 - Access matters: public-health systems should reduce barriers to evidence-backed screening.
 - Detailed harm anchors are tracked in `prevention/screening-harms-and-tradeoffs.md`.
+- Balanced non-CDC-heavy source cards and the public visual are tracked in `prevention/screening-benefit-harm-balance.md`.
 
 ## Effect-Size Anchors
 
@@ -99,6 +100,15 @@ These recommendations are US-focused anchors. Future agents should check for upd
   - Screening answers should distinguish symptoms from screening.
 - Caution:
   - Use current local guidelines for personal screening schedules.
+
+### Screening Benefit-Harm Balance Page
+
+- URL: `prevention/screening-benefit-harm-balance.md`
+- Source type: focused synthesis / public visual support
+- Reusable claims:
+  - Screening should be explained as a cancer-specific benefit-harm balance, not as a universal good or universal harm.
+  - Symptoms should be treated as medical-evaluation questions, not screening questions.
+  - Absolute numbers are preferred when comparing benefits and harms.
 
 ## Non-Official And Trial Source Cards
 

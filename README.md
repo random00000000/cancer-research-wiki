@@ -37,6 +37,10 @@ Screening and vaccination decision visual:
 
 ![Cancer screening and vaccination decision guide](visuals/screening-vaccination-decision.svg)
 
+Screening benefit-harm balance visual:
+
+![Cancer screening needs a balance sheet](visuals/screening-benefit-harm-balance.svg)
+
 Agent-facing risk mechanism map:
 
 ![Cancer risk, mechanism, and prevention map](visuals/risk-mechanism-prevention-map.svg)
@@ -228,6 +232,13 @@ Localized screening/vaccination decision variants:
 - [Mandarin Chinese screening/vaccination SVG](visuals/screening-vaccination-decision.zh.svg)
 - [Russian screening/vaccination SVG](visuals/screening-vaccination-decision.ru.svg)
 
+Localized screening benefit-harm variants:
+
+- [Spanish screening benefit-harm SVG](visuals/screening-benefit-harm-balance.es.svg)
+- [German screening benefit-harm SVG](visuals/screening-benefit-harm-balance.de.svg)
+- [Mandarin Chinese screening benefit-harm SVG](visuals/screening-benefit-harm-balance.zh.svg)
+- [Russian screening benefit-harm SVG](visuals/screening-benefit-harm-balance.ru.svg)
+
 Localized relative/absolute risk variants:
 
 - [Spanish relative/absolute risk SVG](visuals/relative-vs-absolute-risk.es.svg)
@@ -296,6 +307,7 @@ Research backing:
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
 - [Cancer claim filter](prevention/cancer-claim-filter.md)
 - [How to read cancer headlines](prevention/how-to-read-cancer-headlines.md)
+- [Screening benefit-harm balance](prevention/screening-benefit-harm-balance.md)
 - [Screening public guidance](prevention/screening-public-guidance.md)
 - [Screening harms and tradeoffs](prevention/screening-harms-and-tradeoffs.md)
 - [How cancer grows](concepts/how-cancer-grows.md)
@@ -317,6 +329,7 @@ Research backing:
 - [Vaccine-preventable cancer visual](visuals/vaccine-preventable-cancers.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
+- [Screening benefit-harm balance visual](visuals/screening-benefit-harm-balance.svg)
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)
 - [Site-specific prevention levers visual](visuals/site-specific-prevention-levers.svg)
 - [Relative versus absolute risk visual](visuals/relative-vs-absolute-risk.svg)

@@ -22,6 +22,8 @@ Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
 
+Current screening benefit-harm balance visual: `visuals/screening-benefit-harm-balance.svg`
+
 Current infection-related cancer prevention visual: `visuals/infection-prevention-cancer.svg`
 
 Current H. pylori and stomach cancer prevention visual: `visuals/h-pylori-gastric-cancer-prevention.svg`
@@ -76,6 +78,13 @@ Current localized screening/vaccination decision variants:
 - German: `visuals/screening-vaccination-decision.de.svg`
 - Mandarin Chinese: `visuals/screening-vaccination-decision.zh.svg`
 - Russian: `visuals/screening-vaccination-decision.ru.svg`
+
+Current localized screening benefit-harm variants:
+
+- Spanish: `visuals/screening-benefit-harm-balance.es.svg`
+- German: `visuals/screening-benefit-harm-balance.de.svg`
+- Mandarin Chinese: `visuals/screening-benefit-harm-balance.zh.svg`
+- Russian: `visuals/screening-benefit-harm-balance.ru.svg`
 
 Current localized infection-prevention variants:
 
@@ -906,3 +915,37 @@ Instead:
 ### Translation Impact
 
 First-pass localized H. pylori visuals exist for Spanish, German, Mandarin Chinese, and Russian. They passed nonblank headless Chrome rendering, but still need native review because testing terminology, antibiotic guidance, and stomach-cancer screening systems vary by country.
+
+## 2026-06-12 Check: Screening Benefit-Harm Balance
+
+New evidence page:
+
+- `prevention/screening-benefit-harm-balance.md`
+
+New visual:
+
+- `visuals/screening-benefit-harm-balance.svg`
+- `visuals/screening-benefit-harm-balance.es.svg`
+- `visuals/screening-benefit-harm-balance.de.svg`
+- `visuals/screening-benefit-harm-balance.zh.svg`
+- `visuals/screening-benefit-harm-balance.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused non-CDC-heavy screening balance page that pairs guideline-communication studies with peer-reviewed screening trials, meta-analyses, and overdiagnosis reviews.
+- The new visual gives readers a compact public rule: screening can help, but it must be cancer-specific, age/risk-specific, and paired with follow-up access.
+- The page makes the symptom boundary explicit: symptoms are not screening and should trigger medical evaluation.
+
+### Decision For The Flagship Infographic
+
+Do not add detailed screening harms to the flagship image. The flagship should keep the simple message that recommended screening can reduce risk of death or find some cancers early.
+
+Instead:
+
+- Link `visuals/screening-benefit-harm-balance.svg` beside the screening/vaccination decision visual.
+- Use the focused visual when a reader asks whether more testing is always better, what overdiagnosis means, or why false positives matter.
+- Future flagship revisions can use a short phrase like "recommended screening, with follow-up" without packing in the full benefit-harm framework.
+
+### Translation Impact
+
+First-pass screening benefit-harm visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because screening names, program eligibility, and follow-up systems vary by country.
