@@ -16,6 +16,7 @@ Cancer screening means checking for cancer, or for abnormal cells that may becom
 - Symptoms are not a screening situation. New, persistent, or concerning symptoms deserve medical evaluation.
 - Screening decisions should weigh benefits and harms.
 - Access matters: public-health systems should reduce barriers to evidence-backed screening.
+- Detailed harm anchors are tracked in `prevention/screening-harms-and-tradeoffs.md`.
 
 ## Effect-Size Anchors
 
@@ -89,6 +90,16 @@ These recommendations are US-focused anchors. Future agents should check for upd
   - CDC supports screening for breast, cervical, colorectal, and lung cancers as recommended by USPSTF.
   - Regular screening may find breast, cervical, colorectal, and lung cancers early, when treatment is likely to work best.
 
+### Screening Harms And Tradeoffs Page
+
+- URL: `prevention/screening-harms-and-tradeoffs.md`
+- Source type: local synthesis
+- Reusable claims:
+  - Screening can save lives and can also cause false positives, false negatives, overdiagnosis, overtreatment, procedure harms, cost, and anxiety.
+  - Screening answers should distinguish symptoms from screening.
+- Caution:
+  - Use current local guidelines for personal screening schedules.
+
 ## Non-Official And Trial Source Cards
 
 ### NLST Low-Dose CT Trial
@@ -155,5 +166,5 @@ Avoid adding:
 ## Next Research Tasks
 
 - Add source cards for ACS and NCCN screening guidance and compare where they differ from USPSTF.
-- Add a page on screening harms: false positives, false negatives, overdiagnosis, overtreatment, radiation exposure, procedural harms.
+- Deepen `prevention/screening-harms-and-tradeoffs.md` with absolute benefit/harm examples per 1000 people screened.
 - Add a US vs global guidance note because screening recommendations vary by country and health system.

@@ -49,6 +49,9 @@ Avoid:
 | Low-dose CT lung screening | NLST reported 20.0% lower lung cancer mortality with low-dose CT versus chest radiography in a high-risk population. | Screening can save lives when targeted to high-risk groups and backed by follow-up care. | NLST / NEJM: https://www.nejm.org/doi/full/10.1056/NEJMoa1102873 | "Lung screening is for high-risk people, not everyone." |
 | Colorectal screening | Flexible sigmoidoscopy meta-analysis: RR 0.80 for colorectal cancer incidence and RR 0.74 for colorectal cancer mortality compared with standard care. | Some colorectal screening prevents cancer by finding/removing precancerous lesions and can reduce deaths. | Frontiers meta-analysis: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1364923/full | "Recommended colorectal screening can prevent some cancers." |
 | Breast screening mortality | USPSTF evidence summary reported mammography breast cancer mortality RR 0.86 for ages 50-59, RR 0.67 for ages 60-69, and RR 0.85 in an updated Swedish trial analysis for ages 40-74. | Mammography can reduce breast cancer mortality, but benefit and harms vary by age and risk. | USPSTF: https://www.uspreventiveservicestaskforce.org/Page/Topic/recommendation-summary/breast-cancer-screening | "Screening helps some people and has tradeoffs." |
+| Lung screening false positives | USPSTF evidence review: for every 1000 people screened in NLST, false-positive results led to 17 invasive procedures and fewer than 1 major complication. | Screening harms are real even when the test saves lives in the right group. | JAMA evidence review: https://jamanetwork.com/journals/jama/fullarticle/2777242 | "A positive screen is not a diagnosis." |
+| Colonoscopy harms | USPSTF colorectal evidence: screening colonoscopy harms included about 3.1 perforations and 14.6 major bleeding events per 10,000 procedures. | Preventive procedures can still cause harm. | USPSTF/JAMA: https://jamanetwork.com/journals/jama/fullarticle/2779985 | "Screening needs benefit-harm balance." |
+| Mammography false positives | NCI PDQ: about 50% of women screened annually for 10 years in the US experience a false-positive exam; 7%-17% of those undergo biopsies. | Repeated screening can produce false alarms and biopsies. | NCI PDQ: https://www.cancer.gov/types/breast/hp/breast-screening-pdq | "False alarms are part of screening." |
 
 ## What These Numbers Do Not Prove
 
@@ -223,9 +226,19 @@ Suggested public text:
 - Caution:
   - Colonoscopy randomized mortality evidence is still maturing; follow-up quality and adherence are central.
 
+### Screening Harms Local Synthesis
+
+- URL: prevention/screening-harms-and-tradeoffs.md
+- Source type: local synthesis with external source cards
+- Reusable claims:
+  - Screening harms include false positives, false negatives, overdiagnosis, overtreatment, procedure harms, radiation exposure, cost, anxiety, and inequitable follow-up.
+  - Harm estimates are screening-test-specific and population-specific.
+- Caution:
+  - Do not use harm statistics to discourage evidence-backed screening; use them to support informed decisions.
+
 ## Next Research Tasks
 
 - Add per-cancer absolute-risk examples where the source provides clean absolute numbers.
 - Add "relative risk versus absolute risk" explainer for the wiki.
 - Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
-- Add effect-size cards for screening harms, screening overdiagnosis, and absolute-risk examples.
+- Add effect-size cards for screening overdiagnosis and absolute-risk examples.

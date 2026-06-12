@@ -6,13 +6,13 @@ Last updated: 2026-06-12
 ## Screening
 
 - Compare USPSTF, ACS, NCCN, and WHO screening guidance for public-facing differences.
-- Add screening harms: false positives, false negatives, overdiagnosis, overtreatment, radiation exposure, procedure harms, and inequitable follow-up access.
+- Deepen `prevention/screening-harms-and-tradeoffs.md` with overdiagnosis, radiation exposure, false negatives, and inequitable follow-up access.
 - Deepen screening mortality effect-size anchors and add absolute benefit/harms examples.
 
 ## Prevention Levers
 
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
-- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, and screening mortality anchors; next priority is absolute benefit/harms examples.
+- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism. Added infection, environmental, occupational, screening mortality, and first-pass screening harm anchors; next priority is absolute benefit/harms examples.
 - Add claim cards for misleading prevention claims, especially supplements, sugar, detoxes, alkaline diets, fasting, ketogenic diets, and "immune boosting."
 - Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal, cervical, breast, liver, stomach, lung, skin, and oral/oropharyngeal. Next: deepen each page with effect sizes, geographic modifiers, and dedicated mechanism/source cards.
 - CDC tobacco cessation and quitline resources.
