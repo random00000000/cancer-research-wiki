@@ -249,7 +249,7 @@ A research pass is not done until it has:
 
 ## Git Workflow
 
-When an agent completes a coherent change in this repository, it should commit the work here with a clear message, unless the user explicitly asks not to commit.
+When an agent completes a coherent change in this repository, it should commit the work here with a clear message, unless the user explicitly asks not to commit. The canonical public destination is `random00000000/cancer-research-wiki`; after committing, push the commit to that repository's active branch unless the user asks to keep the work local.
 
 Before committing:
 
