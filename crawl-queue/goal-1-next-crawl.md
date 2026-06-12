@@ -21,7 +21,7 @@ Last updated: 2026-06-12
 - CDC sun safety and indoor tanning materials.
 - EPA radon testing and mitigation guidance.
 - Deepen `prevention/environmental-exposure-evidence.md` with environmental justice, diesel exhaust, silica, arsenic, chromium, nickel, cadmium, and beryllium.
-- Deepen `prevention/alcohol-and-cancer-evidence.md` with ALDH2/esophageal cancer evidence, tobacco-plus-alcohol interaction evidence, alcohol warning-label communication studies, and country-specific attributable burden tables.
+- Deepen `prevention/alcohol-and-cancer-evidence.md` and `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md` with alcohol absolute denominators, alcohol warning-label communication studies, country-specific attributable burden tables, ADH1B/ALDH2 joint genotype evidence, and culturally safe Japanese/Korean/Mandarin wording.
 
 ## Infection-Related Cancer
 

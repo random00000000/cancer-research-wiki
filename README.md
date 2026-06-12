@@ -36,6 +36,7 @@ Research backing:
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Alcohol and cancer evidence](prevention/alcohol-and-cancer-evidence.md)
+- [Alcohol, ALDH2, tobacco, and upper aerodigestive cancer](prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md)
 - [Goal 1 effect-size evidence](prevention/effect-size-evidence.md)
 - [Risk communication guide](prevention/risk-communication.md)
 - [Non-screening absolute risk examples](prevention/non-screening-absolute-risk-examples.md)

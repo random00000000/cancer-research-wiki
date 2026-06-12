@@ -5,6 +5,8 @@ Last updated: 2026-06-12
 
 This page supports the public infographic and future agent answers about alcohol. It emphasizes peer-reviewed and independent literature over relying only on official public-health pages.
 
+Focused follow-up: `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md` covers ALDH2, alcohol flushing, tobacco-plus-alcohol interaction, and upper aerodigestive cancer risk.
+
 ## Plain-Language Takeaway
 
 Alcohol is not only a liver issue. Ethanol is converted into acetaldehyde, a reactive compound that can damage DNA and proteins. Alcohol can also increase oxidative stress, alter hormone signaling, make tissues more permeable to other carcinogens, and contribute indirectly through liver disease and inflammation.
@@ -20,8 +22,8 @@ For public communication, the cleanest message is:
 
 | Cancer site | Evidence posture | Public wording |
 | --- | --- | --- |
-| Oral cavity, pharynx, larynx | Strong dose-response signal, especially with heavier drinking and tobacco co-exposure. | Alcohol can help damage the tissues it directly contacts; tobacco plus alcohol is especially concerning. |
-| Esophageal squamous cell carcinoma | Strong dose-response signal. | Alcohol is a major avoidable risk factor for this cancer type. |
+| Oral cavity, pharynx, larynx | Strong dose-response signal, especially with heavier drinking and tobacco co-exposure. | Alcohol can help damage the tissues it directly contacts; tobacco plus alcohol is especially concerning. See `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`. |
+| Esophageal squamous cell carcinoma | Strong dose-response signal; ALDH2-related acetaldehyde clearance can modify risk in some populations. | Alcohol is a major avoidable risk factor for this cancer type; facial flushing after alcohol can be a warning sign rather than reassurance. |
 | Female breast cancer | Risk can rise even at lower intake levels in meta-analyses. | "Moderate" drinking does not mean zero breast-cancer risk. |
 | Colorectal cancer | Stronger signal at moderate-to-heavy intake. | Alcohol is one of several colorectal risk levers. |
 | Liver cancer | Stronger signal at heavier intake and through cirrhosis pathways. | Liver cancer prevention includes alcohol reduction plus viral hepatitis prevention and treatment. |
@@ -135,10 +137,20 @@ Example:
 - Caution:
   - Cell-line results are mechanism evidence, not direct clinical outcome evidence.
 
+### Local: ALDH2, Tobacco, And Upper Aerodigestive Evidence
+
+- URL: `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`
+- Source type: local synthesis of meta-analysis, review, pooled case-control, and burden-modeling evidence
+- Reusable claims:
+  - Alcohol flushing can be a public-facing warning sign for higher esophageal squamous cell carcinoma risk among drinkers.
+  - ALDH2 low-activity variants can increase acetaldehyde exposure and modify alcohol-related cancer risk.
+  - Alcohol plus tobacco is especially important for mouth, throat, larynx, and esophagus cancer risk.
+- Caution:
+  - Do not use flushing as a diagnosis, do not overgeneralize by ethnicity, and do not convert population estimates into personal certainty.
+
 ## Open Questions For Later Crawls
 
 - Add country-specific alcohol-attributable cancer burden tables.
 - Add absolute-risk examples for breast cancer and colorectal cancer by drinking level where baseline denominators are clear.
-- Add ALDH2 variant and esophageal cancer evidence, especially for East Asian populations.
-- Add tobacco-plus-alcohol interaction evidence for upper aerodigestive cancers.
+- Add absolute-risk examples for ALDH2/flushing and tobacco-plus-alcohol where sources give clean denominators.
 - Add public communication review on alcohol warning labels and risk perception.

@@ -5,6 +5,8 @@ Last updated: 2026-06-12
 
 This page provides translated captions and alt text for the shared Goal 1 infographic. The English infographic image is currently canonical; these translations help non-English readers understand the visual while localized image variants are still future work.
 
+Research-state checks for whether new findings should change the infographic are tracked in `visuals/infographic-research-state-checks.md`.
+
 ## Canonical English
 
 Title:

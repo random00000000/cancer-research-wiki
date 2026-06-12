@@ -48,6 +48,12 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 - Hanahan and Weinberg 2011 Hallmarks
 - Hanahan 2022 Hallmarks New Dimensions
 - Lancet/GBD 2022 attributable risk burden
+- Alcohol dose-response, ALDH2, and tobacco-plus-alcohol evidence in `prevention/alcohol-and-cancer-evidence.md` and `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`
+
+## Research-State Checks
+
+- Current review log: `visuals/infographic-research-state-checks.md`
+- Current decision: keep the first flagship infographic broad; reserve ALDH2/flushing and alcohol-plus-tobacco details for a localized add-on or second risk visual.
 
 ## Design Notes
 

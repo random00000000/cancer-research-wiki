@@ -9,6 +9,8 @@ This page supports the public infographic and future agent answers. It is not a 
 
 Oral cavity cancer and oropharyngeal cancer overlap in everyday language, but they are not the same prevention story. Oral cavity cancer is strongly linked to tobacco, alcohol, and betel quid or areca nut exposure. Oropharyngeal cancer is often linked to high-risk HPV, especially HPV16, while tobacco and alcohol still matter. HPV vaccination is one of the clearest upstream prevention tools for HPV-related cancers, but direct long-term cancer endpoint evidence for oropharyngeal cancer is still maturing because these cancers can take decades to develop.
 
+For alcohol-plus-tobacco interaction and ALDH2-related acetaldehyde risk in upper aerodigestive cancers, see `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`.
+
 ## What Matters Most
 
 High-confidence public levers:
