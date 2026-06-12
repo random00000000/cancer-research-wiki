@@ -48,7 +48,7 @@ Last updated: 2026-06-12
 ## Multilingual Access
 
 - Deepen `i18n/` entry pages into reviewed evidence summaries for Spanish, German, Mandarin, Russian, and additional languages.
-- Add Indonesian and Vietnamese README entry pages.
+- Planned first language set now has README entry pages and localized infographic SVGs. Next multilingual priority: visual QA, translation review, and deeper evidence summaries.
 - Keep `i18n/INFOGRAPHIC_CAPTIONS.md` aligned with future infographic revisions and localized image variants.
 - Keep the root README language switcher current as new translations are added.
 - Use `i18n/TRANSLATION_GUIDE.md` as the safety checklist before expanding translated medical content.

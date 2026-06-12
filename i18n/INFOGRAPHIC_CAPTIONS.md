@@ -21,6 +21,36 @@ Localized SVG variants currently available:
 - Korean: `visuals/cancer-literacy-infographic.ko.svg`
 - Italian: `visuals/cancer-literacy-infographic.it.svg`
 - Turkish: `visuals/cancer-literacy-infographic.tr.svg`
+- Indonesian: `visuals/cancer-literacy-infographic.id.svg`
+- Vietnamese: `visuals/cancer-literacy-infographic.vi.svg`
+
+## Indonesian
+
+Title:
+
+- Kanker: bagaimana sel melanggar aturan tubuh
+
+Alt text:
+
+- Infografik yang menjelaskan kanker sebagai kelompok penyakit ketika sel menumpuk perubahan yang memungkinkan pertumbuhan, menghindari kematian, lolos dari kontrol imun, mengubah jaringan, menarik pembuluh darah, dan kadang menyebar. Infografik juga mencantumkan langkah pengurangan risiko berbasis bukti seperti menghindari tembakau, mengurangi alkohol, tetap aktif, melindungi diri dari UV, mengurangi paparan karsinogen, memakai vaksin yang relevan, dan mengikuti skrining yang dianjurkan. Pengurangan risiko bukan jaminan.
+
+Safety caption:
+
+- Pengurangan risiko bukan jaminan. Untuk gejala, skrining, atau risiko pribadi, bicaralah dengan tenaga medis.
+
+## Vietnamese
+
+Title:
+
+- Ung thư: tế bào phá vỡ quy tắc của cơ thể như thế nào
+
+Alt text:
+
+- Infographic giải thích ung thư là một nhóm bệnh trong đó tế bào tích lũy thay đổi cho phép chúng phát triển, tránh chết, né kiểm soát miễn dịch, thay đổi mô, thu hút mạch máu và đôi khi lan rộng. Infographic cũng liệt kê các cách giảm nguy cơ có bằng chứng như tránh thuốc lá, giảm rượu, duy trì vận động, bảo vệ khỏi tia UV, giảm phơi nhiễm chất gây ung thư, dùng vắc xin phù hợp và theo sàng lọc khuyến nghị. Giảm nguy cơ không phải là bảo đảm.
+
+Safety caption:
+
+- Giảm nguy cơ không phải là bảo đảm. Với triệu chứng, sàng lọc hoặc nguy cơ cá nhân, hãy trao đổi với chuyên gia y tế.
 
 ## Italian
 

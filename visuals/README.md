@@ -25,3 +25,5 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 | Korean | `cancer-literacy-infographic.ko.svg` | First localized SVG |
 | Italian | `cancer-literacy-infographic.it.svg` | First localized SVG |
 | Turkish | `cancer-literacy-infographic.tr.svg` | First localized SVG |
+| Indonesian | `cancer-literacy-infographic.id.svg` | First localized SVG |
+| Vietnamese | `cancer-literacy-infographic.vi.svg` | First localized SVG |

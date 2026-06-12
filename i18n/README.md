@@ -19,13 +19,12 @@ This directory holds translated entry pages for the Cancer Research Wiki. The En
 | Korean | [README.ko.md](README.ko.md) | First-pass translated entry |
 | Italian | [README.it.md](README.it.md) | First-pass translated entry |
 | Turkish | [README.tr.md](README.tr.md) | First-pass translated entry |
+| Indonesian | [README.id.md](README.id.md) | First-pass translated entry |
+| Vietnamese | [README.vi.md](README.vi.md) | First-pass translated entry |
 
 ## Planned Languages
 
-These are good next candidates because they cover large reader populations and major research/public-health communities:
-
-- Indonesian
-- Vietnamese
+The first planned language set is now represented with entry pages and localized infographic SVGs. Future additions should be chosen by research need, reader population, and availability of translation review.
 
 ## Translation Rule
 
@@ -52,5 +51,7 @@ The English infographic is the canonical first-pass image. Localized SVG variant
 | Korean | [cancer-literacy-infographic.ko.svg](../visuals/cancer-literacy-infographic.ko.svg) | First localized SVG |
 | Italian | [cancer-literacy-infographic.it.svg](../visuals/cancer-literacy-infographic.it.svg) | First localized SVG |
 | Turkish | [cancer-literacy-infographic.tr.svg](../visuals/cancer-literacy-infographic.tr.svg) | First localized SVG |
+| Indonesian | [cancer-literacy-infographic.id.svg](../visuals/cancer-literacy-infographic.id.svg) | First localized SVG |
+| Vietnamese | [cancer-literacy-infographic.vi.svg](../visuals/cancer-literacy-infographic.vi.svg) | First localized SVG |
 
-Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add Indonesian and Vietnamese image variants.
+Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should visually QA each localized SVG and add new languages only when the translation safety guide can be followed.
