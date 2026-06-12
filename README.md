@@ -49,6 +49,10 @@ Relative versus absolute risk visual:
 
 ![A percentage needs a baseline](visuals/relative-vs-absolute-risk.svg)
 
+Population burden is not personal blame visual:
+
+![Population prevention is not personal blame](visuals/population-burden-not-blame.svg)
+
 Localized screening/vaccination decision variants:
 
 - [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)
@@ -118,6 +122,7 @@ Research backing:
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)
 - [Site-specific prevention levers visual](visuals/site-specific-prevention-levers.svg)
 - [Relative versus absolute risk visual](visuals/relative-vs-absolute-risk.svg)
+- [Population burden is not personal blame visual](visuals/population-burden-not-blame.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

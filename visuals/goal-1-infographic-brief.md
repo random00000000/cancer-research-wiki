@@ -70,4 +70,5 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 - `screening-vaccination-decision.svg` - English first-pass public safety companion showing how symptoms, risk, screening, vaccination, benefits, harms, and follow-up fit together.
 - `site-specific-prevention-levers.svg` - English first-pass public companion showing that the most useful prevention levers differ by cancer site.
 - `relative-vs-absolute-risk.svg` - English first-pass public companion showing why relative-risk percentages need baseline risk, denominators, and time horizon.
+- `population-burden-not-blame.svg` - English first-pass public companion showing that population-attributable burden is a systems-scale prevention opportunity, not patient blame.
 - `risk-mechanism-prevention-map.svg` - English first-pass agent-facing map linking inputs, mechanisms, cancer capabilities, and prevention levers.

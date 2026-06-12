@@ -19,6 +19,8 @@ Current site-specific prevention visual: `visuals/site-specific-prevention-lever
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
 
+Current population burden/no-blame visual: `visuals/population-burden-not-blame.svg`
+
 Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
 
 Current localized screening/vaccination decision variants:
@@ -36,6 +38,22 @@ Current localized companion mechanism variants:
 - Russian: `visuals/cancer-keeps-adapting.ru.svg`
 
 Current visual QA log: `visuals/visual-qa-log.md`
+
+## 2026-06-12 Check: Population Burden Is Not Personal Blame Visual
+
+New visual:
+
+- `visuals/population-burden-not-blame.svg`
+
+### What Changed
+
+- The wiki now has a public visual separating population-attributable burden from individual causation or moral blame.
+- The visual uses peer-reviewed/global-burden source anchors already tracked in `prevention/effect-size-evidence.md`, `prevention/lifestyle-and-burden-evidence.md`, and `prevention/non-screening-absolute-risk-examples.md`.
+- It highlights global risk-attributable cancer deaths, U.S. evaluated modifiable-risk-attributable cases, and infection-attributable cases while emphasizing systems: policy, access, housing, food, vaccines, screening follow-up, work safety, and support.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's no-blame sentence short. Use this companion when readers need a stronger explanation of why population prevention matters without implying that cancer patients caused their disease.
 
 ## 2026-06-12 Check: Relative Versus Absolute Risk Visual
 

@@ -89,6 +89,10 @@ Suggested public text:
 
 > Many cancers are shaped by exposures we can reduce, but "modifiable" does not mean "your fault." Prevention works best when people and systems move together.
 
+Current companion visual:
+
+- `visuals/population-burden-not-blame.svg`
+
 ## Source Cards
 
 ### ACS / CA 2024 Modifiable Risk Factors
@@ -260,6 +264,6 @@ Suggested public text:
 
 ## Next Research Tasks
 
-- Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
+- Visually QA and translate `visuals/population-burden-not-blame.svg`.
 - Add effect-size cards for screening overdiagnosis and absolute-risk examples.
 - Add more source-backed absolute-risk examples for HPV, HBV, alcohol, radon, and air pollution.

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Cancer prevention burden is not personal blame</title>
+  <desc id="desc">A public cancer prevention visual explaining that population-attributable cancer burden is a systems-scale prevention opportunity, not a moral judgment about individual patients.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.5" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#eefdf4"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/>
+    </filter>
+    <style>
+      .title { font: 800 50px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 30px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .big { font: 800 58px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 22px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 19px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightHead { font: 800 30px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 19px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+      .barBg { fill: #e5eaf2; }
+    </style>
+  </defs>
+
+  <rect width="1500" height="1050" fill="url(#bg)"/>
+
+  <g transform="translate(70 54)">
+    <text class="title" x="0" y="58">Population prevention is not personal blame</text>
+    <text class="subtitle" x="2" y="100">Attributable burden tells us where systems can prevent cancer. It does not tell us why one person got cancer.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(70 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">Global model</text>
+    <text class="big" x="30" y="118">4.45M</text>
+    <text class="label" x="30" y="155">cancer deaths in 2019</text>
+    <text class="body" x="30" y="190">attributed to evaluated risk factors</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="142" height="22" rx="11" fill="#ef4444"/>
+    <text class="small" x="30" y="272">44.4% of global cancer deaths in the GBD model.</text>
+  </g>
+
+  <g transform="translate(540 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">U.S. adult model</text>
+    <text class="big" x="30" y="118">713K</text>
+    <text class="label" x="30" y="155">incident cancer cases</text>
+    <text class="body" x="30" y="190">attributed to evaluated modifiable risks</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="128" height="22" rx="11" fill="#f97316"/>
+    <text class="small" x="30" y="272">40.0% of adult cases age 30+ in 2019.</text>
+  </g>
+
+  <g transform="translate(1010 205)">
+    <rect class="card" x="0" y="0" width="420" height="300"/>
+    <text class="head" x="30" y="50">Infection prevention</text>
+    <text class="big" x="30" y="118">2.2M</text>
+    <text class="label" x="30" y="155">new cancer cases in 2018</text>
+    <text class="body" x="30" y="190">attributed worldwide to infections</text>
+    <rect x="30" y="222" width="320" height="22" rx="11" class="barBg"/>
+    <rect x="30" y="222" width="42" height="22" rx="11" fill="#7c3aed"/>
+    <text class="small" x="30" y="272">About 13% of new cancer cases worldwide.</text>
+  </g>
+
+  <g transform="translate(95 570)">
+    <rect class="pill" x="0" y="0" width="280" height="64" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="30" y="40">Tobacco / smoke</text>
+    <rect class="pill" x="310" y="0" width="220" height="64" fill="#ffedd5" stroke="#f97316"/>
+    <text class="label" x="350" y="40">Alcohol</text>
+    <rect class="pill" x="560" y="0" width="250" height="64" fill="#fef3c7" stroke="#d97706"/>
+    <text class="label" x="596" y="40">Body weight</text>
+    <rect class="pill" x="840" y="0" width="250" height="64" fill="#ecfeff" stroke="#0891b2"/>
+    <text class="label" x="892" y="40">Infections</text>
+    <rect class="pill" x="1120" y="0" width="260" height="64" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="label" x="1164" y="40">Air / work / UV</text>
+  </g>
+
+  <g transform="translate(95 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#102033"/>
+    <text class="lightHead" x="34" y="50">What the numbers mean</text>
+    <text class="lightBody" x="34" y="88">If a common exposure nudges risk up, millions can be affected.</text>
+    <text class="lightBody" x="34" y="120">Prevention works through policy, access, housing, food, vaccines,</text>
+    <text class="lightBody" x="34" y="152">screening follow-up, work safety, and personal support.</text>
+  </g>
+
+  <g transform="translate(785 670)">
+    <rect x="0" y="0" width="620" height="190" rx="26" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="head" x="34" y="50">What the numbers do not mean</text>
+    <text class="body" x="34" y="88">They do not prove a patient's cancer was their fault.</text>
+    <text class="body" x="34" y="120">They do not include every cause, past exposure, inherited risk,</text>
+    <text class="body" x="34" y="152">aging, chance, immune state, or unequal environment.</text>
+  </g>
+
+  <g transform="translate(110 915)">
+    <rect x="0" y="0" width="1280" height="76" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="30">Best public wording: "Many cancers are shaped by exposures we can reduce, but modifiable does not mean your fault."</text>
+    <text class="source" x="26" y="58">Source backbone: ACS 2024, Lancet/GBD 2019, Lancet Global Health infection burden, prevention/effect-size-evidence.md.</text>
+  </g>
+</svg>

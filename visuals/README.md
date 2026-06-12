@@ -38,6 +38,7 @@ Use `visual-qa-log.md` to track structural checks, browser rendering checks, cli
 | Screening and vaccination decision guide | `screening-vaccination-decision.svg` | First-pass English SVG |
 | Site-specific prevention levers | `site-specific-prevention-levers.svg` | First-pass English SVG |
 | Relative versus absolute risk | `relative-vs-absolute-risk.svg` | First-pass English SVG |
+| Population burden is not personal blame | `population-burden-not-blame.svg` | First-pass English SVG |
 | Screening and vaccination decision guide - Spanish | `screening-vaccination-decision.es.svg` | First localized SVG |
 | Screening and vaccination decision guide - German | `screening-vaccination-decision.de.svg` | First localized SVG |
 | Screening and vaccination decision guide - Mandarin Chinese | `screening-vaccination-decision.zh.svg` | First localized SVG |

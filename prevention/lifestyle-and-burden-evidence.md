@@ -122,6 +122,10 @@ Many prevention levers depend on systems:
 
 The public infographic should empower individuals while making clear that prevention is also a policy and access problem.
 
+Current companion visual:
+
+- `visuals/population-burden-not-blame.svg`
+
 ## Next Research Tasks
 
 - Create cancer-site-specific prevention pages for colorectal, breast, lung, liver, cervical, gastric, skin, and oral/oropharyngeal cancers.

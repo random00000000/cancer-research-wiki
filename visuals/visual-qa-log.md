@@ -43,6 +43,7 @@ Checked files:
 - `visuals/risk-mechanism-prevention-map.svg`
 - `visuals/site-specific-prevention-levers.svg`
 - `visuals/relative-vs-absolute-risk.svg`
+- `visuals/population-burden-not-blame.svg`
 - `visuals/cancer-claim-filter.svg`
 
 Result:
@@ -74,6 +75,7 @@ Browser QA attempt:
 | Risk/mechanism/prevention agent map | Passed | Still needed | Not applicable |
 | Site-specific prevention levers SVG | Passed | Still needed | Not applicable |
 | Relative versus absolute risk SVG | Passed | Still needed | Not applicable |
+| Population burden/no-blame SVG | Passed | Still needed | Not applicable |
 | Claim-filter SVG | Passed | Still needed | Not applicable |
 
 ## Next Visual QA Tasks
