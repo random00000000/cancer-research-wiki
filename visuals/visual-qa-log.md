@@ -20,6 +20,7 @@ Scope:
 - UV/sun add-on visual: English plus first localized SVGs.
 - Vaccine-preventable cancer add-on visual: English plus first localized SVGs.
 - Radon/home add-on visual: English plus first localized SVGs.
+- Air pollution add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -109,6 +110,11 @@ Checked files:
 - `visuals/radon-home-lung-cancer-prevention.de.svg`
 - `visuals/radon-home-lung-cancer-prevention.zh.svg`
 - `visuals/radon-home-lung-cancer-prevention.ru.svg`
+- `visuals/air-pollution-lung-cancer-prevention.svg`
+- `visuals/air-pollution-lung-cancer-prevention.es.svg`
+- `visuals/air-pollution-lung-cancer-prevention.de.svg`
+- `visuals/air-pollution-lung-cancer-prevention.zh.svg`
+- `visuals/air-pollution-lung-cancer-prevention.ru.svg`
 
 Result:
 
@@ -130,7 +136,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 86 SVG files in `visuals/`.
+- All 91 SVG files in `visuals/`.
 
 Tooling:
 
@@ -147,11 +153,12 @@ Generated artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
 
 Result:
 
-- Headless Chrome rendered all 86 SVG files at their declared canvas sizes.
-- All 86 renders were nonblank.
+- Headless Chrome rendered all 91 SVG files at their declared canvas sizes.
+- All 91 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -160,6 +167,7 @@ Result:
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
+- The air pollution visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 
 Repository note:
 
@@ -200,6 +208,8 @@ Repository note:
 | Vaccine-preventable cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked; German overflow fixed | Still needed |
 | Radon/home lung cancer SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Radon/home lung cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
+| Air pollution lung cancer SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Air pollution lung cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 
 ## Next Visual QA Tasks
 

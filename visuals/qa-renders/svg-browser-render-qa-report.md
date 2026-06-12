@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 86
-Nonblank renders: 86
+SVG files rendered: 91
+Nonblank renders: 91
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -29,6 +29,11 @@ Blank or near-blank renders: 0
 
 | SVG | Canvas | Nonblank | Brightness delta |
 | --- | ---: | --- | ---: |
+| `air-pollution-lung-cancer-prevention.de.svg` | 1500x980 | True | 39.28 |
+| `air-pollution-lung-cancer-prevention.es.svg` | 1500x980 | True | 38.43 |
+| `air-pollution-lung-cancer-prevention.ru.svg` | 1500x980 | True | 38.90 |
+| `air-pollution-lung-cancer-prevention.svg` | 1500x980 | True | 38.22 |
+| `air-pollution-lung-cancer-prevention.zh.svg` | 1500x980 | True | 37.03 |
 | `alcohol-aldh2-tobacco-risk.de.svg` | 1500x980 | True | 37.70 |
 | `alcohol-aldh2-tobacco-risk.es.svg` | 1500x980 | True | 37.63 |
 | `alcohol-aldh2-tobacco-risk.ru.svg` | 1500x980 | True | 37.43 |

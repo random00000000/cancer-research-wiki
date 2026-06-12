@@ -10,6 +10,7 @@ Companion visual:
 - `visuals/environment-work-cancer-prevention.svg`
 - First localized visual variants: `visuals/environment-work-cancer-prevention.es.svg`, `visuals/environment-work-cancer-prevention.de.svg`, `visuals/environment-work-cancer-prevention.zh.svg`, and `visuals/environment-work-cancer-prevention.ru.svg`
 - Focused radon visual: `visuals/radon-home-lung-cancer-prevention.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
+- Focused air pollution visual: `visuals/air-pollution-lung-cancer-prevention.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
 ## Plain-Language Summary
 
@@ -91,6 +92,14 @@ Some carcinogen exposures come from homes, workplaces, outdoor air, building mat
 - Caution:
   - PM2.5 is a mixture; source composition and co-pollutants vary by location.
 
+### Focused Air Pollution And Lung Cancer Evidence Note
+
+- URL: `prevention/air-pollution-lung-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - Long-term PM2.5 exposure is associated with higher lung cancer incidence and mortality.
+  - Air pollution prevention is a systems issue involving transport, energy, industry, wildfire/smoke response, housing filtration, and worker protection.
+
 ### Air Pollution And Lung Cancer Review
 
 - URL: https://www.jto.org/article/S1556-0864%2823%2900601-9/fulltext
@@ -125,6 +134,11 @@ Current companion visual:
 - `visuals/radon-home-lung-cancer-prevention.de.svg`
 - `visuals/radon-home-lung-cancer-prevention.zh.svg`
 - `visuals/radon-home-lung-cancer-prevention.ru.svg`
+- `visuals/air-pollution-lung-cancer-prevention.svg`
+- `visuals/air-pollution-lung-cancer-prevention.es.svg`
+- `visuals/air-pollution-lung-cancer-prevention.de.svg`
+- `visuals/air-pollution-lung-cancer-prevention.zh.svg`
+- `visuals/air-pollution-lung-cancer-prevention.ru.svg`
 
 Translation review task: keep localized environment/work visuals under native review before public-final use, because radon, asbestos, PM2.5, and worker-safety terminology vary by region and legal system.
 

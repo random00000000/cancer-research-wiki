@@ -28,6 +28,8 @@ Current environment/work prevention visual: `visuals/environment-work-cancer-pre
 
 Current radon and lung cancer prevention visual: `visuals/radon-home-lung-cancer-prevention.svg`
 
+Current air pollution and lung cancer prevention visual: `visuals/air-pollution-lung-cancer-prevention.svg`
+
 Current alcohol biology and tobacco co-exposure visual: `visuals/alcohol-aldh2-tobacco-risk.svg`
 
 Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-cancer-risk.svg`
@@ -87,6 +89,13 @@ Current localized radon prevention variants:
 - German: `visuals/radon-home-lung-cancer-prevention.de.svg`
 - Mandarin Chinese: `visuals/radon-home-lung-cancer-prevention.zh.svg`
 - Russian: `visuals/radon-home-lung-cancer-prevention.ru.svg`
+
+Current localized air pollution prevention variants:
+
+- Spanish: `visuals/air-pollution-lung-cancer-prevention.es.svg`
+- German: `visuals/air-pollution-lung-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/air-pollution-lung-cancer-prevention.zh.svg`
+- Russian: `visuals/air-pollution-lung-cancer-prevention.ru.svg`
 
 Current localized alcohol biology variants:
 
@@ -152,11 +161,12 @@ New QA artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
 
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 86 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 91 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -167,6 +177,7 @@ New QA artifacts:
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
+- The air pollution visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -229,6 +240,35 @@ Keep the flagship infographic's structural-exposure line short. Use the radon co
 ### Translation Impact
 
 Keep localized radon visuals under native review before promotion. Radon action levels, testing units, tenant rights, building codes, and mitigation systems differ across countries and regions.
+
+## 2026-06-12 Check: Air Pollution And Lung Cancer Prevention Visual
+
+Evidence page:
+
+- `prevention/air-pollution-lung-cancer-evidence.md`
+
+New visual:
+
+- `visuals/air-pollution-lung-cancer-prevention.svg`
+- `visuals/air-pollution-lung-cancer-prevention.es.svg`
+- `visuals/air-pollution-lung-cancer-prevention.de.svg`
+- `visuals/air-pollution-lung-cancer-prevention.zh.svg`
+- `visuals/air-pollution-lung-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining PM2.5 and long-term air pollution as structural lung cancer prevention issues.
+- The synthesis uses meta-analyses, specialist reviews, and mechanistic literature on oxidative stress and inflammation rather than relying on a public-agency fact sheet alone.
+- The visual highlights that pollution can matter for never-smokers while keeping tobacco as a major prevention lever.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's clean-air line short. Use the air-pollution companion when readers need the concrete systems path: cleaner transport, energy, industry, smoke response, housing filtration, and worker protection.
+
+### Translation Impact
+
+Keep localized air-pollution visuals under native review before promotion. Air-quality indexes, pollution sources, mask/filter advice, wildfire or dust-storm context, worker protection, and environmental-justice language vary by country.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 

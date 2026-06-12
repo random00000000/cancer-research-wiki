@@ -63,6 +63,7 @@ Public wording:
 
 - "Clean air, safer workplaces, and radon-safe homes are cancer prevention."
 - Focused evidence and public companion visual: `prevention/radon-home-lung-cancer-evidence.md` and `visuals/radon-home-lung-cancer-prevention.svg`.
+- Focused air pollution evidence and companion visual: `prevention/air-pollution-lung-cancer-evidence.md` and `visuals/air-pollution-lung-cancer-prevention.svg`.
 
 ## Screening
 
@@ -97,6 +98,16 @@ Caution:
   - Testing, mitigation, radon-safe construction, and tobacco cessation support are lung cancer prevention.
 - Caution:
   - Radon thresholds, testing units, tenant rights, and mitigation rules vary by country and region.
+
+### Air Pollution, PM2.5, And Lung Cancer Evidence Note
+
+- URL: `prevention/air-pollution-lung-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - Long-term PM2.5 exposure is associated with higher lung cancer incidence and mortality.
+  - Cleaner air, worker protection, smoke-event response, transport policy, and housing filtration are lung cancer prevention.
+- Caution:
+  - Do not imply that pollution explains all never-smoker lung cancer or that personal masks/filters can replace clean-air policy.
 
 ### Lung Cancer Risk In Never-Smokers
 

@@ -83,6 +83,17 @@ Radon and lung cancer prevention visual:
 
 ![Radon-safe homes are lung cancer prevention](visuals/radon-home-lung-cancer-prevention.svg)
 
+Air pollution and lung cancer prevention visual:
+
+![Cleaner air is lung cancer prevention](visuals/air-pollution-lung-cancer-prevention.svg)
+
+Localized air pollution prevention variants:
+
+- [Spanish air pollution prevention SVG](visuals/air-pollution-lung-cancer-prevention.es.svg)
+- [German air pollution prevention SVG](visuals/air-pollution-lung-cancer-prevention.de.svg)
+- [Mandarin Chinese air pollution prevention SVG](visuals/air-pollution-lung-cancer-prevention.zh.svg)
+- [Russian air pollution prevention SVG](visuals/air-pollution-lung-cancer-prevention.ru.svg)
+
 Localized radon prevention variants:
 
 - [Spanish radon prevention SVG](visuals/radon-home-lung-cancer-prevention.es.svg)
@@ -221,6 +232,7 @@ Research backing:
 - [Non-screening absolute risk examples](prevention/non-screening-absolute-risk-examples.md)
 - [Environmental and occupational exposure evidence](prevention/environmental-exposure-evidence.md)
 - [Radon, homes, and lung cancer evidence](prevention/radon-home-lung-cancer-evidence.md)
+- [Air pollution, PM2.5, and lung cancer evidence](prevention/air-pollution-lung-cancer-evidence.md)
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)
 - [Cervical cancer prevention page](cancer-types/cervical-cancer.md)
@@ -248,6 +260,7 @@ Research backing:
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)
 - [Radon and lung cancer prevention visual](visuals/radon-home-lung-cancer-prevention.svg)
+- [Air pollution and lung cancer prevention visual](visuals/air-pollution-lung-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
 - [Vaccine-preventable cancer visual](visuals/vaccine-preventable-cancers.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)

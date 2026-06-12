@@ -140,6 +140,18 @@ This public visual explains that radon is invisible, building-specific, tobacco-
 | Mandarin Chinese | [radon-home-lung-cancer-prevention.zh.svg](../visuals/radon-home-lung-cancer-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [radon-home-lung-cancer-prevention.ru.svg](../visuals/radon-home-lung-cancer-prevention.ru.svg) | First localized SVG; native review needed |
 
+## Air Pollution And Lung Cancer Visual Variants
+
+This public visual explains PM2.5 and long-term air pollution as structural lung cancer prevention issues. These translations need native review because air-quality indexes, masks, filters, wildfire/smoke context, occupational exposure, and environmental justice wording vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [air-pollution-lung-cancer-prevention.svg](../visuals/air-pollution-lung-cancer-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [air-pollution-lung-cancer-prevention.es.svg](../visuals/air-pollution-lung-cancer-prevention.es.svg) | First localized SVG; native review needed |
+| German | [air-pollution-lung-cancer-prevention.de.svg](../visuals/air-pollution-lung-cancer-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [air-pollution-lung-cancer-prevention.zh.svg](../visuals/air-pollution-lung-cancer-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [air-pollution-lung-cancer-prevention.ru.svg](../visuals/air-pollution-lung-cancer-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## Alcohol Biology And Tobacco Co-Exposure Visual Variants
 
 This public visual explains acetaldehyde, alcohol flushing, ALDH2 biology, and tobacco plus alcohol co-exposure without treating biology as destiny or identity. These translations should receive native review, especially for Mandarin and other East Asian language tracks where flushing language can easily become stigmatizing.

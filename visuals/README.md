@@ -81,6 +81,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Radon and lung cancer prevention - German | `radon-home-lung-cancer-prevention.de.svg` | First localized SVG; native review needed |
 | Radon and lung cancer prevention - Mandarin Chinese | `radon-home-lung-cancer-prevention.zh.svg` | First localized SVG; native review needed |
 | Radon and lung cancer prevention - Russian | `radon-home-lung-cancer-prevention.ru.svg` | First localized SVG; native review needed |
+| Air pollution and lung cancer prevention | `air-pollution-lung-cancer-prevention.svg` | First-pass English SVG |
+| Air pollution and lung cancer prevention - Spanish | `air-pollution-lung-cancer-prevention.es.svg` | First localized SVG; native review needed |
+| Air pollution and lung cancer prevention - German | `air-pollution-lung-cancer-prevention.de.svg` | First localized SVG; native review needed |
+| Air pollution and lung cancer prevention - Mandarin Chinese | `air-pollution-lung-cancer-prevention.zh.svg` | First localized SVG; native review needed |
+| Air pollution and lung cancer prevention - Russian | `air-pollution-lung-cancer-prevention.ru.svg` | First localized SVG; native review needed |
 | Tobacco cessation and cancer risk | `tobacco-cessation-cancer-risk.svg` | First-pass English SVG |
 | Tobacco cessation and cancer risk - Spanish | `tobacco-cessation-cancer-risk.es.svg` | First localized SVG; native review needed |
 | Tobacco cessation and cancer risk - German | `tobacco-cessation-cancer-risk.de.svg` | First localized SVG; native review needed |
