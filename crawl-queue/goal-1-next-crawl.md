@@ -43,7 +43,7 @@ Last updated: 2026-06-12
 - Visually QA the public-safe screening/vaccination decision visual and first localized variants: `visuals/screening-vaccination-decision.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.
-- Produce a site-specific prevention visual: "Which levers matter most for which cancers?"
+- Visually QA and translate the new site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`.
 - Produce an icon-array visual explaining relative risk versus absolute risk.
 - Produce a population-count visual separating "public-health burden" from "personal blame."
 

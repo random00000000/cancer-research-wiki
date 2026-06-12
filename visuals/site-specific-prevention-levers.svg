@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1100" viewBox="0 0 1500 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Which cancer prevention levers matter most by site</title>
+  <desc id="desc">A public cancer prevention visual mapping major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.45" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#ecfdf5"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/>
+    </filter>
+    <style>
+      .title { font: 800 50px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .site { font: 800 27px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .lever { font: 700 19px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightSite { font: 800 27px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 18px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+    </style>
+  </defs>
+
+  <rect width="1500" height="1100" fill="url(#bg)"/>
+
+  <g transform="translate(70 56)">
+    <text class="title" x="0" y="58">Which prevention levers matter most?</text>
+    <text class="subtitle" x="2" y="100">Different cancers have different weak points. Use this as a map for questions, not as personal medical advice.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(70 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#2563eb"/>
+    <text class="site" x="76" y="58">Colon / rectum</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#dbeafe" stroke="#2563eb"/>
+    <text class="lever" x="47" y="111">Screening</text>
+    <rect class="pill" x="165" y="88" width="120" height="34" fill="#dcfce7" stroke="#16a34a"/>
+    <text class="lever" x="183" y="111">Activity</text>
+    <text class="body" x="30" y="158">Fiber and whole grains help.</text>
+    <text class="body" x="30" y="187">Limit processed/red meat</text>
+    <text class="body" x="30" y="214">and alcohol exposure.</text>
+  </g>
+
+  <g transform="translate(420 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#7c3aed"/>
+    <text class="site" x="76" y="58">Cervix</text>
+    <rect class="pill" x="30" y="88" width="132" height="34" fill="#ede9fe" stroke="#7c3aed"/>
+    <text class="lever" x="49" y="111">HPV vaccine</text>
+    <rect class="pill" x="178" y="88" width="112" height="34" fill="#dbeafe" stroke="#2563eb"/>
+    <text class="lever" x="199" y="111">Screen</text>
+    <text class="body" x="30" y="158">Treat precancerous lesions.</text>
+    <text class="body" x="30" y="187">Access and follow-up are</text>
+    <text class="body" x="30" y="214">central eradication levers.</text>
+  </g>
+
+  <g transform="translate(770 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#f97316"/>
+    <text class="site" x="76" y="58">Liver</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#ffedd5" stroke="#f97316"/>
+    <text class="lever" x="49" y="111">HBV shot</text>
+    <rect class="pill" x="165" y="88" width="124" height="34" fill="#ecfeff" stroke="#0891b2"/>
+    <text class="lever" x="184" y="111">HCV care</text>
+    <text class="body" x="30" y="158">Reduce alcohol-related injury.</text>
+    <text class="body" x="30" y="187">Metabolic health and aflatoxin</text>
+    <text class="body" x="30" y="214">matter by region.</text>
+  </g>
+
+  <g transform="translate(1120 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#ef4444"/>
+    <text class="site" x="76" y="58">Lung</text>
+    <rect class="pill" x="30" y="88" width="122" height="34" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="lever" x="52" y="111">No smoke</text>
+    <rect class="pill" x="167" y="88" width="124" height="34" fill="#e0f2fe" stroke="#0284c7"/>
+    <text class="lever" x="190" y="111">Radon</text>
+    <text class="body" x="30" y="158">Work and air exposures count.</text>
+    <text class="body" x="30" y="187">High-risk screening is useful</text>
+    <text class="body" x="30" y="214">only under guideline conditions.</text>
+  </g>
+
+  <g transform="translate(70 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#d97706"/>
+    <text class="site" x="76" y="58">Skin</text>
+    <rect class="pill" x="30" y="88" width="116" height="34" fill="#fef3c7" stroke="#d97706"/>
+    <text class="lever" x="59" y="111">UV</text>
+    <rect class="pill" x="162" y="88" width="126" height="34" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="lever" x="185" y="111">No tanning</text>
+    <text class="body" x="30" y="158">Shade, clothing, sunscreen,</text>
+    <text class="body" x="30" y="187">and work protections combine.</text>
+    <text class="body" x="30" y="214">Check changing lesions.</text>
+  </g>
+
+  <g transform="translate(420 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#db2777"/>
+    <text class="site" x="76" y="58">Breast</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#fce7f3" stroke="#db2777"/>
+    <text class="lever" x="47" y="111">Screening</text>
+    <rect class="pill" x="165" y="88" width="120" height="34" fill="#ffedd5" stroke="#f97316"/>
+    <text class="lever" x="195" y="111">Alcohol</text>
+    <text class="body" x="30" y="158">Physical activity helps.</text>
+    <text class="body" x="30" y="187">Healthy weight after menopause</text>
+    <text class="body" x="30" y="214">is an important lever.</text>
+  </g>
+
+  <g transform="translate(770 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#0f766e"/>
+    <text class="site" x="76" y="58">Stomach</text>
+    <rect class="pill" x="30" y="88" width="126" height="34" fill="#ccfbf1" stroke="#0f766e"/>
+    <text class="lever" x="53" y="111">H. pylori</text>
+    <rect class="pill" x="171" y="88" width="116" height="34" fill="#fef3c7" stroke="#d97706"/>
+    <text class="lever" x="206" y="111">Salt</text>
+    <text class="body" x="30" y="158">Testing and treatment depend</text>
+    <text class="body" x="30" y="187">on local risk and resistance.</text>
+    <text class="body" x="30" y="214">Limit processed meat; no smoke.</text>
+  </g>
+
+  <g transform="translate(1120 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/>
+    <circle cx="40" cy="48" r="22" fill="#9333ea"/>
+    <text class="site" x="76" y="58">Oral / throat</text>
+    <rect class="pill" x="30" y="88" width="116" height="34" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="lever" x="56" y="111">Tobacco</text>
+    <rect class="pill" x="162" y="88" width="126" height="34" fill="#ede9fe" stroke="#7c3aed"/>
+    <text class="lever" x="185" y="111">HPV shot</text>
+    <text class="body" x="30" y="158">Less alcohol lowers risk.</text>
+    <text class="body" x="30" y="187">Avoid betel quid/gutka where</text>
+    <text class="body" x="30" y="214">these products are used.</text>
+  </g>
+
+  <g transform="translate(110 780)">
+    <rect x="0" y="0" width="1280" height="140" rx="26" fill="#102033"/>
+    <text class="lightSite" x="38" y="52">Read the pattern</text>
+    <text class="lightBody" x="38" y="88">Some levers act before cancer starts: vaccines, no tobacco, UV protection, less alcohol, safer work and air.</text>
+    <text class="lightBody" x="38" y="118">Some levers find cancer or precancer earlier: screening, suspicious lesion checks, and follow-up systems.</text>
+  </g>
+
+  <g transform="translate(110 955)">
+    <rect x="0" y="0" width="1280" height="72" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="29">Lower risk is not zero risk. Symptoms, inherited risk, prior results, cancer history, and local guidance need clinician input.</text>
+    <text class="source" x="26" y="55">Source backbone: prevention/cancer-site-prevention-map.md; NCI, WHO, WCRF/AICR prevention framing.</text>
+  </g>
+</svg>

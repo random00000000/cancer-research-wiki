@@ -41,6 +41,10 @@ Agent-facing risk mechanism map:
 
 ![Cancer risk, mechanism, and prevention map](visuals/risk-mechanism-prevention-map.svg)
 
+Site-specific prevention levers visual:
+
+![Which prevention levers matter most by cancer site](visuals/site-specific-prevention-levers.svg)
+
 Localized screening/vaccination decision variants:
 
 - [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)
@@ -108,6 +112,7 @@ Research backing:
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)
+- [Site-specific prevention levers visual](visuals/site-specific-prevention-levers.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

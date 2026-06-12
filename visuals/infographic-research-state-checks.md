@@ -15,6 +15,8 @@ Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
 
+Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
+
 Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
 
 Current localized screening/vaccination decision variants:
@@ -32,6 +34,22 @@ Current localized companion mechanism variants:
 - Russian: `visuals/cancer-keeps-adapting.ru.svg`
 
 Current visual QA log: `visuals/visual-qa-log.md`
+
+## 2026-06-12 Check: Site-Specific Prevention Levers
+
+New visual:
+
+- `visuals/site-specific-prevention-levers.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual mapping major cancer sites to the highest-signal prevention, vaccination, screening, and exposure-reduction levers.
+- The visual comes from `prevention/cancer-site-prevention-map.md` and keeps site-specific caveats visible instead of implying that one generic lifestyle rule fits every cancer.
+- It avoids date-sensitive screening age cutoffs and keeps personal risk, symptoms, inherited risk, cancer history, and local guidance inside the clinician-involvement boundary.
+
+### Decision For The Flagship Infographic
+
+Do not cram cancer-site details into the flagship public infographic. Keep the flagship broad, and use this companion visual when readers need to understand why prevention advice differs for colorectal, cervical, liver, lung, skin, breast, stomach, and oral/oropharyngeal cancers.
 
 ## 2026-06-12 Check: Cancer Headline Reading Guide
 
