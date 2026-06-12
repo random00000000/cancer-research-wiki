@@ -26,6 +26,8 @@ Current infection-related cancer prevention visual: `visuals/infection-preventio
 
 Current environment/work prevention visual: `visuals/environment-work-cancer-prevention.svg`
 
+Current alcohol biology and tobacco co-exposure visual: `visuals/alcohol-aldh2-tobacco-risk.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -69,6 +71,13 @@ Current localized environment/work variants:
 - Mandarin Chinese: `visuals/environment-work-cancer-prevention.zh.svg`
 - Russian: `visuals/environment-work-cancer-prevention.ru.svg`
 
+Current localized alcohol biology variants:
+
+- Spanish: `visuals/alcohol-aldh2-tobacco-risk.es.svg`
+- German: `visuals/alcohol-aldh2-tobacco-risk.de.svg`
+- Mandarin Chinese: `visuals/alcohol-aldh2-tobacco-risk.zh.svg`
+- Russian: `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -95,15 +104,18 @@ New QA artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-02.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 56 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 61 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
 - The environment/work visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious Russian card overflow was corrected before commit.
+- The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -189,6 +201,35 @@ Keep the flagship infographic's structural-exposure message short. Use this comp
 ### Translation Impact
 
 Keep localized environment/work visuals under native review before promotion. Radon, asbestos, PM2.5, remediation, and worker-safety terms vary by region and legal system.
+
+## 2026-06-12 Check: Alcohol Biology And Tobacco Co-Exposure Visual
+
+Evidence pages:
+
+- `prevention/alcohol-and-cancer-evidence.md`
+- `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`
+
+New visual:
+
+- `visuals/alcohol-aldh2-tobacco-risk.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.es.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.de.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.zh.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual explaining alcohol-related acetaldehyde biology, alcohol flushing/ALDH2 as a warning-sign concept, and tobacco-plus-alcohol co-exposure for upper aerodigestive cancers.
+- The visual uses the existing alcohol evidence pages and recently verified anchors: Rumgay/Lancet Oncology alcohol-attributable burden, Bagnardi dose-response meta-analysis, Andrici alcohol-flushing/ESCC meta-analysis, Chang ALDH2 review, and Hashibe/INHANCE tobacco-plus-alcohol pooled analysis.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's alcohol line short. Use this companion when readers need the deeper idea that the same exposure can carry different risk depending on dose, biology, and tobacco co-exposure.
+
+### Translation Impact
+
+Keep localized alcohol biology visuals under native review before promotion. Flushing language must avoid shame, ethnic stereotyping, and genetic determinism; it should remain a warning sign, not a diagnosis or identity label.
 
 ## 2026-06-12 Check: Relative Versus Absolute Risk Visual
 
@@ -455,7 +496,7 @@ Instead:
 
 - Keep the main infographic line as "limit or avoid alcohol."
 - Consider adding a small optional footnote in a future version: "Alcohol risk can be higher for some people because of biology, dose, and tobacco co-exposure."
-- Make a separate localized add-on visual for alcohol flushing/ALDH2, especially for Mandarin, Japanese, and Korean translation tracks.
+- Keep the separate localized add-on visual for alcohol flushing/ALDH2 and tobacco co-exposure: `visuals/alcohol-aldh2-tobacco-risk.svg`, with first localized variants for Spanish, German, Mandarin Chinese, and Russian.
 - Make a separate claim-filter or risk-lever visual explaining "same exposure, different biology."
 
 ### Translation Impact

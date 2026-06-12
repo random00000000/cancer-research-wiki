@@ -5,6 +5,11 @@ Last updated: 2026-06-12
 
 This page deepens `prevention/alcohol-and-cancer-evidence.md` for cancers of the oral cavity, pharynx, larynx, and esophagus. It is especially important for multilingual and global public literacy because ALDH2 loss-of-function variants are common in East Asian populations, while tobacco-plus-alcohol risk is globally relevant.
 
+Companion visual:
+
+- `visuals/alcohol-aldh2-tobacco-risk.svg`
+- First localized visual variants: `visuals/alcohol-aldh2-tobacco-risk.es.svg`, `visuals/alcohol-aldh2-tobacco-risk.de.svg`, `visuals/alcohol-aldh2-tobacco-risk.zh.svg`, and `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
+
 ## Plain-Language Takeaway
 
 Alcohol can raise cancer risk partly because the body converts ethanol into acetaldehyde, a DNA-damaging chemical. Most people clear acetaldehyde through aldehyde dehydrogenase enzymes, especially ALDH2. Some people inherit an ALDH2 variant that clears acetaldehyde poorly. For them, drinking can produce facial flushing and higher acetaldehyde exposure.

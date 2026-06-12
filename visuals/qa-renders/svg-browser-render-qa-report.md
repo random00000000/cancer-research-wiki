@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 56
-Nonblank renders: 56
+SVG files rendered: 61
+Nonblank renders: 61
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -15,6 +15,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 
 ## Limits
 
@@ -26,6 +27,11 @@ Blank or near-blank renders: 0
 
 | SVG | Canvas | Nonblank | Brightness delta |
 | --- | ---: | --- | ---: |
+| `alcohol-aldh2-tobacco-risk.de.svg` | 1500x980 | True | 37.70 |
+| `alcohol-aldh2-tobacco-risk.es.svg` | 1500x980 | True | 37.63 |
+| `alcohol-aldh2-tobacco-risk.ru.svg` | 1500x980 | True | 37.43 |
+| `alcohol-aldh2-tobacco-risk.svg` | 1500x980 | True | 37.96 |
+| `alcohol-aldh2-tobacco-risk.zh.svg` | 1500x980 | True | 37.82 |
 | `cancer-claim-filter.de.svg` | 1200x760 | True | 37.02 |
 | `cancer-claim-filter.es.svg` | 1200x760 | True | 37.48 |
 | `cancer-claim-filter.ru.svg` | 1200x760 | True | 36.55 |

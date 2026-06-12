@@ -14,6 +14,7 @@ Scope:
 - Claim-filter add-on visual: English plus first localized SVGs.
 - Infection-prevention add-on visual: English plus first localized SVGs.
 - Environment/work add-on visual: English plus first localized SVGs.
+- Alcohol biology add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -73,6 +74,11 @@ Checked files:
 - `visuals/environment-work-cancer-prevention.de.svg`
 - `visuals/environment-work-cancer-prevention.zh.svg`
 - `visuals/environment-work-cancer-prevention.ru.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.es.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.de.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.zh.svg`
+- `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
 
 Result:
 
@@ -94,7 +100,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 56 SVG files in `visuals/`.
+- All 61 SVG files in `visuals/`.
 
 Tooling:
 
@@ -108,13 +114,16 @@ Generated artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-02.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 
 Result:
 
-- Headless Chrome rendered all 56 SVG files at their declared canvas sizes.
-- All 56 renders were nonblank.
+- Headless Chrome rendered all 61 SVG files at their declared canvas sizes.
+- All 61 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
+- The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 
 Repository note:
 
@@ -143,6 +152,8 @@ Repository note:
 | Infection-prevention localized SVGs | Passed | Headless Chrome nonblank passed; English/German/Russian/Mandarin full-size previews checked; close layout review still needed | Still needed |
 | Environment/work prevention SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Environment/work prevention localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian/Mandarin full-size previews checked; obvious Russian overflow fixed | Still needed |
+| Alcohol biology SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked; safety/footer overflow fixed | Not applicable |
+| Alcohol biology localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/Russian/Mandarin full-size previews checked; safety-panel overflow fixed | Still needed |
 
 ## Next Visual QA Tasks
 

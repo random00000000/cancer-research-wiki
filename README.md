@@ -68,6 +68,17 @@ Environment and work cancer prevention visual:
 
 ![Cancer prevention is also clean air and safe work](visuals/environment-work-cancer-prevention.svg)
 
+Alcohol biology and tobacco co-exposure visual:
+
+![Alcohol risk depends on dose, biology, and tobacco](visuals/alcohol-aldh2-tobacco-risk.svg)
+
+Localized alcohol biology variants:
+
+- [Spanish alcohol biology SVG](visuals/alcohol-aldh2-tobacco-risk.es.svg)
+- [German alcohol biology SVG](visuals/alcohol-aldh2-tobacco-risk.de.svg)
+- [Mandarin Chinese alcohol biology SVG](visuals/alcohol-aldh2-tobacco-risk.zh.svg)
+- [Russian alcohol biology SVG](visuals/alcohol-aldh2-tobacco-risk.ru.svg)
+
 Localized environment/work variants:
 
 - [Spanish environment/work SVG](visuals/environment-work-cancer-prevention.es.svg)
@@ -170,6 +181,7 @@ Research backing:
 - [How cancer grows](concepts/how-cancer-grows.md)
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
+- [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)

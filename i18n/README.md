@@ -116,6 +116,18 @@ This public visual explains that cancer prevention also includes clean air, rado
 | Mandarin Chinese | [environment-work-cancer-prevention.zh.svg](../visuals/environment-work-cancer-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [environment-work-cancer-prevention.ru.svg](../visuals/environment-work-cancer-prevention.ru.svg) | First localized SVG; native review needed |
 
+## Alcohol Biology And Tobacco Co-Exposure Visual Variants
+
+This public visual explains acetaldehyde, alcohol flushing, ALDH2 biology, and tobacco plus alcohol co-exposure without treating biology as destiny or identity. These translations should receive native review, especially for Mandarin and other East Asian language tracks where flushing language can easily become stigmatizing.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [alcohol-aldh2-tobacco-risk.svg](../visuals/alcohol-aldh2-tobacco-risk.svg) | Canonical first-pass SVG |
+| Spanish | [alcohol-aldh2-tobacco-risk.es.svg](../visuals/alcohol-aldh2-tobacco-risk.es.svg) | First localized SVG; native review needed |
+| German | [alcohol-aldh2-tobacco-risk.de.svg](../visuals/alcohol-aldh2-tobacco-risk.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [alcohol-aldh2-tobacco-risk.zh.svg](../visuals/alcohol-aldh2-tobacco-risk.zh.svg) | First localized SVG; native review needed |
+| Russian | [alcohol-aldh2-tobacco-risk.ru.svg](../visuals/alcohol-aldh2-tobacco-risk.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.

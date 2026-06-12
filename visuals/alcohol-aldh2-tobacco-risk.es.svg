@@ -1,0 +1,35 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">El riesgo del alcohol depende de biología y coexposiciones</title>
+  <desc id="desc">Infografía pública sobre acetaldehído, rubor facial, biología ALDH2 y tabaco más alcohol como factores de riesgo de cáncer sin culpa ni determinismo genético.</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#102033">El riesgo del alcohol depende de dosis, biología y tabaco</text>
+  <text x="94" y="158" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#46515f">Menos alcohol suele significar menor riesgo. No beber evita el riesgo atribuible al alcohol.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="220" width="390" height="390" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="152" cy="285" r="40" fill="#1b5d66"/><text x="152" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="122" y="356" font-size="28" font-weight="700" fill="#102033">Acetaldehído</text>
+    <text x="122" y="398" font-size="21" fill="#46515f">El alcohol se convierte en</text><text x="122" y="426" font-size="21" fill="#46515f">acetaldehído, que puede dañar</text><text x="122" y="454" font-size="21" fill="#46515f">ADN y reparación celular.</text>
+    <text x="122" y="512" font-size="23" font-weight="700" fill="#102033">Dirección pública</text><text x="122" y="546" font-size="21" fill="#46515f">Beber menos o nada.</text>
+    <rect x="555" y="220" width="390" height="390" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="615" cy="285" r="40" fill="#a26119"/><text x="615" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="585" y="356" font-size="28" font-weight="700" fill="#102033">Rubor y ALDH2</text>
+    <text x="585" y="398" font-size="21" fill="#46515f">El rubor facial al beber puede</text><text x="585" y="426" font-size="21" fill="#46515f">señalar eliminación más lenta</text><text x="585" y="454" font-size="21" fill="#46515f">del acetaldehído.</text>
+    <text x="585" y="512" font-size="23" font-weight="700" fill="#102033">Dirección pública</text><text x="585" y="546" font-size="21" fill="#46515f">Trátelo como advertencia,</text><text x="585" y="574" font-size="21" fill="#46515f">no como tolerancia segura.</text>
+    <rect x="1018" y="220" width="390" height="390" rx="18" fill="#fde8e6" stroke="#ad3434" stroke-width="3"/>
+    <circle cx="1078" cy="285" r="40" fill="#ad3434"/><text x="1078" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="1048" y="356" font-size="28" font-weight="700" fill="#102033">Tabaco más alcohol</text>
+    <text x="1048" y="398" font-size="21" fill="#46515f">Juntos preocupan más para</text><text x="1048" y="426" font-size="21" fill="#46515f">boca, garganta, laringe</text><text x="1048" y="454" font-size="21" fill="#46515f">y esófago.</text>
+    <text x="1048" y="512" font-size="23" font-weight="700" fill="#102033">Dirección pública</text><text x="1048" y="546" font-size="21" fill="#46515f">Evitar tabaco importa aún más</text><text x="1048" y="574" font-size="21" fill="#46515f">cuando hay alcohol.</text>
+  </g>
+  <rect x="92" y="655" width="625" height="160" rx="18" fill="#102033"/>
+  <text x="130" y="704" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Sin culpa</text>
+  <text x="130" y="748" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">Misma bebida, biología distinta. Misma exposición,</text><text x="130" y="780" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">contexto distinto. Riesgo no es destino.</text>
+  <rect x="775" y="655" width="633" height="200" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="704" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#102033">Límite de seguridad</text>
+  <text x="813" y="748" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">El rubor no diagnostica ni prueba el genotipo.</text>
+  <text x="813" y="780" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">Dependencia, síntomas, hígado, medicamentos, embarazo</text>
+  <text x="813" y="812" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">o cáncer previo necesitan apoyo clínico.</text>
+  <text x="92" y="880" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#46515f">Fuentes: Rumgay 2021; Bagnardi; acetaldehído; Andrici rubor/ESCC; Chang ALDH2; Hashibe INHANCE.</text>
+  <text x="92" y="918" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6b7280">Evite estereotipos. ALDH2 modifica riesgo; no es identidad ni destino. Evitar tabaco importa en todas las poblaciones.</text>
+</svg>

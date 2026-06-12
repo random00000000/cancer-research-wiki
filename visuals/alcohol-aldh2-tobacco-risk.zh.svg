@@ -1,0 +1,36 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">酒精风险取决于剂量、生物学和共同暴露</title>
+  <desc id="desc">公共信息图：解释乙醛、饮酒脸红、ALDH2 生物学以及烟草加酒精作为癌症风险因素，避免责备和基因决定论。</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="52" font-weight="700" fill="#102033">酒精风险取决于剂量、生物学和烟草</text>
+  <text x="94" y="158" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="25" fill="#46515f">少喝酒通常意味着较低癌症风险。不喝酒可避免酒精归因的癌症风险。</text>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <rect x="92" y="220" width="390" height="390" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="152" cy="285" r="40" fill="#1b5d66"/><text x="152" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="122" y="356" font-size="28" font-weight="700" fill="#102033">乙醛</text>
+    <text x="122" y="398" font-size="21" fill="#46515f">酒精会转化为乙醛，</text><text x="122" y="426" font-size="21" fill="#46515f">这种活性化学物可损伤</text><text x="122" y="454" font-size="21" fill="#46515f">DNA 和修复系统。</text>
+    <text x="122" y="512" font-size="23" font-weight="700" fill="#102033">公共方向</text><text x="122" y="546" font-size="21" fill="#46515f">少喝或不喝。</text>
+    <rect x="555" y="220" width="390" height="390" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="615" cy="285" r="40" fill="#a26119"/><text x="615" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="585" y="356" font-size="28" font-weight="700" fill="#102033">脸红与 ALDH2</text>
+    <text x="585" y="398" font-size="21" fill="#46515f">饮酒后脸红可能提示</text><text x="585" y="426" font-size="21" fill="#46515f">某些人清除乙醛较慢。</text>
+    <text x="585" y="512" font-size="23" font-weight="700" fill="#102033">公共方向</text><text x="585" y="546" font-size="21" fill="#46515f">把脸红当作警示，</text><text x="585" y="574" font-size="21" fill="#46515f">不是安全耐受证明。</text>
+    <rect x="1018" y="220" width="390" height="390" rx="18" fill="#fde8e6" stroke="#ad3434" stroke-width="3"/>
+    <circle cx="1078" cy="285" r="40" fill="#ad3434"/><text x="1078" y="300" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="1048" y="356" font-size="28" font-weight="700" fill="#102033">烟草加酒精</text>
+    <text x="1048" y="398" font-size="21" fill="#46515f">二者并存时，对口腔、</text><text x="1048" y="426" font-size="21" fill="#46515f">咽喉、喉部和食管癌</text><text x="1048" y="454" font-size="21" fill="#46515f">尤其值得警惕。</text>
+    <text x="1048" y="512" font-size="23" font-weight="700" fill="#102033">公共方向</text><text x="1048" y="546" font-size="21" fill="#46515f">有酒精暴露时，</text><text x="1048" y="574" font-size="21" fill="#46515f">避免烟草更重要。</text>
+  </g>
+  <rect x="92" y="655" width="625" height="160" rx="18" fill="#102033"/>
+  <text x="130" y="704" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">不责备</text>
+  <text x="130" y="748" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#d9e4ef">同样的酒，不同的生物学。同样的暴露，</text><text x="130" y="780" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#d9e4ef">不同的处境。风险不是命运。</text>
+  <rect x="775" y="655" width="633" height="200" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="704" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="30" font-weight="700" fill="#102033">安全边界</text>
+  <text x="813" y="748" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" fill="#102033">脸红不是诊断，也不是基因检测。</text>
+  <text x="813" y="778" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" fill="#102033">酒精依赖、症状、肝病、用药、怀孕</text>
+  <text x="813" y="808" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" fill="#102033">或既往癌症</text>
+  <text x="813" y="838" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" fill="#102033">需要临床支持。</text>
+  <text x="92" y="880" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="19" fill="#46515f">证据锚点：Rumgay 2021；Bagnardi；乙醛综述；Andrici 脸红/ESCC；Chang ALDH2；Hashibe INHANCE。</text>
+  <text x="92" y="918" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17" fill="#6b7280">避免刻板印象。ALDH2 会修饰风险；它不是身份或命运。避免烟草对所有人群都重要。</text>
+</svg>

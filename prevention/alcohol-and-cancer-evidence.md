@@ -7,6 +7,11 @@ This page supports the public infographic and future agent answers about alcohol
 
 Focused follow-up: `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md` covers ALDH2, alcohol flushing, tobacco-plus-alcohol interaction, and upper aerodigestive cancer risk.
 
+Companion visual:
+
+- `visuals/alcohol-aldh2-tobacco-risk.svg`
+- First localized visual variants: `visuals/alcohol-aldh2-tobacco-risk.es.svg`, `visuals/alcohol-aldh2-tobacco-risk.de.svg`, `visuals/alcohol-aldh2-tobacco-risk.zh.svg`, and `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
+
 ## Plain-Language Takeaway
 
 Alcohol is not only a liver issue. Ethanol is converted into acetaldehyde, a reactive compound that can damage DNA and proteins. Alcohol can also increase oxidative stress, alter hormone signaling, make tissues more permeable to other carcinogens, and contribute indirectly through liver disease and inflammation.

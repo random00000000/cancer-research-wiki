@@ -253,6 +253,8 @@ When an agent completes a coherent change in this repository, it should commit t
 
 The canonical public destination is `random00000000/cancer-research-wiki`. After committing, push the commit there on the repository's active branch unless the user asks to keep the work local or use a different branch. Future agents should treat that public repository as the shared durable home for this wiki's progress.
 
+This repository itself is the working wiki and memory. Agents should commit directly in this repo, then push to `random00000000/cancer-research-wiki`, so later cancer-specialist threads inherit the newest crawl notes, source cards, visuals, QA logs, and safety rules.
+
 Before committing:
 
 - Check the working tree.
