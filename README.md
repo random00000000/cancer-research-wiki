@@ -1,6 +1,6 @@
 # Cancer Research Wiki
 
-Languages: [English](README.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [中文](i18n/README.zh.md) | [Русский](i18n/README.ru.md) | [Français](i18n/README.fr.md) | [Português](i18n/README.pt.md) | [More languages](i18n/README.md)
+Languages: [English](README.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [中文](i18n/README.zh.md) | [Русский](i18n/README.ru.md) | [Français](i18n/README.fr.md) | [Português](i18n/README.pt.md) | [العربية](i18n/README.ar.md) | [हिन्दी](i18n/README.hi.md) | [More languages](i18n/README.md)
 
 Cancer Research Wiki is an automated, evidence-first research wiki with a long-term intent: help move cancer research, prevention literacy, and therapeutic reasoning toward eradication by focusing on root mechanisms, not only symptoms.
 

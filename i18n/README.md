@@ -13,13 +13,13 @@ This directory holds translated entry pages for the Cancer Research Wiki. The En
 | Russian | [README.ru.md](README.ru.md) | First-pass translated entry |
 | French | [README.fr.md](README.fr.md) | First-pass translated entry |
 | Portuguese | [README.pt.md](README.pt.md) | First-pass translated entry |
+| Arabic | [README.ar.md](README.ar.md) | First-pass translated entry |
+| Hindi | [README.hi.md](README.hi.md) | First-pass translated entry |
 
 ## Planned Languages
 
 These are good next candidates because they cover large reader populations and major research/public-health communities:
 
-- Arabic
-- Hindi
 - Japanese
 - Korean
 - Italian
