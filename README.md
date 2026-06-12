@@ -36,6 +36,8 @@ Research backing:
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)
 - [Cervical cancer prevention page](cancer-types/cervical-cancer.md)
+- [Breast cancer prevention page](cancer-types/breast-cancer.md)
+- [Liver cancer prevention page](cancer-types/liver-cancer.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
