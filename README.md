@@ -113,6 +113,10 @@ Metabolic health, movement, and food pattern visual:
 
 ![Movement, food pattern, and metabolism matter](visuals/metabolic-health-cancer-prevention.svg)
 
+Colorectal food pattern prevention visual:
+
+![Food pattern matters for colorectal cancer](visuals/colorectal-food-pattern-prevention.svg)
+
 UV, sun, and indoor tanning prevention visual:
 
 ![Protect skin from repeated UV injury](visuals/uv-sun-tanning-cancer-prevention.svg)
@@ -130,6 +134,13 @@ Localized metabolic health variants:
 - [German metabolic health SVG](visuals/metabolic-health-cancer-prevention.de.svg)
 - [Mandarin Chinese metabolic health SVG](visuals/metabolic-health-cancer-prevention.zh.svg)
 - [Russian metabolic health SVG](visuals/metabolic-health-cancer-prevention.ru.svg)
+
+Localized colorectal food-pattern variants:
+
+- [Spanish colorectal food-pattern SVG](visuals/colorectal-food-pattern-prevention.es.svg)
+- [German colorectal food-pattern SVG](visuals/colorectal-food-pattern-prevention.de.svg)
+- [Mandarin Chinese colorectal food-pattern SVG](visuals/colorectal-food-pattern-prevention.zh.svg)
+- [Russian colorectal food-pattern SVG](visuals/colorectal-food-pattern-prevention.ru.svg)
 
 Localized tobacco cessation variants:
 
@@ -223,6 +234,7 @@ Research backing:
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Metabolic health, diet pattern, and activity evidence](prevention/metabolic-health-diet-activity-evidence.md)
+- [Colorectal food pattern evidence](prevention/colorectal-food-pattern-evidence.md)
 - [UV, sun, and indoor tanning evidence](prevention/uv-sun-indoor-tanning-evidence.md)
 - [Tobacco cessation and cancer evidence](prevention/tobacco-cessation-cancer-evidence.md)
 - [Alcohol and cancer evidence](prevention/alcohol-and-cancer-evidence.md)
@@ -254,6 +266,7 @@ Research backing:
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Metabolic health, movement, and food pattern visual](visuals/metabolic-health-cancer-prevention.svg)
+- [Colorectal food pattern prevention visual](visuals/colorectal-food-pattern-prevention.svg)
 - [UV, sun, and indoor tanning prevention visual](visuals/uv-sun-tanning-cancer-prevention.svg)
 - [Tobacco cessation and cancer risk visual](visuals/tobacco-cessation-cancer-risk.svg)
 - [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)

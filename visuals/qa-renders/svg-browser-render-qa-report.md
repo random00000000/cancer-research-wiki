@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 91
-Nonblank renders: 91
+SVG files rendered: 96
+Nonblank renders: 96
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -64,6 +64,11 @@ Blank or near-blank renders: 0
 | `cancer-literacy-infographic.tr.svg` | 1200x1700 | True | 29.63 |
 | `cancer-literacy-infographic.vi.svg` | 1200x1700 | True | 29.31 |
 | `cancer-literacy-infographic.zh.svg` | 1200x1700 | True | 30.16 |
+| `colorectal-food-pattern-prevention.de.svg` | 1500x980 | True | 39.01 |
+| `colorectal-food-pattern-prevention.es.svg` | 1500x980 | True | 38.38 |
+| `colorectal-food-pattern-prevention.ru.svg` | 1500x980 | True | 38.70 |
+| `colorectal-food-pattern-prevention.svg` | 1500x980 | True | 38.43 |
+| `colorectal-food-pattern-prevention.zh.svg` | 1500x980 | True | 36.84 |
 | `environment-work-cancer-prevention.de.svg` | 1500x980 | True | 38.08 |
 | `environment-work-cancer-prevention.es.svg` | 1500x980 | True | 38.50 |
 | `environment-work-cancer-prevention.ru.svg` | 1500x980 | True | 38.03 |

@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/metabolic-health-cancer-prevention.svg`
 - First localized visual variants: `visuals/metabolic-health-cancer-prevention.es.svg`, `visuals/metabolic-health-cancer-prevention.de.svg`, `visuals/metabolic-health-cancer-prevention.zh.svg`, and `visuals/metabolic-health-cancer-prevention.ru.svg`
+- Focused colorectal food-pattern companion: `visuals/colorectal-food-pattern-prevention.svg` plus `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
 ## Plain-Language Summary
 
@@ -129,10 +130,11 @@ The flagship infographic should keep this as a broad lever: movement, healthy fo
 - Body fatness can affect hormones, insulin/IGF, inflammation, adipokines, and tissue ecology.
 - Systems matter: safe streets, time, food access, disability support, sleep, work, stress, medication effects, and poverty.
 - Risk reduction is not personal blame.
+- Use `prevention/colorectal-food-pattern-evidence.md` and `visuals/colorectal-food-pattern-prevention.svg` for colorectal-specific fiber, whole-grain, processed-meat, screening, and symptom-safety nuance.
 
 ## Next Research Tasks
 
-- Add a colorectal-specific fiber/whole-grain/process-meat effect-size table.
+- Deepen the new colorectal-specific fiber/whole-grain/process-meat page with absolute-risk examples and country-specific food-access examples.
 - Add a body-weight and cancer-site map with WCRF/IARC/ACS comparisons.
 - Add physical activity intervention and survivorship evidence separately from prevention evidence.
 - Add a page on ultra-processed foods that clearly separates direct cancer evidence from indirect weight/metabolic pathways.

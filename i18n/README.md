@@ -188,6 +188,18 @@ This public visual explains movement, food pattern, body fatness, metabolic sign
 | Mandarin Chinese | [metabolic-health-cancer-prevention.zh.svg](../visuals/metabolic-health-cancer-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [metabolic-health-cancer-prevention.ru.svg](../visuals/metabolic-health-cancer-prevention.ru.svg) | First localized SVG; native review needed |
 
+## Colorectal Food Pattern Visual Variants
+
+This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [colorectal-food-pattern-prevention.svg](../visuals/colorectal-food-pattern-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [colorectal-food-pattern-prevention.es.svg](../visuals/colorectal-food-pattern-prevention.es.svg) | First localized SVG; native review needed |
+| German | [colorectal-food-pattern-prevention.de.svg](../visuals/colorectal-food-pattern-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [colorectal-food-pattern-prevention.zh.svg](../visuals/colorectal-food-pattern-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [colorectal-food-pattern-prevention.ru.svg](../visuals/colorectal-food-pattern-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## UV Sun And Indoor Tanning Visual Variants
 
 This public visual explains UV DNA damage, indoor tanning risk, layered sun protection, systems protection for children/workers, and clinical evaluation of suspicious skin changes. These translations should receive native review because sun behavior, tanning culture, skin-tone risk communication, and health-system access vary by region.

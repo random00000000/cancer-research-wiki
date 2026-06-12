@@ -36,6 +36,8 @@ Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-can
 
 Current metabolic health, movement, and food pattern visual: `visuals/metabolic-health-cancer-prevention.svg`
 
+Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
+
 Current UV, sun, and indoor tanning prevention visual: `visuals/uv-sun-tanning-cancer-prevention.svg`
 
 Current vaccine-preventable cancer visual: `visuals/vaccine-preventable-cancers.svg`
@@ -118,6 +120,13 @@ Current localized metabolic health variants:
 - Mandarin Chinese: `visuals/metabolic-health-cancer-prevention.zh.svg`
 - Russian: `visuals/metabolic-health-cancer-prevention.ru.svg`
 
+Current localized colorectal food-pattern variants:
+
+- Spanish: `visuals/colorectal-food-pattern-prevention.es.svg`
+- German: `visuals/colorectal-food-pattern-prevention.de.svg`
+- Mandarin Chinese: `visuals/colorectal-food-pattern-prevention.zh.svg`
+- Russian: `visuals/colorectal-food-pattern-prevention.ru.svg`
+
 Current localized UV/sun variants:
 
 - Spanish: `visuals/uv-sun-tanning-cancer-prevention.es.svg`
@@ -166,7 +175,7 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 91 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 96 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -178,6 +187,7 @@ New QA artifacts:
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The air pollution visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
+- The colorectal food-pattern visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -269,6 +279,35 @@ Keep the flagship infographic's clean-air line short. Use the air-pollution comp
 ### Translation Impact
 
 Keep localized air-pollution visuals under native review before promotion. Air-quality indexes, pollution sources, mask/filter advice, wildfire or dust-storm context, worker protection, and environmental-justice language vary by country.
+
+## 2026-06-12 Check: Colorectal Food Pattern Prevention Visual
+
+Evidence page:
+
+- `prevention/colorectal-food-pattern-evidence.md`
+
+New visual:
+
+- `visuals/colorectal-food-pattern-prevention.svg`
+- `visuals/colorectal-food-pattern-prevention.es.svg`
+- `visuals/colorectal-food-pattern-prevention.de.svg`
+- `visuals/colorectal-food-pattern-prevention.zh.svg`
+- `visuals/colorectal-food-pattern-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining fiber-rich foods, processed-meat limitation, colorectal screening, food-access systems, and symptom safety boundaries.
+- The synthesis uses peer-reviewed dose-response/meta-analysis anchors for fiber, whole grains, red meat, and processed meat, with IARC/Lancet used as a hazard-classification support rather than the only source.
+- The visual separates risk reduction from screening and symptom evaluation so diet advice does not become false reassurance.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's food-pattern line short. Use the colorectal companion when readers need the concrete root-cause pathway: make fiber-rich foods easier, make processed meat less routine, keep screening and follow-up available, and avoid blame.
+
+### Translation Impact
+
+Keep localized colorectal food-pattern visuals under native review before promotion. Food names, screening terms, meat-processing categories, and stigma-sensitive diet wording vary by country and language.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 

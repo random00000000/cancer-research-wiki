@@ -58,6 +58,11 @@ Avoid overclaiming:
 - Do not say a diet "prevents colorectal cancer" absolutely.
 - Do not promote calcium supplements broadly from colorectal evidence without supplement caveats.
 
+Focused evidence and public visual:
+
+- `prevention/colorectal-food-pattern-evidence.md`
+- `visuals/colorectal-food-pattern-prevention.svg`
+
 ## Source Cards
 
 ### WCRF/AICR Colorectal Cancer Report
@@ -79,6 +84,17 @@ Avoid overclaiming:
   - Meeting WCRF/AICR recommendations, especially alcohol, body weight, and red/processed meat recommendations, could substantially reduce colorectal cancer incidence.
 - Caution:
   - Observational adherence studies can be confounded by other health behaviors and socioeconomic factors.
+
+### Fiber, Whole Grains, Red Meat, And Processed Meat
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/22074852/
+- Red/processed meat meta-analysis: https://pubmed.ncbi.nlm.nih.gov/21674008/
+- Source type: systematic reviews / dose-response meta-analyses of prospective studies
+- Reusable claims:
+  - Higher fiber and whole-grain intake is associated with lower colorectal cancer risk.
+  - Red and processed meat intake is positively associated with colorectal cancer risk.
+- Caution:
+  - Food-pattern evidence should be presented as risk-shifting, not as individual blame or a screening replacement.
 
 ### Colorectal Screening Meta-Analysis Of RCTs
 
@@ -116,6 +132,7 @@ Colorectal cancer is a good candidate for a future "which lever for which cancer
 - Movement icon.
 - Less processed meat/alcohol icon.
 - Healthy weight/access icon.
+- Symptom and screening boundary: diet advice is not a response to blood in stool, persistent bowel changes, anemia, or unexplained weight loss.
 
 Keep the public message:
 
@@ -127,3 +144,4 @@ Keep the public message:
 - Add Lynch syndrome and family-history screening caveats.
 - Add colorectal cancer disparities and access barriers.
 - Add source cards for ACS, Cancer Research UK, and international screening guidance.
+- Add absolute-risk examples for fiber, whole-grain, red-meat, and processed-meat claims.

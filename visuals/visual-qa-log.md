@@ -17,6 +17,7 @@ Scope:
 - Alcohol biology add-on visual: English plus first localized SVGs.
 - Tobacco cessation add-on visual: English plus first localized SVGs.
 - Metabolic health add-on visual: English plus first localized SVGs.
+- Colorectal food-pattern add-on visual: English plus first localized SVGs.
 - UV/sun add-on visual: English plus first localized SVGs.
 - Vaccine-preventable cancer add-on visual: English plus first localized SVGs.
 - Radon/home add-on visual: English plus first localized SVGs.
@@ -95,6 +96,11 @@ Checked files:
 - `visuals/metabolic-health-cancer-prevention.de.svg`
 - `visuals/metabolic-health-cancer-prevention.zh.svg`
 - `visuals/metabolic-health-cancer-prevention.ru.svg`
+- `visuals/colorectal-food-pattern-prevention.svg`
+- `visuals/colorectal-food-pattern-prevention.es.svg`
+- `visuals/colorectal-food-pattern-prevention.de.svg`
+- `visuals/colorectal-food-pattern-prevention.zh.svg`
+- `visuals/colorectal-food-pattern-prevention.ru.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.es.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.de.svg`
@@ -136,7 +142,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 91 SVG files in `visuals/`.
+- All 96 SVG files in `visuals/`.
 
 Tooling:
 
@@ -157,13 +163,14 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 91 SVG files at their declared canvas sizes.
-- All 91 renders were nonblank.
+- Headless Chrome rendered all 96 SVG files at their declared canvas sizes.
+- All 96 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
+- The colorectal food-pattern visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
@@ -202,6 +209,8 @@ Repository note:
 | Tobacco cessation localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian/Mandarin full-size previews checked; German/Russian overflow fixed | Still needed |
 | Metabolic health SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Metabolic health localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked; overflow fixed | Still needed |
+| Colorectal food pattern SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Colorectal food pattern localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | UV/sun SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | UV/sun localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | Vaccine-preventable cancer SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |

@@ -96,6 +96,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Metabolic health, movement, and food pattern - German | `metabolic-health-cancer-prevention.de.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Mandarin Chinese | `metabolic-health-cancer-prevention.zh.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Russian | `metabolic-health-cancer-prevention.ru.svg` | First localized SVG; native review needed |
+| Colorectal food pattern prevention | `colorectal-food-pattern-prevention.svg` | First-pass English SVG |
+| Colorectal food pattern prevention - Spanish | `colorectal-food-pattern-prevention.es.svg` | First localized SVG; native review needed |
+| Colorectal food pattern prevention - German | `colorectal-food-pattern-prevention.de.svg` | First localized SVG; native review needed |
+| Colorectal food pattern prevention - Mandarin Chinese | `colorectal-food-pattern-prevention.zh.svg` | First localized SVG; native review needed |
+| Colorectal food pattern prevention - Russian | `colorectal-food-pattern-prevention.ru.svg` | First localized SVG; native review needed |
 | UV, sun, and indoor tanning prevention | `uv-sun-tanning-cancer-prevention.svg` | First-pass English SVG |
 | UV, sun, and indoor tanning prevention - Spanish | `uv-sun-tanning-cancer-prevention.es.svg` | First localized SVG; native review needed |
 | UV, sun, and indoor tanning prevention - German | `uv-sun-tanning-cancer-prevention.de.svg` | First localized SVG; native review needed |
