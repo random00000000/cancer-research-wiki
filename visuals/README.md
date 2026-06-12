@@ -35,6 +35,7 @@ Use `visual-qa-log.md` to track structural checks, browser rendering checks, cli
 | Visual | Asset | Status |
 | --- | --- | --- |
 | Cancer claim filter | `cancer-claim-filter.svg` | First-pass English SVG |
+| Screening and vaccination decision guide | `screening-vaccination-decision.svg` | First-pass English SVG |
 
 ## Companion Mechanism Visuals
 

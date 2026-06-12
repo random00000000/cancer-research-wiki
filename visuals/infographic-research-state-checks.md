@@ -13,6 +13,8 @@ Current safety add-on visual: `visuals/cancer-claim-filter.svg`
 
 Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
+Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
+
 Current localized companion mechanism variants:
 
 - Spanish: `visuals/cancer-keeps-adapting.es.svg`
@@ -37,6 +39,22 @@ New evidence page:
 ### Decision For The Flagship Infographic
 
 Do not add headline-reading rules to the flagship infographic. Keep the flagship image focused on what cancer is and how risk can be reduced, and keep headline evaluation in the claim-filter/headline-reading companion material.
+
+## 2026-06-12 Check: Screening And Vaccination Decision Visual
+
+New visual:
+
+- `visuals/screening-vaccination-decision.svg`
+
+### What Changed
+
+- The wiki now has a public visual that separates symptoms from screening and shows that screening/vaccination decisions depend on age, anatomy, risk, local guidance, benefits, harms, and follow-up access.
+- The visual avoids date-sensitive age cutoffs and points readers toward clinician-guided decisions rather than personal medical instructions.
+- It uses the existing screening, screening-harms, and infection-prevention evidence pages as its source backbone.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's broad wording about recommended screening and vaccination. Use the new decision visual as the companion when readers need the benefit-harm and personalization logic.
 
 ## 2026-06-12 Check: Visual QA Baseline
 

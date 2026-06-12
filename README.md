@@ -33,6 +33,10 @@ Companion mechanism visual:
 
 ![How cancer keeps adapting](visuals/cancer-keeps-adapting.svg)
 
+Screening and vaccination decision visual:
+
+![Cancer screening and vaccination decision guide](visuals/screening-vaccination-decision.svg)
+
 Localized companion mechanism variants:
 
 - [Spanish companion SVG](visuals/cancer-keeps-adapting.es.svg)
@@ -91,6 +95,7 @@ Research backing:
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
+- [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 
