@@ -48,6 +48,7 @@ Public wording:
 Evidence:
 
 - Population data show lower invasive cervical cancer risk among vaccinated groups, especially when vaccinated younger.
+- Focused companion visual: `visuals/vaccine-preventable-cancers.svg`.
 
 Caution:
 
@@ -118,6 +119,14 @@ Caution:
   - HPV is one of the major infectious causes of cancer worldwide.
   - Infection-related cancer prevention is one of the clearest places for population-level impact.
 
+### Vaccine-Preventable Cancer Evidence Note
+
+- URL: `prevention/vaccine-preventable-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - HPV vaccination is upstream cancer prevention because it blocks persistent high-risk HPV infection.
+  - Vaccination works best when paired with access, trust, screening, treatment, and follow-up.
+
 ## Infographic Implications
 
 Cervical cancer deserves a special future visual because it is unusually preventable:
@@ -126,6 +135,7 @@ Cervical cancer deserves a special future visual because it is unusually prevent
 - Screening test icon.
 - Precancer treatment icon.
 - Access/equity bridge.
+- Optional companion image: `visuals/vaccine-preventable-cancers.svg`.
 
 Core public phrase:
 

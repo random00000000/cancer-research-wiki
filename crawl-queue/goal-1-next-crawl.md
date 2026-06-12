@@ -27,8 +27,8 @@ Last updated: 2026-06-12
 ## Infection-Related Cancer
 
 - Deepen `prevention/infection-related-cancer-prevention.md` with H. pylori screen-and-treat strategy by region.
-- Deepen hepatitis B vaccination and hepatitis C treatment evidence by country and risk group.
-- Deepen HPV vaccine real-world effectiveness by country, year, vaccine type, dose schedule, and equity group.
+- Deepen hepatitis B vaccination and hepatitis C treatment evidence by country and risk group. Started: `prevention/vaccine-preventable-cancer-evidence.md` plus localized HPV/HBV vaccine visual variants. Next: birth-dose failures, adult HBV vaccination policy, perinatal antiviral prevention, and HCV cure-by-risk-group evidence.
+- Deepen HPV vaccine real-world effectiveness by country, year, vaccine type, dose schedule, and equity group. Started: vaccine-preventable cancer synthesis and public visual. Next: gender-neutral vaccination, oropharyngeal/anal cancer outcomes, catch-up schedules, and equity impact.
 - Add infection-related cancer burden by income region.
 
 ## Mechanism Explainers
@@ -45,6 +45,7 @@ Last updated: 2026-06-12
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
 - Visually QA the public "cancer claim filter" visual and first localized variants: `visuals/cancer-claim-filter.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then gather native-language examples of misleading cancer-claim wording before expanding the visual to additional languages.
 - Visually QA the infection-related cancer prevention visual and first localized variants: `visuals/infection-prevention-cancer.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen regional H. pylori, HBV, HCV, and HPV evidence before expanding to additional languages.
+- Visually QA the vaccine-preventable cancer visual and first localized variants: `visuals/vaccine-preventable-cancers.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen HPV/HBV vaccine schedule, birth-dose, catch-up, and equity evidence before expanding to additional languages.
 - Visually QA the environment/work prevention visual and first localized variants: `visuals/environment-work-cancer-prevention.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen region-specific radon, asbestos, PM2.5, diesel exhaust, silica, and worker-protection evidence before expanding to additional languages.
 - Visually QA the alcohol biology and tobacco co-exposure visual and first localized variants: `visuals/alcohol-aldh2-tobacco-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then add Japanese and Korean wording for flushing/ALDH2 only after culturally safe native review.
 - Visually QA the tobacco cessation and cancer risk visual and first localized variants: `visuals/tobacco-cessation-cancer-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen cessation intervention evidence and add more language variants after native review.

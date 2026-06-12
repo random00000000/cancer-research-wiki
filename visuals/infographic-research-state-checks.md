@@ -34,6 +34,8 @@ Current metabolic health, movement, and food pattern visual: `visuals/metabolic-
 
 Current UV, sun, and indoor tanning prevention visual: `visuals/uv-sun-tanning-cancer-prevention.svg`
 
+Current vaccine-preventable cancer visual: `visuals/vaccine-preventable-cancers.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -105,6 +107,13 @@ Current localized UV/sun variants:
 - Mandarin Chinese: `visuals/uv-sun-tanning-cancer-prevention.zh.svg`
 - Russian: `visuals/uv-sun-tanning-cancer-prevention.ru.svg`
 
+Current localized vaccine-preventable cancer variants:
+
+- Spanish: `visuals/vaccine-preventable-cancers.es.svg`
+- German: `visuals/vaccine-preventable-cancers.de.svg`
+- Mandarin Chinese: `visuals/vaccine-preventable-cancers.zh.svg`
+- Russian: `visuals/vaccine-preventable-cancers.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -138,7 +147,7 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 76 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 81 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -147,10 +156,40 @@ New QA artifacts:
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
+- The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
 Do not mark the visual set final yet. The render pass proves the files are not blank in Chrome, but close layout review and native/expert translation review are still needed before treating localized medical visuals as publication-ready.
+
+## 2026-06-12 Check: Vaccine-Preventable Cancer Visual
+
+Evidence page:
+
+- `prevention/vaccine-preventable-cancer-evidence.md`
+
+New visual:
+
+- `visuals/vaccine-preventable-cancers.svg`
+- `visuals/vaccine-preventable-cancers.es.svg`
+- `visuals/vaccine-preventable-cancers.de.svg`
+- `visuals/vaccine-preventable-cancers.zh.svg`
+- `visuals/vaccine-preventable-cancers.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining HPV and hepatitis B vaccination as upstream cancer prevention.
+- The new synthesis uses peer-reviewed population evidence and programme evaluations as the source backbone, including Lei et al. in NEJM, England HPV programme impact papers, and Taiwan HBV vaccination evidence.
+- The visual explicitly says vaccination reduces risk but does not replace recommended screening, follow-up, testing, or treatment access.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's vaccination line short. Use this companion when readers need the deeper root-cause logic: prevent persistent infection first, keep screening and care pathways open, and avoid stigma.
+
+### Translation Impact
+
+Keep localized vaccine-preventable cancer visuals under native review before promotion. Vaccine schedules, catch-up rules, sexual-health wording, hepatitis birth-dose systems, and stigma language vary by country.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 

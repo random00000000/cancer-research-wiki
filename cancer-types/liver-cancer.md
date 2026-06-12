@@ -36,6 +36,7 @@ Public wording:
 
 - "Hepatitis B vaccination is liver cancer prevention."
 - "Hepatitis C can often be cured with antiviral treatment, which reduces future liver disease risk."
+- Focused companion visual: `visuals/vaccine-preventable-cancers.svg`.
 
 Cautions:
 
@@ -107,6 +108,14 @@ Caution:
   - Infant hepatitis B immunization reduces risk of hepatocellular carcinoma in children and young adults.
 - Caution:
   - Vaccination is not the only liver cancer prevention lever.
+
+### Vaccine-Preventable Cancer Evidence Note
+
+- URL: `prevention/vaccine-preventable-cancer-evidence.md`
+- Source type: wiki synthesis
+- Reusable claims:
+  - HBV vaccination can prevent chronic hepatitis B infection and lower future hepatocellular carcinoma risk.
+  - Birth dose, series completion, perinatal systems, testing, and treatment access shape real-world protection.
 
 ### HCV Antiviral Treatment And HCC Risk
 

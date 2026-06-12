@@ -64,6 +64,17 @@ Infection-related cancer prevention visual:
 
 ![Some infections can become cancer risks](visuals/infection-prevention-cancer.svg)
 
+Vaccine-preventable cancer visual:
+
+![Some vaccines prevent future cancers](visuals/vaccine-preventable-cancers.svg)
+
+Localized vaccine-preventable cancer variants:
+
+- [Spanish vaccine-preventable cancer SVG](visuals/vaccine-preventable-cancers.es.svg)
+- [German vaccine-preventable cancer SVG](visuals/vaccine-preventable-cancers.de.svg)
+- [Mandarin Chinese vaccine-preventable cancer SVG](visuals/vaccine-preventable-cancers.zh.svg)
+- [Russian vaccine-preventable cancer SVG](visuals/vaccine-preventable-cancers.ru.svg)
+
 Environment and work cancer prevention visual:
 
 ![Cancer prevention is also clean air and safe work](visuals/environment-work-cancer-prevention.svg)
@@ -209,6 +220,7 @@ Research backing:
 - [Oral/oropharyngeal cancer prevention page](cancer-types/oral-oropharyngeal-cancer.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
+- [Vaccine-preventable cancer evidence](prevention/vaccine-preventable-cancer-evidence.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
 - [Cancer claim filter](prevention/cancer-claim-filter.md)
 - [How to read cancer headlines](prevention/how-to-read-cancer-headlines.md)
@@ -224,6 +236,7 @@ Research backing:
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
+- [Vaccine-preventable cancer visual](visuals/vaccine-preventable-cancers.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)

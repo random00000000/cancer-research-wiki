@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/infection-prevention-cancer.svg`
 - First localized visual variants: `visuals/infection-prevention-cancer.es.svg`, `visuals/infection-prevention-cancer.de.svg`, `visuals/infection-prevention-cancer.zh.svg`, and `visuals/infection-prevention-cancer.ru.svg`
+- Focused vaccine visual: `visuals/vaccine-preventable-cancers.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
 ## Plain-Language Summary
 
@@ -149,6 +150,14 @@ Use the companion infection-prevention visual when readers need to see the preve
 - `visuals/infection-prevention-cancer.de.svg`
 - `visuals/infection-prevention-cancer.zh.svg`
 - `visuals/infection-prevention-cancer.ru.svg`
+
+Use the focused vaccine-preventable cancer visual when readers need a narrower explanation of HPV and HBV vaccination as root-cause cancer prevention:
+
+- `visuals/vaccine-preventable-cancers.svg`
+- `visuals/vaccine-preventable-cancers.es.svg`
+- `visuals/vaccine-preventable-cancers.de.svg`
+- `visuals/vaccine-preventable-cancers.zh.svg`
+- `visuals/vaccine-preventable-cancers.ru.svg`
 
 Translation review task: keep localized infection-prevention visuals under native review before public-final use, because vaccine, screening, pathogen, and stigma-related wording vary by region.
 

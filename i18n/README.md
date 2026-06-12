@@ -104,6 +104,18 @@ This public visual explains that cancer is not contagious like a cold, but some 
 | Mandarin Chinese | [infection-prevention-cancer.zh.svg](../visuals/infection-prevention-cancer.zh.svg) | First localized SVG; native review needed |
 | Russian | [infection-prevention-cancer.ru.svg](../visuals/infection-prevention-cancer.ru.svg) | First localized SVG; native review needed |
 
+## Vaccine-Preventable Cancer Visual Variants
+
+This public visual focuses on HPV and hepatitis B vaccination as upstream cancer prevention. These translations need native review because vaccine schedules, catch-up rules, sexual-health wording, hepatitis prevention systems, and stigma risks vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [vaccine-preventable-cancers.svg](../visuals/vaccine-preventable-cancers.svg) | Canonical first-pass SVG |
+| Spanish | [vaccine-preventable-cancers.es.svg](../visuals/vaccine-preventable-cancers.es.svg) | First localized SVG; native review needed |
+| German | [vaccine-preventable-cancers.de.svg](../visuals/vaccine-preventable-cancers.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [vaccine-preventable-cancers.zh.svg](../visuals/vaccine-preventable-cancers.zh.svg) | First localized SVG; native review needed |
+| Russian | [vaccine-preventable-cancers.ru.svg](../visuals/vaccine-preventable-cancers.ru.svg) | First localized SVG; native review needed |
+
 ## Environment And Work Prevention Visual Variants
 
 This public visual explains that cancer prevention also includes clean air, radon-safe buildings, asbestos control, and workplace carcinogen protection. These translations should receive native review before final wording because exposure terms and worker-safety systems vary by country.

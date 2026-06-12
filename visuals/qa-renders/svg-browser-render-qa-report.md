@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 76
-Nonblank renders: 76
+SVG files rendered: 81
+Nonblank renders: 81
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -104,3 +104,8 @@ Blank or near-blank renders: 0
 | `uv-sun-tanning-cancer-prevention.ru.svg` | 1500x980 | True | 38.12 |
 | `uv-sun-tanning-cancer-prevention.svg` | 1500x980 | True | 37.42 |
 | `uv-sun-tanning-cancer-prevention.zh.svg` | 1500x980 | True | 36.40 |
+| `vaccine-preventable-cancers.de.svg` | 1500x980 | True | 39.53 |
+| `vaccine-preventable-cancers.es.svg` | 1500x980 | True | 38.46 |
+| `vaccine-preventable-cancers.ru.svg` | 1500x980 | True | 39.22 |
+| `vaccine-preventable-cancers.svg` | 1500x980 | True | 38.29 |
+| `vaccine-preventable-cancers.zh.svg` | 1500x980 | True | 37.49 |
