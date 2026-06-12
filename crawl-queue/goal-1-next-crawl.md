@@ -5,10 +5,8 @@ Last updated: 2026-06-12
 
 ## Screening
 
-- USPSTF breast cancer screening recommendation.
-- USPSTF cervical cancer screening recommendation.
-- USPSTF colorectal cancer screening recommendation.
-- USPSTF lung cancer screening recommendation.
+- Compare USPSTF, ACS, NCCN, and WHO screening guidance for public-facing differences.
+- Add screening harms: false positives, false negatives, overdiagnosis, overtreatment, radiation exposure, procedure harms, and inequitable follow-up access.
 - NCI harms of screening and overdiagnosis materials.
 
 ## Prevention Levers
@@ -30,11 +28,7 @@ Last updated: 2026-06-12
 
 ## Mechanism Explainers
 
-- Hallmarks of Cancer 2011 and 2022.
-- Tumor microenvironment reviews.
-- Metastasis reviews.
-- Immune surveillance and immune evasion reviews.
-- DNA repair and genome instability reviews.
+- Turn the first-pass `concepts/how-cancer-grows.md` note into separate pages for hallmarks, tumor microenvironment, metastasis, immune escape, genome instability, and phenotypic plasticity.
 - Epigenetic reprogramming and phenotypic plasticity reviews.
 
 ## Visual Follow-Up
