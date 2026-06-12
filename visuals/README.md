@@ -37,6 +37,10 @@ Use `visual-qa-log.md` to track structural checks, browser rendering checks, cli
 | Cancer claim filter | `cancer-claim-filter.svg` | First-pass English SVG |
 | Screening and vaccination decision guide | `screening-vaccination-decision.svg` | First-pass English SVG |
 | Site-specific prevention levers | `site-specific-prevention-levers.svg` | First-pass English SVG |
+| Site-specific prevention levers - Spanish | `site-specific-prevention-levers.es.svg` | First localized SVG |
+| Site-specific prevention levers - German | `site-specific-prevention-levers.de.svg` | First localized SVG |
+| Site-specific prevention levers - Mandarin Chinese | `site-specific-prevention-levers.zh.svg` | First localized SVG |
+| Site-specific prevention levers - Russian | `site-specific-prevention-levers.ru.svg` | First localized SVG |
 | Relative versus absolute risk | `relative-vs-absolute-risk.svg` | First-pass English SVG |
 | Population burden is not personal blame | `population-burden-not-blame.svg` | First-pass English SVG |
 | Population burden is not personal blame - Spanish | `population-burden-not-blame.es.svg` | First localized SVG |

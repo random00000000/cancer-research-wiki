@@ -23,6 +23,13 @@ Current population burden/no-blame visual: `visuals/population-burden-not-blame.
 
 Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
 
+Current localized site-specific prevention variants:
+
+- Spanish: `visuals/site-specific-prevention-levers.es.svg`
+- German: `visuals/site-specific-prevention-levers.de.svg`
+- Mandarin Chinese: `visuals/site-specific-prevention-levers.zh.svg`
+- Russian: `visuals/site-specific-prevention-levers.ru.svg`
+
 Current localized population burden/no-blame variants:
 
 - Spanish: `visuals/population-burden-not-blame.es.svg`
@@ -108,16 +115,25 @@ Keep the translated risk visual conservative until native review. The localized 
 New visual:
 
 - `visuals/site-specific-prevention-levers.svg`
+- `visuals/site-specific-prevention-levers.es.svg`
+- `visuals/site-specific-prevention-levers.de.svg`
+- `visuals/site-specific-prevention-levers.zh.svg`
+- `visuals/site-specific-prevention-levers.ru.svg`
 
 ### What Changed
 
 - The wiki now has a public companion visual mapping major cancer sites to the highest-signal prevention, vaccination, screening, and exposure-reduction levers.
 - The visual comes from `prevention/cancer-site-prevention-map.md` and keeps site-specific caveats visible instead of implying that one generic lifestyle rule fits every cancer.
 - It avoids date-sensitive screening age cutoffs and keeps personal risk, symptoms, inherited risk, cancer history, and local guidance inside the clinician-involvement boundary.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
 
 ### Decision For The Flagship Infographic
 
 Do not cram cancer-site details into the flagship public infographic. Keep the flagship broad, and use this companion visual when readers need to understand why prevention advice differs for colorectal, cervical, liver, lung, skin, breast, stomach, and oral/oropharyngeal cancers.
+
+### Translation Impact
+
+Keep the localized site-specific prevention visual under native review before promotion. The translations must preserve the caveat that this is a map for questions, not personal screening, vaccination, or treatment advice.
 
 ## 2026-06-12 Check: Cancer Headline Reading Guide
 

@@ -80,6 +80,18 @@ This public safety visual explains why symptoms, risk, screening, vaccination, b
 | Mandarin Chinese | [screening-vaccination-decision.zh.svg](../visuals/screening-vaccination-decision.zh.svg) | First localized SVG |
 | Russian | [screening-vaccination-decision.ru.svg](../visuals/screening-vaccination-decision.ru.svg) | First localized SVG |
 
+## Site-Specific Prevention Visual Variants
+
+This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [site-specific-prevention-levers.svg](../visuals/site-specific-prevention-levers.svg) | Canonical first-pass SVG |
+| Spanish | [site-specific-prevention-levers.es.svg](../visuals/site-specific-prevention-levers.es.svg) | First localized SVG |
+| German | [site-specific-prevention-levers.de.svg](../visuals/site-specific-prevention-levers.de.svg) | First localized SVG |
+| Mandarin Chinese | [site-specific-prevention-levers.zh.svg](../visuals/site-specific-prevention-levers.zh.svg) | First localized SVG |
+| Russian | [site-specific-prevention-levers.ru.svg](../visuals/site-specific-prevention-levers.ru.svg) | First localized SVG |
+
 ## Relative And Absolute Risk Visual Variants
 
 This public risk-communication visual explains why percentages need baseline risk, denominator, time horizon, and absolute difference. These translations should receive native review before being treated as final medical wording.

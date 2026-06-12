@@ -194,6 +194,11 @@ The current infographic uses broad risk-reduction icons. Future versions can add
 
 Do not cram site-specific details into the first public infographic unless the design has enough room for caveats. A separate "Which lever for which cancer?" visual may be better.
 
+Current companion visual:
+
+- `visuals/site-specific-prevention-levers.svg`
+- First localized variants: `visuals/site-specific-prevention-levers.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
+
 ## Next Research Tasks
 
 - Build individual site pages under `cancer-types/`.

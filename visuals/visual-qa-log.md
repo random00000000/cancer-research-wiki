@@ -42,6 +42,10 @@ Checked files:
 - `visuals/screening-vaccination-decision.ru.svg`
 - `visuals/risk-mechanism-prevention-map.svg`
 - `visuals/site-specific-prevention-levers.svg`
+- `visuals/site-specific-prevention-levers.es.svg`
+- `visuals/site-specific-prevention-levers.de.svg`
+- `visuals/site-specific-prevention-levers.zh.svg`
+- `visuals/site-specific-prevention-levers.ru.svg`
 - `visuals/relative-vs-absolute-risk.svg`
 - `visuals/relative-vs-absolute-risk.es.svg`
 - `visuals/relative-vs-absolute-risk.de.svg`
@@ -82,6 +86,7 @@ Browser QA attempt:
 | Screening/vaccination decision localized SVGs | Passed | Still needed | Still needed |
 | Risk/mechanism/prevention agent map | Passed | Still needed | Not applicable |
 | Site-specific prevention levers SVG | Passed | Still needed | Not applicable |
+| Site-specific prevention levers localized SVGs | Passed | Still needed | Still needed |
 | Relative versus absolute risk SVG | Passed | Still needed | Not applicable |
 | Relative versus absolute risk localized SVGs | Passed | Still needed | Still needed |
 | Population burden/no-blame SVG | Passed | Still needed | Not applicable |

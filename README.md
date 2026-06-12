@@ -45,6 +45,13 @@ Site-specific prevention levers visual:
 
 ![Which prevention levers matter most by cancer site](visuals/site-specific-prevention-levers.svg)
 
+Localized site-specific prevention variants:
+
+- [Spanish site-specific prevention SVG](visuals/site-specific-prevention-levers.es.svg)
+- [German site-specific prevention SVG](visuals/site-specific-prevention-levers.de.svg)
+- [Mandarin Chinese site-specific prevention SVG](visuals/site-specific-prevention-levers.zh.svg)
+- [Russian site-specific prevention SVG](visuals/site-specific-prevention-levers.ru.svg)
+
 Relative versus absolute risk visual:
 
 ![A percentage needs a baseline](visuals/relative-vs-absolute-risk.svg)

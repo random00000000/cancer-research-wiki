@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1100" viewBox="0 0 1500 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Qué medidas de prevención importan más según el cáncer</title>
+  <desc id="desc">Visual público que relaciona sitios de cáncer con medidas de prevención, vacunación, cribado y reducción de exposición de alta señal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="0.45" stop-color="#fff7ed"/><stop offset="1" stop-color="#ecfdf5"/></linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#111827" flood-opacity="0.13"/></filter>
+    <style>
+      .title { font: 800 48px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 23px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .site { font: 800 26px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .lever { font: 700 18px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 17px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .lightSite { font: 800 27px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .lightBody { font: 400 18px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .pill { stroke-width: 2; rx: 18; }
+    </style>
+  </defs>
+  <rect width="1500" height="1100" fill="url(#bg)"/>
+  <g transform="translate(70 56)">
+    <text class="title" x="0" y="58">¿Qué palancas de prevención pesan más?</text>
+    <text class="subtitle" x="2" y="100">Distintos cánceres tienen puntos débiles distintos. Use esto como mapa de preguntas, no como consejo médico personal.</text>
+    <rect x="0" y="136" width="1360" height="4" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(70 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#2563eb"/><text class="site" x="76" y="58">Colon / recto</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#dbeafe" stroke="#2563eb"/><text class="lever" x="50" y="111">Cribado</text>
+    <rect class="pill" x="165" y="88" width="120" height="34" fill="#dcfce7" stroke="#16a34a"/><text class="lever" x="187" y="111">Actividad</text>
+    <text class="body" x="30" y="158">Fibra y granos integrales ayudan.</text><text class="body" x="30" y="187">Limite carne procesada/roja</text><text class="body" x="30" y="214">y exposición al alcohol.</text>
+  </g>
+  <g transform="translate(420 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#7c3aed"/><text class="site" x="76" y="58">Cuello uterino</text>
+    <rect class="pill" x="30" y="88" width="132" height="34" fill="#ede9fe" stroke="#7c3aed"/><text class="lever" x="51" y="111">Vacuna VPH</text>
+    <rect class="pill" x="178" y="88" width="112" height="34" fill="#dbeafe" stroke="#2563eb"/><text class="lever" x="205" y="111">Cribado</text>
+    <text class="body" x="30" y="158">Tratar lesiones precancerosas.</text><text class="body" x="30" y="187">Acceso y seguimiento son</text><text class="body" x="30" y="214">palancas centrales.</text>
+  </g>
+  <g transform="translate(770 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#f97316"/><text class="site" x="76" y="58">Hígado</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#ffedd5" stroke="#f97316"/><text class="lever" x="52" y="111">Vacuna HBV</text>
+    <rect class="pill" x="165" y="88" width="124" height="34" fill="#ecfeff" stroke="#0891b2"/><text class="lever" x="189" y="111">Tratar HCV</text>
+    <text class="body" x="30" y="158">Reducir daño por alcohol.</text><text class="body" x="30" y="187">Salud metabólica y aflatoxina</text><text class="body" x="30" y="214">dependen de la región.</text>
+  </g>
+  <g transform="translate(1120 205)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#ef4444"/><text class="site" x="76" y="58">Pulmón</text>
+    <rect class="pill" x="30" y="88" width="122" height="34" fill="#fee2e2" stroke="#ef4444"/><text class="lever" x="52" y="111">No humo</text>
+    <rect class="pill" x="167" y="88" width="124" height="34" fill="#e0f2fe" stroke="#0284c7"/><text class="lever" x="197" y="111">Radón</text>
+    <text class="body" x="30" y="158">Trabajo y aire también cuentan.</text><text class="body" x="30" y="187">Cribado de alto riesgo solo</text><text class="body" x="30" y="214">con criterios de guía.</text>
+  </g>
+  <g transform="translate(70 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#d97706"/><text class="site" x="76" y="58">Piel</text>
+    <rect class="pill" x="30" y="88" width="116" height="34" fill="#fef3c7" stroke="#d97706"/><text class="lever" x="65" y="111">UV</text>
+    <rect class="pill" x="162" y="88" width="126" height="34" fill="#fee2e2" stroke="#ef4444"/><text class="lever" x="184" y="111">No cabinas</text>
+    <text class="body" x="30" y="158">Sombra, ropa, protector solar</text><text class="body" x="30" y="187">y protección laboral combinan.</text><text class="body" x="30" y="214">Revisar lesiones cambiantes.</text>
+  </g>
+  <g transform="translate(420 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#db2777"/><text class="site" x="76" y="58">Mama</text>
+    <rect class="pill" x="30" y="88" width="120" height="34" fill="#fce7f3" stroke="#db2777"/><text class="lever" x="50" y="111">Cribado</text>
+    <rect class="pill" x="165" y="88" width="120" height="34" fill="#ffedd5" stroke="#f97316"/><text class="lever" x="195" y="111">Alcohol</text>
+    <text class="body" x="30" y="158">La actividad física ayuda.</text><text class="body" x="30" y="187">Peso saludable tras menopausia</text><text class="body" x="30" y="214">es una palanca importante.</text>
+  </g>
+  <g transform="translate(770 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#0f766e"/><text class="site" x="76" y="58">Estómago</text>
+    <rect class="pill" x="30" y="88" width="126" height="34" fill="#ccfbf1" stroke="#0f766e"/><text class="lever" x="52" y="111">H. pylori</text>
+    <rect class="pill" x="171" y="88" width="116" height="34" fill="#fef3c7" stroke="#d97706"/><text class="lever" x="205" y="111">Sal</text>
+    <text class="body" x="30" y="158">Prueba y tratamiento dependen</text><text class="body" x="30" y="187">del riesgo y resistencia local.</text><text class="body" x="30" y="214">Menos procesados; no humo.</text>
+  </g>
+  <g transform="translate(1120 470)">
+    <rect class="card" x="0" y="0" width="320" height="230"/><circle cx="40" cy="48" r="22" fill="#9333ea"/><text class="site" x="76" y="58">Boca / garganta</text>
+    <rect class="pill" x="30" y="88" width="116" height="34" fill="#fee2e2" stroke="#ef4444"/><text class="lever" x="55" y="111">Tabaco</text>
+    <rect class="pill" x="162" y="88" width="126" height="34" fill="#ede9fe" stroke="#7c3aed"/><text class="lever" x="184" y="111">Vacuna VPH</text>
+    <text class="body" x="30" y="158">Menos alcohol baja riesgo.</text><text class="body" x="30" y="187">Evitar betel/gutka donde</text><text class="body" x="30" y="214">se usan estos productos.</text>
+  </g>
+  <g transform="translate(110 780)">
+    <rect x="0" y="0" width="1280" height="140" rx="26" fill="#102033"/>
+    <text class="lightSite" x="38" y="52">Lea el patrón</text>
+    <text class="lightBody" x="38" y="88">Algunas palancas actúan antes: vacunas, no tabaco, protección UV, menos alcohol, trabajo y aire más seguros.</text>
+    <text class="lightBody" x="38" y="118">Otras encuentran cáncer o precáncer antes: cribado, revisión de lesiones y sistemas de seguimiento.</text>
+  </g>
+  <g transform="translate(110 955)">
+    <rect x="0" y="0" width="1280" height="72" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text class="small" x="26" y="29">Bajar riesgo no es riesgo cero. Síntomas, riesgo heredado, antecedentes y guías locales requieren clínica.</text>
+    <text class="source" x="26" y="55">Fuente base: prevention/cancer-site-prevention-map.md; NCI, WHO, WCRF/AICR.</text>
+  </g>
+</svg>
