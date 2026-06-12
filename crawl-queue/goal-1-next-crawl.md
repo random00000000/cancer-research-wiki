@@ -14,7 +14,7 @@ Last updated: 2026-06-12
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
 - Add effect-size tables for high-confidence levers without implying individual determinism.
 - Add claim cards for misleading prevention claims, especially supplements, sugar, detoxes, alkaline diets, fasting, ketogenic diets, and "immune boosting."
-- Turn `prevention/cancer-site-prevention-map.md` into individual cancer-type pages for colorectal, breast, liver, stomach, lung, skin, cervical, and oral/oropharyngeal cancers.
+- Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal and cervical. Next: breast, liver, stomach, lung, skin, and oral/oropharyngeal cancers.
 - CDC tobacco cessation and quitline resources.
 - CDC physical activity and cancer prevention pages.
 - NCI diet, obesity, and alcohol fact sheets.
