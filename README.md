@@ -33,6 +33,7 @@ Research backing:
 - [Claim evaluation framework](sources/claim-evaluation-framework.md)
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
+- [Goal 1 effect-size evidence](prevention/effect-size-evidence.md)
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)
 - [Cervical cancer prevention page](cancer-types/cervical-cancer.md)

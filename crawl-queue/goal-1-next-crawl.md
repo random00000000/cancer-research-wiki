@@ -12,7 +12,7 @@ Last updated: 2026-06-12
 ## Prevention Levers
 
 - Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
-- Add effect-size tables for high-confidence levers without implying individual determinism.
+- Deepen `prevention/effect-size-evidence.md` with high-confidence levers without implying individual determinism, especially HPV vaccination, hepatitis B vaccination, H. pylori eradication, radon, asbestos, air pollution, and screening mortality effects.
 - Add claim cards for misleading prevention claims, especially supplements, sugar, detoxes, alkaline diets, fasting, ketogenic diets, and "immune boosting."
 - Continue turning `prevention/cancer-site-prevention-map.md` into individual cancer-type pages. Started: colorectal, cervical, breast, liver, stomach, lung, skin, and oral/oropharyngeal. Next: deepen each page with effect sizes, geographic modifiers, and dedicated mechanism/source cards.
 - CDC tobacco cessation and quitline resources.
