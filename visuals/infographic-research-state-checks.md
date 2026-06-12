@@ -9,6 +9,30 @@ Current canonical image: `visuals/cancer-literacy-infographic.svg`
 
 Current translated support: `i18n/INFOGRAPHIC_CAPTIONS.md`
 
+Current localized image variants:
+
+- Spanish: `visuals/cancer-literacy-infographic.es.svg`
+- Mandarin Chinese: `visuals/cancer-literacy-infographic.zh.svg`
+
+## 2026-06-12 Check: Translated Infographic Assets
+
+New assets:
+
+- `visuals/cancer-literacy-infographic.es.svg`
+- `visuals/cancer-literacy-infographic.zh.svg`
+
+### What Changed
+
+- The project now has actual localized SVG infographics for Spanish and Mandarin Chinese, not only translated captions.
+- The localized variants keep the same core evidence message as the English first-pass infographic: cancer is a loss of normal cell-control systems, risk can be reduced but not eliminated, and prevention is not blame.
+- The localized variants use shorter text than the canonical English SVG so translated labels fit better.
+
+### Remaining Gap
+
+- German, Russian, French, Portuguese, Arabic, Hindi, Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese still need localized image variants.
+- The localized SVGs should eventually receive visual QA in a browser or renderer to catch font fallback, clipping, and line-overflow issues.
+- Future ALDH2/flushing visual add-ons should be localized separately rather than squeezed into the flagship image.
+
 ## 2026-06-12 Check: Alcohol, ALDH2, Tobacco, And Upper Aerodigestive Risk
 
 New evidence pages:

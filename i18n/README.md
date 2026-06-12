@@ -33,10 +33,14 @@ Translations should preserve medical safety boundaries. Do not make claims stron
 
 See [TRANSLATION_GUIDE.md](TRANSLATION_GUIDE.md) before adding or expanding translated pages.
 
-## Shared Infographic
+## Infographic Variants
 
-All language entry pages currently point to the same first-pass infographic:
+The English infographic is the canonical first-pass image. Localized SVG variants are being added as the research and layout are reviewed.
 
-![Cancer: how cells break the body's rules](../visuals/cancer-literacy-infographic.svg)
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [cancer-literacy-infographic.svg](../visuals/cancer-literacy-infographic.svg) | Canonical first-pass SVG |
+| Spanish | [cancer-literacy-infographic.es.svg](../visuals/cancer-literacy-infographic.es.svg) | First localized SVG |
+| Mandarin Chinese | [cancer-literacy-infographic.zh.svg](../visuals/cancer-literacy-infographic.zh.svg) | First localized SVG |
 
-Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions may add localized visual variants.
+Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add German, Russian, French, Portuguese, Arabic, Hindi, Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese image variants.

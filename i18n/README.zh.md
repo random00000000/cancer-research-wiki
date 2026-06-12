@@ -25,7 +25,7 @@ Cancer Research Wiki 是一个自动化、以证据为核心的研究型维基�
 
 当前信息图：
 
-![癌症：细胞如何打破身体规则](../visuals/cancer-literacy-infographic.svg)
+![癌症：细胞如何打破身体规则](../visuals/cancer-literacy-infographic.zh.svg)
 
 翻译后的替代文本和说明：[INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 

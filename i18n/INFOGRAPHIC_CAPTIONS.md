@@ -7,6 +7,11 @@ This page provides translated captions and alt text for the shared Goal 1 infogr
 
 Research-state checks for whether new findings should change the infographic are tracked in `visuals/infographic-research-state-checks.md`.
 
+Localized SVG variants currently available:
+
+- Spanish: `visuals/cancer-literacy-infographic.es.svg`
+- Mandarin Chinese: `visuals/cancer-literacy-infographic.zh.svg`
+
 ## Canonical English
 
 Title:

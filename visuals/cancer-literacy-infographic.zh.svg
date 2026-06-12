@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">癌症：细胞如何打破身体规则</title>
+  <desc id="desc">中文信息图，解释癌症如何开始、增长、扩散，以及如何在不能保证零风险的情况下降低风险。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.52" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 47px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; }
+      .subtitle { font: 400 25px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #31445c; }
+      .section { font: 800 30px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; }
+      .label { font: 700 22px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">癌症：细胞如何打破身体规则</text>
+    <text class="subtitle" x="2" y="92">什么是癌症、它如何生长，以及如何降低风险而不承诺零风险。</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. 正常细胞</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/>
+    <circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">健康组织有多层控制：</text>
+    <text class="small" x="24" y="295">有信号才生长，修复损伤，</text>
+    <text class="small" x="24" y="322">危险时让细胞死亡。</text>
+  </g>
+
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. 改变会累积</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/>
+    <circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">暴露、感染、年龄、遗传风险</text>
+    <text class="small" x="24" y="295">和复制错误，都可能改变</text>
+    <text class="small" x="24" y="322">细胞的控制指令。</text>
+  </g>
+
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. 癌细胞行为</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/>
+    <circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">可能过度分裂、逃避免疫、</text>
+    <text class="small" x="24" y="295">招募血管、侵入组织，</text>
+    <text class="small" x="24" y="322">有时还会扩散。</text>
+  </g>
+
+  <path class="line" d="M380 405 H440"/>
+  <path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/>
+  <path class="line" d="M760 405 H820"/>
+  <path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">基本循环</text>
+    <text class="body" x="30" y="88">改变后的细胞存活、增殖、适应压力，并改变周围组织。</text>
+    <text class="body" x="30" y="126">所谓“根源”不是一个神奇开关，而是基因、免疫、代谢、环境、</text>
+    <text class="body" x="30" y="164">年龄、感染和预防机会共同作用。</text>
+    <text class="small" x="30" y="213">因此，消除癌症需要预防、早发现、基础生物学和更好的治疗一起推进。</text>
+  </g>
+
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">降低风险：降低概率，不承诺零风险</text>
+    <text class="body" x="0" y="36">这些行动有证据支持，但不能保证任何人一定不会得癌症。</text>
+
+    <g transform="translate(0 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">不使用烟草</text>
+      <text class="small" x="22" y="78">避免烟雾，支持戒烟。</text>
+    </g>
+    <g transform="translate(278 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">少喝酒</text>
+      <text class="small" x="22" y="78">越少越安全；不喝避免酒精风险。</text>
+    </g>
+    <g transform="translate(556 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">经常活动</text>
+      <text class="small" x="22" y="78">规律活动可降低多种风险。</text>
+    </g>
+    <g transform="translate(834 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">防护紫外线</text>
+      <text class="small" x="22" y="78">注意防晒，避免室内美黑。</text>
+    </g>
+
+    <g transform="translate(0 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">疫苗</text>
+      <text class="small" x="22" y="78">HPV 和乙肝疫苗按情况接种。</text>
+    </g>
+    <g transform="translate(278 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">筛查</text>
+      <text class="small" x="22" y="78">按年龄、风险和当地建议。</text>
+    </g>
+    <g transform="translate(556 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">健康饮食模式</text>
+      <text class="small" x="22" y="78">植物性食物、全谷物、能量平衡。</text>
+    </g>
+    <g transform="translate(834 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">减少暴露</text>
+      <text class="small" x="22" y="78">空气、工作、氡和政策都重要。</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, 'Microsoft YaHei', sans-serif; fill: #ffffff;">重要：预防不是责备</text>
+    <text x="32" y="86" style="font: 400 20px Arial, 'Microsoft YaHei', sans-serif; fill: #e2e8f0;">有些癌症会在选择很好的人身上发生。年龄、遗传变异、感染、细胞复制错误、</text>
+    <text x="32" y="116" style="font: 400 20px Arial, 'Microsoft YaHei', sans-serif; fill: #e2e8f0;">环境、收入、地区和医疗机会也会影响风险。</text>
+  </g>
+
+  <text class="tiny" x="60" y="1645">依据：NCI、ACS、IARC/WHO、Hanahan/Weinberg、GBD、WCRF/AICR 与本 wiki 证据页。症状、筛查或个人风险请咨询医疗专业人员。</text>
+</svg>

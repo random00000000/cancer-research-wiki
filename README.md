@@ -29,6 +29,12 @@ Current first-pass infographic:
 
 ![Cancer: how cells break the body's rules](visuals/cancer-literacy-infographic.svg)
 
+Localized infographic variants:
+
+- [Spanish SVG](visuals/cancer-literacy-infographic.es.svg)
+- [Mandarin Chinese SVG](visuals/cancer-literacy-infographic.zh.svg)
+- [Translated captions and alt text](i18n/INFOGRAPHIC_CAPTIONS.md)
+
 Research backing:
 
 - [Non-official source strategy](sources/non-official-source-strategy.md)
