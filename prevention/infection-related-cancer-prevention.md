@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/infection-prevention-cancer.svg`
 - First localized visual variants: `visuals/infection-prevention-cancer.es.svg`, `visuals/infection-prevention-cancer.de.svg`, `visuals/infection-prevention-cancer.zh.svg`, and `visuals/infection-prevention-cancer.ru.svg`
+- Focused H. pylori visual: `visuals/h-pylori-gastric-cancer-prevention.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 - Focused vaccine visual: `visuals/vaccine-preventable-cancers.svg` with first localized variants `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
 ## Plain-Language Summary
@@ -159,11 +160,19 @@ Use the focused vaccine-preventable cancer visual when readers need a narrower e
 - `visuals/vaccine-preventable-cancers.zh.svg`
 - `visuals/vaccine-preventable-cancers.ru.svg`
 
+Use the focused H. pylori visual when readers need a narrower explanation of bacterial eradication as stomach-cancer prevention, with antibiotic-resistance and symptom safety boundaries kept visible:
+
+- `visuals/h-pylori-gastric-cancer-prevention.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.es.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.de.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.zh.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.ru.svg`
+
 Translation review task: keep localized infection-prevention visuals under native review before public-final use, because vaccine, screening, pathogen, and stigma-related wording vary by region.
 
 ## Research Questions To Continue
 
 - Which countries have achieved the largest cervical cancer reductions after HPV vaccination?
-- What are best practices for H. pylori screen-and-treat by gastric cancer incidence region?
+- Deepen H. pylori screen-and-treat by gastric cancer incidence region, antibiotic resistance pattern, testing approach, and endoscopy capacity.
 - How much liver cancer is preventable through HBV vaccination and HCV treatment?
 - What infection-related cancer prevention strategies are most neglected in low-resource settings?

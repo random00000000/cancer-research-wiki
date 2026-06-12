@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 106
-Nonblank renders: 106
+SVG files rendered: 111
+Nonblank renders: 111
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -19,6 +19,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-10.png`
 
 ## Limits
 
@@ -80,6 +81,11 @@ Blank or near-blank renders: 0
 | `environment-work-cancer-prevention.ru.svg` | 1500x980 | True | 38.03 |
 | `environment-work-cancer-prevention.svg` | 1500x980 | True | 38.55 |
 | `environment-work-cancer-prevention.zh.svg` | 1500x980 | True | 38.53 |
+| `h-pylori-gastric-cancer-prevention.de.svg` | 1500x980 | True | 39.38 |
+| `h-pylori-gastric-cancer-prevention.es.svg` | 1500x980 | True | 38.37 |
+| `h-pylori-gastric-cancer-prevention.ru.svg` | 1500x980 | True | 38.84 |
+| `h-pylori-gastric-cancer-prevention.svg` | 1500x980 | True | 38.10 |
+| `h-pylori-gastric-cancer-prevention.zh.svg` | 1500x980 | True | 36.73 |
 | `infection-prevention-cancer.de.svg` | 1500x980 | True | 38.75 |
 | `infection-prevention-cancer.es.svg` | 1500x980 | True | 39.73 |
 | `infection-prevention-cancer.ru.svg` | 1500x980 | True | 38.71 |

@@ -251,7 +251,7 @@ A research pass is not done until it has:
 
 When an agent completes a coherent change in this repository, it should commit the work here with a clear message, unless the user explicitly asks not to commit. Do not leave finished research, documentation, visual, or infrastructure passes sitting only in the working tree.
 
-The canonical public destination is `random00000000/cancer-research-wiki`. After committing, push the commit there on the repository's active branch unless the user asks to keep the work local or use a different branch. Future agents should treat that public repository as the shared durable home for this wiki's progress.
+The canonical public destination is `random00000000/cancer-research-wiki`. After committing, push the commit there on the repository's active branch unless the user asks to keep the work local or use a different branch. Future agents should treat that public repository as the shared durable home for this wiki's progress, and should assume successful coherent passes belong committed and pushed there.
 
 This repository itself is the working wiki and memory. Agents should commit directly in this repo, then push to `random00000000/cancer-research-wiki`, so later cancer-specialist threads inherit the newest crawl notes, source cards, visuals, QA logs, and safety rules.
 

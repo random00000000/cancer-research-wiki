@@ -64,6 +64,10 @@ Infection-related cancer prevention visual:
 
 ![Some infections can become cancer risks](visuals/infection-prevention-cancer.svg)
 
+H. pylori and stomach cancer prevention visual:
+
+![H. pylori is a treatable stomach-cancer risk](visuals/h-pylori-gastric-cancer-prevention.svg)
+
 Vaccine-preventable cancer visual:
 
 ![Some vaccines prevent future cancers](visuals/vaccine-preventable-cancers.svg)
@@ -192,6 +196,13 @@ Localized infection-prevention variants:
 - [Mandarin Chinese infection-prevention SVG](visuals/infection-prevention-cancer.zh.svg)
 - [Russian infection-prevention SVG](visuals/infection-prevention-cancer.ru.svg)
 
+Localized H. pylori/stomach cancer prevention variants:
+
+- [Spanish H. pylori prevention SVG](visuals/h-pylori-gastric-cancer-prevention.es.svg)
+- [German H. pylori prevention SVG](visuals/h-pylori-gastric-cancer-prevention.de.svg)
+- [Mandarin Chinese H. pylori prevention SVG](visuals/h-pylori-gastric-cancer-prevention.zh.svg)
+- [Russian H. pylori prevention SVG](visuals/h-pylori-gastric-cancer-prevention.ru.svg)
+
 Cancer claim filter visual:
 
 ![Before you trust a cancer claim](visuals/cancer-claim-filter.svg)
@@ -280,6 +291,7 @@ Research backing:
 - [Oral/oropharyngeal cancer prevention page](cancer-types/oral-oropharyngeal-cancer.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
+- [H. pylori and gastric cancer prevention](prevention/h-pylori-gastric-cancer-prevention.md)
 - [Vaccine-preventable cancer evidence](prevention/vaccine-preventable-cancer-evidence.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
 - [Cancer claim filter](prevention/cancer-claim-filter.md)
@@ -301,6 +313,7 @@ Research backing:
 - [Radon and lung cancer prevention visual](visuals/radon-home-lung-cancer-prevention.svg)
 - [Air pollution and lung cancer prevention visual](visuals/air-pollution-lung-cancer-prevention.svg)
 - [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
+- [H. pylori and stomach cancer prevention visual](visuals/h-pylori-gastric-cancer-prevention.svg)
 - [Vaccine-preventable cancer visual](visuals/vaccine-preventable-cancers.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)

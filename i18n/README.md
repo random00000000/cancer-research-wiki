@@ -104,6 +104,18 @@ This public visual explains that cancer is not contagious like a cold, but some 
 | Mandarin Chinese | [infection-prevention-cancer.zh.svg](../visuals/infection-prevention-cancer.zh.svg) | First localized SVG; native review needed |
 | Russian | [infection-prevention-cancer.ru.svg](../visuals/infection-prevention-cancer.ru.svg) | First localized SVG; native review needed |
 
+## H. pylori Gastric Cancer Prevention Visual Variants
+
+This public visual explains H. pylori as a treatable upstream stomach-cancer risk while keeping antibiotic resistance, test accuracy, local risk, symptoms, and clinician evaluation visible. These translations should receive native review because testing names, antibiotic guidance, and stomach-cancer screening systems vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [h-pylori-gastric-cancer-prevention.svg](../visuals/h-pylori-gastric-cancer-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [h-pylori-gastric-cancer-prevention.es.svg](../visuals/h-pylori-gastric-cancer-prevention.es.svg) | First localized SVG; native review needed |
+| German | [h-pylori-gastric-cancer-prevention.de.svg](../visuals/h-pylori-gastric-cancer-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [h-pylori-gastric-cancer-prevention.zh.svg](../visuals/h-pylori-gastric-cancer-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [h-pylori-gastric-cancer-prevention.ru.svg](../visuals/h-pylori-gastric-cancer-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## Vaccine-Preventable Cancer Visual Variants
 
 This public visual focuses on HPV and hepatitis B vaccination as upstream cancer prevention. These translations need native review because vaccine schedules, catch-up rules, sexual-health wording, hepatitis prevention systems, and stigma risks vary by country.

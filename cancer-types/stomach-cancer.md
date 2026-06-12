@@ -39,6 +39,12 @@ Public wording:
 - "H. pylori is a treatable infection linked to many stomach cancers."
 - "Whether to test or treat depends on risk, symptoms, local guidance, and antibiotic resistance."
 
+Focused evidence page and visual:
+
+- `prevention/h-pylori-gastric-cancer-prevention.md`
+- `visuals/h-pylori-gastric-cancer-prevention.svg`
+- First localized variants: `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
+
 Cautions:
 
 - Do not recommend universal testing without regional and clinical context.
@@ -128,7 +134,7 @@ Core public phrase:
 
 ## Next Research Tasks
 
-- Add a dedicated H. pylori page with testing methods, eradication regimens at a high level, antibiotic resistance, and reinfection.
+- Expand the dedicated H. pylori page with testing methods, eradication regimens at a high level, antibiotic resistance, and reinfection.
 - Add gastric cardia vs non-cardia distinction.
 - Add regional incidence and prevention strategy map.
 - Add stomach cancer screening evidence in high-incidence countries.

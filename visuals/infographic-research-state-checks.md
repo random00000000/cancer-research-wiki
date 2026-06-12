@@ -24,6 +24,8 @@ Current screening/vaccination decision visual: `visuals/screening-vaccination-de
 
 Current infection-related cancer prevention visual: `visuals/infection-prevention-cancer.svg`
 
+Current H. pylori and stomach cancer prevention visual: `visuals/h-pylori-gastric-cancer-prevention.svg`
+
 Current environment/work prevention visual: `visuals/environment-work-cancer-prevention.svg`
 
 Current radon and lung cancer prevention visual: `visuals/radon-home-lung-cancer-prevention.svg`
@@ -81,6 +83,13 @@ Current localized infection-prevention variants:
 - German: `visuals/infection-prevention-cancer.de.svg`
 - Mandarin Chinese: `visuals/infection-prevention-cancer.zh.svg`
 - Russian: `visuals/infection-prevention-cancer.ru.svg`
+
+Current localized H. pylori/stomach cancer prevention variants:
+
+- Spanish: `visuals/h-pylori-gastric-cancer-prevention.es.svg`
+- German: `visuals/h-pylori-gastric-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/h-pylori-gastric-cancer-prevention.zh.svg`
+- Russian: `visuals/h-pylori-gastric-cancer-prevention.ru.svg`
 
 Current localized environment/work variants:
 
@@ -863,3 +872,37 @@ The translated caption set should stay aligned with the canonical infographic fo
 - Add a localized visual brief for "alcohol flushing is a warning sign, not a badge."
 - Add icons or visual notes for "dose", "biology", and "combined exposures" in the next risk-reduction visual.
 - Update `i18n/INFOGRAPHIC_CAPTIONS.md` when the canonical SVG text changes or when localized image variants are created.
+
+## 2026-06-12 Check: H. pylori And Stomach Cancer Prevention
+
+New evidence page:
+
+- `prevention/h-pylori-gastric-cancer-prevention.md`
+
+New visual:
+
+- `visuals/h-pylori-gastric-cancer-prevention.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.es.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.de.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.zh.svg`
+- `visuals/h-pylori-gastric-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused H. pylori page that separates public prevention logic from personal antibiotic or endoscopy decisions.
+- The page anchors the public message in randomized-trial/meta-analysis evidence, Cochrane synthesis, IARC/NCBI screen-and-treat implementation guidance, and high-incidence regional strategy.
+- The visual presents H. pylori as a treatable upstream stomach-cancer risk while keeping antibiotic resistance, test-and-treat systems, and alarm symptoms visible.
+
+### Decision For The Flagship Infographic
+
+Do not add H. pylori details to the flagship cancer literacy infographic body yet. It should remain a broad cancer literacy image.
+
+Instead:
+
+- Keep H. pylori in the infection and site-specific prevention add-ons.
+- Use `visuals/h-pylori-gastric-cancer-prevention.svg` when readers need a focused stomach-cancer prevention explanation.
+- Future flagship versions can include a small "some infections can be treated" cue, but should avoid implying everyone should self-test or self-treat.
+
+### Translation Impact
+
+First-pass localized H. pylori visuals exist for Spanish, German, Mandarin Chinese, and Russian. They passed nonblank headless Chrome rendering, but still need native review because testing terminology, antibiotic guidance, and stomach-cancer screening systems vary by country.

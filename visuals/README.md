@@ -66,6 +66,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Infection-related cancer prevention - German | `infection-prevention-cancer.de.svg` | First localized SVG; native review needed |
 | Infection-related cancer prevention - Mandarin Chinese | `infection-prevention-cancer.zh.svg` | First localized SVG; native review needed |
 | Infection-related cancer prevention - Russian | `infection-prevention-cancer.ru.svg` | First localized SVG; native review needed |
+| H. pylori and stomach cancer prevention | `h-pylori-gastric-cancer-prevention.svg` | First-pass English SVG |
+| H. pylori and stomach cancer prevention - Spanish | `h-pylori-gastric-cancer-prevention.es.svg` | First localized SVG; native review needed |
+| H. pylori and stomach cancer prevention - German | `h-pylori-gastric-cancer-prevention.de.svg` | First localized SVG; native review needed |
+| H. pylori and stomach cancer prevention - Mandarin Chinese | `h-pylori-gastric-cancer-prevention.zh.svg` | First localized SVG; native review needed |
+| H. pylori and stomach cancer prevention - Russian | `h-pylori-gastric-cancer-prevention.ru.svg` | First localized SVG; native review needed |
 | Vaccine-preventable cancer | `vaccine-preventable-cancers.svg` | First-pass English SVG |
 | Vaccine-preventable cancer - Spanish | `vaccine-preventable-cancers.es.svg` | First localized SVG; native review needed |
 | Vaccine-preventable cancer - German | `vaccine-preventable-cancers.de.svg` | First localized SVG; native review needed |
