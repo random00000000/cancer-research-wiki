@@ -76,6 +76,17 @@ Tobacco cessation and cancer risk visual:
 
 ![Tobacco cancer risk falls when exposure stops](visuals/tobacco-cessation-cancer-risk.svg)
 
+Metabolic health, movement, and food pattern visual:
+
+![Movement, food pattern, and metabolism matter](visuals/metabolic-health-cancer-prevention.svg)
+
+Localized metabolic health variants:
+
+- [Spanish metabolic health SVG](visuals/metabolic-health-cancer-prevention.es.svg)
+- [German metabolic health SVG](visuals/metabolic-health-cancer-prevention.de.svg)
+- [Mandarin Chinese metabolic health SVG](visuals/metabolic-health-cancer-prevention.zh.svg)
+- [Russian metabolic health SVG](visuals/metabolic-health-cancer-prevention.ru.svg)
+
 Localized tobacco cessation variants:
 
 - [Spanish tobacco cessation SVG](visuals/tobacco-cessation-cancer-risk.es.svg)
@@ -167,6 +178,7 @@ Research backing:
 - [Claim evaluation framework](sources/claim-evaluation-framework.md)
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
+- [Metabolic health, diet pattern, and activity evidence](prevention/metabolic-health-diet-activity-evidence.md)
 - [Tobacco cessation and cancer evidence](prevention/tobacco-cessation-cancer-evidence.md)
 - [Alcohol and cancer evidence](prevention/alcohol-and-cancer-evidence.md)
 - [Alcohol, ALDH2, tobacco, and upper aerodigestive cancer](prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md)
@@ -193,6 +205,7 @@ Research backing:
 - [How cancer grows](concepts/how-cancer-grows.md)
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
+- [Metabolic health, movement, and food pattern visual](visuals/metabolic-health-cancer-prevention.svg)
 - [Tobacco cessation and cancer risk visual](visuals/tobacco-cessation-cancer-risk.svg)
 - [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)

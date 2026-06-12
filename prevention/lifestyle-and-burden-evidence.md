@@ -126,10 +126,12 @@ Current companion visual:
 
 - `visuals/population-burden-not-blame.svg`
 - First localized variants: `visuals/population-burden-not-blame.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
+- `visuals/metabolic-health-cancer-prevention.svg`
+- First localized metabolic health variants: `visuals/metabolic-health-cancer-prevention.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
 
 ## Next Research Tasks
 
 - Create cancer-site-specific prevention pages for colorectal, breast, lung, liver, cervical, gastric, skin, and oral/oropharyngeal cancers.
-- Add effect-size tables where evidence is strong enough.
+- Deepen metabolic-health effect-size tables where evidence is strong enough; started with `prevention/metabolic-health-diet-activity-evidence.md`.
 - Compare WCRF/AICR, ACS, Cancer Research UK, and IARC recommendations.
 - Add a page on misleading cancer-prevention claims and how to evaluate them.

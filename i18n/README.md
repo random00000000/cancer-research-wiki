@@ -140,6 +140,18 @@ This public visual explains tobacco smoke carcinogens, quitting benefits, persis
 | Mandarin Chinese | [tobacco-cessation-cancer-risk.zh.svg](../visuals/tobacco-cessation-cancer-risk.zh.svg) | First localized SVG; native review needed |
 | Russian | [tobacco-cessation-cancer-risk.ru.svg](../visuals/tobacco-cessation-cancer-risk.ru.svg) | First localized SVG; native review needed |
 
+## Metabolic Health Movement And Food Pattern Visual Variants
+
+This public visual explains movement, food pattern, body fatness, metabolic signaling, and access systems without body shame or miracle-diet promises. These translations should receive native review because food, weight, disability, eating-disorder, and stigma wording varies by culture and language.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [metabolic-health-cancer-prevention.svg](../visuals/metabolic-health-cancer-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [metabolic-health-cancer-prevention.es.svg](../visuals/metabolic-health-cancer-prevention.es.svg) | First localized SVG; native review needed |
+| German | [metabolic-health-cancer-prevention.de.svg](../visuals/metabolic-health-cancer-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [metabolic-health-cancer-prevention.zh.svg](../visuals/metabolic-health-cancer-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [metabolic-health-cancer-prevention.ru.svg](../visuals/metabolic-health-cancer-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.

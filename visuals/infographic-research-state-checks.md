@@ -30,6 +30,8 @@ Current alcohol biology and tobacco co-exposure visual: `visuals/alcohol-aldh2-t
 
 Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-cancer-risk.svg`
 
+Current metabolic health, movement, and food pattern visual: `visuals/metabolic-health-cancer-prevention.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -87,6 +89,13 @@ Current localized tobacco cessation variants:
 - Mandarin Chinese: `visuals/tobacco-cessation-cancer-risk.zh.svg`
 - Russian: `visuals/tobacco-cessation-cancer-risk.ru.svg`
 
+Current localized metabolic health variants:
+
+- Spanish: `visuals/metabolic-health-cancer-prevention.es.svg`
+- German: `visuals/metabolic-health-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/metabolic-health-cancer-prevention.zh.svg`
+- Russian: `visuals/metabolic-health-cancer-prevention.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -119,13 +128,14 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 66 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 71 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
 - The environment/work visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious Russian card overflow was corrected before commit.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
+- The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -158,6 +168,34 @@ Keep the flagship infographic's tobacco line short: "No tobacco; support quittin
 ### Translation Impact
 
 Keep localized tobacco cessation visuals under native review before promotion. The wording must preserve addiction biology, support, and no-blame framing while avoiding false certainty that quitting eliminates all risk.
+
+## 2026-06-12 Check: Metabolic Health Movement And Food Pattern Visual
+
+Evidence page:
+
+- `prevention/metabolic-health-diet-activity-evidence.md`
+
+New visual:
+
+- `visuals/metabolic-health-cancer-prevention.svg`
+- `visuals/metabolic-health-cancer-prevention.es.svg`
+- `visuals/metabolic-health-cancer-prevention.de.svg`
+- `visuals/metabolic-health-cancer-prevention.zh.svg`
+- `visuals/metabolic-health-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual explaining physical activity, food pattern, body fatness, metabolic signaling, systems access, and no-body-shame risk reduction.
+- The visual is grounded in WCRF/AICR synthesis, Moore 2016 pooled physical-activity cohort evidence, Matthews 2020 activity-dose evidence, fiber/whole-grain colorectal meta-analysis, and obesity-cancer mechanism reviews.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's movement, food, and weight line short. Use this companion when readers need the deeper idea that metabolic health is biology plus environment, not a moral score or miracle-diet promise.
+
+### Translation Impact
+
+Keep localized metabolic-health visuals under native review before promotion. The wording must avoid body shame, eating-disorder triggers, disability erasure, and false promises that any diet, exercise plan, or body size guarantees cancer prevention.
 
 ## 2026-06-12 Check: Population Burden Is Not Personal Blame Visual
 

@@ -16,6 +16,7 @@ Scope:
 - Environment/work add-on visual: English plus first localized SVGs.
 - Alcohol biology add-on visual: English plus first localized SVGs.
 - Tobacco cessation add-on visual: English plus first localized SVGs.
+- Metabolic health add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -85,6 +86,11 @@ Checked files:
 - `visuals/tobacco-cessation-cancer-risk.de.svg`
 - `visuals/tobacco-cessation-cancer-risk.zh.svg`
 - `visuals/tobacco-cessation-cancer-risk.ru.svg`
+- `visuals/metabolic-health-cancer-prevention.svg`
+- `visuals/metabolic-health-cancer-prevention.es.svg`
+- `visuals/metabolic-health-cancer-prevention.de.svg`
+- `visuals/metabolic-health-cancer-prevention.zh.svg`
+- `visuals/metabolic-health-cancer-prevention.ru.svg`
 
 Result:
 
@@ -106,7 +112,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 66 SVG files in `visuals/`.
+- All 71 SVG files in `visuals/`.
 
 Tooling:
 
@@ -125,12 +131,13 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 66 SVG files at their declared canvas sizes.
-- All 66 renders were nonblank.
+- Headless Chrome rendered all 71 SVG files at their declared canvas sizes.
+- All 71 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
+- The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
 
 Repository note:
 
@@ -163,6 +170,8 @@ Repository note:
 | Alcohol biology localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/Russian/Mandarin full-size previews checked; safety-panel overflow fixed | Still needed |
 | Tobacco cessation SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked; heading overflow fixed | Not applicable |
 | Tobacco cessation localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian/Mandarin full-size previews checked; German/Russian overflow fixed | Still needed |
+| Metabolic health SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Metabolic health localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked; overflow fixed | Still needed |
 
 ## Next Visual QA Tasks
 
