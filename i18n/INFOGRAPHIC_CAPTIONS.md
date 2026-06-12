@@ -75,6 +75,34 @@ Safety caption:
 
 - Снижение риска не является гарантией. При симптомах, вопросах скрининга или личного риска обратитесь к медицинскому специалисту.
 
+## French
+
+Title:
+
+- Cancer : comment les cellules enfreignent les règles du corps
+
+Alt text:
+
+- Infographie expliquant le cancer comme un groupe de maladies dans lesquelles les cellules accumulent des changements qui leur permettent de croître, d’éviter la mort, d’échapper au contrôle immunitaire, de remodeler les tissus, de recruter des vaisseaux sanguins et parfois de se propager. Elle énumère aussi des leviers de réduction du risque appuyés par des preuves, comme éviter le tabac, limiter l’alcool, rester actif, se protéger des UV, réduire les expositions cancérogènes, utiliser les vaccins pertinents et suivre le dépistage recommandé. La réduction du risque n’est pas une garantie.
+
+Safety caption:
+
+- La réduction du risque n’est pas une garantie. Parlez à un professionnel de santé pour les symptômes, le dépistage ou le risque personnel.
+
+## Portuguese
+
+Title:
+
+- Câncer: como as células quebram as regras do corpo
+
+Alt text:
+
+- Infográfico que explica o câncer como um grupo de doenças em que as células acumulam mudanças que lhes permitem crescer, evitar a morte, escapar do controle imunológico, remodelar tecidos, recrutar vasos sanguíneos e às vezes se espalhar. Ele também lista medidas de redução de risco apoiadas por evidências, como evitar tabaco, limitar álcool, manter atividade física, proteger-se contra UV, reduzir exposições carcinogênicas, usar vacinas relevantes e seguir o rastreamento recomendado. Reduzir risco não é garantia.
+
+Safety caption:
+
+- Reduzir risco não é garantia. Converse com um profissional de saúde sobre sintomas, rastreamento ou risco pessoal.
+
 ## Review Notes
 
 - Keep translations conservative and aligned with `visuals/goal-1-infographic-brief.md`.
