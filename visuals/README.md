@@ -27,3 +27,9 @@ Use `infographic-research-state-checks.md` to compare the current infographic ag
 | Turkish | `cancer-literacy-infographic.tr.svg` | First localized SVG |
 | Indonesian | `cancer-literacy-infographic.id.svg` | First localized SVG |
 | Vietnamese | `cancer-literacy-infographic.vi.svg` | First localized SVG |
+
+## Public Safety Add-Ons
+
+| Visual | Asset | Status |
+| --- | --- | --- |
+| Cancer claim filter | `cancer-claim-filter.svg` | First-pass English SVG |

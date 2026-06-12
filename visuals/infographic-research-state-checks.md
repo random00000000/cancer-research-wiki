@@ -9,6 +9,8 @@ Current canonical image: `visuals/cancer-literacy-infographic.svg`
 
 Current translated support: `i18n/INFOGRAPHIC_CAPTIONS.md`
 
+Current safety add-on visual: `visuals/cancer-claim-filter.svg`
+
 Current localized image variants:
 
 - Spanish: `visuals/cancer-literacy-infographic.es.svg`
@@ -25,6 +27,32 @@ Current localized image variants:
 - Turkish: `visuals/cancer-literacy-infographic.tr.svg`
 - Indonesian: `visuals/cancer-literacy-infographic.id.svg`
 - Vietnamese: `visuals/cancer-literacy-infographic.vi.svg`
+
+## 2026-06-12 Check: Claim Filter Evidence Add-On
+
+New evidence page:
+
+- `prevention/cancer-claim-filter.md`
+
+New visual:
+
+- `visuals/cancer-claim-filter.svg`
+
+### What Changed
+
+- The wiki now has a reusable five-gate public filter for cancer claims: human outcomes, absolute impact, replication, harms/interactions, and care delay.
+- New claim cards cover alkaline diets, detoxes, supplements, high-dose vitamin C, cannabis/cannabinoids, ivermectin/fenbendazole, fasting, and ketogenic diets.
+- The new page uses non-CDC-heavy sources, including AICR/WCRF, ASCO, systematic reviews, peer-reviewed trials, and frontier-review caution around drug repurposing.
+
+### Decision For The Flagship Infographic
+
+Do not add the claim cards to the flagship cancer literacy infographic. The flagship image should stay focused on what cancer is, how it grows, and high-confidence risk levers.
+
+Instead:
+
+- Keep `visuals/cancer-claim-filter.svg` as a separate public safety visual.
+- Link the claim-filter page from the README research backing.
+- Later, translate the claim-filter visual only after language-specific review, because misleading claims often use local idioms and culture-specific fear hooks.
 
 ## 2026-06-12 Check: Translated Infographic Assets
 

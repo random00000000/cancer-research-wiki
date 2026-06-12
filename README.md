@@ -71,10 +71,12 @@ Research backing:
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
+- [Cancer claim filter](prevention/cancer-claim-filter.md)
 - [Screening public guidance](prevention/screening-public-guidance.md)
 - [Screening harms and tradeoffs](prevention/screening-harms-and-tradeoffs.md)
 - [How cancer grows](concepts/how-cancer-grows.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
+- [Claim-filter visual](visuals/cancer-claim-filter.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 
