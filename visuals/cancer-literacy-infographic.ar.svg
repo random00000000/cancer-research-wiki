@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">السرطان: كيف تكسر الخلايا قواعد الجسم</title>
+  <desc id="desc">رسم معلوماتي بالعربية يشرح كيف يبدأ السرطان وينمو، وكيف يمكن تقليل الخطر من دون وعد بخطر صفري.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.52" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 45px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #102033; }
+      .subtitle { font: 400 25px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #31445c; }
+      .section { font: 800 30px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #102033; }
+      .label { font: 700 22px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, "Noto Sans Arabic", "Segoe UI", sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+
+  <g transform="translate(60 55)" direction="rtl" unicode-bidi="plaintext">
+    <text class="title" x="1080" y="52" text-anchor="end">السرطان: خلايا تكسر قواعد الجسم</text>
+    <text class="subtitle" x="1080" y="92" text-anchor="end">ما هو، كيف ينمو، وكيف نقلل الخطر من دون وعد بخطر صفري.</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(60 220)" direction="rtl" unicode-bidi="plaintext">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="296" y="48" text-anchor="end">1. خلية طبيعية</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/>
+    <circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="296" y="260" text-anchor="end">الأنسجة السليمة تستخدم ضوابط:</text>
+    <text class="small" x="296" y="295" text-anchor="end">تنمو بإشارة، تصلح الضرر،</text>
+    <text class="small" x="296" y="322" text-anchor="end">وتزيل الخلايا غير الآمنة.</text>
+  </g>
+
+  <g transform="translate(440 220)" direction="rtl" unicode-bidi="plaintext">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="296" y="48" text-anchor="end">2. تتراكم التغيرات</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/>
+    <circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="296" y="260" text-anchor="end">تعرضات، عدوى، عمر،</text>
+    <text class="small" x="296" y="295" text-anchor="end">خطر موروث وأخطاء نسخ</text>
+    <text class="small" x="296" y="322" text-anchor="end">قد تغير تعليمات الخلية.</text>
+  </g>
+
+  <g transform="translate(820 220)" direction="rtl" unicode-bidi="plaintext">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="296" y="48" text-anchor="end">3. سلوك سرطاني</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/>
+    <circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="296" y="260" text-anchor="end">قد تنقسم الخلايا كثيرا،</text>
+    <text class="small" x="296" y="295" text-anchor="end">تهرب من المناعة، تجذب أوعية،</text>
+    <text class="small" x="296" y="322" text-anchor="end">تغزو وأحيانا تنتشر.</text>
+  </g>
+
+  <path class="line" d="M380 405 H440"/>
+  <path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/>
+  <path class="line" d="M760 405 H820"/>
+  <path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+
+  <g transform="translate(60 660)" direction="rtl" unicode-bidi="plaintext">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="1050" y="50" text-anchor="end">الحلقة الأساسية</text>
+    <text class="body" x="1050" y="88" text-anchor="end">خلية متغيرة تبقى حية، تتكاثر، تتكيف، وتغير النسيج حولها.</text>
+    <text class="body" x="1050" y="126" text-anchor="end">الجذر ليس سببا سحريا واحدا: الجينات، المناعة، الأيض، البيئة،</text>
+    <text class="body" x="1050" y="164" text-anchor="end">العمر، العدوى، والوصول إلى الوقاية تتفاعل معا.</text>
+    <text class="small" x="1050" y="213" text-anchor="end">لذلك نحتاج الوقاية، الكشف المبكر، علم الأحياء، وعلاجات أفضل معا.</text>
+  </g>
+
+  <g transform="translate(60 1000)" direction="rtl" unicode-bidi="plaintext">
+    <text class="section" x="1080" y="0" text-anchor="end">تقليل الخطر: احتمال أقل، لا خطر صفري</text>
+    <text class="body" x="1080" y="36" text-anchor="end">هذه الخطوات مدعومة بالأدلة، لكنها لا تضمن حياة بلا سرطان.</text>
+
+    <g transform="translate(834 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">لا للتبغ</text>
+      <text class="small" x="223" y="78" text-anchor="end">تجنب الدخان ودعم الإقلاع.</text>
+    </g>
+    <g transform="translate(556 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">كحول أقل</text>
+      <text class="small" x="223" y="78" text-anchor="end">الأقل أكثر أمانا؛ الصفر يتجنب هذا الخطر.</text>
+    </g>
+    <g transform="translate(278 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">حركة منتظمة</text>
+      <text class="small" x="223" y="78" text-anchor="end">النشاط يقلل عدة مخاطر.</text>
+    </g>
+    <g transform="translate(0 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">حماية من UV</text>
+      <text class="small" x="223" y="78" text-anchor="end">شمس آمنة؛ لا تسمير صناعي.</text>
+    </g>
+
+    <g transform="translate(834 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">لقاحات</text>
+      <text class="small" x="223" y="78" text-anchor="end">HPV والتهاب الكبد B عند اللزوم.</text>
+    </g>
+    <g transform="translate(556 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">فحص</text>
+      <text class="small" x="223" y="78" text-anchor="end">حسب العمر والخطر والإرشاد المحلي.</text>
+    </g>
+    <g transform="translate(278 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">نمط صحي</text>
+      <text class="small" x="223" y="78" text-anchor="end">نباتات وحبوب كاملة وتوازن طاقة.</text>
+    </g>
+    <g transform="translate(0 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="223" y="42" text-anchor="end">تعرضات أقل</text>
+      <text class="small" x="223" y="78" text-anchor="end">الهواء والعمل والرادون والسياسات مهمة.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 1445)" direction="rtl" unicode-bidi="plaintext">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="1048" y="48" style="font: 800 27px Arial, 'Noto Sans Arabic', sans-serif; fill: #ffffff;" text-anchor="end">مهم: الوقاية ليست لوما</text>
+    <text x="1048" y="86" style="font: 400 20px Arial, 'Noto Sans Arabic', sans-serif; fill: #e2e8f0;" text-anchor="end">بعض السرطانات تحدث رغم اختيارات ممتازة. العمر، المتغيرات الموروثة، العدوى،</text>
+    <text x="1048" y="116" style="font: 400 20px Arial, 'Noto Sans Arabic', sans-serif; fill: #e2e8f0;" text-anchor="end">أخطاء الخلايا، البيئة، الدخل، الجغرافيا، والوصول للرعاية كلها مهمة.</text>
+  </g>
+
+  <text class="tiny" x="1140" y="1645" text-anchor="end" direction="rtl" unicode-bidi="plaintext">الأساس: NCI و ACS و IARC/WHO و Hanahan/Weinberg و GBD و WCRF/AICR وصفحات أدلة الويكي. للأعراض أو الفحص أو الخطر الشخصي تحدث مع مختص طبي.</text>
+</svg>

@@ -25,7 +25,7 @@ Cancer Research Wiki एक स्वचालित, साक्ष्य-आ�
 
 वर्तमान इन्फोग्राफिक:
 
-![कैंसर: कोशिकाएँ शरीर के नियम कैसे तोड़ती हैं](../visuals/cancer-literacy-infographic.svg)
+![कैंसर: कोशिकाएँ शरीर के नियम कैसे तोड़ती हैं](../visuals/cancer-literacy-infographic.hi.svg)
 
 अनुवादित वैकल्पिक पाठ और कैप्शन: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+  <title id="title">कैंसर: कोशिकाएँ शरीर के नियम कैसे तोड़ती हैं</title>
+  <desc id="desc">हिन्दी इन्फोग्राफिक जो बताता है कि कैंसर कैसे शुरू और बढ़ता है, और शून्य जोखिम का वादा किए बिना जोखिम कैसे घटाया जा सकता है।</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.52" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 43px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #102033; }
+      .subtitle { font: 400 24px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #31445c; }
+      .section { font: 800 29px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #102033; }
+      .label { font: 700 21px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #102033; }
+      .body { font: 400 20px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #24364b; }
+      .small { font: 400 18px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #475569; }
+      .tiny { font: 400 15px Arial, "Noto Sans Devanagari", "Nirmala UI", sans-serif; fill: #5b6b7f; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; }
+      .line { stroke: #64748b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="url(#bg)"/>
+
+  <g transform="translate(60 55)">
+    <text class="title" x="0" y="52">कैंसर: कोशिकाएँ नियम तोड़ती हैं</text>
+    <text class="subtitle" x="2" y="92">कैंसर क्या है, कैसे बढ़ता है, और जोखिम को बिना झूठी गारंटी के कैसे घटाएँ।</text>
+    <rect x="0" y="125" width="1080" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(60 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">1. सामान्य कोशिका</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellGood)"/>
+    <circle cx="160" cy="145" r="38" fill="#e6fff6"/>
+    <path d="M128 146 C142 120, 177 120, 192 146 C176 171, 142 171, 128 146 Z" fill="none" stroke="#126c60" stroke-width="8"/>
+    <text class="body" x="24" y="260">स्वस्थ ऊतक नियंत्रण रखते हैं:</text>
+    <text class="small" x="24" y="295">संकेत पर बढ़ना, क्षति सुधारना,</text>
+    <text class="small" x="24" y="322">और असुरक्षित कोशिका हटाना।</text>
+  </g>
+
+  <g transform="translate(440 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">2. बदलाव जमा होते हैं</text>
+    <circle cx="160" cy="145" r="78" fill="url(#cellRisk)"/>
+    <circle cx="160" cy="145" r="37" fill="#fff6db"/>
+    <path d="M125 138 L148 118 L170 168 L197 105" fill="none" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+    <text class="body" x="24" y="260">संपर्क, संक्रमण, उम्र,</text>
+    <text class="small" x="24" y="295">वंशानुगत जोखिम और नकल की त्रुटियाँ</text>
+    <text class="small" x="24" y="322">कोशिका निर्देश बदल सकते हैं।</text>
+  </g>
+
+  <g transform="translate(820 220)">
+    <rect class="card" x="0" y="0" width="320" height="370"/>
+    <text class="section" x="24" y="48">3. कैंसर जैसा व्यवहार</text>
+    <circle cx="136" cy="130" r="62" fill="url(#cellTumor)"/>
+    <circle cx="195" cy="168" r="47" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="111" cy="195" r="38" fill="#a855f7" opacity="0.9"/>
+    <text class="body" x="24" y="260">कोशिकाएँ बहुत विभाजित हो सकती हैं,</text>
+    <text class="small" x="24" y="295">प्रतिरक्षा से बच सकती हैं, वाहिकाएँ बुला सकती हैं,</text>
+    <text class="small" x="24" y="322">घुस सकती हैं और कभी फैल सकती हैं।</text>
+  </g>
+
+  <path class="line" d="M380 405 H440"/>
+  <path d="M420 389 L448 405 L420 421 Z" fill="#64748b"/>
+  <path class="line" d="M760 405 H820"/>
+  <path d="M800 389 L828 405 L800 421 Z" fill="#64748b"/>
+
+  <g transform="translate(60 660)">
+    <rect class="card" x="0" y="0" width="1080" height="260"/>
+    <text class="section" x="30" y="50">मूल चक्र</text>
+    <text class="body" x="30" y="88">बदली हुई कोशिका बचती है, बढ़ती है, दबाव के अनुसार ढलती है और आसपास ऊतक बदलती है।</text>
+    <text class="body" x="30" y="126">जड़ एक जादुई कारण नहीं: जीन, प्रतिरक्षा, चयापचय, पर्यावरण,</text>
+    <text class="body" x="30" y="164">उम्र, संक्रमण और रोकथाम तक पहुंच मिलकर असर डालते हैं।</text>
+    <text class="small" x="30" y="213">इसलिए रोकथाम, जल्दी पहचान, जीवविज्ञान और बेहतर उपचार साथ चाहिए।</text>
+  </g>
+
+  <g transform="translate(60 1000)">
+    <text class="section" x="0" y="0">जोखिम घटाएँ: संभावना कम, शून्य नहीं</text>
+    <text class="body" x="0" y="36">ये कदम साक्ष्य-समर्थित हैं, पर कैंसर-मुक्त जीवन की गारंटी नहीं देते।</text>
+
+    <g transform="translate(0 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">तंबाकू नहीं</text>
+      <text class="small" x="22" y="78">धुएँ से बचें; छोड़ने में सहयोग दें।</text>
+    </g>
+    <g transform="translate(278 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">कम शराब</text>
+      <text class="small" x="22" y="78">कम सुरक्षित है; शून्य यह जोखिम टालता है।</text>
+    </g>
+    <g transform="translate(556 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">चलते रहें</text>
+      <text class="small" x="22" y="78">नियमित गतिविधि कई जोखिम घटाती है।</text>
+    </g>
+    <g transform="translate(834 75)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">UV से बचाव</text>
+      <text class="small" x="22" y="78">सुरक्षित धूप; टैनिंग बेड नहीं।</text>
+    </g>
+
+    <g transform="translate(0 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">टीके</text>
+      <text class="small" x="22" y="78">HPV और हेपेटाइटिस B जहाँ उचित हो।</text>
+    </g>
+    <g transform="translate(278 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">स्क्रीनिंग</text>
+      <text class="small" x="22" y="78">उम्र, जोखिम और स्थानीय सलाह अनुसार।</text>
+    </g>
+    <g transform="translate(556 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">स्वस्थ पैटर्न</text>
+      <text class="small" x="22" y="78">पौधे, साबुत अनाज, ऊर्जा संतुलन।</text>
+    </g>
+    <g transform="translate(834 225)">
+      <rect class="card" x="0" y="0" width="245" height="120"/>
+      <text class="label" x="22" y="42">कम संपर्क</text>
+      <text class="small" x="22" y="78">हवा, काम, रेडॉन और नीति मायने रखते हैं।</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 1445)">
+    <rect x="0" y="0" width="1080" height="150" rx="24" fill="#102033"/>
+    <text x="32" y="48" style="font: 800 27px Arial, 'Noto Sans Devanagari', sans-serif; fill: #ffffff;">महत्वपूर्ण: रोकथाम दोष नहीं है</text>
+    <text x="32" y="86" style="font: 400 20px Arial, 'Noto Sans Devanagari', sans-serif; fill: #e2e8f0;">कुछ कैंसर बहुत अच्छे चुनावों के बावजूद होते हैं। उम्र, वंशानुगत बदलाव, संक्रमण,</text>
+    <text x="32" y="116" style="font: 400 20px Arial, 'Noto Sans Devanagari', sans-serif; fill: #e2e8f0;">कोशिका त्रुटियाँ, पर्यावरण, आय, भूगोल और देखभाल तक पहुंच भी मायने रखते हैं।</text>
+  </g>
+
+  <text class="tiny" x="60" y="1645">आधार: NCI, ACS, IARC/WHO, Hanahan/Weinberg, GBD, WCRF/AICR और wiki साक्ष्य पृष्ठ। लक्षण, स्क्रीनिंग या व्यक्तिगत जोखिम के लिए चिकित्सा विशेषज्ञ से बात करें।</text>
+</svg>

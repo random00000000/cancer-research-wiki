@@ -25,7 +25,7 @@ Cancer Research Wiki هو ويكي بحثي آلي قائم على الأدلة.
 
 الرسم الحالي:
 
-![السرطان: كيف تكسر الخلايا قواعد الجسم](../visuals/cancer-literacy-infographic.svg)
+![السرطان: كيف تكسر الخلايا قواعد الجسم](../visuals/cancer-literacy-infographic.ar.svg)
 
 النص البديل والتعليقات المترجمة: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
 

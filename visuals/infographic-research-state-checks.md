@@ -17,6 +17,8 @@ Current localized image variants:
 - Russian: `visuals/cancer-literacy-infographic.ru.svg`
 - French: `visuals/cancer-literacy-infographic.fr.svg`
 - Portuguese: `visuals/cancer-literacy-infographic.pt.svg`
+- Arabic: `visuals/cancer-literacy-infographic.ar.svg`
+- Hindi: `visuals/cancer-literacy-infographic.hi.svg`
 
 ## 2026-06-12 Check: Translated Infographic Assets
 
@@ -28,16 +30,18 @@ New assets:
 - `visuals/cancer-literacy-infographic.ru.svg`
 - `visuals/cancer-literacy-infographic.fr.svg`
 - `visuals/cancer-literacy-infographic.pt.svg`
+- `visuals/cancer-literacy-infographic.ar.svg`
+- `visuals/cancer-literacy-infographic.hi.svg`
 
 ### What Changed
 
-- The project now has actual localized SVG infographics for Spanish, German, Mandarin Chinese, Russian, French, and Portuguese, not only translated captions.
+- The project now has actual localized SVG infographics for Spanish, German, Mandarin Chinese, Russian, French, Portuguese, Arabic, and Hindi, not only translated captions.
 - The localized variants keep the same core evidence message as the English first-pass infographic: cancer is a loss of normal cell-control systems, risk can be reduced but not eliminated, and prevention is not blame.
 - The localized variants use shorter text than the canonical English SVG so translated labels fit better.
 
 ### Remaining Gap
 
-- Arabic, Hindi, Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese still need localized image variants.
+- Japanese, Korean, Italian, Turkish, Indonesian, and Vietnamese still need localized image variants.
 - The localized SVGs should eventually receive visual QA in a browser or renderer to catch font fallback, clipping, and line-overflow issues.
 - Future ALDH2/flushing visual add-ons should be localized separately rather than squeezed into the flagship image.
 

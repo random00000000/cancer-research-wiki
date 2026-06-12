@@ -15,6 +15,8 @@ Localized SVG variants currently available:
 - Russian: `visuals/cancer-literacy-infographic.ru.svg`
 - French: `visuals/cancer-literacy-infographic.fr.svg`
 - Portuguese: `visuals/cancer-literacy-infographic.pt.svg`
+- Arabic: `visuals/cancer-literacy-infographic.ar.svg`
+- Hindi: `visuals/cancer-literacy-infographic.hi.svg`
 
 ## Canonical English
 
