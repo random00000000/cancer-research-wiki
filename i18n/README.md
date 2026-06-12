@@ -67,3 +67,15 @@ The companion mechanism visual is a denser public explanation of cancer adaptati
 | German | [cancer-keeps-adapting.de.svg](../visuals/cancer-keeps-adapting.de.svg) | First localized SVG |
 | Mandarin Chinese | [cancer-keeps-adapting.zh.svg](../visuals/cancer-keeps-adapting.zh.svg) | First localized SVG |
 | Russian | [cancer-keeps-adapting.ru.svg](../visuals/cancer-keeps-adapting.ru.svg) | First localized SVG |
+
+## Screening And Vaccination Decision Visual Variants
+
+This public safety visual explains why symptoms, risk, screening, vaccination, benefits, harms, and follow-up must be kept separate.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [screening-vaccination-decision.svg](../visuals/screening-vaccination-decision.svg) | Canonical first-pass SVG |
+| Spanish | [screening-vaccination-decision.es.svg](../visuals/screening-vaccination-decision.es.svg) | First localized SVG |
+| German | [screening-vaccination-decision.de.svg](../visuals/screening-vaccination-decision.de.svg) | First localized SVG |
+| Mandarin Chinese | [screening-vaccination-decision.zh.svg](../visuals/screening-vaccination-decision.zh.svg) | First localized SVG |
+| Russian | [screening-vaccination-decision.ru.svg](../visuals/screening-vaccination-decision.ru.svg) | First localized SVG |

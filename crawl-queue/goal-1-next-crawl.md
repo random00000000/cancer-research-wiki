@@ -40,7 +40,7 @@ Last updated: 2026-06-12
 - Produce a second infographic draft focused only on "how cancer grows."
 - Visually QA the new companion infographic draft and first localized variants: `visuals/cancer-keeps-adapting.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Complete browser or renderer screenshot QA for all SVGs listed in `visuals/visual-qa-log.md`; current structural QA passed, but in-app browser rendering was blocked by client policy.
-- Translate and visually QA the new public-safe screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`.
+- Visually QA the public-safe screening/vaccination decision visual and first localized variants: `visuals/screening-vaccination-decision.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Produce an agent-facing concept map linking hallmarks, risk factors, and prevention levers.
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.
 - Produce a site-specific prevention visual: "Which levers matter most for which cancers?"

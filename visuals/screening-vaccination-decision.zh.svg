@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+  <title id="title">癌症筛查和疫苗接种决策指南</title>
+  <desc id="desc">中文信息图，说明症状、风险、收益、伤害、随访、筛查和疫苗如何影响癌症预防决策。</desc>
+  <rect width="1200" height="850" fill="#f8fbff"/>
+  <rect x="48" y="42" width="1104" height="766" rx="24" fill="#ffffff" stroke="#d8e2ef" stroke-width="3"/>
+  <text x="84" y="104" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#102033">筛查和疫苗是癌症预防工具</text>
+  <text x="86" y="142" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#334155">关键问题不是人人都做所有检查，而是哪种工具适合这个人和随访路径。</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="84" y="190" width="310" height="190" rx="18" fill="#fff1f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="112" y="240" font-size="28" font-weight="800" fill="#102033">有症状？</text>
+    <text x="112" y="288" font-size="22" fill="#334155">新的、持续的或令人担心的</text>
+    <text x="112" y="318" font-size="22" fill="#334155">症状不是筛查问题。</text>
+    <text x="112" y="356" font-size="23" font-weight="800" fill="#102033">应寻求医疗评估。</text>
+    <rect x="445" y="190" width="310" height="190" rx="18" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+    <text x="473" y="240" font-size="28" font-weight="800" fill="#102033">没有症状？</text>
+    <text x="473" y="288" font-size="22" fill="#334155">看年龄、相关器官、</text>
+    <text x="473" y="318" font-size="22" fill="#334155">既往结果、家族史、</text>
+    <text x="473" y="348" font-size="22" fill="#334155">感染、风险和当地指南。</text>
+    <rect x="806" y="190" width="310" height="190" rx="18" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+    <text x="834" y="240" font-size="28" font-weight="800" fill="#102033">选择工具</text>
+    <text x="834" y="288" font-size="22" fill="#334155">有些工具预防癌症。</text>
+    <text x="834" y="318" font-size="22" fill="#334155">有些更早发现癌症。</text>
+    <text x="834" y="356" font-size="23" font-weight="800" fill="#102033">按风险匹配。</text>
+    <rect x="84" y="440" width="310" height="170" rx="18" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+    <text x="112" y="488" font-size="28" font-weight="800" fill="#102033">疫苗</text>
+    <text x="112" y="532" font-size="22" fill="#334155">HPV 疫苗可预防</text>
+    <text x="112" y="562" font-size="22" fill="#334155">导致多种癌症的感染。</text>
+    <text x="112" y="592" font-size="22" fill="#334155">乙肝疫苗帮助保护肝脏。</text>
+    <rect x="445" y="440" width="310" height="170" rx="18" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="473" y="488" font-size="28" font-weight="800" fill="#102033">筛查</text>
+    <text x="473" y="532" font-size="22" fill="#334155">推荐的筛查可更早发现</text>
+    <text x="473" y="562" font-size="22" fill="#334155">某些癌症或癌前变化。</text>
+    <rect x="806" y="440" width="310" height="170" rx="18" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="834" y="488" font-size="28" font-weight="800" fill="#102033">权衡</text>
+    <text x="834" y="532" font-size="22" fill="#334155">误报、漏诊、过度诊断、</text>
+    <text x="834" y="562" font-size="22" fill="#334155">费用、压力和可及性都重要。</text>
+    <text x="834" y="592" font-size="23" font-weight="800" fill="#102033">随访也是筛查的一部分。</text>
+  </g>
+  <rect x="84" y="675" width="1032" height="68" rx="22" fill="#102033"/>
+  <text x="118" y="718" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#ffffff">安全要点：询问哪种预防工具适合你的年龄、身体、病史、风险和随访条件。</text>
+  <text x="84" y="790" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#334155">仅供教育，不是个人医疗建议。依据：筛查、筛查伤害、感染相关预防和 HPV/HBV 疫苗证据。</text>
+</svg>

@@ -37,6 +37,13 @@ Screening and vaccination decision visual:
 
 ![Cancer screening and vaccination decision guide](visuals/screening-vaccination-decision.svg)
 
+Localized screening/vaccination decision variants:
+
+- [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)
+- [German screening/vaccination SVG](visuals/screening-vaccination-decision.de.svg)
+- [Mandarin Chinese screening/vaccination SVG](visuals/screening-vaccination-decision.zh.svg)
+- [Russian screening/vaccination SVG](visuals/screening-vaccination-decision.ru.svg)
+
 Localized companion mechanism variants:
 
 - [Spanish companion SVG](visuals/cancer-keeps-adapting.es.svg)

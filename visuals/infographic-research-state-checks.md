@@ -15,6 +15,13 @@ Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
 
+Current localized screening/vaccination decision variants:
+
+- Spanish: `visuals/screening-vaccination-decision.es.svg`
+- German: `visuals/screening-vaccination-decision.de.svg`
+- Mandarin Chinese: `visuals/screening-vaccination-decision.zh.svg`
+- Russian: `visuals/screening-vaccination-decision.ru.svg`
+
 Current localized companion mechanism variants:
 
 - Spanish: `visuals/cancer-keeps-adapting.es.svg`
@@ -45,12 +52,17 @@ Do not add headline-reading rules to the flagship infographic. Keep the flagship
 New visual:
 
 - `visuals/screening-vaccination-decision.svg`
+- `visuals/screening-vaccination-decision.es.svg`
+- `visuals/screening-vaccination-decision.de.svg`
+- `visuals/screening-vaccination-decision.zh.svg`
+- `visuals/screening-vaccination-decision.ru.svg`
 
 ### What Changed
 
 - The wiki now has a public visual that separates symptoms from screening and shows that screening/vaccination decisions depend on age, anatomy, risk, local guidance, benefits, harms, and follow-up access.
 - The visual avoids date-sensitive age cutoffs and points readers toward clinician-guided decisions rather than personal medical instructions.
 - It uses the existing screening, screening-harms, and infection-prevention evidence pages as its source backbone.
+- First-pass localized variants now exist for Spanish, German, Mandarin Chinese, and Russian.
 
 ### Decision For The Flagship Infographic
 

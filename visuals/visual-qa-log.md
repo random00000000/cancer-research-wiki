@@ -35,6 +35,11 @@ Checked files:
 - `visuals/cancer-keeps-adapting.de.svg`
 - `visuals/cancer-keeps-adapting.zh.svg`
 - `visuals/cancer-keeps-adapting.ru.svg`
+- `visuals/screening-vaccination-decision.svg`
+- `visuals/screening-vaccination-decision.es.svg`
+- `visuals/screening-vaccination-decision.de.svg`
+- `visuals/screening-vaccination-decision.zh.svg`
+- `visuals/screening-vaccination-decision.ru.svg`
 - `visuals/cancer-claim-filter.svg`
 
 Result:
@@ -61,6 +66,8 @@ Browser QA attempt:
 | Flagship localized SVGs | Passed | Still needed | Still needed |
 | Companion adaptation English SVG | Passed | Still needed | Not applicable |
 | Companion adaptation localized SVGs | Passed | Still needed | Still needed |
+| Screening/vaccination decision English SVG | Passed | Still needed | Not applicable |
+| Screening/vaccination decision localized SVGs | Passed | Still needed | Still needed |
 | Claim-filter SVG | Passed | Still needed | Not applicable |
 
 ## Next Visual QA Tasks
