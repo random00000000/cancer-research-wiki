@@ -33,6 +33,11 @@ Not fully controllable:
 
 Tobacco prevention and cessation are central, but shame is counterproductive. Nicotine dependence is biological, commercial, social, and environmental. Tobacco exposure is also shaped by marketing, stress, income, policy, and access to cessation support.
 
+Focused evidence and public companion visual:
+
+- `prevention/tobacco-cessation-cancer-evidence.md`
+- `visuals/tobacco-cessation-cancer-risk.svg`
+
 Public wording:
 
 - "Quitting at any age helps; support works better than blame."
@@ -154,7 +159,7 @@ Core public phrase:
 
 ## Next Research Tasks
 
-- Add tobacco cessation evidence page.
+- Deepen tobacco cessation intervention evidence and country-specific cessation-access notes.
 - Add radon page with testing/mitigation and geography.
 - Add occupational carcinogen page.
 - Add air pollution and lung cancer mechanism page.

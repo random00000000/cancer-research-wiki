@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Tobacco cancer risk falls when exposure stops</title>
+  <desc id="desc">A public infographic explaining how tobacco smoke damages DNA, why quitting helps at any age, why former risk and screening can still matter, and why support beats blame.</desc>
+  <rect width="1500" height="980" fill="#f7faf8"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#27312d" stroke-width="3"/>
+  <text x="92" y="112" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#102033">Tobacco cancer risk falls when exposure stops</text>
+  <text x="94" y="158" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Quitting helps at any age. Earlier is better. Support works better than shame.</text>
+
+  <rect x="92" y="220" width="392" height="392" rx="18" fill="#e7f5f2" stroke="#1f6f6b" stroke-width="3"/>
+  <circle cx="152" cy="286" r="40" fill="#1f6f6b"/>
+  <text x="143" y="301" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="356" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#102033">Smoke injures cells</text>
+  <text x="122" y="398" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">Tobacco smoke carries</text>
+  <text x="122" y="426" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">carcinogens that can damage</text>
+  <text x="122" y="454" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">DNA and tissue defenses.</text>
+  <text x="122" y="514" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" fill="#102033">Public direction</text>
+  <text x="122" y="550" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">Avoid smoke exposure and</text>
+  <text x="122" y="578" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">protect smoke-free spaces.</text>
+
+  <rect x="555" y="220" width="392" height="392" rx="18" fill="#fff2d9" stroke="#b46b13" stroke-width="3"/>
+  <circle cx="615" cy="286" r="40" fill="#b46b13"/>
+  <text x="606" y="301" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="356" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#102033">Quitting helps</text>
+  <text x="585" y="398" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">Stopping lowers new exposure.</text>
+  <text x="585" y="426" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">Risk usually falls over time,</text>
+  <text x="585" y="454" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">especially with earlier quitting.</text>
+  <text x="585" y="514" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" fill="#102033">Public direction</text>
+  <text x="585" y="550" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">Every quit attempt matters;</text>
+  <text x="585" y="578" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">medications and support help.</text>
+
+  <rect x="1018" y="220" width="392" height="392" rx="18" fill="#fde8e8" stroke="#b93636" stroke-width="3"/>
+  <circle cx="1078" cy="286" r="40" fill="#b93636"/>
+  <text x="1069" y="301" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="356" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#102033">Past risk can remain</text>
+  <text x="1048" y="398" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">Former smokers can keep</text>
+  <text x="1048" y="426" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">higher lung cancer risk for</text>
+  <text x="1048" y="454" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#334155">years after quitting.</text>
+  <text x="1048" y="514" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" fill="#102033">Public direction</text>
+  <text x="1048" y="550" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">Screening eligibility and</text>
+  <text x="1048" y="578" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#334155">persistent symptoms still matter.</text>
+
+  <rect x="92" y="655" width="625" height="160" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" fill="#ffffff">No blame</text>
+  <text x="130" y="748" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#f8fafc">Nicotine dependence is biological, commercial, social,</text>
+  <text x="130" y="778" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#f8fafc">and environmental. Support beats shame.</text>
+
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#ffdf61" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" fill="#102033">Safety boundary</text>
+  <text x="814" y="748" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#111827">Quitting does not erase all past risk.</text>
+  <text x="814" y="778" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#111827">High-risk screening, symptoms, pregnancy, cancer care,</text>
+  <text x="814" y="808" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#111827">and medicines need clinician support.</text>
+
+  <text x="92" y="890" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#334155">Evidence anchors: IARC tobacco smoke; Hecht carcinogens; Jha and Pirie cessation cohorts; Park Korea cohort; lung-risk decline reviews.</text>
+  <text x="92" y="920" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#64748b">Also reduce secondhand smoke, radon, work exposures, and alcohol co-exposure. Never delay care for symptoms.</text>
+</svg>

@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 61
-Nonblank renders: 61
+SVG files rendered: 66
+Nonblank renders: 66
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -88,3 +88,8 @@ Blank or near-blank renders: 0
 | `site-specific-prevention-levers.ru.svg` | 1500x1100 | True | 36.76 |
 | `site-specific-prevention-levers.svg` | 1500x1100 | True | 37.51 |
 | `site-specific-prevention-levers.zh.svg` | 1500x1100 | True | 36.40 |
+| `tobacco-cessation-cancer-risk.de.svg` | 1500x980 | True | 38.92 |
+| `tobacco-cessation-cancer-risk.es.svg` | 1500x980 | True | 39.12 |
+| `tobacco-cessation-cancer-risk.ru.svg` | 1500x980 | True | 38.11 |
+| `tobacco-cessation-cancer-risk.svg` | 1500x980 | True | 38.88 |
+| `tobacco-cessation-cancer-risk.zh.svg` | 1500x980 | True | 37.95 |

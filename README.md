@@ -72,6 +72,17 @@ Alcohol biology and tobacco co-exposure visual:
 
 ![Alcohol risk depends on dose, biology, and tobacco](visuals/alcohol-aldh2-tobacco-risk.svg)
 
+Tobacco cessation and cancer risk visual:
+
+![Tobacco cancer risk falls when exposure stops](visuals/tobacco-cessation-cancer-risk.svg)
+
+Localized tobacco cessation variants:
+
+- [Spanish tobacco cessation SVG](visuals/tobacco-cessation-cancer-risk.es.svg)
+- [German tobacco cessation SVG](visuals/tobacco-cessation-cancer-risk.de.svg)
+- [Mandarin Chinese tobacco cessation SVG](visuals/tobacco-cessation-cancer-risk.zh.svg)
+- [Russian tobacco cessation SVG](visuals/tobacco-cessation-cancer-risk.ru.svg)
+
 Localized alcohol biology variants:
 
 - [Spanish alcohol biology SVG](visuals/alcohol-aldh2-tobacco-risk.es.svg)
@@ -156,6 +167,7 @@ Research backing:
 - [Claim evaluation framework](sources/claim-evaluation-framework.md)
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
+- [Tobacco cessation and cancer evidence](prevention/tobacco-cessation-cancer-evidence.md)
 - [Alcohol and cancer evidence](prevention/alcohol-and-cancer-evidence.md)
 - [Alcohol, ALDH2, tobacco, and upper aerodigestive cancer](prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md)
 - [Goal 1 effect-size evidence](prevention/effect-size-evidence.md)
@@ -181,6 +193,7 @@ Research backing:
 - [How cancer grows](concepts/how-cancer-grows.md)
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
+- [Tobacco cessation and cancer risk visual](visuals/tobacco-cessation-cancer-risk.svg)
 - [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [Environment and work cancer prevention visual](visuals/environment-work-cancer-prevention.svg)

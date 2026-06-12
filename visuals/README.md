@@ -71,6 +71,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Environment and work cancer prevention - German | `environment-work-cancer-prevention.de.svg` | First localized SVG; native review needed |
 | Environment and work cancer prevention - Mandarin Chinese | `environment-work-cancer-prevention.zh.svg` | First localized SVG; native review needed |
 | Environment and work cancer prevention - Russian | `environment-work-cancer-prevention.ru.svg` | First localized SVG; native review needed |
+| Tobacco cessation and cancer risk | `tobacco-cessation-cancer-risk.svg` | First-pass English SVG |
+| Tobacco cessation and cancer risk - Spanish | `tobacco-cessation-cancer-risk.es.svg` | First localized SVG; native review needed |
+| Tobacco cessation and cancer risk - German | `tobacco-cessation-cancer-risk.de.svg` | First localized SVG; native review needed |
+| Tobacco cessation and cancer risk - Mandarin Chinese | `tobacco-cessation-cancer-risk.zh.svg` | First localized SVG; native review needed |
+| Tobacco cessation and cancer risk - Russian | `tobacco-cessation-cancer-risk.ru.svg` | First localized SVG; native review needed |
 | Alcohol biology and tobacco co-exposure | `alcohol-aldh2-tobacco-risk.svg` | First-pass English SVG |
 | Alcohol biology and tobacco co-exposure - Spanish | `alcohol-aldh2-tobacco-risk.es.svg` | First localized SVG; native review needed |
 | Alcohol biology and tobacco co-exposure - German | `alcohol-aldh2-tobacco-risk.de.svg` | First localized SVG; native review needed |

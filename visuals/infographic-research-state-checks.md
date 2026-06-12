@@ -28,6 +28,8 @@ Current environment/work prevention visual: `visuals/environment-work-cancer-pre
 
 Current alcohol biology and tobacco co-exposure visual: `visuals/alcohol-aldh2-tobacco-risk.svg`
 
+Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-cancer-risk.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -78,6 +80,13 @@ Current localized alcohol biology variants:
 - Mandarin Chinese: `visuals/alcohol-aldh2-tobacco-risk.zh.svg`
 - Russian: `visuals/alcohol-aldh2-tobacco-risk.ru.svg`
 
+Current localized tobacco cessation variants:
+
+- Spanish: `visuals/tobacco-cessation-cancer-risk.es.svg`
+- German: `visuals/tobacco-cessation-cancer-risk.de.svg`
+- Mandarin Chinese: `visuals/tobacco-cessation-cancer-risk.zh.svg`
+- Russian: `visuals/tobacco-cessation-cancer-risk.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -110,16 +119,45 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 61 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 66 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
 - The environment/work visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious Russian card overflow was corrected before commit.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
+- The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
 Do not mark the visual set final yet. The render pass proves the files are not blank in Chrome, but close layout review and native/expert translation review are still needed before treating localized medical visuals as publication-ready.
+
+## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
+
+Evidence page:
+
+- `prevention/tobacco-cessation-cancer-evidence.md`
+
+New visual:
+
+- `visuals/tobacco-cessation-cancer-risk.svg`
+- `visuals/tobacco-cessation-cancer-risk.es.svg`
+- `visuals/tobacco-cessation-cancer-risk.de.svg`
+- `visuals/tobacco-cessation-cancer-risk.zh.svg`
+- `visuals/tobacco-cessation-cancer-risk.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual explaining tobacco smoke carcinogen exposure, cessation benefit, persistent former-smoker risk, screening/symptom caution, and no-blame support.
+- The visual is grounded in non-CDC-heavy sources: IARC tobacco smoke hazard review, Hecht tobacco carcinogen mechanism review, Jha and Pirie large cessation cohorts, Park 2024 Korean cessation/cancer cohort, and reviews on lung cancer risk decline after quitting.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's tobacco line short: "No tobacco; support quitting." Use this companion when readers need the deeper idea that quitting lowers new exposure, helps at any age, but does not erase every past risk or screening/symptom need.
+
+### Translation Impact
+
+Keep localized tobacco cessation visuals under native review before promotion. The wording must preserve addiction biology, support, and no-blame framing while avoiding false certainty that quitting eliminates all risk.
 
 ## 2026-06-12 Check: Population Burden Is Not Personal Blame Visual
 

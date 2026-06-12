@@ -128,6 +128,18 @@ This public visual explains acetaldehyde, alcohol flushing, ALDH2 biology, and t
 | Mandarin Chinese | [alcohol-aldh2-tobacco-risk.zh.svg](../visuals/alcohol-aldh2-tobacco-risk.zh.svg) | First localized SVG; native review needed |
 | Russian | [alcohol-aldh2-tobacco-risk.ru.svg](../visuals/alcohol-aldh2-tobacco-risk.ru.svg) | First localized SVG; native review needed |
 
+## Tobacco Cessation And Cancer Risk Visual Variants
+
+This public visual explains tobacco smoke carcinogens, quitting benefits, persistent former-smoker risk, screening/symptom caution, and no-blame cessation support. These translations should receive native review because cessation, screening, addiction, and stigma wording varies by country and language.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [tobacco-cessation-cancer-risk.svg](../visuals/tobacco-cessation-cancer-risk.svg) | Canonical first-pass SVG |
+| Spanish | [tobacco-cessation-cancer-risk.es.svg](../visuals/tobacco-cessation-cancer-risk.es.svg) | First localized SVG; native review needed |
+| German | [tobacco-cessation-cancer-risk.de.svg](../visuals/tobacco-cessation-cancer-risk.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [tobacco-cessation-cancer-risk.zh.svg](../visuals/tobacco-cessation-cancer-risk.zh.svg) | First localized SVG; native review needed |
+| Russian | [tobacco-cessation-cancer-risk.ru.svg](../visuals/tobacco-cessation-cancer-risk.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.
