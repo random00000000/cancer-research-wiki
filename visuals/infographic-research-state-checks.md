@@ -28,6 +28,28 @@ Current localized image variants:
 - Indonesian: `visuals/cancer-literacy-infographic.id.svg`
 - Vietnamese: `visuals/cancer-literacy-infographic.vi.svg`
 
+## 2026-06-12 Check: Growth Mechanism Map
+
+New evidence page:
+
+- `concepts/cancer-growth-mechanism-map.md`
+
+### What Changed
+
+- The wiki now separates cancer growth into five retrieval layers: cell instructions, cell behavior, evolution, ecosystem, and spread.
+- The mechanism map strengthens the infographic's "how cancer keeps growing" claim with hallmarks, clonal evolution, tumor microenvironment, immune escape, and metastasis-colonization source cards.
+- The source mix is primarily peer-reviewed literature and conceptual reviews rather than CDC-style public-health summaries.
+
+### Decision For The Flagship Infographic
+
+The current flagship infographic is still acceptable as a first-pass public visual. It already shows normal control breaking down, changes accumulating, cancer behavior, a growth loop, and spread.
+
+Do not add the full mechanism map to the flagship image. The next visual should be a companion infographic called "How cancer keeps adapting," with:
+
+- A visible selection-pressure loop.
+- A tumor ecosystem ring around cancer cells.
+- A metastasis obstacle-course strip that makes clear most disseminated cells fail.
+
 ## 2026-06-12 Check: Claim Filter Evidence Add-On
 
 New evidence page:

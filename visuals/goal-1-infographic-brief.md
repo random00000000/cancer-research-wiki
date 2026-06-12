@@ -47,13 +47,14 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 - IARC/WHO European Code Against Cancer
 - Hanahan and Weinberg 2011 Hallmarks
 - Hanahan 2022 Hallmarks New Dimensions
+- Cancer growth mechanism map in `concepts/cancer-growth-mechanism-map.md`
 - Lancet/GBD 2022 attributable risk burden
 - Alcohol dose-response, ALDH2, and tobacco-plus-alcohol evidence in `prevention/alcohol-and-cancer-evidence.md` and `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md`
 
 ## Research-State Checks
 
 - Current review log: `visuals/infographic-research-state-checks.md`
-- Current decision: keep the first flagship infographic broad; reserve ALDH2/flushing and alcohol-plus-tobacco details for a localized add-on or second risk visual.
+- Current decision: keep the first flagship infographic broad; reserve ALDH2/flushing, alcohol-plus-tobacco details, and the deeper growth-mechanism map for companion visuals.
 
 ## Design Notes
 
@@ -61,3 +62,4 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 - Show prevention actions as levers that lower probability, not shields that guarantee safety.
 - Use source labels in the footer, not dense citation text in the body.
 - Avoid scary gore, miracle-cure language, and individual blame.
+- Add a companion explainer visual for "how cancer keeps adapting."

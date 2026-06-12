@@ -32,12 +32,13 @@ Last updated: 2026-06-12
 
 ## Mechanism Explainers
 
-- Turn the first-pass `concepts/how-cancer-grows.md` note into separate pages for hallmarks, tumor microenvironment, metastasis, immune escape, genome instability, and phenotypic plasticity.
+- Turn the first-pass `concepts/how-cancer-grows.md` note into separate pages for hallmarks, tumor microenvironment, metastasis, immune escape, genome instability, and phenotypic plasticity. Started with `concepts/cancer-growth-mechanism-map.md`; next split into focused pages.
 - Epigenetic reprogramming and phenotypic plasticity reviews.
 
 ## Visual Follow-Up
 
 - Produce a second infographic draft focused only on "how cancer grows."
+- Produce a companion infographic draft: "How cancer keeps adapting."
 - Produce a public-safe screening/vaccination decision visual.
 - Produce an agent-facing concept map linking hallmarks, risk factors, and prevention levers.
 - Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.

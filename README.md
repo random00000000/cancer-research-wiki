@@ -75,6 +75,7 @@ Research backing:
 - [Screening public guidance](prevention/screening-public-guidance.md)
 - [Screening harms and tradeoffs](prevention/screening-harms-and-tradeoffs.md)
 - [How cancer grows](concepts/how-cancer-grows.md)
+- [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 

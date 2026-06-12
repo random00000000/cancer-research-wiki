@@ -5,6 +5,8 @@ Last updated: 2026-06-12
 
 This page supports the public infographic's "how cancer keeps growing" explanation. It intentionally simplifies the biology without reducing cancer to one universal root cause.
 
+For a deeper agent retrieval map, see `concepts/cancer-growth-mechanism-map.md`.
+
 ## Plain-Language Summary
 
 Cancer grows when cells acquire and keep biological advantages that let them break normal tissue rules. A cancer cell is not just "growing fast." It may receive too many growth signals, ignore stop signals, avoid programmed death, repair or tolerate damage differently, change its metabolism, evade immune attack, recruit blood vessels, interact with supportive surrounding cells, and adapt under pressure. Over time, selection favors cell populations that survive in their local environment and, in some cancers, spread to new tissues.
