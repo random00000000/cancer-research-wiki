@@ -21,7 +21,16 @@ The infographic should explain:
 - What individuals cannot fully control.
 - When to talk to a medical professional.
 
-Infographic status: planned. When generated, the final image and supporting assets should live in `visuals/` and be embedded in this README.
+Infographic status: first-pass SVG generated from the initial source set. Future versions can add richer generated artwork after more research review.
+
+Current first-pass infographic:
+
+![Cancer: how cells break the body's rules](visuals/cancer-literacy-infographic.svg)
+
+Research backing:
+
+- [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
+- [Infographic brief](visuals/goal-1-infographic-brief.md)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

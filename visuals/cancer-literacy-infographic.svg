@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2400" viewBox="0 0 1600 2400" role="img" aria-labelledby="title desc">
+  <title id="title">Cancer: how cells break the body's rules</title>
+  <desc id="desc">A public cancer literacy infographic explaining how cancer starts, grows, spreads, and how evidence-backed actions can reduce but not eliminate risk.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.46" stop-color="#fff8f2"/>
+      <stop offset="1" stop-color="#f5fff8"/>
+    </linearGradient>
+    <linearGradient id="cellGood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d7b3"/>
+      <stop offset="1" stop-color="#1f9d8a"/>
+    </linearGradient>
+    <linearGradient id="cellRisk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc70"/>
+      <stop offset="1" stop-color="#e85d5d"/>
+    </linearGradient>
+    <linearGradient id="cellTumor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#6a45b8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1e293b" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font: 800 60px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 32px Arial, Helvetica, sans-serif; fill: #31445c; letter-spacing: 0; }
+      .section { font: 800 38px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 28px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 25px Arial, Helvetica, sans-serif; fill: #24364b; letter-spacing: 0; }
+      .small { font: 400 21px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .tiny { font: 400 18px Arial, Helvetica, sans-serif; fill: #5b6b7f; letter-spacing: 0; }
+      .source { font: 700 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .pillText { font: 700 23px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 28; filter: url(#softShadow); }
+      .line { stroke: #64748b; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .dash { stroke: #94a3b8; stroke-width: 4; stroke-dasharray: 10 12; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="2400" fill="url(#bg)"/>
+
+  <g transform="translate(90 70)">
+    <text class="title" x="0" y="72">Cancer: how cells break the body's rules</text>
+    <text class="subtitle" x="4" y="128">A calm, source-backed guide to what cancer is, how it grows, and how risk can be reduced.</text>
+    <rect x="0" y="172" width="1420" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(90 280)">
+    <rect class="card" x="0" y="0" width="420" height="520"/>
+    <text class="section" x="34" y="62">1. Normal cells</text>
+    <text class="body" x="34" y="112">Healthy tissues use layered controls:</text>
+    <g transform="translate(52 160)">
+      <circle cx="112" cy="112" r="94" fill="url(#cellGood)"/>
+      <circle cx="112" cy="112" r="48" fill="#e6fff6" opacity="0.95"/>
+      <path d="M72 112 C88 78, 133 78, 152 112 C132 146, 89 146, 72 112 Z" fill="none" stroke="#126c60" stroke-width="10" stroke-linecap="round"/>
+      <text class="pillText" x="245" y="54">Grow only</text>
+      <text class="pillText" x="245" y="88">when signaled</text>
+      <text class="pillText" x="245" y="152">Repair damage</text>
+      <text class="pillText" x="245" y="216">Die when unsafe</text>
+    </g>
+    <text class="small" x="34" y="435">These controls are written into cell</text>
+    <text class="small" x="34" y="463">instructions and enforced by tissue,</text>
+    <text class="small" x="34" y="491">immune, and repair systems.</text>
+  </g>
+
+  <g transform="translate(590 280)">
+    <rect class="card" x="0" y="0" width="420" height="520"/>
+    <text class="section" x="34" y="62">2. Changes build up</text>
+    <text class="body" x="34" y="112">Cancer can start when control</text>
+    <text class="body" x="34" y="143">instructions are altered.</text>
+    <g transform="translate(52 164)">
+      <circle cx="112" cy="112" r="94" fill="url(#cellRisk)"/>
+      <circle cx="112" cy="112" r="46" fill="#fff6db" opacity="0.96"/>
+      <path d="M70 103 L95 84 L120 132 L148 74" fill="none" stroke="#9a3412" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="pillText" x="245" y="38">Inherited risk</text>
+      <text class="pillText" x="245" y="82">Exposures</text>
+      <text class="pillText" x="245" y="126">Infections</text>
+      <text class="pillText" x="245" y="170">Aging</text>
+      <text class="pillText" x="245" y="214">Copying errors</text>
+    </g>
+    <text class="small" x="34" y="435">"Genetic" does not mean every</text>
+    <text class="small" x="34" y="463">cancer is inherited. Many changes</text>
+    <text class="small" x="34" y="491">arise during life.</text>
+  </g>
+
+  <g transform="translate(1090 280)">
+    <rect class="card" x="0" y="0" width="420" height="520"/>
+    <text class="section" x="34" y="62">3. Cancer behavior</text>
+    <text class="body" x="34" y="112">Abnormal cells may gain abilities</text>
+    <text class="body" x="34" y="143">that help them persist.</text>
+    <g transform="translate(50 168)">
+      <circle cx="102" cy="104" r="74" fill="url(#cellTumor)"/>
+      <circle cx="172" cy="145" r="58" fill="#8b5cf6" opacity="0.9"/>
+      <circle cx="74" cy="181" r="48" fill="#a855f7" opacity="0.9"/>
+      <circle cx="145" cy="75" r="33" fill="#f472b6" opacity="0.86"/>
+      <circle cx="105" cy="105" r="28" fill="#f8e9ff" opacity="0.92"/>
+      <text x="238" y="26" style="font: 700 20px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0;">Divide too much</text>
+      <text x="238" y="70" style="font: 700 20px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0;">Avoid death</text>
+      <text x="238" y="114" style="font: 700 20px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0;">Evade immune control</text>
+      <text x="238" y="158" style="font: 700 20px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0;">Recruit blood vessels</text>
+      <text x="238" y="202" style="font: 700 20px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0;">Invade and spread</text>
+    </g>
+    <text class="small" x="34" y="435">Tumors are ecosystems: cancer cells,</text>
+    <text class="small" x="34" y="463">immune cells, blood vessels, signals,</text>
+    <text class="small" x="34" y="491">and surrounding tissue interact.</text>
+  </g>
+
+  <path class="line" d="M510 540 C548 540, 552 540, 590 540"/>
+  <path class="line" d="M1010 540 C1048 540, 1052 540, 1090 540"/>
+  <path d="M566 524 L594 540 L566 556 Z" fill="#64748b"/>
+  <path d="M1066 524 L1094 540 L1066 556 Z" fill="#64748b"/>
+
+  <g transform="translate(90 875)">
+    <rect class="card" x="0" y="0" width="1420" height="430"/>
+    <text class="section" x="38" y="64">The basic cancer loop</text>
+    <text class="body" x="38" y="112">Cancer progresses when altered cells survive selection, multiply, adapt to pressure, and reshape tissue around them.</text>
+    <g transform="translate(70 165)">
+      <circle cx="70" cy="70" r="62" fill="#dbeafe" stroke="#2563eb" stroke-width="5"/>
+      <text class="label" x="35" y="64">Cell</text>
+      <text class="label" x="24" y="96">change</text>
+      <path class="line" d="M140 70 H310"/>
+      <path d="M286 54 L314 70 L286 86 Z" fill="#64748b"/>
+      <circle cx="390" cy="70" r="62" fill="#fee2e2" stroke="#dc2626" stroke-width="5"/>
+      <text class="label" x="354" y="64">More</text>
+      <text class="label" x="346" y="96">growth</text>
+      <path class="line" d="M460 70 H630"/>
+      <path d="M606 54 L634 70 L606 86 Z" fill="#64748b"/>
+      <circle cx="710" cy="70" r="62" fill="#fef3c7" stroke="#d97706" stroke-width="5"/>
+      <text class="label" x="671" y="64">Stress</text>
+      <text class="label" x="672" y="96">escape</text>
+      <path class="line" d="M780 70 H950"/>
+      <path d="M926 54 L954 70 L926 86 Z" fill="#64748b"/>
+      <circle cx="1030" cy="70" r="62" fill="#ede9fe" stroke="#7c3aed" stroke-width="5"/>
+      <text class="label" x="994" y="64">Tumor</text>
+      <text class="label" x="973" y="96">ecosystem</text>
+    </g>
+    <text class="small" x="78" y="322">A useful "root source" view is not one magic trigger. It is the failure of normal cell-control systems</text>
+    <text class="small" x="78" y="351">across genes, tissue, immunity, metabolism, environment, aging, and access to prevention.</text>
+    <text class="small" x="78" y="380">That is why cancer eradication needs prevention, early detection, biology, and treatment research together.</text>
+  </g>
+
+  <g transform="translate(90 1380)">
+    <text class="section" x="0" y="0">Risk reduction: lower the odds, do not promise zero risk</text>
+    <text class="body" x="0" y="44">Evidence-backed actions can reduce risk for many cancers. They are levers, not guarantees.</text>
+
+    <g transform="translate(0 95)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#fee2e2"/>
+      <path d="M39 72 L69 42 M39 42 L69 72" stroke="#dc2626" stroke-width="8" stroke-linecap="round"/>
+      <text class="label" x="98" y="55">No tobacco</text>
+      <text class="small" x="30" y="115">Avoid smoking and secondhand</text>
+      <text class="small" x="30" y="143">smoke; support quitting.</text>
+    </g>
+
+    <g transform="translate(365 95)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#ffedd5"/>
+      <path d="M47 34 H61 V82 H47 Z" fill="#ea580c"/>
+      <path d="M40 88 H68" stroke="#ea580c" stroke-width="7" stroke-linecap="round"/>
+      <text class="label" x="98" y="55">Limit alcohol</text>
+      <text class="small" x="30" y="115">Less is safer for cancer risk;</text>
+      <text class="small" x="30" y="143">none avoids alcohol risk.</text>
+    </g>
+
+    <g transform="translate(730 95)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#dcfce7"/>
+      <path d="M42 65 C51 40, 68 42, 72 66" stroke="#16a34a" stroke-width="8" fill="none" stroke-linecap="round"/>
+      <path d="M47 82 H75" stroke="#16a34a" stroke-width="8" stroke-linecap="round"/>
+      <text class="label" x="98" y="55">Move often</text>
+      <text class="small" x="30" y="115">Regular activity helps lower</text>
+      <text class="small" x="30" y="143">risk for several cancers.</text>
+    </g>
+
+    <g transform="translate(1095 95)">
+      <rect x="0" y="0" width="325" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#fef3c7"/>
+      <path d="M39 70 C45 35, 72 35, 77 70 Z" fill="#ca8a04"/>
+      <circle cx="58" cy="52" r="10" fill="#fff7ed"/>
+      <text class="label" x="98" y="55">Healthy pattern</text>
+      <text class="small" x="30" y="115">Favor plants, whole grains,</text>
+      <text class="small" x="30" y="143">and balanced energy intake.</text>
+    </g>
+
+    <g transform="translate(0 315)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#e0f2fe"/>
+      <path d="M54 26 V90 M22 58 H86 M32 36 L76 80 M76 36 L32 80" stroke="#0284c7" stroke-width="7" stroke-linecap="round"/>
+      <text class="label" x="98" y="55">Protect from UV</text>
+      <text class="small" x="30" y="115">Use sun protection; avoid</text>
+      <text class="small" x="30" y="143">indoor tanning.</text>
+    </g>
+
+    <g transform="translate(365 315)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#ede9fe"/>
+      <path d="M34 74 C45 28, 74 28, 84 74 C68 66, 51 66, 34 74 Z" fill="#7c3aed"/>
+      <text class="label" x="98" y="55">Vaccines</text>
+      <text class="small" x="30" y="115">HPV can prevent several cancers;</text>
+      <text class="small" x="30" y="143">hepatitis B helps prevent liver cancer.</text>
+    </g>
+
+    <g transform="translate(730 315)">
+      <rect x="0" y="0" width="330" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#fce7f3"/>
+      <path d="M38 58 H70 M54 42 V74" stroke="#db2777" stroke-width="8" stroke-linecap="round"/>
+      <path d="M81 38 L92 58 L81 78" stroke="#db2777" stroke-width="7" fill="none" stroke-linecap="round"/>
+      <text class="label" x="98" y="55">Screening</text>
+      <text class="small" x="30" y="115">Some tests find cancer early</text>
+      <text class="small" x="30" y="143">or precancerous changes.</text>
+    </g>
+
+    <g transform="translate(1095 315)">
+      <rect x="0" y="0" width="325" height="185" rx="22" fill="#ffffff" stroke="#d8e2ef" stroke-width="2"/>
+      <circle cx="54" cy="58" r="30" fill="#f1f5f9"/>
+      <path d="M36 78 L54 36 L72 78 Z" fill="none" stroke="#475569" stroke-width="8" stroke-linejoin="round"/>
+      <path d="M54 50 V65" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="54" cy="75" r="4" fill="#475569"/>
+      <text class="label" x="98" y="55">Reduce exposures</text>
+      <text class="small" x="30" y="115">Workplace, air, radon, and</text>
+      <text class="small" x="30" y="143">other hazards need policy too.</text>
+    </g>
+  </g>
+
+  <g transform="translate(90 2050)">
+    <rect x="0" y="0" width="1420" height="178" rx="26" fill="#102033"/>
+    <text x="42" y="58" style="font: 800 34px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0;">Important: prevention is not blame</text>
+    <text x="42" y="101" style="font: 400 24px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0;">Some cancers happen despite excellent choices. Age, inherited variants, infections, random cell-division errors,</text>
+    <text x="42" y="134" style="font: 400 24px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0;">environment, income, geography, and access to care all matter. For symptoms, screening, or personal risk,</text>
+    <text x="42" y="167" style="font: 400 24px Arial, Helvetica, sans-serif; fill: #e2e8f0; letter-spacing: 0;">talk with a licensed clinician.</text>
+  </g>
+
+  <g transform="translate(90 2280)">
+    <text class="source" x="0" y="0">Source backbone:</text>
+    <text class="tiny" x="154" y="0">NCI Understanding Cancer; NCI Genetics of Cancer; NCI Cancer Dictionary; CDC Preventing Cancer; CDC Vaccines;</text>
+    <text class="tiny" x="154" y="30">NCI Alcohol and Cancer Risk; NCI Obesity and Cancer; ACS Diet and Physical Activity Guideline; IARC/WHO ECAC5;</text>
+    <text class="tiny" x="154" y="60">Hanahan and Weinberg 2011; Hanahan 2022; Lancet/GBD 2022. Research notes: sources/goal-1-public-cancer-literacy.md</text>
+  </g>
+</svg>
