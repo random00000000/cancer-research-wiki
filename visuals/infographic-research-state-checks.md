@@ -32,6 +32,8 @@ Current tobacco cessation and cancer risk visual: `visuals/tobacco-cessation-can
 
 Current metabolic health, movement, and food pattern visual: `visuals/metabolic-health-cancer-prevention.svg`
 
+Current UV, sun, and indoor tanning prevention visual: `visuals/uv-sun-tanning-cancer-prevention.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -96,6 +98,13 @@ Current localized metabolic health variants:
 - Mandarin Chinese: `visuals/metabolic-health-cancer-prevention.zh.svg`
 - Russian: `visuals/metabolic-health-cancer-prevention.ru.svg`
 
+Current localized UV/sun variants:
+
+- Spanish: `visuals/uv-sun-tanning-cancer-prevention.es.svg`
+- German: `visuals/uv-sun-tanning-cancer-prevention.de.svg`
+- Mandarin Chinese: `visuals/uv-sun-tanning-cancer-prevention.zh.svg`
+- Russian: `visuals/uv-sun-tanning-cancer-prevention.ru.svg`
+
 Current localized relative/absolute risk variants:
 
 - Spanish: `visuals/relative-vs-absolute-risk.es.svg`
@@ -124,11 +133,12 @@ New QA artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
 
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 71 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 76 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -136,6 +146,7 @@ New QA artifacts:
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
+- The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 
 ### Decision For The Flagship Infographic
 
@@ -196,6 +207,34 @@ Keep the flagship infographic's movement, food, and weight line short. Use this 
 ### Translation Impact
 
 Keep localized metabolic-health visuals under native review before promotion. The wording must avoid body shame, eating-disorder triggers, disability erasure, and false promises that any diet, exercise plan, or body size guarantees cancer prevention.
+
+## 2026-06-12 Check: UV Sun And Indoor Tanning Visual
+
+Evidence page:
+
+- `prevention/uv-sun-indoor-tanning-evidence.md`
+
+New visual:
+
+- `visuals/uv-sun-tanning-cancer-prevention.svg`
+- `visuals/uv-sun-tanning-cancer-prevention.es.svg`
+- `visuals/uv-sun-tanning-cancer-prevention.de.svg`
+- `visuals/uv-sun-tanning-cancer-prevention.zh.svg`
+- `visuals/uv-sun-tanning-cancer-prevention.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual explaining UV-related DNA damage, indoor tanning risk, layered protection, child/worker systems protection, and clinician evaluation of suspicious skin changes.
+- The visual is grounded in IARC solar/UV and sunbed hazard classifications, indoor tanning meta-analyses, Nambour sunscreen trials, and UV DNA-damage mechanism reviews.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's UV line short: protect from UV and avoid indoor tanning. Use this companion when readers need the deeper idea that sunscreen is one layer, tanning beds are not safer, and suspicious skin changes need clinical evaluation.
+
+### Translation Impact
+
+Keep localized UV/sun visuals under native review before promotion. The wording must avoid implying that all sun is bad, that sunscreen alone makes prolonged exposure safe, or that skin cancer only affects light skin.
 
 ## 2026-06-12 Check: Population Burden Is Not Personal Blame Visual
 

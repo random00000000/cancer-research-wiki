@@ -19,7 +19,7 @@ Last updated: 2026-06-12
 - Deepen tobacco cessation evidence beyond CDC anchors: nicotine dependence biology, cessation intervention trials, country-specific support access, smokeless tobacco, heated tobacco, vaping, and relapse-safe public wording. Started: `prevention/tobacco-cessation-cancer-evidence.md` and localized visual variants.
 - CDC physical activity and cancer prevention pages.
 - NCI diet, obesity, and alcohol fact sheets.
-- CDC sun safety and indoor tanning materials.
+- Deepen UV, sun, and indoor tanning evidence beyond CDC anchors. Started: `prevention/uv-sun-indoor-tanning-evidence.md` plus localized public visual variants. Next: skin-tone-specific recognition cautions, outdoor worker prevention, UV index/geography, and tanning-bed policy evidence.
 - EPA radon testing and mitigation guidance.
 - Deepen `prevention/environmental-exposure-evidence.md` with environmental justice, diesel exhaust, silica, arsenic, chromium, nickel, cadmium, and beryllium.
 - Deepen `prevention/alcohol-and-cancer-evidence.md` and `prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md` with alcohol absolute denominators, alcohol warning-label communication studies, country-specific attributable burden tables, ADH1B/ALDH2 joint genotype evidence, and culturally safe Japanese/Korean/Mandarin wording.
@@ -49,6 +49,7 @@ Last updated: 2026-06-12
 - Visually QA the alcohol biology and tobacco co-exposure visual and first localized variants: `visuals/alcohol-aldh2-tobacco-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then add Japanese and Korean wording for flushing/ALDH2 only after culturally safe native review.
 - Visually QA the tobacco cessation and cancer risk visual and first localized variants: `visuals/tobacco-cessation-cancer-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen cessation intervention evidence and add more language variants after native review.
 - Visually QA the metabolic health, movement, and food pattern visual and first localized variants: `visuals/metabolic-health-cancer-prevention.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen body-weight, diet-pattern, fiber, processed-meat, and activity evidence before expanding to additional languages.
+- Visually QA the UV, sun, and indoor tanning visual and first localized variants: `visuals/uv-sun-tanning-cancer-prevention.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen skin-tone, outdoor-worker, and UV-index guidance before expanding to additional languages.
 - Visually QA the new site-specific prevention visual and first localized variants: `visuals/site-specific-prevention-levers.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new relative versus absolute risk visual and first localized variants: `visuals/relative-vs-absolute-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new population burden/no-blame visual and first localized variants: `visuals/population-burden-not-blame.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.

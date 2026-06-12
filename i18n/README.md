@@ -152,6 +152,18 @@ This public visual explains movement, food pattern, body fatness, metabolic sign
 | Mandarin Chinese | [metabolic-health-cancer-prevention.zh.svg](../visuals/metabolic-health-cancer-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [metabolic-health-cancer-prevention.ru.svg](../visuals/metabolic-health-cancer-prevention.ru.svg) | First localized SVG; native review needed |
 
+## UV Sun And Indoor Tanning Visual Variants
+
+This public visual explains UV DNA damage, indoor tanning risk, layered sun protection, systems protection for children/workers, and clinical evaluation of suspicious skin changes. These translations should receive native review because sun behavior, tanning culture, skin-tone risk communication, and health-system access vary by region.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [uv-sun-tanning-cancer-prevention.svg](../visuals/uv-sun-tanning-cancer-prevention.svg) | Canonical first-pass SVG |
+| Spanish | [uv-sun-tanning-cancer-prevention.es.svg](../visuals/uv-sun-tanning-cancer-prevention.es.svg) | First localized SVG; native review needed |
+| German | [uv-sun-tanning-cancer-prevention.de.svg](../visuals/uv-sun-tanning-cancer-prevention.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [uv-sun-tanning-cancer-prevention.zh.svg](../visuals/uv-sun-tanning-cancer-prevention.zh.svg) | First localized SVG; native review needed |
+| Russian | [uv-sun-tanning-cancer-prevention.ru.svg](../visuals/uv-sun-tanning-cancer-prevention.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.

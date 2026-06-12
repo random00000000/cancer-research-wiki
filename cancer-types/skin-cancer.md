@@ -5,6 +5,11 @@ Last updated: 2026-06-12
 
 This page supports the public infographic and future agent answers. It is not a personal screening, diagnostic, or treatment plan.
 
+Companion visual:
+
+- `visuals/uv-sun-tanning-cancer-prevention.svg`
+- First localized variants: `visuals/uv-sun-tanning-cancer-prevention.es.svg`, `.de.svg`, `.zh.svg`, `.ru.svg`
+
 ## Plain-Language Summary
 
 Skin cancers are strongly shaped by ultraviolet radiation damage, especially repeated sunburns and indoor tanning. Prevention is not about hiding from life outdoors; it is about reducing intense UV injury with shade, clothing, hats, sunglasses, sunscreen, and avoiding tanning beds. Risk is also shaped by skin type, immune suppression, family history, geography, work, access to shade, and past exposure.

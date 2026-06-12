@@ -80,6 +80,17 @@ Metabolic health, movement, and food pattern visual:
 
 ![Movement, food pattern, and metabolism matter](visuals/metabolic-health-cancer-prevention.svg)
 
+UV, sun, and indoor tanning prevention visual:
+
+![Protect skin from repeated UV injury](visuals/uv-sun-tanning-cancer-prevention.svg)
+
+Localized UV/sun variants:
+
+- [Spanish UV/sun SVG](visuals/uv-sun-tanning-cancer-prevention.es.svg)
+- [German UV/sun SVG](visuals/uv-sun-tanning-cancer-prevention.de.svg)
+- [Mandarin Chinese UV/sun SVG](visuals/uv-sun-tanning-cancer-prevention.zh.svg)
+- [Russian UV/sun SVG](visuals/uv-sun-tanning-cancer-prevention.ru.svg)
+
 Localized metabolic health variants:
 
 - [Spanish metabolic health SVG](visuals/metabolic-health-cancer-prevention.es.svg)
@@ -179,6 +190,7 @@ Research backing:
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Metabolic health, diet pattern, and activity evidence](prevention/metabolic-health-diet-activity-evidence.md)
+- [UV, sun, and indoor tanning evidence](prevention/uv-sun-indoor-tanning-evidence.md)
 - [Tobacco cessation and cancer evidence](prevention/tobacco-cessation-cancer-evidence.md)
 - [Alcohol and cancer evidence](prevention/alcohol-and-cancer-evidence.md)
 - [Alcohol, ALDH2, tobacco, and upper aerodigestive cancer](prevention/alcohol-aldh2-tobacco-upper-aerodigestive-evidence.md)
@@ -206,6 +218,7 @@ Research backing:
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Metabolic health, movement, and food pattern visual](visuals/metabolic-health-cancer-prevention.svg)
+- [UV, sun, and indoor tanning prevention visual](visuals/uv-sun-tanning-cancer-prevention.svg)
 - [Tobacco cessation and cancer risk visual](visuals/tobacco-cessation-cancer-risk.svg)
 - [Alcohol biology and tobacco co-exposure visual](visuals/alcohol-aldh2-tobacco-risk.svg)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)

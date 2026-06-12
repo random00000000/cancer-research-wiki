@@ -81,6 +81,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Metabolic health, movement, and food pattern - German | `metabolic-health-cancer-prevention.de.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Mandarin Chinese | `metabolic-health-cancer-prevention.zh.svg` | First localized SVG; native review needed |
 | Metabolic health, movement, and food pattern - Russian | `metabolic-health-cancer-prevention.ru.svg` | First localized SVG; native review needed |
+| UV, sun, and indoor tanning prevention | `uv-sun-tanning-cancer-prevention.svg` | First-pass English SVG |
+| UV, sun, and indoor tanning prevention - Spanish | `uv-sun-tanning-cancer-prevention.es.svg` | First localized SVG; native review needed |
+| UV, sun, and indoor tanning prevention - German | `uv-sun-tanning-cancer-prevention.de.svg` | First localized SVG; native review needed |
+| UV, sun, and indoor tanning prevention - Mandarin Chinese | `uv-sun-tanning-cancer-prevention.zh.svg` | First localized SVG; native review needed |
+| UV, sun, and indoor tanning prevention - Russian | `uv-sun-tanning-cancer-prevention.ru.svg` | First localized SVG; native review needed |
 | Alcohol biology and tobacco co-exposure | `alcohol-aldh2-tobacco-risk.svg` | First-pass English SVG |
 | Alcohol biology and tobacco co-exposure - Spanish | `alcohol-aldh2-tobacco-risk.es.svg` | First localized SVG; native review needed |
 | Alcohol biology and tobacco co-exposure - German | `alcohol-aldh2-tobacco-risk.de.svg` | First localized SVG; native review needed |
