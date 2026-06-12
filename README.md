@@ -30,6 +30,7 @@ Current first-pass infographic:
 Research backing:
 
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
+- [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
