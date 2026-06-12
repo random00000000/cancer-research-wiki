@@ -260,6 +260,18 @@ This public visual explains night work as a system exposure, not a personal fail
 | Mandarin Chinese | [night-shift-worker-protection-cancer.zh.svg](../visuals/night-shift-worker-protection-cancer.zh.svg) | First localized SVG; native review needed |
 | Russian | [night-shift-worker-protection-cancer.ru.svg](../visuals/night-shift-worker-protection-cancer.ru.svg) | First localized SVG; native review needed |
 
+## Night Shift Drowsy-Driving Safety Visual Variants
+
+This public safety visual explains that the commute after a night shift can be part of the exposure. It focuses on microsleep risk, no-drive plans, protected naps, rideshare or pickup support, nearby rest spaces, and non-punitive fatigue reporting. These translations need native review because driving norms, labor protections, transport access, and emergency advice vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [night-shift-drowsy-driving-safety.svg](../visuals/night-shift-drowsy-driving-safety.svg) | Canonical first-pass SVG |
+| Spanish | [night-shift-drowsy-driving-safety.es.svg](../visuals/night-shift-drowsy-driving-safety.es.svg) | First localized SVG; native review needed |
+| German | [night-shift-drowsy-driving-safety.de.svg](../visuals/night-shift-drowsy-driving-safety.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [night-shift-drowsy-driving-safety.zh.svg](../visuals/night-shift-drowsy-driving-safety.zh.svg) | First localized SVG; native review needed |
+| Russian | [night-shift-drowsy-driving-safety.ru.svg](../visuals/night-shift-drowsy-driving-safety.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

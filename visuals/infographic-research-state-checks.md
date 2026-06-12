@@ -55,6 +55,8 @@ Current circadian rhythm, sleep, and light-at-night visual: `visuals/circadian-s
 
 Current night shift worker protection visual: `visuals/night-shift-worker-protection-cancer.svg`
 
+Current night shift drowsy-driving safety visual: `visuals/night-shift-drowsy-driving-safety.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -175,6 +177,13 @@ Current localized night-shift worker protection variants:
 - German: `visuals/night-shift-worker-protection-cancer.de.svg`
 - Mandarin Chinese: `visuals/night-shift-worker-protection-cancer.zh.svg`
 - Russian: `visuals/night-shift-worker-protection-cancer.ru.svg`
+
+Current localized night-shift drowsy-driving safety variants:
+
+- Spanish: `visuals/night-shift-drowsy-driving-safety.es.svg`
+- German: `visuals/night-shift-drowsy-driving-safety.de.svg`
+- Mandarin Chinese: `visuals/night-shift-drowsy-driving-safety.zh.svg`
+- Russian: `visuals/night-shift-drowsy-driving-safety.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -1078,3 +1087,37 @@ Instead:
 ### Translation Impact
 
 First-pass night-shift worker protection visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because labor law, scheduling culture, pregnancy accommodations, commuting safety, and occupational-health wording vary by country.
+
+## 2026-06-12 Check: Night Shift Drowsy Driving And Injury Safety
+
+New evidence page:
+
+- `prevention/night-shift-drowsy-driving-injury-safety.md`
+
+New visual:
+
+- `visuals/night-shift-drowsy-driving-safety.svg`
+- `visuals/night-shift-drowsy-driving-safety.es.svg`
+- `visuals/night-shift-drowsy-driving-safety.de.svg`
+- `visuals/night-shift-drowsy-driving-safety.zh.svg`
+- `visuals/night-shift-drowsy-driving-safety.ru.svg`
+
+### What Changed
+
+- The wiki now treats the commute after a night shift as part of the occupational exposure, not an afterthought.
+- The page uses real-vehicle night-shift driving evidence, nurse driving-simulation evidence, shiftwork injury reviews, and occupational safety training.
+- The visual gives one direct safety message: plan a no-drive option before dangerous sleepiness appears, because microsleeps cannot be reliably willpowered away.
+
+### Decision For The Flagship Infographic
+
+Do not add drowsy-driving content to the flagship cancer-literacy image. It is too specific for the main cancer explainer and belongs as a safety companion to the night-work pages.
+
+Instead:
+
+- Use `visuals/night-shift-drowsy-driving-safety.svg` for readers asking about night-shift commutes, dangerous sleepiness, nurses, emergency work, factory work, warehouse shifts, or fatigue countermeasures.
+- Keep the flagship phrase broad: "protect sleep and safer work schedules where life allows."
+- Keep the safety hierarchy clear: reduce unnecessary night work, design safer schedules, then plan transport before fatigue peaks.
+
+### Translation Impact
+
+First-pass drowsy-driving safety visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because transport options, labor protections, fatigue-reporting norms, and emergency driving advice vary by country.

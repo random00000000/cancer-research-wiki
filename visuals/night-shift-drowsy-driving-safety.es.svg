@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Volver a casa es parte de la seguridad del turno nocturno</title>
+  <desc id="desc">Infografia publica sobre conduccion con sueno despues de turnos nocturnos, planes para no conducir, siestas protegidas y apoyo del empleador.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800" fill="#102033">Volver a casa es parte de la seguridad del turno nocturno</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">La somnolencia peligrosa necesita un plan antes de empezar el viaje.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e3f3ee" stroke="#14745d" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#14745d"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Detecta peligro</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Desviarse de carril, cabecear,</text>
+  <text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">pasar salidas u ojos pesados</text>
+  <text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">significa dejar de conducir.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text>
+  <text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Los microsuenos no se vencen</text>
+  <text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">con fuerza de voluntad.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff0d6" stroke="#b56512" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b56512"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Plan sin conducir</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Organiza transporte, taxi,</text>
+  <text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">recogida, descanso cercano</text>
+  <text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">o salida mas tarde.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text>
+  <text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Haz el plan de respaldo</text>
+  <text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">antes del turno.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#e9ecff" stroke="#4b57b8" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#4b57b8"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Sistema, no heroismo</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Se necesitan espacios de siesta,</text>
+  <text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">fondos de traslado, reporte</text>
+  <text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">de fatiga y personal.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text>
+  <text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">La seguridad no debe depender</text>
+  <text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">de aguantar.</text>
+  <rect x="92" y="655" width="625" height="170" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">No lo fuerces</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Ventanas abiertas, musica fuerte, llamadas</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">o pellizcos no protegen de conducir</text>
+  <text x="130" y="808" font-family="Arial" font-size="23" fill="#f8fafc">con falta de sueno.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#fbeeb8" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Limite de seguridad</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Somnolencia grave, casi choques, apnea,</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">insomnio grave, medicinas sedantes o</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">embarazo requieren apoyo clinico</text>
+  <text x="814" y="838" font-family="Arial" font-size="23" fill="#111827">u ocupacional.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Anclas: estudio real de conduccion tras turno nocturno; simulacion en enfermeria; revisiones de lesiones.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Esto es prevencion inmediata de lesiones dentro del mapa de trabajo nocturno y salud circadiana.</text>
+</svg>

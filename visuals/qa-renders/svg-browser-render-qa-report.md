@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 131
-Nonblank renders: 131
+SVG files rendered: 136
+Nonblank renders: 136
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -21,6 +21,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-10.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-11.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-12.png`
 
 ## Limits
 
@@ -107,6 +108,11 @@ Blank or near-blank renders: 0
 | `metabolic-health-cancer-prevention.ru.svg` | 1500x980 | True | 38.78 |
 | `metabolic-health-cancer-prevention.svg` | 1500x980 | True | 38.71 |
 | `metabolic-health-cancer-prevention.zh.svg` | 1500x980 | True | 36.64 |
+| `night-shift-drowsy-driving-safety.de.svg` | 1500x980 | True | 37.20 |
+| `night-shift-drowsy-driving-safety.es.svg` | 1500x980 | True | 36.62 |
+| `night-shift-drowsy-driving-safety.ru.svg` | 1500x980 | True | 36.86 |
+| `night-shift-drowsy-driving-safety.svg` | 1500x980 | True | 36.28 |
+| `night-shift-drowsy-driving-safety.zh.svg` | 1500x980 | True | 35.49 |
 | `night-shift-worker-protection-cancer.de.svg` | 1500x980 | True | 36.85 |
 | `night-shift-worker-protection-cancer.es.svg` | 1500x980 | True | 36.21 |
 | `night-shift-worker-protection-cancer.ru.svg` | 1500x980 | True | 36.24 |

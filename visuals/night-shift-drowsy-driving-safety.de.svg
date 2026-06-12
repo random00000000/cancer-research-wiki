@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Der Heimweg gehort zur Sicherheit der Nachtschicht</title>
+  <desc id="desc">Offentliche Infografik zu mudem Fahren nach Nachtschichten, Nicht-fahren-Planen, geschutzten Nickerchen und Arbeitgeber-Unterstutzung.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="41" font-weight="800" fill="#102033">Der Heimweg gehort zur Sicherheit der Nachtschicht</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Gefahrliche Mudigkeit braucht einen Plan, bevor die Fahrt beginnt.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e3f3ee" stroke="#14745d" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#14745d"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Gefahr erkennen</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Spurdrift, Einnicken,</text>
+  <text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">verpasste Ausfahrten oder</text>
+  <text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">schwere Augen: anhalten.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Offentliche Richtung</text>
+  <text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Sekundenschlaf lasst sich</text>
+  <text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">nicht wegzwingen.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff0d6" stroke="#b56512" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b56512"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Nicht-fahren planen</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Mitnahme, Taxi, Verkehr,</text>
+  <text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">Abholung, naher Schlafplatz</text>
+  <text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">oder spater losfahren.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Offentliche Richtung</text>
+  <text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Den Ersatzplan vor der</text>
+  <text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">Schicht machen.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#e9ecff" stroke="#4b57b8" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#4b57b8"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">System, nicht Heldentum</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Notig sind Schlafraume,</text>
+  <text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">Fahrtfonds, Meldung von</text>
+  <text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">Mudigkeit und Personal.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Offentliche Richtung</text>
+  <text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Sicherheit darf nicht an</text>
+  <text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">Durchhalten hangen.</text>
+  <rect x="92" y="655" width="625" height="170" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">Nicht durchdruecken</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Fenster, laute Musik, Telefonate</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">oder Kneifen schutzen nicht</text>
+  <text x="130" y="808" font-family="Arial" font-size="23" fill="#f8fafc">zuverlassig vor Schlafmangel.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#fbeeb8" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Sicherheitsgrenze</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Schwere Mudigkeit, Beinahe-Unfalle,</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">Schlafapnoe, schwere Insomnie,</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">sedierende Mittel oder Schwangerschaft</text>
+  <text x="814" y="838" font-family="Arial" font-size="23" fill="#111827">brauchen klinische oder arbeitsmed. Hilfe.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Evidenzanker: Realfahrstudie; Pflegesimulation; Reviews zu Schichtarbeit und Verletzungen.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Dies ist unmittelbare Verletzungspravention im Kontext von Nachtarbeit und circadianer Gesundheit.</text>
+</svg>
