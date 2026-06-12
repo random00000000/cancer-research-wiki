@@ -80,6 +80,18 @@ This public safety visual helps readers test cancer prevention, treatment, and s
 | Mandarin Chinese | [cancer-claim-filter.zh.svg](../visuals/cancer-claim-filter.zh.svg) | First localized SVG; native review needed |
 | Russian | [cancer-claim-filter.ru.svg](../visuals/cancer-claim-filter.ru.svg) | First localized SVG; native review needed |
 
+## Symptom Action And Early Diagnosis Visual Variants
+
+This public visual explains that prevention images cannot diagnose symptoms, persistent body changes deserve care, and follow-up matters if symptoms continue. These translations should receive native review because symptom wording, urgent-care pathways, and barriers to care vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [cancer-symptom-action.svg](../visuals/cancer-symptom-action.svg) | Canonical first-pass SVG |
+| Spanish | [cancer-symptom-action.es.svg](../visuals/cancer-symptom-action.es.svg) | First localized SVG; native review needed |
+| German | [cancer-symptom-action.de.svg](../visuals/cancer-symptom-action.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [cancer-symptom-action.zh.svg](../visuals/cancer-symptom-action.zh.svg) | First localized SVG; native review needed |
+| Russian | [cancer-symptom-action.ru.svg](../visuals/cancer-symptom-action.ru.svg) | First localized SVG; native review needed |
+
 ## Screening And Vaccination Decision Visual Variants
 
 This public safety visual explains why symptoms, risk, screening, vaccination, benefits, harms, and follow-up must be kept separate.

@@ -11,12 +11,21 @@ Current translated support: `i18n/INFOGRAPHIC_CAPTIONS.md`
 
 Current safety add-on visual: `visuals/cancer-claim-filter.svg`
 
+Current symptom action and early diagnosis visual: `visuals/cancer-symptom-action.svg`
+
 Current localized claim-filter variants:
 
 - Spanish: `visuals/cancer-claim-filter.es.svg`
 - German: `visuals/cancer-claim-filter.de.svg`
 - Mandarin Chinese: `visuals/cancer-claim-filter.zh.svg`
 - Russian: `visuals/cancer-claim-filter.ru.svg`
+
+Current localized symptom action variants:
+
+- Spanish: `visuals/cancer-symptom-action.es.svg`
+- German: `visuals/cancer-symptom-action.de.svg`
+- Mandarin Chinese: `visuals/cancer-symptom-action.zh.svg`
+- Russian: `visuals/cancer-symptom-action.ru.svg`
 
 Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
@@ -949,3 +958,37 @@ Instead:
 ### Translation Impact
 
 First-pass screening benefit-harm visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because screening names, program eligibility, and follow-up systems vary by country.
+
+## 2026-06-12 Check: Symptom Action And Early Diagnosis
+
+New evidence page:
+
+- `prevention/cancer-symptom-action-evidence.md`
+
+New visual:
+
+- `visuals/cancer-symptom-action.svg`
+- `visuals/cancer-symptom-action.es.svg`
+- `visuals/cancer-symptom-action.de.svg`
+- `visuals/cancer-symptom-action.zh.svg`
+- `visuals/cancer-symptom-action.ru.svg`
+
+### What Changed
+
+- The wiki now has a dedicated public safety page for symptoms, early diagnosis, and follow-up instead of scattering symptom boundaries across risk-factor pages only.
+- The page uses symptom-signature reviews, primary-care predictive-value studies, help-seeking research, and delay meta-analyses rather than relying on generic agency warning-sign lists.
+- The visual tells readers to notice persistent changes, seek evaluation, and follow up without implying that symptom lists can diagnose cancer.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's existing safety line about symptoms, screening, and personal risk. Do not add a long symptom list to the flagship; it would be too dense and could create panic or false reassurance.
+
+Instead:
+
+- Use `visuals/cancer-symptom-action.svg` as the focused public add-on for symptom questions.
+- Future flagship versions can add a short cue: "Symptoms are not screening; persistent changes deserve care."
+- Site-specific symptom details should live in cancer-type pages, not the main infographic.
+
+### Translation Impact
+
+First-pass symptom action visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because urgent-care wording, symptom idioms, stigma, and access barriers vary by country.

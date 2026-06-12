@@ -41,6 +41,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Cancer claim filter - German | `cancer-claim-filter.de.svg` | First localized SVG; native review needed |
 | Cancer claim filter - Mandarin Chinese | `cancer-claim-filter.zh.svg` | First localized SVG; native review needed |
 | Cancer claim filter - Russian | `cancer-claim-filter.ru.svg` | First localized SVG; native review needed |
+| Symptom action and early diagnosis | `cancer-symptom-action.svg` | First-pass English SVG |
+| Symptom action and early diagnosis - Spanish | `cancer-symptom-action.es.svg` | First localized SVG; native review needed |
+| Symptom action and early diagnosis - German | `cancer-symptom-action.de.svg` | First localized SVG; native review needed |
+| Symptom action and early diagnosis - Mandarin Chinese | `cancer-symptom-action.zh.svg` | First localized SVG; native review needed |
+| Symptom action and early diagnosis - Russian | `cancer-symptom-action.ru.svg` | First localized SVG; native review needed |
 | Screening and vaccination decision guide | `screening-vaccination-decision.svg` | First-pass English SVG |
 | Screening benefit-harm balance | `screening-benefit-harm-balance.svg` | First-pass English SVG |
 | Screening benefit-harm balance - Spanish | `screening-benefit-harm-balance.es.svg` | First localized SVG; native review needed |

@@ -11,6 +11,11 @@ Companion balance page and visual:
 - `visuals/screening-benefit-harm-balance.svg`
 - First localized variants: `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`
 
+Companion symptom-action page and visual:
+
+- `prevention/cancer-symptom-action-evidence.md`
+- `visuals/cancer-symptom-action.svg`
+
 ## Plain-Language Summary
 
 Cancer screening is useful when the benefits outweigh the harms for a defined group. It is not automatically good for every person, every age, every risk level, or every test. The same test can be life-saving for one group and mostly harmful for another. Good public messaging should say "recommended screening" and make room for false positives, false negatives, overdiagnosis, overtreatment, radiation exposure, procedure harms, anxiety, cost, and unequal access to follow-up.

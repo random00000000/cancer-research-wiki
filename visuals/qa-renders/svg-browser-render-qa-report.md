@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 116
-Nonblank renders: 116
+SVG files rendered: 121
+Nonblank renders: 121
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -20,6 +20,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-10.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-11.png`
 
 ## Limits
 
@@ -71,6 +72,11 @@ Blank or near-blank renders: 0
 | `cancer-literacy-infographic.tr.svg` | 1200x1700 | True | 29.63 |
 | `cancer-literacy-infographic.vi.svg` | 1200x1700 | True | 29.31 |
 | `cancer-literacy-infographic.zh.svg` | 1200x1700 | True | 30.16 |
+| `cancer-symptom-action.de.svg` | 1500x980 | True | 38.28 |
+| `cancer-symptom-action.es.svg` | 1500x980 | True | 37.48 |
+| `cancer-symptom-action.ru.svg` | 1500x980 | True | 38.06 |
+| `cancer-symptom-action.svg` | 1500x980 | True | 37.45 |
+| `cancer-symptom-action.zh.svg` | 1500x980 | True | 36.44 |
 | `colorectal-food-pattern-prevention.de.svg` | 1500x980 | True | 39.01 |
 | `colorectal-food-pattern-prevention.es.svg` | 1500x980 | True | 38.38 |
 | `colorectal-food-pattern-prevention.ru.svg` | 1500x980 | True | 38.70 |

@@ -14,6 +14,7 @@ Cancer screening means checking for cancer, or for abnormal cells that may becom
 - Screening is cancer-specific. There is no single universal cancer screening test for everyone.
 - The right screening depends on age, anatomy, personal history, family history, inherited risk, exposures, symptoms, and local guidelines.
 - Symptoms are not a screening situation. New, persistent, or concerning symptoms deserve medical evaluation.
+- Symptom action and early-diagnosis evidence is tracked in `prevention/cancer-symptom-action-evidence.md`.
 - Screening decisions should weigh benefits and harms.
 - Access matters: public-health systems should reduce barriers to evidence-backed screening.
 - Detailed harm anchors are tracked in `prevention/screening-harms-and-tradeoffs.md`.

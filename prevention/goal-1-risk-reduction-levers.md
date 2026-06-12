@@ -170,7 +170,7 @@ Use:
 - "Lower risk" rather than "prevent cancer" for broad lifestyle guidance.
 - "Recommended screening" rather than "get screened" without context.
 - "Where possible" for weight, diet, activity, and exposure reduction.
-- "Talk with a clinician" for personal risk, symptoms, screening, vaccination decisions, or medical history.
+- "Talk with a clinician" for personal risk, symptoms, screening, vaccination decisions, or medical history. Use `prevention/cancer-symptom-action-evidence.md` when the question is about new, persistent, worsening, bleeding, or unexplained symptoms.
 
 Avoid:
 
