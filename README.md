@@ -33,6 +33,7 @@ Research backing:
 - [Claim evaluation framework](sources/claim-evaluation-framework.md)
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
+- [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Lifestyle and burden evidence](prevention/lifestyle-and-burden-evidence.md)
 - [Infection-related cancer prevention](prevention/infection-related-cancer-prevention.md)
 - [Misleading prevention claims](prevention/misleading-prevention-claims.md)
