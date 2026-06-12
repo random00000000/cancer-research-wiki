@@ -11,6 +11,8 @@ Last updated: 2026-06-12
 
 ## Prevention Levers
 
+- Compare WCRF/AICR, ACS, Cancer Research UK, IARC, and major cohort/meta-analysis evidence for each prevention lever.
+- Add effect-size tables for high-confidence levers without implying individual determinism.
 - CDC tobacco cessation and quitline resources.
 - CDC physical activity and cancer prevention pages.
 - NCI diet, obesity, and alcohol fact sheets.
@@ -19,12 +21,10 @@ Last updated: 2026-06-12
 
 ## Infection-Related Cancer
 
-- CDC HPV and cancer.
-- CDC HPV vaccination.
-- CDC hepatitis B vaccination and testing guidance.
-- NCI infectious agents overview.
-- NCI H. pylori fact sheet.
-- WHO/IARC infection-related cancer chapters.
+- Deepen `prevention/infection-related-cancer-prevention.md` with H. pylori screen-and-treat strategy by region.
+- Add hepatitis B vaccination and hepatitis C treatment evidence from peer-reviewed population studies.
+- Add HPV vaccine real-world effectiveness by country and year.
+- Add infection-related cancer burden by income region.
 
 ## Mechanism Explainers
 

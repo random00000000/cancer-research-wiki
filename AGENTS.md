@@ -76,6 +76,18 @@ Prioritize sources in roughly this order:
 
 Never treat a single study as settled truth. Track retractions, corrections, conflicts of interest, sample size, endpoint choice, effect size, population limits, and whether conclusions are stronger than the data.
 
+## Research Independence
+
+Official sources such as CDC, NCI, NIH, FDA, WHO, and IARC are useful anchors, but they are not the whole research universe and must not become the only voice of this wiki. Agents should actively work outside any single institution's sphere of influence by triangulating official summaries against peer-reviewed papers, independent research organizations, systematic reviews, major cohort studies, randomized trials, mechanistic biology, global burden analyses, and credible dissent or uncertainty.
+
+For important claims, prefer a source mix:
+
+- A readable public or clinical anchor.
+- A peer-reviewed research source.
+- A source that exposes uncertainty, limitations, effect size, or controversy.
+
+Evidence is the authority, not institutional branding. Be rigorous rather than conspiratorial: use official sources when they are strong, but do not outsource judgment to them.
+
 ## Web Crawling Mandate
 
 Early project growth will be driven mostly by automated web crawling and literature triage.
