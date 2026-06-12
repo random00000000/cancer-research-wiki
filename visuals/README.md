@@ -61,6 +61,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Screening and vaccination decision guide - German | `screening-vaccination-decision.de.svg` | First localized SVG |
 | Screening and vaccination decision guide - Mandarin Chinese | `screening-vaccination-decision.zh.svg` | First localized SVG |
 | Screening and vaccination decision guide - Russian | `screening-vaccination-decision.ru.svg` | First localized SVG |
+| Infection-related cancer prevention | `infection-prevention-cancer.svg` | First-pass English SVG |
+| Infection-related cancer prevention - Spanish | `infection-prevention-cancer.es.svg` | First localized SVG; native review needed |
+| Infection-related cancer prevention - German | `infection-prevention-cancer.de.svg` | First localized SVG; native review needed |
+| Infection-related cancer prevention - Mandarin Chinese | `infection-prevention-cancer.zh.svg` | First localized SVG; native review needed |
+| Infection-related cancer prevention - Russian | `infection-prevention-cancer.ru.svg` | First localized SVG; native review needed |
 
 ## Companion Mechanism Visuals
 

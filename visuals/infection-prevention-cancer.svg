@@ -1,0 +1,60 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Infections can be cancer prevention targets</title>
+  <desc id="desc">A public infographic explaining that cancer is not contagious, but some persistent infections can raise cancer risk and can be prevented, detected, or treated.</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#102033">Some Infections Can Become Cancer Risks</text>
+  <text x="94" y="158" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#46515f">Cancer is not contagious like a cold, but persistent infection can push cells through chronic damage,</text>
+  <text x="94" y="190" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#46515f">inflammation, or viral genes.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="215" width="400" height="390" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="156" cy="285" r="42" fill="#1b5d66"/>
+    <text x="156" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="220" y="278" font-size="31" font-weight="700" fill="#102033">HPV</text>
+    <text x="220" y="313" font-size="21" fill="#46515f">Human papillomavirus</text>
+    <text x="122" y="372" font-size="25" font-weight="700" fill="#102033">Cancer link</text>
+    <text x="122" y="408" font-size="21" fill="#46515f">Cervical cancer and some</text>
+    <text x="122" y="436" font-size="21" fill="#46515f">anal, throat, vulvar, vaginal,</text>
+    <text x="122" y="464" font-size="21" fill="#46515f">and penile cancers.</text>
+    <text x="122" y="514" font-size="25" font-weight="700" fill="#102033">Prevention lever</text>
+    <text x="122" y="548" font-size="21" fill="#46515f">Vaccinate early; keep screening</text>
+    <text x="122" y="576" font-size="21" fill="#46515f">and follow-up accessible.</text>
+    <rect x="550" y="215" width="400" height="390" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="614" cy="285" r="42" fill="#a26119"/>
+    <text x="614" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="678" y="278" font-size="31" font-weight="700" fill="#102033">HBV and HCV</text>
+    <text x="678" y="313" font-size="21" fill="#46515f">Hepatitis B and C</text>
+    <text x="580" y="372" font-size="25" font-weight="700" fill="#102033">Cancer link</text>
+    <text x="580" y="408" font-size="21" fill="#46515f">Long-term liver infection can</text>
+    <text x="580" y="436" font-size="21" fill="#46515f">lead to cirrhosis and liver</text>
+    <text x="580" y="464" font-size="21" fill="#46515f">cancer risk.</text>
+    <text x="580" y="514" font-size="25" font-weight="700" fill="#102033">Prevention lever</text>
+    <text x="580" y="548" font-size="21" fill="#46515f">HBV vaccine, safer blood and</text>
+    <text x="580" y="576" font-size="21" fill="#46515f">injections, HCV testing and cure.</text>
+    <rect x="1008" y="215" width="400" height="390" rx="18" fill="#e9ecff" stroke="#3e4d9a" stroke-width="3"/>
+    <circle cx="1072" cy="285" r="42" fill="#3e4d9a"/>
+    <text x="1072" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="1136" y="278" font-size="31" font-weight="700" fill="#102033">H. pylori</text>
+    <text x="1136" y="313" font-size="21" fill="#46515f">Stomach bacterium</text>
+    <text x="1038" y="372" font-size="25" font-weight="700" fill="#102033">Cancer link</text>
+    <text x="1038" y="408" font-size="21" fill="#46515f">Persistent infection can inflame</text>
+    <text x="1038" y="436" font-size="21" fill="#46515f">the stomach lining and raise</text>
+    <text x="1038" y="464" font-size="21" fill="#46515f">gastric cancer risk.</text>
+    <text x="1038" y="514" font-size="25" font-weight="700" fill="#102033">Prevention lever</text>
+    <text x="1038" y="548" font-size="21" fill="#46515f">Test and treat where evidence,</text>
+    <text x="1038" y="576" font-size="21" fill="#46515f">risk, and resistance patterns fit.</text>
+  </g>
+  <rect x="92" y="640" width="625" height="172" rx="18" fill="#102033"/>
+  <text x="130" y="690" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Public meaning</text>
+  <text x="130" y="734" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">Prevention is not just lifestyle. Vaccines, testing,</text>
+  <text x="130" y="766" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">treatment, sanitation, and follow-up access can block</text>
+  <text x="130" y="798" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">some pathways before cancer starts.</text>
+  <rect x="775" y="640" width="633" height="172" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="690" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#102033">Safety boundary</text>
+  <text x="813" y="734" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">Use local vaccine, screening, and treatment guidance.</text>
+  <text x="813" y="766" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">Symptoms, test results, liver disease, or stomach disease</text>
+  <text x="813" y="798" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">belong with a clinician.</text>
+  <text x="92" y="862" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#46515f">Evidence anchors: de Martel/Lancet Glob Health 2020; Lei/NEJM 2020; England HPV programme impact;</text>
+  <text x="92" y="890" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#46515f">Taiwan HBV programme; HCV cure cohorts; H. pylori eradication meta-analyses.</text>
+  <text x="92" y="922" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b7280">Risk reduction is not a guarantee. Access, timing, strain, host biology, screening follow-up, and health-system quality change outcomes.</text>
+</svg>

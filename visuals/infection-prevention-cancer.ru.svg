@@ -1,0 +1,60 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Инфекции могут быть целями профилактики рака</title>
+  <desc id="desc">Общественная инфографика: рак не заразен как простуда, но некоторые стойкие инфекции повышают риск рака и могут предотвращаться, выявляться или лечиться.</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#102033">Некоторые инфекции могут стать рисками рака</text>
+  <text x="94" y="158" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#46515f">Рак не заразен как простуда, но стойкая инфекция может менять ткани через воспаление,</text>
+  <text x="94" y="190" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#46515f">повреждение или вирусные гены.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="215" width="400" height="390" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="156" cy="285" r="42" fill="#1b5d66"/>
+    <text x="156" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="220" y="278" font-size="31" font-weight="700" fill="#102033">ВПЧ</text>
+    <text x="220" y="313" font-size="21" fill="#46515f">Вирус папилломы человека</text>
+    <text x="122" y="372" font-size="25" font-weight="700" fill="#102033">Связь с раком</text>
+    <text x="122" y="408" font-size="21" fill="#46515f">Рак шейки матки и часть</text>
+    <text x="122" y="436" font-size="21" fill="#46515f">анального, горлового,</text>
+    <text x="122" y="464" font-size="21" fill="#46515f">вульварного и других раков.</text>
+    <text x="122" y="514" font-size="25" font-weight="700" fill="#102033">Профилактика</text>
+    <text x="122" y="548" font-size="21" fill="#46515f">Ранняя вакцинация; доступный</text>
+    <text x="122" y="576" font-size="21" fill="#46515f">скрининг и наблюдение.</text>
+    <rect x="550" y="215" width="400" height="390" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="614" cy="285" r="42" fill="#a26119"/>
+    <text x="614" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="678" y="278" font-size="31" font-weight="700" fill="#102033">HBV и HCV</text>
+    <text x="678" y="313" font-size="21" fill="#46515f">Гепатит B и C</text>
+    <text x="580" y="372" font-size="25" font-weight="700" fill="#102033">Связь с раком</text>
+    <text x="580" y="408" font-size="21" fill="#46515f">Долгая инфекция печени</text>
+    <text x="580" y="436" font-size="21" fill="#46515f">может вести к циррозу</text>
+    <text x="580" y="464" font-size="21" fill="#46515f">и риску рака печени.</text>
+    <text x="580" y="514" font-size="25" font-weight="700" fill="#102033">Профилактика</text>
+    <text x="580" y="548" font-size="21" fill="#46515f">Вакцина HBV, безопасная кровь</text>
+    <text x="580" y="576" font-size="21" fill="#46515f">и инъекции, тест и лечение HCV.</text>
+    <rect x="1008" y="215" width="400" height="390" rx="18" fill="#e9ecff" stroke="#3e4d9a" stroke-width="3"/>
+    <circle cx="1072" cy="285" r="42" fill="#3e4d9a"/>
+    <text x="1072" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="1136" y="278" font-size="31" font-weight="700" fill="#102033">H. pylori</text>
+    <text x="1136" y="313" font-size="21" fill="#46515f">Бактерия желудка</text>
+    <text x="1038" y="372" font-size="25" font-weight="700" fill="#102033">Связь с раком</text>
+    <text x="1038" y="408" font-size="21" fill="#46515f">Стойкая инфекция может</text>
+    <text x="1038" y="436" font-size="21" fill="#46515f">воспалять слизистую желудка</text>
+    <text x="1038" y="464" font-size="21" fill="#46515f">и повышать риск рака.</text>
+    <text x="1038" y="514" font-size="25" font-weight="700" fill="#102033">Профилактика</text>
+    <text x="1038" y="548" font-size="21" fill="#46515f">Тестировать и лечить, когда</text>
+    <text x="1038" y="576" font-size="21" fill="#46515f">подходят риск и данные.</text>
+  </g>
+  <rect x="92" y="640" width="625" height="172" rx="18" fill="#102033"/>
+  <text x="130" y="690" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Публичный смысл</text>
+  <text x="130" y="734" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">Профилактика — не только образ жизни. Вакцины,</text>
+  <text x="130" y="766" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">тесты, лечение, санитария и доступ к наблюдению</text>
+  <text x="130" y="798" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9e4ef">могут блокировать часть путей до рака.</text>
+  <rect x="775" y="640" width="633" height="172" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="690" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#102033">Граница безопасности</text>
+  <text x="813" y="734" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">Следуйте местным правилам вакцинации, скрининга</text>
+  <text x="813" y="766" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">и лечения. Симптомы, тесты, болезни печени или</text>
+  <text x="813" y="798" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#102033">желудка требуют клинической помощи.</text>
+  <text x="92" y="862" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#46515f">Источники: de Martel/Lancet Glob Health 2020; Lei/NEJM 2020; программа ВПЧ Англии;</text>
+  <text x="92" y="890" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#46515f">HBV Тайвань; когорты HCV; метаанализы H. pylori.</text>
+  <text x="92" y="922" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b7280">Снижение риска не гарантия. Доступ, время, штамм, биология, наблюдение и качество системы меняют исходы.</text>
+</svg>

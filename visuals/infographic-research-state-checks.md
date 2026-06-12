@@ -22,6 +22,8 @@ Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
 
+Current infection-related cancer prevention visual: `visuals/infection-prevention-cancer.svg`
+
 Current site-specific prevention visual: `visuals/site-specific-prevention-levers.svg`
 
 Current relative versus absolute risk visual: `visuals/relative-vs-absolute-risk.svg`
@@ -50,6 +52,13 @@ Current localized screening/vaccination decision variants:
 - German: `visuals/screening-vaccination-decision.de.svg`
 - Mandarin Chinese: `visuals/screening-vaccination-decision.zh.svg`
 - Russian: `visuals/screening-vaccination-decision.ru.svg`
+
+Current localized infection-prevention variants:
+
+- Spanish: `visuals/infection-prevention-cancer.es.svg`
+- German: `visuals/infection-prevention-cancer.de.svg`
+- Mandarin Chinese: `visuals/infection-prevention-cancer.zh.svg`
+- Russian: `visuals/infection-prevention-cancer.ru.svg`
 
 Current localized relative/absolute risk variants:
 
@@ -81,9 +90,10 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 46 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 51 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
+- The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
 
 ### Decision For The Flagship Infographic
 
@@ -113,6 +123,34 @@ Keep the flagship infographic's no-blame sentence short. Use this companion when
 ### Translation Impact
 
 Keep the localized no-blame visual under native review before promotion. The translations must preserve that population-attributable burden is a planning model and prevention opportunity, not a personal-causation or moral-blame claim.
+
+## 2026-06-12 Check: Infection-Related Cancer Prevention Visual
+
+Evidence page:
+
+- `prevention/infection-related-cancer-prevention.md`
+
+New visual:
+
+- `visuals/infection-prevention-cancer.svg`
+- `visuals/infection-prevention-cancer.es.svg`
+- `visuals/infection-prevention-cancer.de.svg`
+- `visuals/infection-prevention-cancer.zh.svg`
+- `visuals/infection-prevention-cancer.ru.svg`
+
+### What Changed
+
+- The wiki now has a public companion visual explaining that cancer is not contagious like a cold, but persistent infections can raise risk through chronic damage, inflammation, viral genes, and tissue change.
+- The visual highlights HPV, HBV/HCV, and H. pylori because the current evidence page already tracks strong non-CDC-heavy anchors: Lancet Global Health infection-attributable burden, NEJM HPV cohort evidence, England HPV programme impact, Taiwan HBV vaccination data, HCV cure cohorts, and H. pylori eradication meta-analyses.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's vaccine/screening wording broad. Use this companion when readers need to understand why infection prevention is a root-cause cancer prevention pathway, not merely a lifestyle tip.
+
+### Translation Impact
+
+Keep localized infection-prevention visuals under native review before promotion. Vaccine, screening, pathogen, and stigma-related wording varies by country and language, and should avoid implying that cancer itself is casually contagious.
 
 ## 2026-06-12 Check: Relative Versus Absolute Risk Visual
 

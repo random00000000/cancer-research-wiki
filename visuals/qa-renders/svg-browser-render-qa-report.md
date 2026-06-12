@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 46
-Nonblank renders: 46
+SVG files rendered: 51
+Nonblank renders: 51
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -14,6 +14,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-02.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-03.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-04.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-05.png`
 
 ## Limits
 
@@ -50,6 +51,11 @@ Blank or near-blank renders: 0
 | `cancer-literacy-infographic.tr.svg` | 1200x1700 | True | 29.63 |
 | `cancer-literacy-infographic.vi.svg` | 1200x1700 | True | 29.31 |
 | `cancer-literacy-infographic.zh.svg` | 1200x1700 | True | 30.16 |
+| `infection-prevention-cancer.de.svg` | 1500x980 | True | 38.75 |
+| `infection-prevention-cancer.es.svg` | 1500x980 | True | 39.73 |
+| `infection-prevention-cancer.ru.svg` | 1500x980 | True | 38.71 |
+| `infection-prevention-cancer.svg` | 1500x980 | True | 39.38 |
+| `infection-prevention-cancer.zh.svg` | 1500x980 | True | 38.96 |
 | `population-burden-not-blame.de.svg` | 1500x1050 | True | 31.50 |
 | `population-burden-not-blame.es.svg` | 1500x1050 | True | 31.34 |
 | `population-burden-not-blame.ru.svg` | 1500x1050 | True | 31.93 |

@@ -5,6 +5,11 @@ Last updated: 2026-06-12
 
 This page supports goal 1 by expanding beyond official public-health summaries into peer-reviewed global burden, vaccine effectiveness, and eradication evidence.
 
+Companion visual:
+
+- `visuals/infection-prevention-cancer.svg`
+- First localized visual variants: `visuals/infection-prevention-cancer.es.svg`, `visuals/infection-prevention-cancer.de.svg`, `visuals/infection-prevention-cancer.zh.svg`, and `visuals/infection-prevention-cancer.ru.svg`
+
 ## Plain-Language Summary
 
 Some cancers are caused or promoted by infections. This does not mean cancer is contagious in the ordinary sense. It means certain viruses, bacteria, and parasites can create long-term biological conditions that raise cancer risk. Infection-related cancers are one of the clearest places where prevention can be powerful: vaccination, screening, treatment, safer blood and injection practices, sanitation, and access to care can reduce future cancer burden.
@@ -136,6 +141,16 @@ The current infographic says vaccines are a risk-reduction lever. That is accura
 - Hepatitis B vaccine: "helps prevent liver cancer."
 - Infection prevention should sit beside screening, not under vague lifestyle advice.
 - H. pylori and hepatitis C should appear in the deeper wiki even if they do not fit the first public infographic.
+
+Use the companion infection-prevention visual when readers need to see the prevention logic without overloading the flagship infographic:
+
+- `visuals/infection-prevention-cancer.svg`
+- `visuals/infection-prevention-cancer.es.svg`
+- `visuals/infection-prevention-cancer.de.svg`
+- `visuals/infection-prevention-cancer.zh.svg`
+- `visuals/infection-prevention-cancer.ru.svg`
+
+Translation review task: keep localized infection-prevention visuals under native review before public-final use, because vaccine, screening, pathogen, and stigma-related wording vary by region.
 
 ## Research Questions To Continue
 

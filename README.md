@@ -60,6 +60,17 @@ Population burden is not personal blame visual:
 
 ![Population prevention is not personal blame](visuals/population-burden-not-blame.svg)
 
+Infection-related cancer prevention visual:
+
+![Some infections can become cancer risks](visuals/infection-prevention-cancer.svg)
+
+Localized infection-prevention variants:
+
+- [Spanish infection-prevention SVG](visuals/infection-prevention-cancer.es.svg)
+- [German infection-prevention SVG](visuals/infection-prevention-cancer.de.svg)
+- [Mandarin Chinese infection-prevention SVG](visuals/infection-prevention-cancer.zh.svg)
+- [Russian infection-prevention SVG](visuals/infection-prevention-cancer.ru.svg)
+
 Cancer claim filter visual:
 
 ![Before you trust a cancer claim](visuals/cancer-claim-filter.svg)
@@ -149,6 +160,7 @@ Research backing:
 - [Cancer growth mechanism map](concepts/cancer-growth-mechanism-map.md)
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
+- [Infection-related cancer prevention visual](visuals/infection-prevention-cancer.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
 - [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)

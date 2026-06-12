@@ -1,0 +1,60 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">感染也可以成为癌症预防目标</title>
+  <desc id="desc">公共信息图：癌症不会像感冒一样传染，但某些持续感染会提高癌症风险，并可通过预防、检测或治疗降低风险。</desc>
+  <rect width="1500" height="980" fill="#f7f4ee"/>
+  <rect x="50" y="44" width="1400" height="892" rx="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="92" y="112" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="52" font-weight="700" fill="#102033">有些感染会成为癌症风险</text>
+  <text x="94" y="158" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="25" fill="#46515f">癌症不会像感冒一样传染，但持续感染可通过慢性损伤、炎症</text>
+  <text x="94" y="190" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="25" fill="#46515f">或病毒基因推动细胞改变。</text>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <rect x="92" y="215" width="400" height="390" rx="18" fill="#e8f1f2" stroke="#1b5d66" stroke-width="3"/>
+    <circle cx="156" cy="285" r="42" fill="#1b5d66"/>
+    <text x="156" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="220" y="278" font-size="31" font-weight="700" fill="#102033">HPV</text>
+    <text x="220" y="313" font-size="21" fill="#46515f">人乳头瘤病毒</text>
+    <text x="122" y="372" font-size="25" font-weight="700" fill="#102033">癌症关联</text>
+    <text x="122" y="408" font-size="21" fill="#46515f">宫颈癌，以及部分肛门、</text>
+    <text x="122" y="436" font-size="21" fill="#46515f">咽喉、外阴、阴道和</text>
+    <text x="122" y="464" font-size="21" fill="#46515f">阴茎癌。</text>
+    <text x="122" y="514" font-size="25" font-weight="700" fill="#102033">预防杠杆</text>
+    <text x="122" y="548" font-size="21" fill="#46515f">尽早接种疫苗；保持筛查</text>
+    <text x="122" y="576" font-size="21" fill="#46515f">和随访可及。</text>
+    <rect x="550" y="215" width="400" height="390" rx="18" fill="#fff1d9" stroke="#a26119" stroke-width="3"/>
+    <circle cx="614" cy="285" r="42" fill="#a26119"/>
+    <text x="614" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="678" y="278" font-size="31" font-weight="700" fill="#102033">HBV 和 HCV</text>
+    <text x="678" y="313" font-size="21" fill="#46515f">乙肝和丙肝</text>
+    <text x="580" y="372" font-size="25" font-weight="700" fill="#102033">癌症关联</text>
+    <text x="580" y="408" font-size="21" fill="#46515f">长期肝脏感染可能导致</text>
+    <text x="580" y="436" font-size="21" fill="#46515f">肝硬化，并提高肝癌</text>
+    <text x="580" y="464" font-size="21" fill="#46515f">风险。</text>
+    <text x="580" y="514" font-size="25" font-weight="700" fill="#102033">预防杠杆</text>
+    <text x="580" y="548" font-size="21" fill="#46515f">乙肝疫苗、安全血液和注射，</text>
+    <text x="580" y="576" font-size="21" fill="#46515f">丙肝检测和治愈。</text>
+    <rect x="1008" y="215" width="400" height="390" rx="18" fill="#e9ecff" stroke="#3e4d9a" stroke-width="3"/>
+    <circle cx="1072" cy="285" r="42" fill="#3e4d9a"/>
+    <text x="1072" y="301" font-size="39" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="1136" y="278" font-size="31" font-weight="700" fill="#102033">幽门螺杆菌</text>
+    <text x="1136" y="313" font-size="21" fill="#46515f">胃部细菌</text>
+    <text x="1038" y="372" font-size="25" font-weight="700" fill="#102033">癌症关联</text>
+    <text x="1038" y="408" font-size="21" fill="#46515f">持续感染可使胃黏膜</text>
+    <text x="1038" y="436" font-size="21" fill="#46515f">长期发炎，并提高</text>
+    <text x="1038" y="464" font-size="21" fill="#46515f">胃癌风险。</text>
+    <text x="1038" y="514" font-size="25" font-weight="700" fill="#102033">预防杠杆</text>
+    <text x="1038" y="548" font-size="21" fill="#46515f">在证据、风险和耐药情况</text>
+    <text x="1038" y="576" font-size="21" fill="#46515f">适合时检测和治疗。</text>
+  </g>
+  <rect x="92" y="640" width="625" height="172" rx="18" fill="#102033"/>
+  <text x="130" y="690" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">公共意义</text>
+  <text x="130" y="734" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#d9e4ef">预防不只是生活方式。疫苗、检测、治疗、</text>
+  <text x="130" y="766" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#d9e4ef">卫生条件和随访可及性，能在癌症发生前</text>
+  <text x="130" y="798" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#d9e4ef">阻断部分路径。</text>
+  <rect x="775" y="640" width="633" height="172" rx="18" fill="#f4d35e" stroke="#8a6a00" stroke-width="3"/>
+  <text x="813" y="690" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="30" font-weight="700" fill="#102033">安全边界</text>
+  <text x="813" y="734" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#102033">请遵循当地疫苗、筛查和治疗指南。</text>
+  <text x="813" y="766" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#102033">症状、检测结果、肝病或胃病</text>
+  <text x="813" y="798" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" fill="#102033">应由临床专业人员处理。</text>
+  <text x="92" y="862" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="19" fill="#46515f">证据锚点：de Martel/Lancet Glob Health 2020；Lei/NEJM 2020；英格兰 HPV 项目；</text>
+  <text x="92" y="890" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="19" fill="#46515f">台湾 HBV 项目；HCV 治愈队列；H. pylori 荟萃分析。</text>
+  <text x="92" y="922" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18" fill="#6b7280">降低风险不是保证。可及性、时机、毒株、宿主生物学、筛查随访和卫生系统质量都会改变结果。</text>
+</svg>

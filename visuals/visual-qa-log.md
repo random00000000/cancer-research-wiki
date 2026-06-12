@@ -12,6 +12,7 @@ Scope:
 - Flagship cancer literacy infographic: English plus localized SVGs.
 - Companion adaptation infographic: English plus first localized SVGs.
 - Claim-filter add-on visual: English plus first localized SVGs.
+- Infection-prevention add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -61,6 +62,11 @@ Checked files:
 - `visuals/cancer-claim-filter.de.svg`
 - `visuals/cancer-claim-filter.zh.svg`
 - `visuals/cancer-claim-filter.ru.svg`
+- `visuals/infection-prevention-cancer.svg`
+- `visuals/infection-prevention-cancer.es.svg`
+- `visuals/infection-prevention-cancer.de.svg`
+- `visuals/infection-prevention-cancer.zh.svg`
+- `visuals/infection-prevention-cancer.ru.svg`
 
 Result:
 
@@ -82,7 +88,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 46 SVG files in `visuals/`.
+- All 51 SVG files in `visuals/`.
 
 Tooling:
 
@@ -99,8 +105,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 46 SVG files at their declared canvas sizes.
-- All 46 renders were nonblank.
+- Headless Chrome rendered all 51 SVG files at their declared canvas sizes.
+- All 51 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 
@@ -127,6 +133,8 @@ Repository note:
 | Population burden/no-blame localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
 | Claim-filter SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 | Claim-filter localized SVGs | Passed | Headless Chrome nonblank passed; obvious German/Russian overflow fixed; close layout review still needed | Still needed |
+| Infection-prevention SVG | Passed | Headless Chrome nonblank passed; obvious overflow fixed; close layout review still needed | Not applicable |
+| Infection-prevention localized SVGs | Passed | Headless Chrome nonblank passed; English/German/Russian/Mandarin full-size previews checked; close layout review still needed | Still needed |
 
 ## Next Visual QA Tasks
 

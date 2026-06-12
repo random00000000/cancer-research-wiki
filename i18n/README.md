@@ -92,6 +92,18 @@ This public safety visual explains why symptoms, risk, screening, vaccination, b
 | Mandarin Chinese | [screening-vaccination-decision.zh.svg](../visuals/screening-vaccination-decision.zh.svg) | First localized SVG |
 | Russian | [screening-vaccination-decision.ru.svg](../visuals/screening-vaccination-decision.ru.svg) | First localized SVG |
 
+## Infection-Related Cancer Prevention Visual Variants
+
+This public visual explains that cancer is not contagious like a cold, but some persistent infections can raise cancer risk and can be prevented, detected, or treated. These translations should receive native review before final medical wording, especially because vaccine, screening, and testing terms vary by region.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [infection-prevention-cancer.svg](../visuals/infection-prevention-cancer.svg) | Canonical first-pass SVG |
+| Spanish | [infection-prevention-cancer.es.svg](../visuals/infection-prevention-cancer.es.svg) | First localized SVG; native review needed |
+| German | [infection-prevention-cancer.de.svg](../visuals/infection-prevention-cancer.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [infection-prevention-cancer.zh.svg](../visuals/infection-prevention-cancer.zh.svg) | First localized SVG; native review needed |
+| Russian | [infection-prevention-cancer.ru.svg](../visuals/infection-prevention-cancer.ru.svg) | First localized SVG; native review needed |
+
 ## Site-Specific Prevention Visual Variants
 
 This public visual maps major cancer sites to high-signal prevention, vaccination, screening, and exposure-reduction levers. These translations should receive native review before being treated as final medical wording.

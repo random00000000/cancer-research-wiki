@@ -39,10 +39,11 @@ Last updated: 2026-06-12
 
 - Produce a second infographic draft focused only on "how cancer grows."
 - Visually QA the new companion infographic draft and first localized variants: `visuals/cancer-keeps-adapting.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
-- Continue close visual inspection of the headless Chrome contact sheets in `visuals/qa-renders/`; current renderer QA proves all 42 SVGs render nonblank, but it does not finish clipping, glyph, layout, or translation review.
+- Continue close visual inspection of the headless Chrome contact sheets in `visuals/qa-renders/`; current renderer QA must be refreshed after each new SVG set and does not finish clipping, glyph, layout, or translation review.
 - Visually QA the public-safe screening/vaccination decision visual and first localized variants: `visuals/screening-vaccination-decision.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
 - Visually QA the public "cancer claim filter" visual and first localized variants: `visuals/cancer-claim-filter.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then gather native-language examples of misleading cancer-claim wording before expanding the visual to additional languages.
+- Visually QA the infection-related cancer prevention visual and first localized variants: `visuals/infection-prevention-cancer.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then deepen regional H. pylori, HBV, HCV, and HPV evidence before expanding to additional languages.
 - Visually QA the new site-specific prevention visual and first localized variants: `visuals/site-specific-prevention-levers.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new relative versus absolute risk visual and first localized variants: `visuals/relative-vs-absolute-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new population burden/no-blame visual and first localized variants: `visuals/population-burden-not-blame.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
