@@ -43,6 +43,12 @@ Avoid:
 | Hepatitis B vaccination and liver cancer | Taiwan's universal infant HBV vaccine programme found age- and sex-adjusted relative risk 0.31 for hepatocellular carcinoma among persons vaccinated at birth versus unvaccinated cohorts ages 6-19. | HBV vaccination can reduce liver cancer risk, but perinatal infection risk and incomplete vaccination still matter. | JNCI 2009: https://academic.oup.com/jnci/article/101/19/1348/1074629 | "Hepatitis B vaccination helps prevent liver cancer." |
 | Hepatitis C cure and liver cancer | In a large VA cohort, sustained virological response after antiviral therapy was associated with lower HCC risk; DAA-induced SVR adjusted hazard ratio 0.29. | HCV cure reduces but does not erase HCC risk, especially after cirrhosis has developed. | Journal of Hepatology 2018: https://www.natap.org/2017/HCV/PIIS0168827817322730N2.pdf | "Find and cure hepatitis C before liver damage locks in risk." |
 | H. pylori eradication and gastric cancer | A 2025 meta-analysis reported gastric cancer risk reduction after H. pylori eradication in infected people, with RR 0.61 and NNT 332 in the pooled analysis. | Benefit depends on baseline gastric cancer risk, age, precancerous changes, antibiotic resistance, and reinfection risk. | BMC Gastroenterology 2025: https://pubmed.ncbi.nlm.nih.gov/40259215/ | "In the right population, finding and treating H. pylori can prevent stomach cancer." |
+| Residential radon | Updated meta-analysis: every 100 Bq/m3 increase in residential radon was associated with 7% higher lung cancer risk. | Radon-safe homes are lung cancer prevention. | Radon meta-analysis: https://pubmed.ncbi.nlm.nih.gov/22938404/ | "Test homes where radon is a concern; mitigate high levels." |
+| Occupational asbestos | Review: lung cancer relative risk increased about 1%-4% per fiber-year/mL, corresponding to risk doubling around 25-100 fiber-years/mL. | Safer work and asbestos control prevent cancer. | Asbestos review: https://pubmed.ncbi.nlm.nih.gov/24410115/ | "Do not disturb asbestos casually; use trained remediation." |
+| PM2.5 air pollution | Meta-analysis: RR 1.08 for lung cancer incidence and RR 1.11 for mortality per 10 micrograms/m3 PM2.5. | Cleaner air is cancer prevention. | PM2.5 meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC5522148/ | "Cancer prevention includes clean air policy." |
+| Low-dose CT lung screening | NLST reported 20.0% lower lung cancer mortality with low-dose CT versus chest radiography in a high-risk population. | Screening can save lives when targeted to high-risk groups and backed by follow-up care. | NLST / NEJM: https://www.nejm.org/doi/full/10.1056/NEJMoa1102873 | "Lung screening is for high-risk people, not everyone." |
+| Colorectal screening | Flexible sigmoidoscopy meta-analysis: RR 0.80 for colorectal cancer incidence and RR 0.74 for colorectal cancer mortality compared with standard care. | Some colorectal screening prevents cancer by finding/removing precancerous lesions and can reduce deaths. | Frontiers meta-analysis: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1364923/full | "Recommended colorectal screening can prevent some cancers." |
+| Breast screening mortality | USPSTF evidence summary reported mammography breast cancer mortality RR 0.86 for ages 50-59, RR 0.67 for ages 60-69, and RR 0.85 in an updated Swedish trial analysis for ages 40-74. | Mammography can reduce breast cancer mortality, but benefit and harms vary by age and risk. | USPSTF: https://www.uspreventiveservicestaskforce.org/Page/Topic/recommendation-summary/breast-cancer-screening | "Screening helps some people and has tradeoffs." |
 
 ## What These Numbers Do Not Prove
 
@@ -170,9 +176,56 @@ Suggested public text:
 - Caution:
   - Screen-and-treat programmes must account for local antibiotic resistance, test accuracy, reinfection, and adverse effects.
 
+### Residential Radon And Lung Cancer
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/22938404/
+- Source type: meta-analysis
+- Reusable claims:
+  - Residential radon exposure was associated with increased lung cancer risk.
+  - Risk rose by about 7% per 100 Bq/m3 increment in the dose-response analysis.
+- Caution:
+  - Smoking strongly modifies absolute risk; radon prevention should not be framed as only a smoker issue.
+
+### Occupational Asbestos Exposure And Lung Cancer
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/24410115/
+- Source type: review
+- Reusable claims:
+  - Occupational asbestos exposure is associated with lung cancer risk.
+  - Exposure-response is broadly linear across much of the range.
+- Caution:
+  - Asbestos handling requires trained professionals and local regulations.
+
+### PM2.5 And Lung Cancer
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5522148/
+- Source type: systematic review and meta-analysis
+- Reusable claims:
+  - Fine particulate matter exposure was associated with increased lung cancer incidence and mortality.
+- Caution:
+  - Individual avoidance is limited; policy, urban planning, transport, and industrial emissions matter.
+
+### NLST Low-Dose CT Screening
+
+- URL: https://www.nejm.org/doi/full/10.1056/NEJMoa1102873
+- Source type: randomized trial
+- Reusable claims:
+  - Low-dose CT reduced lung cancer mortality compared with chest radiography in a high-risk screening population.
+- Caution:
+  - Trial benefit does not justify average-risk screening; false positives and follow-up harms matter.
+
+### Colorectal Endoscopic Screening Meta-Analysis
+
+- URL: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1364923/full
+- Source type: systematic review and meta-analysis
+- Reusable claims:
+  - Sigmoidoscopy/colonoscopy screening was associated with lower colorectal cancer incidence and mortality in pooled analyses.
+- Caution:
+  - Colonoscopy randomized mortality evidence is still maturing; follow-up quality and adherence are central.
+
 ## Next Research Tasks
 
 - Add per-cancer absolute-risk examples where the source provides clean absolute numbers.
 - Add "relative risk versus absolute risk" explainer for the wiki.
 - Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
-- Add effect-size cards for radon, asbestos, air pollution, and screening mortality effects.
+- Add effect-size cards for screening harms, screening overdiagnosis, and absolute-risk examples.
