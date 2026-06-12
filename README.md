@@ -37,6 +37,10 @@ Screening and vaccination decision visual:
 
 ![Cancer screening and vaccination decision guide](visuals/screening-vaccination-decision.svg)
 
+Agent-facing risk mechanism map:
+
+![Cancer risk, mechanism, and prevention map](visuals/risk-mechanism-prevention-map.svg)
+
 Localized screening/vaccination decision variants:
 
 - [Spanish screening/vaccination SVG](visuals/screening-vaccination-decision.es.svg)
@@ -103,6 +107,7 @@ Research backing:
 - [Claim-filter visual](visuals/cancer-claim-filter.svg)
 - [How cancer keeps adapting visual](visuals/cancer-keeps-adapting.svg)
 - [Screening and vaccination decision visual](visuals/screening-vaccination-decision.svg)
+- [Risk mechanism prevention map](visuals/risk-mechanism-prevention-map.svg)
 
 ### 2. Agent-Friendly Cancer Specialist Wiki
 

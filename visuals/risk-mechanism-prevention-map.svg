@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Cancer risk, mechanism, and prevention map</title>
+  <desc id="desc">An agent-facing concept map linking cancer risk factors to mechanisms, hallmarks, cancer sites, and prevention levers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.5" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#f0fdf4"/>
+    </linearGradient>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#111827" flood-opacity="0.13"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .title { font: 800 54px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .subtitle { font: 400 25px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .head { font: 800 30px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #102033; letter-spacing: 0; }
+      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; letter-spacing: 0; }
+      .source { font: 700 15px Arial, Helvetica, sans-serif; fill: #334155; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #d8e2ef; stroke-width: 2; rx: 22; filter: url(#shadow); }
+      .link { stroke: #64748b; stroke-width: 4; stroke-linecap: round; fill: none; marker-end: url(#arrow); opacity: 0.85; }
+      .soft { stroke: #94a3b8; stroke-width: 3; stroke-dasharray: 10 10; stroke-linecap: round; fill: none; marker-end: url(#arrow); opacity: 0.78; }
+      .pill { rx: 18; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1100" fill="url(#bg)"/>
+
+  <g transform="translate(70 55)">
+    <text class="title" x="0" y="60">Risk factors become cancer through mechanisms</text>
+    <text class="subtitle" x="2" y="102">Agent map: connect exposure, biology, tumor behavior, cancer site, and prevention lever before answering.</text>
+    <rect x="0" y="138" width="1460" height="4" fill="#cbd5e1"/>
+  </g>
+
+  <g transform="translate(70 210)">
+    <rect class="card" x="0" y="0" width="285" height="760"/>
+    <text class="head" x="28" y="50">Inputs</text>
+    <text class="small" x="28" y="80">Risk is not one thing.</text>
+    <rect class="pill" x="28" y="120" width="225" height="45" fill="#fee2e2" stroke="#ef4444"/>
+    <text class="label" x="48" y="149">Tobacco / smoke</text>
+    <rect class="pill" x="28" y="185" width="225" height="45" fill="#ffedd5" stroke="#f97316"/>
+    <text class="label" x="48" y="214">Alcohol</text>
+    <rect class="pill" x="28" y="250" width="225" height="45" fill="#fef3c7" stroke="#d97706"/>
+    <text class="label" x="48" y="279">UV / radiation</text>
+    <rect class="pill" x="28" y="315" width="225" height="45" fill="#ecfeff" stroke="#0891b2"/>
+    <text class="label" x="48" y="344">Infections</text>
+    <rect class="pill" x="28" y="380" width="225" height="45" fill="#f0fdf4" stroke="#16a34a"/>
+    <text class="label" x="48" y="409">Metabolic state</text>
+    <rect class="pill" x="28" y="445" width="225" height="45" fill="#e0f2fe" stroke="#0284c7"/>
+    <text class="label" x="48" y="474">Air / work / radon</text>
+    <rect class="pill" x="28" y="510" width="225" height="45" fill="#ede9fe" stroke="#7c3aed"/>
+    <text class="label" x="48" y="539">Inherited risk</text>
+    <rect class="pill" x="28" y="575" width="225" height="45" fill="#f8fafc" stroke="#64748b"/>
+    <text class="label" x="48" y="604">Aging / chance</text>
+    <text class="small" x="28" y="680">Question: which inputs are</text>
+    <text class="small" x="28" y="704">modifiable, structural, inherited,</text>
+    <text class="small" x="28" y="728">or not controllable?</text>
+  </g>
+
+  <g transform="translate(430 210)">
+    <rect class="card" x="0" y="0" width="330" height="760"/>
+    <text class="head" x="30" y="50">Mechanisms</text>
+    <text class="small" x="30" y="80">How risk becomes biology.</text>
+    <text class="label" x="30" y="130">DNA damage</text>
+    <text class="body" x="30" y="158">adducts, breaks, replication errors</text>
+    <text class="label" x="30" y="215">Inflammation / repair</text>
+    <text class="body" x="30" y="243">injury, turnover, cytokine signals</text>
+    <text class="label" x="30" y="300">Viral / bacterial effects</text>
+    <text class="body" x="30" y="328">oncogenes, persistence, tissue injury</text>
+    <text class="label" x="30" y="385">Hormone / metabolic signals</text>
+    <text class="body" x="30" y="413">insulin, adiposity, energy balance</text>
+    <text class="label" x="30" y="470">Tissue ecosystem shift</text>
+    <text class="body" x="30" y="498">immune, matrix, vessels, microbes</text>
+    <text class="label" x="30" y="555">Selection pressure</text>
+    <text class="body" x="30" y="583">survivors expand and adapt</text>
+    <text class="label" x="30" y="640">Detection window</text>
+    <text class="body" x="30" y="668">precancer or early cancer found</text>
+  </g>
+
+  <g transform="translate(835 210)">
+    <rect class="card" x="0" y="0" width="330" height="760"/>
+    <text class="head" x="30" y="50">Cancer capabilities</text>
+    <text class="small" x="30" y="80">Hallmarks-style outputs.</text>
+    <text class="label" x="30" y="130">Sustain growth</text>
+    <text class="body" x="30" y="158">too many go signals</text>
+    <text class="label" x="30" y="215">Evade suppression</text>
+    <text class="body" x="30" y="243">ignore stop signals</text>
+    <text class="label" x="30" y="300">Resist death</text>
+    <text class="body" x="30" y="328">unsafe cells persist</text>
+    <text class="label" x="30" y="385">Avoid immunity</text>
+    <text class="body" x="30" y="413">escape recognition or attack</text>
+    <text class="label" x="30" y="470">Rewire metabolism</text>
+    <text class="body" x="30" y="498">survive local stress</text>
+    <text class="label" x="30" y="555">Build ecosystem</text>
+    <text class="body" x="30" y="583">vessels, matrix, inflammation</text>
+    <text class="label" x="30" y="640">Invade / spread</text>
+    <text class="body" x="30" y="668">metastatic obstacle course</text>
+  </g>
+
+  <g transform="translate(1240 210)">
+    <rect class="card" x="0" y="0" width="290" height="760"/>
+    <text class="head" x="28" y="50">Levers</text>
+    <text class="small" x="28" y="80">Match the lever to the route.</text>
+    <text class="label" x="28" y="130">Primary prevention</text>
+    <text class="body" x="28" y="158">no tobacco, less alcohol, UV</text>
+    <text class="body" x="28" y="183">protection, safer work/air/homes</text>
+    <text class="label" x="28" y="245">Infection prevention</text>
+    <text class="body" x="28" y="273">HPV vaccine, HBV vaccine,</text>
+    <text class="body" x="28" y="298">HCV cure, H. pylori strategy</text>
+    <text class="label" x="28" y="360">Metabolic / lifestyle systems</text>
+    <text class="body" x="28" y="388">activity, food patterns, weight</text>
+    <text class="body" x="28" y="413">support without blame</text>
+    <text class="label" x="28" y="475">Screening / early detection</text>
+    <text class="body" x="28" y="503">cervix, colorectal, breast, lung</text>
+    <text class="body" x="28" y="528">when benefits outweigh harms</text>
+    <text class="label" x="28" y="590">Structural change</text>
+    <text class="body" x="28" y="618">policy, access, clean air,</text>
+    <text class="body" x="28" y="643">vaccination and follow-up systems</text>
+    <text class="small" x="28" y="710">Do not imply total control.</text>
+    <text class="small" x="28" y="734">Lower risk is not zero risk.</text>
+  </g>
+
+  <path class="link" d="M355 335 C390 335, 400 325, 430 320"/>
+  <path class="link" d="M355 400 C390 400, 400 405, 430 410"/>
+  <path class="link" d="M355 530 C390 530, 400 560, 430 565"/>
+  <path class="link" d="M760 340 C795 340, 805 330, 835 320"/>
+  <path class="link" d="M760 565 C795 565, 805 570, 835 575"/>
+  <path class="link" d="M1165 330 C1200 330, 1210 275, 1240 270"/>
+  <path class="link" d="M1165 650 C1200 650, 1210 510, 1240 505"/>
+  <path class="soft" d="M355 142 C600 120, 980 125, 1240 142"/>
+  <path class="soft" d="M355 468 C610 450, 995 465, 1240 385"/>
+
+  <g transform="translate(70 1000)">
+    <rect x="0" y="0" width="1460" height="58" rx="20" fill="#102033"/>
+    <text x="28" y="37" style="font: 700 21px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0;">Agent rule: answer with the chain: claim → exposure/input → mechanism → cancer behavior/site → evidence strength → lever → caveat.</text>
+  </g>
+
+  <text class="source" x="70" y="1085">Source backbone: risk reduction levers, cancer-site prevention map, cancer growth mechanism map, infection prevention, screening harms/tradeoffs, and effect-size evidence pages.</text>
+</svg>

@@ -68,3 +68,4 @@ Empowering, not blaming. Urgent, not panicked. Mechanistic, not mystical. Beauti
 
 - `cancer-keeps-adapting.svg` - English first-pass mechanism companion showing variation, selection pressure, tumor ecosystem support, and metastasis as an obstacle course.
 - `screening-vaccination-decision.svg` - English first-pass public safety companion showing how symptoms, risk, screening, vaccination, benefits, harms, and follow-up fit together.
+- `risk-mechanism-prevention-map.svg` - English first-pass agent-facing map linking inputs, mechanisms, cancer capabilities, and prevention levers.

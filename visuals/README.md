@@ -50,3 +50,9 @@ Use `visual-qa-log.md` to track structural checks, browser rendering checks, cli
 | How cancer keeps adapting - German | `cancer-keeps-adapting.de.svg` | First localized SVG |
 | How cancer keeps adapting - Mandarin Chinese | `cancer-keeps-adapting.zh.svg` | First localized SVG |
 | How cancer keeps adapting - Russian | `cancer-keeps-adapting.ru.svg` | First localized SVG |
+
+## Agent-Facing Visuals
+
+| Visual | Asset | Status |
+| --- | --- | --- |
+| Risk, mechanism, and prevention map | `risk-mechanism-prevention-map.svg` | First-pass English SVG |

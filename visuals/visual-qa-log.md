@@ -40,6 +40,7 @@ Checked files:
 - `visuals/screening-vaccination-decision.de.svg`
 - `visuals/screening-vaccination-decision.zh.svg`
 - `visuals/screening-vaccination-decision.ru.svg`
+- `visuals/risk-mechanism-prevention-map.svg`
 - `visuals/cancer-claim-filter.svg`
 
 Result:
@@ -68,6 +69,7 @@ Browser QA attempt:
 | Companion adaptation localized SVGs | Passed | Still needed | Still needed |
 | Screening/vaccination decision English SVG | Passed | Still needed | Not applicable |
 | Screening/vaccination decision localized SVGs | Passed | Still needed | Still needed |
+| Risk/mechanism/prevention agent map | Passed | Still needed | Not applicable |
 | Claim-filter SVG | Passed | Still needed | Not applicable |
 
 ## Next Visual QA Tasks

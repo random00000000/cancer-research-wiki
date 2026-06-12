@@ -15,6 +15,8 @@ Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
 
+Current agent-facing risk mechanism map: `visuals/risk-mechanism-prevention-map.svg`
+
 Current localized screening/vaccination decision variants:
 
 - Spanish: `visuals/screening-vaccination-decision.es.svg`
@@ -67,6 +69,22 @@ New visual:
 ### Decision For The Flagship Infographic
 
 Keep the flagship infographic's broad wording about recommended screening and vaccination. Use the new decision visual as the companion when readers need the benefit-harm and personalization logic.
+
+## 2026-06-12 Check: Risk Mechanism Prevention Map
+
+New visual:
+
+- `visuals/risk-mechanism-prevention-map.svg`
+
+### What Changed
+
+- The wiki now has an agent-facing concept map linking risk inputs, mechanisms, cancer capabilities, and prevention levers.
+- The visual is designed to support specialist-style answers by forcing an explicit chain: claim, exposure/input, mechanism, cancer behavior/site, evidence strength, lever, and caveat.
+- The map is intentionally denser than the public infographic and should not replace the first everyday-human visual.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic simple. Use this map for agent retrieval, internal reasoning, and future visual planning rather than embedding the full mechanism chain into the public image.
 
 ## 2026-06-12 Check: Visual QA Baseline
 
