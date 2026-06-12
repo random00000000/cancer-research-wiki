@@ -236,6 +236,18 @@ This public visual explains body fatness and metabolic signaling as site-specifi
 | Mandarin Chinese | [body-fatness-metabolic-cancer-sites.zh.svg](../visuals/body-fatness-metabolic-cancer-sites.zh.svg) | First localized SVG; native review needed |
 | Russian | [body-fatness-metabolic-cancer-sites.ru.svg](../visuals/body-fatness-metabolic-cancer-sites.ru.svg) | First localized SVG; native review needed |
 
+## Circadian Sleep And Light-At-Night Visual Variants
+
+This public visual explains circadian disruption, night shift work, light at night, sleep timing, and worker-support systems without turning sleep into a personal blame message. These translations should receive native review because shift-work norms, occupational protections, sleep idioms, and clinical sleep-care pathways vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [circadian-sleep-light-cancer-risk.svg](../visuals/circadian-sleep-light-cancer-risk.svg) | Canonical first-pass SVG |
+| Spanish | [circadian-sleep-light-cancer-risk.es.svg](../visuals/circadian-sleep-light-cancer-risk.es.svg) | First localized SVG; native review needed |
+| German | [circadian-sleep-light-cancer-risk.de.svg](../visuals/circadian-sleep-light-cancer-risk.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [circadian-sleep-light-cancer-risk.zh.svg](../visuals/circadian-sleep-light-cancer-risk.zh.svg) | First localized SVG; native review needed |
+| Russian | [circadian-sleep-light-cancer-risk.ru.svg](../visuals/circadian-sleep-light-cancer-risk.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

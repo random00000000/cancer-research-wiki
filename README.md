@@ -129,6 +129,10 @@ Body fatness, metabolic signaling, and cancer-site visual:
 
 ![Body fatness and metabolic signals affect several cancer sites](visuals/body-fatness-metabolic-cancer-sites.svg)
 
+Circadian rhythm, sleep, and light-at-night visual:
+
+![Protect the body clock where life allows](visuals/circadian-sleep-light-cancer-risk.svg)
+
 Colorectal food pattern prevention visual:
 
 ![Food pattern matters for colorectal cancer](visuals/colorectal-food-pattern-prevention.svg)
@@ -161,6 +165,13 @@ Localized body-fatness/metabolic variants:
 - [German body-fatness/metabolic SVG](visuals/body-fatness-metabolic-cancer-sites.de.svg)
 - [Mandarin Chinese body-fatness/metabolic SVG](visuals/body-fatness-metabolic-cancer-sites.zh.svg)
 - [Russian body-fatness/metabolic SVG](visuals/body-fatness-metabolic-cancer-sites.ru.svg)
+
+Localized circadian/sleep/light variants:
+
+- [Spanish circadian/sleep/light SVG](visuals/circadian-sleep-light-cancer-risk.es.svg)
+- [German circadian/sleep/light SVG](visuals/circadian-sleep-light-cancer-risk.de.svg)
+- [Mandarin Chinese circadian/sleep/light SVG](visuals/circadian-sleep-light-cancer-risk.zh.svg)
+- [Russian circadian/sleep/light SVG](visuals/circadian-sleep-light-cancer-risk.ru.svg)
 
 Localized colorectal food-pattern variants:
 
@@ -290,6 +301,7 @@ Research backing:
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Metabolic health, diet pattern, and activity evidence](prevention/metabolic-health-diet-activity-evidence.md)
 - [Body fatness, metabolic signaling, and cancer sites evidence](prevention/body-fatness-metabolic-cancer-sites-evidence.md)
+- [Circadian disruption, sleep, light at night, and cancer](prevention/circadian-sleep-light-cancer-evidence.md)
 - [Colorectal food pattern evidence](prevention/colorectal-food-pattern-evidence.md)
 - [Ultra-processed foods and cancer evidence](prevention/ultra-processed-foods-cancer-evidence.md)
 - [UV, sun, and indoor tanning evidence](prevention/uv-sun-indoor-tanning-evidence.md)
@@ -327,6 +339,7 @@ Research backing:
 - [Infographic brief](visuals/goal-1-infographic-brief.md)
 - [Metabolic health, movement, and food pattern visual](visuals/metabolic-health-cancer-prevention.svg)
 - [Body fatness, metabolic signaling, and cancer-site visual](visuals/body-fatness-metabolic-cancer-sites.svg)
+- [Circadian rhythm, sleep, and light-at-night visual](visuals/circadian-sleep-light-cancer-risk.svg)
 - [Colorectal food pattern prevention visual](visuals/colorectal-food-pattern-prevention.svg)
 - [Ultra-processed foods and cancer-risk pattern visual](visuals/ultra-processed-foods-cancer-risk.svg)
 - [UV, sun, and indoor tanning prevention visual](visuals/uv-sun-tanning-cancer-prevention.svg)

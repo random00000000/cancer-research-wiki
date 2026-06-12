@@ -51,6 +51,8 @@ Current metabolic health, movement, and food pattern visual: `visuals/metabolic-
 
 Current body fatness, metabolic signaling, and cancer-site visual: `visuals/body-fatness-metabolic-cancer-sites.svg`
 
+Current circadian rhythm, sleep, and light-at-night visual: `visuals/circadian-sleep-light-cancer-risk.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -157,6 +159,13 @@ Current localized body-fatness/metabolic variants:
 - German: `visuals/body-fatness-metabolic-cancer-sites.de.svg`
 - Mandarin Chinese: `visuals/body-fatness-metabolic-cancer-sites.zh.svg`
 - Russian: `visuals/body-fatness-metabolic-cancer-sites.ru.svg`
+
+Current localized circadian/sleep/light variants:
+
+- Spanish: `visuals/circadian-sleep-light-cancer-risk.es.svg`
+- German: `visuals/circadian-sleep-light-cancer-risk.de.svg`
+- Mandarin Chinese: `visuals/circadian-sleep-light-cancer-risk.zh.svg`
+- Russian: `visuals/circadian-sleep-light-cancer-risk.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -992,3 +1001,37 @@ Instead:
 ### Translation Impact
 
 First-pass symptom action visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because urgent-care wording, symptom idioms, stigma, and access barriers vary by country.
+
+## 2026-06-12 Check: Circadian Disruption, Sleep, And Light At Night
+
+New evidence page:
+
+- `prevention/circadian-sleep-light-cancer-evidence.md`
+
+New visual:
+
+- `visuals/circadian-sleep-light-cancer-risk.svg`
+- `visuals/circadian-sleep-light-cancer-risk.es.svg`
+- `visuals/circadian-sleep-light-cancer-risk.de.svg`
+- `visuals/circadian-sleep-light-cancer-risk.zh.svg`
+- `visuals/circadian-sleep-light-cancer-risk.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused circadian-disruption page that treats night shift work and light at night as biological and occupational exposures, not as personal sleep failure.
+- The page uses IARC night-shift evidence, breast cancer meta-analyses, light-at-night reviews, sleep umbrella reviews, and mechanistic circadian-disruption reviews.
+- The visual keeps the public message practical: protect regular dark sleep where possible, reduce unnecessary bright light at night, and design safer shift systems.
+
+### Decision For The Flagship Infographic
+
+Do not add a full sleep section to the flagship image yet. The flagship should continue to mention sleep as part of systems and metabolic context, while this add-on carries the nuance.
+
+Instead:
+
+- Use `visuals/circadian-sleep-light-cancer-risk.svg` for readers asking how sleep, night work, or light exposure fit cancer prevention.
+- Future flagship versions can use a short phrase like "protect sleep and circadian rhythm where life allows."
+- Avoid any wording that suggests perfect sleep prevents cancer or night workers are personally responsible for risk.
+
+### Translation Impact
+
+First-pass circadian/sleep/light visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because shift-work vocabulary, occupational protections, sleep idioms, and clinical sleep-care pathways vary by country.

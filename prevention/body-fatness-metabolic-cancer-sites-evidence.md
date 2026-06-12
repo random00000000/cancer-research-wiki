@@ -123,7 +123,7 @@ Use:
 
 - "Body fatness and metabolic dysfunction can shift cancer risk at several sites."
 - "Metabolic health is biology plus environment, not a moral score."
-- "Support healthy defaults: movement access, sleep, food access, medication review, stress reduction, and non-stigmatizing care."
+- "Support healthy defaults: movement access, sleep, food access, medication review, stress reduction, and non-stigmatizing care." Use `prevention/circadian-sleep-light-cancer-evidence.md` for sleep, night-shift, light-at-night, and circadian-disruption nuance.
 - "Risk reduction is not personal blame."
 - "Cancer risk is never fully controlled by body size."
 

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Proteja el reloj biologico cuando se pueda</title>
+  <desc id="desc">Infografia publica sobre disrupcion circadiana, trabajo nocturno, luz nocturna, sueno, sistemas de apoyo e incertidumbre del riesgo de cancer.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" fill="#102033">Proteja el reloj biologico cuando se pueda</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">La disrupcion circadiana mezcla biologia, trabajo, luz, estres, cuidado y acceso.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e6f4f3" stroke="#1f6f6b" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#1f6f6b"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Mantenga ritmo</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Dormir con oscuridad regular</text><text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">ayuda a coordinar hormonas,</text><text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">reparacion, inmunidad y metabolismo.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text><text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Proteja el sueno regular</text><text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">cuando la vida lo permita.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff2d9" stroke="#b46b13" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b46b13"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Menos luz nocturna</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">La luz brillante de noche</text><text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">puede mover relojes y</text><text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">suprimir senales de melatonina.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text><text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Baje la luz tarde;</text><text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">busque luz de dia si puede.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#fde8e8" stroke="#b93636" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#b93636"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="354" font-family="Arial" font-size="29" font-weight="800" fill="#102033">Turnos mas seguros</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Trabajar de noche es una</text><text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">exposicion, no una falla.</text><text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">Recuperacion importa.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Direccion publica</text><text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Proteja trabajadores con</text><text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">rotaciones y descanso.</text>
+  <rect x="92" y="655" width="625" height="160" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">Los sistemas importan</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Cuidado, enfermedad, vivienda, pobreza, trabajo inseguro</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">y estres alteran el sueno. No culpe al cuerpo.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#ffdf61" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Limite de seguridad</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">El consejo de sueno no diagnostica ni trata cancer.</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">Insomnio severo, apnea, depresion o fatiga</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">peligrosa necesitan apoyo clinico.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Anclajes: monografia IARC; metaanalisis de mama; revisiones de luz nocturna y sueno.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Mejor ritmo puede apoyar la salud; no garantiza prevenir cancer ni borra riesgos laborales y sociales.</text>
+</svg>

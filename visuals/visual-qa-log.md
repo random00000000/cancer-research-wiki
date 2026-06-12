@@ -21,6 +21,7 @@ Scope:
 - Tobacco cessation add-on visual: English plus first localized SVGs.
 - Metabolic health add-on visual: English plus first localized SVGs.
 - Body-fatness/metabolic cancer-site add-on visual: English plus first localized SVGs.
+- Circadian/sleep/light-at-night add-on visual: English plus first localized SVGs.
 - Colorectal food-pattern add-on visual: English plus first localized SVGs.
 - Ultra-processed-food add-on visual: English plus first localized SVGs.
 - UV/sun add-on visual: English plus first localized SVGs.
@@ -121,6 +122,11 @@ Checked files:
 - `visuals/body-fatness-metabolic-cancer-sites.de.svg`
 - `visuals/body-fatness-metabolic-cancer-sites.zh.svg`
 - `visuals/body-fatness-metabolic-cancer-sites.ru.svg`
+- `visuals/circadian-sleep-light-cancer-risk.svg`
+- `visuals/circadian-sleep-light-cancer-risk.es.svg`
+- `visuals/circadian-sleep-light-cancer-risk.de.svg`
+- `visuals/circadian-sleep-light-cancer-risk.zh.svg`
+- `visuals/circadian-sleep-light-cancer-risk.ru.svg`
 - `visuals/colorectal-food-pattern-prevention.svg`
 - `visuals/colorectal-food-pattern-prevention.es.svg`
 - `visuals/colorectal-food-pattern-prevention.de.svg`
@@ -172,7 +178,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 121 SVG files in `visuals/`.
+- All 126 SVG files in `visuals/`.
 
 Tooling:
 
@@ -196,8 +202,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 121 SVG files at their declared canvas sizes.
-- All 121 renders were nonblank.
+- Headless Chrome rendered all 126 SVG files at their declared canvas sizes.
+- All 126 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -213,6 +219,7 @@ Result:
 - The H. pylori/stomach cancer prevention visual set was included in the latest render pass; English and Mandarin full-size previews plus the contact sheet containing all five variants were inspected before commit.
 - The screening benefit-harm balance visual set was included in the latest render pass; English, German, and Russian full-size previews were inspected, and German heading overflow was corrected before commit.
 - The symptom-action visual set was included in the latest render pass; English, German, and Russian full-size previews were inspected, and English access-box overflow was corrected before commit.
+- The circadian/sleep/light-at-night visual set was included in the latest render pass; English, German, and Russian full-size previews were inspected before commit.
 
 Repository note:
 
@@ -255,6 +262,8 @@ Repository note:
 | Metabolic health localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked; overflow fixed | Still needed |
 | Body-fatness/metabolic cancer-site SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Body-fatness/metabolic cancer-site localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
+| Circadian/sleep/light-at-night SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Circadian/sleep/light-at-night localized SVGs | Passed | Headless Chrome nonblank passed; German/Russian full-size previews checked | Still needed |
 | Colorectal food pattern SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Colorectal food pattern localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | Ultra-processed foods SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |

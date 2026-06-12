@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 121
-Nonblank renders: 121
+SVG files rendered: 126
+Nonblank renders: 126
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -77,6 +77,11 @@ Blank or near-blank renders: 0
 | `cancer-symptom-action.ru.svg` | 1500x980 | True | 38.06 |
 | `cancer-symptom-action.svg` | 1500x980 | True | 37.45 |
 | `cancer-symptom-action.zh.svg` | 1500x980 | True | 36.44 |
+| `circadian-sleep-light-cancer-risk.de.svg` | 1500x980 | True | 38.99 |
+| `circadian-sleep-light-cancer-risk.es.svg` | 1500x980 | True | 38.19 |
+| `circadian-sleep-light-cancer-risk.ru.svg` | 1500x980 | True | 38.89 |
+| `circadian-sleep-light-cancer-risk.svg` | 1500x980 | True | 38.40 |
+| `circadian-sleep-light-cancer-risk.zh.svg` | 1500x980 | True | 36.75 |
 | `colorectal-food-pattern-prevention.de.svg` | 1500x980 | True | 39.01 |
 | `colorectal-food-pattern-prevention.es.svg` | 1500x980 | True | 38.38 |
 | `colorectal-food-pattern-prevention.ru.svg` | 1500x980 | True | 38.70 |

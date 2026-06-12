@@ -134,6 +134,7 @@ The flagship infographic should keep this as a broad lever: movement, healthy fo
 - Risk reduction is not personal blame.
 - Use `prevention/body-fatness-metabolic-cancer-sites-evidence.md` and `visuals/body-fatness-metabolic-cancer-sites.svg` for site-specific body-fatness and metabolic-signaling nuance without body shame.
 - Use `prevention/colorectal-food-pattern-evidence.md` and `visuals/colorectal-food-pattern-prevention.svg` for colorectal-specific fiber, whole-grain, processed-meat, screening, and symptom-safety nuance.
+- Use `prevention/circadian-sleep-light-cancer-evidence.md` and `visuals/circadian-sleep-light-cancer-risk.svg` for circadian disruption, night work, light-at-night, sleep, and worker-safety nuance.
 - Use `prevention/ultra-processed-foods-cancer-evidence.md` and `visuals/ultra-processed-foods-cancer-risk.svg` for UPF-specific pattern-warning nuance without turning processing into a purity rule.
 
 ## Next Research Tasks

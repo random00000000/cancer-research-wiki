@@ -116,6 +116,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Body fatness, metabolic signaling, and cancer sites - German | `body-fatness-metabolic-cancer-sites.de.svg` | First localized SVG; native review needed |
 | Body fatness, metabolic signaling, and cancer sites - Mandarin Chinese | `body-fatness-metabolic-cancer-sites.zh.svg` | First localized SVG; native review needed |
 | Body fatness, metabolic signaling, and cancer sites - Russian | `body-fatness-metabolic-cancer-sites.ru.svg` | First localized SVG; native review needed |
+| Circadian rhythm, sleep, and light at night | `circadian-sleep-light-cancer-risk.svg` | First-pass English SVG |
+| Circadian rhythm, sleep, and light at night - Spanish | `circadian-sleep-light-cancer-risk.es.svg` | First localized SVG; native review needed |
+| Circadian rhythm, sleep, and light at night - German | `circadian-sleep-light-cancer-risk.de.svg` | First localized SVG; native review needed |
+| Circadian rhythm, sleep, and light at night - Mandarin Chinese | `circadian-sleep-light-cancer-risk.zh.svg` | First localized SVG; native review needed |
+| Circadian rhythm, sleep, and light at night - Russian | `circadian-sleep-light-cancer-risk.ru.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention | `colorectal-food-pattern-prevention.svg` | First-pass English SVG |
 | Colorectal food pattern prevention - Spanish | `colorectal-food-pattern-prevention.es.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention - German | `colorectal-food-pattern-prevention.de.svg` | First localized SVG; native review needed |

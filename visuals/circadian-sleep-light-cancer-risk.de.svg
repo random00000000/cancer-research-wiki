@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Die innere Uhr schuetzen, wo es geht</title>
+  <desc id="desc">Eine offentliche Infografik zu zirkadianer Stoerung, Nachtarbeit, Licht bei Nacht, Schlafzeit, Systemunterstuetzung und Unsicherheit beim Krebsrisiko.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#102033">Die innere Uhr schuetzen, wo es geht</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Zirkadiane Stoerung ist Biologie plus Arbeit, Licht, Stress, Pflege, Krankheit und Zugang.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e6f4f3" stroke="#1f6f6b" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#1f6f6b"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Rhythmus halten</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Regelmaessiger dunkler</text><text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">Schlaf koordiniert Hormone,</text><text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">Reparatur, Immunitaet, Stoffwechsel.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">Regelmaessigen Schlaf</text><text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">schuetzen, wo es geht.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff2d9" stroke="#b46b13" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b46b13"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="354" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Weniger Nachtlicht</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Helles Licht bei Nacht</text><text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">kann Uhren verschieben</text><text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">und Melatonin-Signale senken.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Spaetes Licht dimmen;</text><text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">Tageslicht nutzen, wenn moeglich.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#fde8e8" stroke="#b93636" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#b93636"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="354" font-family="Arial" font-size="29" font-weight="800" fill="#102033">Sichere Schichten</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Nachtarbeit ist Exposition,</text><text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">kein persoenliches Versagen.</text><text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">Erholung und Planung zaehlen.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Oeffentliche Richtung</text><text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Arbeitende mit Rotation</text><text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">und Erholungszeit schuetzen.</text>
+  <rect x="92" y="655" width="625" height="160" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">Systeme zaehlen</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">Pflege, Krankheit, Wohnen, Armut, unsichere Arbeit</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">und Stress stoeren Schlaf. Keine Schuldzuweisung.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#ffdf61" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Sicherheitsgrenze</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Schlafrat ist keine Diagnose oder Krebstherapie.</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">Schwere Schlaflosigkeit, Apnoezeichen, Depression</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">oder gefaehrliche Muedigkeit brauchen Hilfe.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Evidenzanker: IARC Nachtarbeit; Brustkrebs-Metaanalysen; Licht-bei-Nacht-Reviews; Schlaf-Umbrella-Reviews.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Besserer Rhythmus kann Gesundheit stuetzen; er garantiert keine Krebsvermeidung und loescht keine Arbeitsrisiken.</text>
+</svg>
