@@ -11,6 +11,7 @@ Use this with:
 - `prevention/misleading-prevention-claims.md`
 - `prevention/how-to-read-cancer-headlines.md`
 - `visuals/cancer-claim-filter.svg`
+- First localized visual variants: `visuals/cancer-claim-filter.es.svg`, `visuals/cancer-claim-filter.de.svg`, `visuals/cancer-claim-filter.zh.svg`, and `visuals/cancer-claim-filter.ru.svg`
 
 ## Public Rule
 
@@ -136,5 +137,9 @@ Do not cram these claim cards into the flagship "what is cancer" infographic. Ke
 Add the separate claim-filter visual where readers are likely to encounter prevention claims, treatment hype, or social-media cancer cures:
 
 - `visuals/cancer-claim-filter.svg`
+- `visuals/cancer-claim-filter.es.svg`
+- `visuals/cancer-claim-filter.de.svg`
+- `visuals/cancer-claim-filter.zh.svg`
+- `visuals/cancer-claim-filter.ru.svg`
 
-Future translation task: localize the claim-filter visual after native-speaker safety review, because misleading cancer claims often use culture-specific wording.
+Translation review task: keep the first localized claim-filter visuals under native-speaker safety review before treating them as public-final assets, because misleading cancer claims often use culture-specific wording, idioms, and fear hooks.

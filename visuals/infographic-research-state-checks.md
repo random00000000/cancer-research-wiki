@@ -11,6 +11,13 @@ Current translated support: `i18n/INFOGRAPHIC_CAPTIONS.md`
 
 Current safety add-on visual: `visuals/cancer-claim-filter.svg`
 
+Current localized claim-filter variants:
+
+- Spanish: `visuals/cancer-claim-filter.es.svg`
+- German: `visuals/cancer-claim-filter.de.svg`
+- Mandarin Chinese: `visuals/cancer-claim-filter.zh.svg`
+- Russian: `visuals/cancer-claim-filter.ru.svg`
+
 Current companion mechanism visual: `visuals/cancer-keeps-adapting.svg`
 
 Current screening/vaccination decision visual: `visuals/screening-vaccination-decision.svg`
@@ -74,8 +81,9 @@ New QA artifacts:
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 42 SVGs rendered to nonblank PNGs at their declared canvas sizes.
+- All 46 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
+- The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -286,12 +294,17 @@ New evidence page:
 New visual:
 
 - `visuals/cancer-claim-filter.svg`
+- `visuals/cancer-claim-filter.es.svg`
+- `visuals/cancer-claim-filter.de.svg`
+- `visuals/cancer-claim-filter.zh.svg`
+- `visuals/cancer-claim-filter.ru.svg`
 
 ### What Changed
 
 - The wiki now has a reusable five-gate public filter for cancer claims: human outcomes, absolute impact, replication, harms/interactions, and care delay.
 - New claim cards cover alkaline diets, detoxes, supplements, high-dose vitamin C, cannabis/cannabinoids, ivermectin/fenbendazole, fasting, and ketogenic diets.
 - The new page uses non-CDC-heavy sources, including AICR/WCRF, ASCO, systematic reviews, peer-reviewed trials, and frontier-review caution around drug repurposing.
+- First-pass localized claim-filter variants now exist for Spanish, German, Mandarin Chinese, and Russian.
 
 ### Decision For The Flagship Infographic
 
@@ -301,7 +314,11 @@ Instead:
 
 - Keep `visuals/cancer-claim-filter.svg` as a separate public safety visual.
 - Link the claim-filter page from the README research backing.
-- Later, translate the claim-filter visual only after language-specific review, because misleading claims often use local idioms and culture-specific fear hooks.
+- Keep localized claim-filter visuals under native review before public-final use, because misleading claims often use local idioms and culture-specific fear hooks.
+
+### Translation Impact
+
+The localized claim-filter visuals are useful for access, but they are also higher-risk than neutral mechanism diagrams. Future crawl passes should collect language-specific examples of misleading cancer prevention and treatment claims so translations can be tuned to real public-risk wording without amplifying scams.
 
 ## 2026-06-12 Check: Translated Infographic Assets
 

@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 42
-Nonblank renders: 42
+SVG files rendered: 46
+Nonblank renders: 46
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -25,7 +25,11 @@ Blank or near-blank renders: 0
 
 | SVG | Canvas | Nonblank | Brightness delta |
 | --- | ---: | --- | ---: |
+| `cancer-claim-filter.de.svg` | 1200x760 | True | 37.02 |
+| `cancer-claim-filter.es.svg` | 1200x760 | True | 37.48 |
+| `cancer-claim-filter.ru.svg` | 1200x760 | True | 36.55 |
 | `cancer-claim-filter.svg` | 1200x760 | True | 38.10 |
+| `cancer-claim-filter.zh.svg` | 1200x760 | True | 37.51 |
 | `cancer-keeps-adapting.de.svg` | 1200x900 | True | 41.15 |
 | `cancer-keeps-adapting.es.svg` | 1200x900 | True | 41.57 |
 | `cancer-keeps-adapting.ru.svg` | 1200x900 | True | 41.32 |

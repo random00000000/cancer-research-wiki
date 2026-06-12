@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Filtro para afirmaciones sobre cáncer</title>
+  <desc id="desc">Infografía de seguridad pública con cinco comprobaciones antes de confiar en una afirmación sobre prevención o tratamiento del cáncer.</desc>
+  <rect width="1200" height="760" fill="#f7f4ee"/>
+  <rect x="48" y="42" width="1104" height="676" rx="22" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="88" y="110" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#18212f">Antes de confiar en una afirmación sobre cáncer</text>
+  <text x="90" y="155" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#46515f">Cinco filtros para consejos, curas milagro y protocolos virales.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="90" y="205" width="196" height="245" rx="14" fill="#e8f1f2" stroke="#1b5d66" stroke-width="2"/>
+    <circle cx="188" cy="272" r="46" fill="#1b5d66"/>
+    <text x="188" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="116" y="344" font-size="22" font-weight="700" fill="#18212f">Resultados</text>
+    <text x="116" y="374" font-size="22" font-weight="700" fill="#18212f">humanos?</text>
+    <text x="116" y="414" font-size="17" fill="#46515f">No solo células,</text>
+    <text x="116" y="437" font-size="17" fill="#46515f">ratones o hype.</text>
+    <rect x="303" y="205" width="196" height="245" rx="14" fill="#fff1d9" stroke="#a26119" stroke-width="2"/>
+    <circle cx="401" cy="272" r="46" fill="#a26119"/>
+    <text x="401" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="329" y="344" font-size="22" font-weight="700" fill="#18212f">Impacto</text>
+    <text x="329" y="374" font-size="22" font-weight="700" fill="#18212f">absoluto?</text>
+    <text x="329" y="414" font-size="17" fill="#46515f">¿Cuántas personas</text>
+    <text x="329" y="437" font-size="17" fill="#46515f">ayuda o daña?</text>
+    <rect x="516" y="205" width="196" height="245" rx="14" fill="#e9ecff" stroke="#3e4d9a" stroke-width="2"/>
+    <circle cx="614" cy="272" r="46" fill="#3e4d9a"/>
+    <text x="614" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="542" y="344" font-size="22" font-weight="700" fill="#18212f">Replicado?</text>
+    <text x="542" y="386" font-size="17" fill="#46515f">Más de un grupo,</text>
+    <text x="542" y="409" font-size="17" fill="#46515f">ensayo o</text>
+    <text x="542" y="432" font-size="17" fill="#46515f">población?</text>
+    <rect x="729" y="205" width="196" height="245" rx="14" fill="#fde8e6" stroke="#ad3434" stroke-width="2"/>
+    <circle cx="827" cy="272" r="46" fill="#ad3434"/>
+    <text x="827" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="755" y="344" font-size="22" font-weight="700" fill="#18212f">Daños?</text>
+    <text x="755" y="386" font-size="17" fill="#46515f">Toxicidad,</text>
+    <text x="755" y="409" font-size="17" fill="#46515f">interacciones,</text>
+    <text x="755" y="432" font-size="17" fill="#46515f">desnutrición?</text>
+    <rect x="942" y="205" width="168" height="245" rx="14" fill="#e8f4df" stroke="#50742d" stroke-width="2"/>
+    <circle cx="1026" cy="272" r="46" fill="#50742d"/>
+    <text x="1026" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="966" y="344" font-size="22" font-weight="700" fill="#18212f">Retrasa</text>
+    <text x="966" y="374" font-size="22" font-weight="700" fill="#18212f">atención?</text>
+    <text x="966" y="414" font-size="17" fill="#46515f">Reemplaza</text>
+    <text x="966" y="437" font-size="17" fill="#46515f">atención probada?</text>
+  </g>
+  <rect x="90" y="500" width="485" height="112" rx="16" fill="#18212f"/>
+  <text x="124" y="545" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Si falla el filtro</text>
+  <text x="124" y="584" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d9e4ef">Llámelo preliminar, engañoso o peligroso.</text>
+  <rect x="625" y="500" width="485" height="112" rx="16" fill="#f4d35e" stroke="#8a6a00" stroke-width="2"/>
+  <text x="659" y="545" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#18212f">Si toca tratamiento</text>
+  <text x="659" y="584" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#18212f">Incluya al equipo de oncología.</text>
+  <text x="90" y="665" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#46515f">La buena investigación pregunta duro. La buena guía espera evidencia humana y protege de retrasos, toxicidad y falsa certeza.</text>
+</svg>

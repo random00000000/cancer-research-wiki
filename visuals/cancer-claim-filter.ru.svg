@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Фильтр заявлений о раке</title>
+  <desc id="desc">Общественная инфографика безопасности с пятью проверками перед доверием заявлению о профилактике или лечении рака.</desc>
+  <rect width="1200" height="760" fill="#f7f4ee"/>
+  <rect x="48" y="42" width="1104" height="676" rx="22" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+  <text x="88" y="110" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#18212f">Перед тем как доверять заявлению о раке</text>
+  <text x="90" y="155" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#46515f">Пять фильтров для советов, чудо-лечений и протоколов из соцсетей.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="90" y="205" width="196" height="245" rx="14" fill="#e8f1f2" stroke="#1b5d66" stroke-width="2"/>
+    <circle cx="188" cy="272" r="46" fill="#1b5d66"/>
+    <text x="188" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="112" y="344" font-size="20" font-weight="700" fill="#18212f">Исходы</text>
+    <text x="112" y="374" font-size="20" font-weight="700" fill="#18212f">у людей?</text>
+    <text x="112" y="414" font-size="16" fill="#46515f">Не только клетки,</text>
+    <text x="112" y="437" font-size="16" fill="#46515f">мыши или ажиотаж.</text>
+    <rect x="303" y="205" width="196" height="245" rx="14" fill="#fff1d9" stroke="#a26119" stroke-width="2"/>
+    <circle cx="401" cy="272" r="46" fill="#a26119"/>
+    <text x="401" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="325" y="344" font-size="20" font-weight="700" fill="#18212f">Абсолютный</text>
+    <text x="325" y="374" font-size="20" font-weight="700" fill="#18212f">эффект?</text>
+    <text x="325" y="414" font-size="16" fill="#46515f">Скольким помогло</text>
+    <text x="325" y="437" font-size="16" fill="#46515f">или навредило?</text>
+    <rect x="516" y="205" width="196" height="245" rx="14" fill="#e9ecff" stroke="#3e4d9a" stroke-width="2"/>
+    <circle cx="614" cy="272" r="46" fill="#3e4d9a"/>
+    <text x="614" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="538" y="344" font-size="20" font-weight="700" fill="#18212f">Повторено?</text>
+    <text x="538" y="386" font-size="16" fill="#46515f">Больше одной</text>
+    <text x="538" y="409" font-size="16" fill="#46515f">группы, испытания</text>
+    <text x="538" y="432" font-size="16" fill="#46515f">или популяции?</text>
+    <rect x="729" y="205" width="196" height="245" rx="14" fill="#fde8e6" stroke="#ad3434" stroke-width="2"/>
+    <circle cx="827" cy="272" r="46" fill="#ad3434"/>
+    <text x="827" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="751" y="344" font-size="20" font-weight="700" fill="#18212f">Вред?</text>
+    <text x="751" y="386" font-size="16" fill="#46515f">Токсичность,</text>
+    <text x="751" y="409" font-size="16" fill="#46515f">взаимодействия,</text>
+    <text x="751" y="432" font-size="16" fill="#46515f">недоедание?</text>
+    <rect x="942" y="205" width="168" height="245" rx="14" fill="#e8f4df" stroke="#50742d" stroke-width="2"/>
+    <circle cx="1026" cy="272" r="46" fill="#50742d"/>
+    <text x="1026" y="288" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="960" y="344" font-size="20" font-weight="700" fill="#18212f">Задержка</text>
+    <text x="960" y="374" font-size="20" font-weight="700" fill="#18212f">помощи?</text>
+    <text x="960" y="414" font-size="16" fill="#46515f">Заменяет доказанную</text>
+    <text x="960" y="437" font-size="16" fill="#46515f">помощь?</text>
+  </g>
+  <rect x="90" y="500" width="485" height="112" rx="16" fill="#18212f"/>
+  <text x="124" y="545" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff">Если фильтр не пройден</text>
+  <text x="124" y="576" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d9e4ef">Считайте предварительным,</text>
+  <text x="124" y="600" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d9e4ef">вводящим в заблуждение или опасным.</text>
+  <rect x="625" y="500" width="485" height="112" rx="16" fill="#f4d35e" stroke="#8a6a00" stroke-width="2"/>
+  <text x="659" y="545" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#18212f">Если касается лечения</text>
+  <text x="659" y="584" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#18212f">Подключите онкологическую команду.</text>
+  <text x="90" y="656" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#46515f">Хорошая онконаука задает трудные вопросы. Хорошие рекомендации ждут данных у людей.</text>
+  <text x="90" y="681" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#46515f">Они защищают от задержек, токсичности и ложной уверенности.</text>
+</svg>

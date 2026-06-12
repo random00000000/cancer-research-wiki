@@ -11,7 +11,7 @@ Scope:
 
 - Flagship cancer literacy infographic: English plus localized SVGs.
 - Companion adaptation infographic: English plus first localized SVGs.
-- Claim-filter add-on visual.
+- Claim-filter add-on visual: English plus first localized SVGs.
 
 Checked files:
 
@@ -57,6 +57,10 @@ Checked files:
 - `visuals/population-burden-not-blame.zh.svg`
 - `visuals/population-burden-not-blame.ru.svg`
 - `visuals/cancer-claim-filter.svg`
+- `visuals/cancer-claim-filter.es.svg`
+- `visuals/cancer-claim-filter.de.svg`
+- `visuals/cancer-claim-filter.zh.svg`
+- `visuals/cancer-claim-filter.ru.svg`
 
 Result:
 
@@ -78,7 +82,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 42 SVG files in `visuals/`.
+- All 46 SVG files in `visuals/`.
 
 Tooling:
 
@@ -95,8 +99,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 42 SVG files at their declared canvas sizes.
-- All 42 renders were nonblank.
+- Headless Chrome rendered all 46 SVG files at their declared canvas sizes.
+- All 46 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 
@@ -122,6 +126,7 @@ Repository note:
 | Population burden/no-blame SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
 | Population burden/no-blame localized SVGs | Passed | Headless Chrome nonblank passed; close layout review still needed | Still needed |
 | Claim-filter SVG | Passed | Headless Chrome nonblank passed; close layout review still needed | Not applicable |
+| Claim-filter localized SVGs | Passed | Headless Chrome nonblank passed; obvious German/Russian overflow fixed; close layout review still needed | Still needed |
 
 ## Next Visual QA Tasks
 

@@ -68,6 +68,18 @@ The companion mechanism visual is a denser public explanation of cancer adaptati
 | Mandarin Chinese | [cancer-keeps-adapting.zh.svg](../visuals/cancer-keeps-adapting.zh.svg) | First localized SVG |
 | Russian | [cancer-keeps-adapting.ru.svg](../visuals/cancer-keeps-adapting.ru.svg) | First localized SVG |
 
+## Cancer Claim Filter Visual Variants
+
+This public safety visual helps readers test cancer prevention, treatment, and social-media claims before trusting them. Misleading claims often use local idioms, fear hooks, and culture-specific wording, so these translations should receive native safety review before being treated as final medical copy.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [cancer-claim-filter.svg](../visuals/cancer-claim-filter.svg) | Canonical first-pass SVG |
+| Spanish | [cancer-claim-filter.es.svg](../visuals/cancer-claim-filter.es.svg) | First localized SVG; native review needed |
+| German | [cancer-claim-filter.de.svg](../visuals/cancer-claim-filter.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [cancer-claim-filter.zh.svg](../visuals/cancer-claim-filter.zh.svg) | First localized SVG; native review needed |
+| Russian | [cancer-claim-filter.ru.svg](../visuals/cancer-claim-filter.ru.svg) | First localized SVG; native review needed |
+
 ## Screening And Vaccination Decision Visual Variants
 
 This public safety visual explains why symptoms, risk, screening, vaccination, benefits, harms, and follow-up must be kept separate.

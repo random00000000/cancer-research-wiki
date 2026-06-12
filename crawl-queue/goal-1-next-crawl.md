@@ -42,7 +42,7 @@ Last updated: 2026-06-12
 - Continue close visual inspection of the headless Chrome contact sheets in `visuals/qa-renders/`; current renderer QA proves all 42 SVGs render nonblank, but it does not finish clipping, glyph, layout, or translation review.
 - Visually QA the public-safe screening/vaccination decision visual and first localized variants: `visuals/screening-vaccination-decision.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to the remaining flagship languages if the compact layout holds.
 - Visually QA and expand the new agent-facing concept map: `visuals/risk-mechanism-prevention-map.svg`.
-- Produce a small public "cancer claim filter" visual for spotting weak or dangerous claims.
+- Visually QA the public "cancer claim filter" visual and first localized variants: `visuals/cancer-claim-filter.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then gather native-language examples of misleading cancer-claim wording before expanding the visual to additional languages.
 - Visually QA the new site-specific prevention visual and first localized variants: `visuals/site-specific-prevention-levers.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new relative versus absolute risk visual and first localized variants: `visuals/relative-vs-absolute-risk.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.
 - Visually QA the new population burden/no-blame visual and first localized variants: `visuals/population-burden-not-blame.svg`, `.es.svg`, `.de.svg`, `.zh.svg`, and `.ru.svg`. Then expand to additional languages if the compact layout holds.

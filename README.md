@@ -60,6 +60,17 @@ Population burden is not personal blame visual:
 
 ![Population prevention is not personal blame](visuals/population-burden-not-blame.svg)
 
+Cancer claim filter visual:
+
+![Before you trust a cancer claim](visuals/cancer-claim-filter.svg)
+
+Localized claim-filter variants:
+
+- [Spanish claim-filter SVG](visuals/cancer-claim-filter.es.svg)
+- [German claim-filter SVG](visuals/cancer-claim-filter.de.svg)
+- [Mandarin Chinese claim-filter SVG](visuals/cancer-claim-filter.zh.svg)
+- [Russian claim-filter SVG](visuals/cancer-claim-filter.ru.svg)
+
 Localized population burden/no-blame variants:
 
 - [Spanish population burden/no-blame SVG](visuals/population-burden-not-blame.es.svg)
