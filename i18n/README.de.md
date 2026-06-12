@@ -27,6 +27,8 @@ Aktuelle Infografik:
 
 ![Krebs: wie Zellen die Regeln des Körpers brechen](../visuals/cancer-literacy-infographic.svg)
 
+Übersetzte Bildbeschreibungen und Untertitel: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
+
 ## 2. Agentenfreundliches Krebs-Spezialisten-Wiki
 
 Das zweite Ziel ist ein Wiki, das Agenten hilft, Krebsfragen mit Quellen, medizinischen Sicherheitsgrenzen und mechanistischen Erklärungen zu beantworten.

@@ -59,7 +59,7 @@ Before committing a translated page:
 
 ## Future Work
 
-- Add translated infographic captions and alt text.
+- Keep translated infographic captions and alt text current in `i18n/INFOGRAPHIC_CAPTIONS.md`.
 - Add per-language summaries for the main prevention pages.
 - Track translation review status by language and page.
 - Prefer human review for high-stakes medical wording before public promotion.

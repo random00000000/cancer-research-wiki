@@ -27,6 +27,8 @@ Infografía actual:
 
 ![Cáncer: cómo las células rompen las reglas del cuerpo](../visuals/cancer-literacy-infographic.svg)
 
+Texto alternativo y subtítulos traducidos: [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
+
 ## 2. Wiki Para Agentes Especialistas En Cáncer
 
 La segunda meta es una wiki diseñada para que agentes respondan preguntas sobre cáncer con rigor, citas, límites de seguridad médica y explicaciones mecanísticas.

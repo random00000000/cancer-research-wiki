@@ -27,6 +27,8 @@ Cancer Research Wiki 是一个自动化、以证据为核心的研究型维基�
 
 ![癌症：细胞如何打破身体规则](../visuals/cancer-literacy-infographic.svg)
 
+翻译后的替代文本和说明：[INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md)
+
 ## 2. 适合智能体使用的癌症专家维基
 
 第二个目标是建立一个专门的维基，让智能体能够用有来源、有医学安全边界、有机制解释的方式回答癌症问题。

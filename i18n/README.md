@@ -39,4 +39,4 @@ All language entry pages currently point to the same first-pass infographic:
 
 ![Cancer: how cells break the body's rules](../visuals/cancer-literacy-infographic.svg)
 
-Future versions should add translated captions, alt text, and possibly localized visual variants.
+Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions may add localized visual variants.
