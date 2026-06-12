@@ -19,6 +19,36 @@ Localized SVG variants currently available:
 - Hindi: `visuals/cancer-literacy-infographic.hi.svg`
 - Japanese: `visuals/cancer-literacy-infographic.ja.svg`
 - Korean: `visuals/cancer-literacy-infographic.ko.svg`
+- Italian: `visuals/cancer-literacy-infographic.it.svg`
+- Turkish: `visuals/cancer-literacy-infographic.tr.svg`
+
+## Italian
+
+Title:
+
+- Cancro: come le cellule infrangono le regole del corpo
+
+Alt text:
+
+- Infografica che spiega il cancro come un gruppo di malattie in cui le cellule accumulano cambiamenti che permettono crescita, fuga dalla morte, evasione del controllo immunitario, rimodellamento del tessuto, richiamo di vasi sanguigni e talvolta diffusione. Elenca anche leve di riduzione del rischio basate su prove, come evitare tabacco, ridurre alcol, restare attivi, proteggersi dai raggi UV, ridurre esposizioni cancerogene, usare vaccini pertinenti e seguire lo screening raccomandato. Ridurre il rischio non è una garanzia.
+
+Safety caption:
+
+- Ridurre il rischio non è una garanzia. Per sintomi, screening o rischio personale parla con un professionista sanitario.
+
+## Turkish
+
+Title:
+
+- Kanser: hücreler vücudun kurallarını nasıl bozar
+
+Alt text:
+
+- Kanseri, hücrelerin büyüme, ölümü atlatma, bağışıklık kontrolünden kaçma, dokuyu değiştirme, kan damarları çekme ve bazen yayılma yetenekleri kazandığı bir hastalıklar grubu olarak açıklayan infografik. Tütünden kaçınma, alkolü azaltma, aktif kalma, UV'den korunma, kanserojen maruziyetleri azaltma, ilgili aşıları kullanma ve önerilen taramaları izleme gibi kanıta dayalı risk azaltma adımlarını da listeler. Risk azaltma garanti değildir.
+
+Safety caption:
+
+- Risk azaltma garanti değildir. Belirti, tarama veya kişisel risk için sağlık uzmanıyla konuşun.
 
 ## Japanese
 

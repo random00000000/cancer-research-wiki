@@ -17,13 +17,13 @@ This directory holds translated entry pages for the Cancer Research Wiki. The En
 | Hindi | [README.hi.md](README.hi.md) | First-pass translated entry |
 | Japanese | [README.ja.md](README.ja.md) | First-pass translated entry |
 | Korean | [README.ko.md](README.ko.md) | First-pass translated entry |
+| Italian | [README.it.md](README.it.md) | First-pass translated entry |
+| Turkish | [README.tr.md](README.tr.md) | First-pass translated entry |
 
 ## Planned Languages
 
 These are good next candidates because they cover large reader populations and major research/public-health communities:
 
-- Italian
-- Turkish
 - Indonesian
 - Vietnamese
 
@@ -50,5 +50,7 @@ The English infographic is the canonical first-pass image. Localized SVG variant
 | Hindi | [cancer-literacy-infographic.hi.svg](../visuals/cancer-literacy-infographic.hi.svg) | First localized SVG |
 | Japanese | [cancer-literacy-infographic.ja.svg](../visuals/cancer-literacy-infographic.ja.svg) | First localized SVG |
 | Korean | [cancer-literacy-infographic.ko.svg](../visuals/cancer-literacy-infographic.ko.svg) | First localized SVG |
+| Italian | [cancer-literacy-infographic.it.svg](../visuals/cancer-literacy-infographic.it.svg) | First localized SVG |
+| Turkish | [cancer-literacy-infographic.tr.svg](../visuals/cancer-literacy-infographic.tr.svg) | First localized SVG |
 
-Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add Italian, Turkish, Indonesian, and Vietnamese image variants.
+Translated captions and alt text are tracked in [INFOGRAPHIC_CAPTIONS.md](INFOGRAPHIC_CAPTIONS.md). Future versions should add Indonesian and Vietnamese image variants.
