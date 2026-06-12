@@ -200,6 +200,18 @@ This public visual focuses on fiber-rich foods, processed-meat limitation, color
 | Mandarin Chinese | [colorectal-food-pattern-prevention.zh.svg](../visuals/colorectal-food-pattern-prevention.zh.svg) | First localized SVG; native review needed |
 | Russian | [colorectal-food-pattern-prevention.ru.svg](../visuals/colorectal-food-pattern-prevention.ru.svg) | First localized SVG; native review needed |
 
+## Ultra-Processed Foods And Cancer-Risk Pattern Visual Variants
+
+This public visual explains ultra-processed food as a pattern warning, not a purity rule. These translations should receive native review because food processing categories, shopping constraints, and diet-shame wording vary by country and language.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [ultra-processed-foods-cancer-risk.svg](../visuals/ultra-processed-foods-cancer-risk.svg) | Canonical first-pass SVG |
+| Spanish | [ultra-processed-foods-cancer-risk.es.svg](../visuals/ultra-processed-foods-cancer-risk.es.svg) | First localized SVG; native review needed |
+| German | [ultra-processed-foods-cancer-risk.de.svg](../visuals/ultra-processed-foods-cancer-risk.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [ultra-processed-foods-cancer-risk.zh.svg](../visuals/ultra-processed-foods-cancer-risk.zh.svg) | First localized SVG; native review needed |
+| Russian | [ultra-processed-foods-cancer-risk.ru.svg](../visuals/ultra-processed-foods-cancer-risk.ru.svg) | First localized SVG; native review needed |
+
 ## UV Sun And Indoor Tanning Visual Variants
 
 This public visual explains UV DNA damage, indoor tanning risk, layered sun protection, systems protection for children/workers, and clinical evaluation of suspicious skin changes. These translations should receive native review because sun behavior, tanning culture, skin-tone risk communication, and health-system access vary by region.

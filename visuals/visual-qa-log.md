@@ -18,6 +18,7 @@ Scope:
 - Tobacco cessation add-on visual: English plus first localized SVGs.
 - Metabolic health add-on visual: English plus first localized SVGs.
 - Colorectal food-pattern add-on visual: English plus first localized SVGs.
+- Ultra-processed-food add-on visual: English plus first localized SVGs.
 - UV/sun add-on visual: English plus first localized SVGs.
 - Vaccine-preventable cancer add-on visual: English plus first localized SVGs.
 - Radon/home add-on visual: English plus first localized SVGs.
@@ -101,6 +102,11 @@ Checked files:
 - `visuals/colorectal-food-pattern-prevention.de.svg`
 - `visuals/colorectal-food-pattern-prevention.zh.svg`
 - `visuals/colorectal-food-pattern-prevention.ru.svg`
+- `visuals/ultra-processed-foods-cancer-risk.svg`
+- `visuals/ultra-processed-foods-cancer-risk.es.svg`
+- `visuals/ultra-processed-foods-cancer-risk.de.svg`
+- `visuals/ultra-processed-foods-cancer-risk.zh.svg`
+- `visuals/ultra-processed-foods-cancer-risk.ru.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.es.svg`
 - `visuals/uv-sun-tanning-cancer-prevention.de.svg`
@@ -142,7 +148,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 96 SVG files in `visuals/`.
+- All 101 SVG files in `visuals/`.
 
 Tooling:
 
@@ -160,17 +166,19 @@ Generated artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
 
 Result:
 
-- Headless Chrome rendered all 96 SVG files at their declared canvas sizes.
-- All 96 renders were nonblank.
+- Headless Chrome rendered all 101 SVG files at their declared canvas sizes.
+- All 101 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
 - The tobacco cessation visual set was included in the latest render pass; English, German, Russian, and Mandarin full-size previews were inspected, and obvious English/German/Russian text overflow was corrected before commit.
 - The metabolic health visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious Spanish/German/Russian overflow was corrected before commit.
 - The colorectal food-pattern visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
+- The ultra-processed-food visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The UV/sun visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected.
 - The vaccine-preventable cancer visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected, and obvious German card overflow was corrected before commit.
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
@@ -211,6 +219,8 @@ Repository note:
 | Metabolic health localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked; overflow fixed | Still needed |
 | Colorectal food pattern SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Colorectal food pattern localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
+| Ultra-processed foods SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| Ultra-processed foods localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | UV/sun SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | UV/sun localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | Vaccine-preventable cancer SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |

@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/colorectal-food-pattern-prevention.svg`
 - First localized visual variants: `visuals/colorectal-food-pattern-prevention.es.svg`, `visuals/colorectal-food-pattern-prevention.de.svg`, `visuals/colorectal-food-pattern-prevention.zh.svg`, and `visuals/colorectal-food-pattern-prevention.ru.svg`
+- Related pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
 
 ## Plain-Language Summary
 
@@ -147,4 +148,5 @@ The public visual should show:
 - Add a colorectal-specific absolute-risk explainer that translates relative risks into baseline-dependent examples.
 - Compare WCRF/AICR, ACS, Cancer Research UK, and international public guidance on processed meat wording.
 - Add evidence on ultra-processed foods while clearly separating colorectal-specific evidence from indirect body-weight and metabolic pathways.
+- Use `prevention/ultra-processed-foods-cancer-evidence.md` to separate UPF subgroup signals from processed-meat-specific colorectal evidence.
 - Add country-sensitive examples of affordable fiber-rich foods without implying one global diet.

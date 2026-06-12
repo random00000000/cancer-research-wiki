@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 96
-Nonblank renders: 96
+SVG files rendered: 101
+Nonblank renders: 101
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -18,6 +18,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
 
 ## Limits
 
@@ -115,6 +116,11 @@ Blank or near-blank renders: 0
 | `tobacco-cessation-cancer-risk.ru.svg` | 1500x980 | True | 38.11 |
 | `tobacco-cessation-cancer-risk.svg` | 1500x980 | True | 38.88 |
 | `tobacco-cessation-cancer-risk.zh.svg` | 1500x980 | True | 37.95 |
+| `ultra-processed-foods-cancer-risk.de.svg` | 1500x980 | True | 38.73 |
+| `ultra-processed-foods-cancer-risk.es.svg` | 1500x980 | True | 38.29 |
+| `ultra-processed-foods-cancer-risk.ru.svg` | 1500x980 | True | 38.84 |
+| `ultra-processed-foods-cancer-risk.svg` | 1500x980 | True | 38.50 |
+| `ultra-processed-foods-cancer-risk.zh.svg` | 1500x980 | True | 37.25 |
 | `uv-sun-tanning-cancer-prevention.de.svg` | 1500x980 | True | 38.55 |
 | `uv-sun-tanning-cancer-prevention.es.svg` | 1500x980 | True | 37.70 |
 | `uv-sun-tanning-cancer-prevention.ru.svg` | 1500x980 | True | 38.12 |

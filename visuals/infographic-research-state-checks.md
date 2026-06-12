@@ -38,6 +38,8 @@ Current metabolic health, movement, and food pattern visual: `visuals/metabolic-
 
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
+Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
+
 Current UV, sun, and indoor tanning prevention visual: `visuals/uv-sun-tanning-cancer-prevention.svg`
 
 Current vaccine-preventable cancer visual: `visuals/vaccine-preventable-cancers.svg`
@@ -127,6 +129,13 @@ Current localized colorectal food-pattern variants:
 - Mandarin Chinese: `visuals/colorectal-food-pattern-prevention.zh.svg`
 - Russian: `visuals/colorectal-food-pattern-prevention.ru.svg`
 
+Current localized ultra-processed-food variants:
+
+- Spanish: `visuals/ultra-processed-foods-cancer-risk.es.svg`
+- German: `visuals/ultra-processed-foods-cancer-risk.de.svg`
+- Mandarin Chinese: `visuals/ultra-processed-foods-cancer-risk.zh.svg`
+- Russian: `visuals/ultra-processed-foods-cancer-risk.ru.svg`
+
 Current localized UV/sun variants:
 
 - Spanish: `visuals/uv-sun-tanning-cancer-prevention.es.svg`
@@ -171,11 +180,12 @@ New QA artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-06.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-07.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-08.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-09.png`
 
 ### What Changed
 
 - The current SVG set now has repeatable headless Chrome render QA in addition to XML structural QA.
-- All 96 current SVGs render to nonblank PNGs at their declared canvas sizes.
+- All 101 current SVGs render to nonblank PNGs at their declared canvas sizes.
 - Contact sheets make it easier to inspect the visual set across languages and companions without opening every SVG one by one.
 - The claim-filter localized variants were included in this render pass; obvious German and Russian text overflow found during contact-sheet/full-size inspection was corrected before commit.
 - The infection-prevention visual set was included in the latest render pass; obvious English template overflow was corrected before commit, and English, German, Russian, and Mandarin full-size previews were inspected.
@@ -188,6 +198,7 @@ New QA artifacts:
 - The radon/home visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The air pollution visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 - The colorectal food-pattern visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
+- The ultra-processed-food visual set was included in the latest render pass; English, Spanish, German, Russian, and Mandarin full-size previews were inspected before commit.
 
 ### Decision For The Flagship Infographic
 
@@ -308,6 +319,35 @@ Keep the flagship infographic's food-pattern line short. Use the colorectal comp
 ### Translation Impact
 
 Keep localized colorectal food-pattern visuals under native review before promotion. Food names, screening terms, meat-processing categories, and stigma-sensitive diet wording vary by country and language.
+
+## 2026-06-12 Check: Ultra-Processed Foods And Cancer-Risk Pattern Visual
+
+Evidence page:
+
+- `prevention/ultra-processed-foods-cancer-evidence.md`
+
+New visual:
+
+- `visuals/ultra-processed-foods-cancer-risk.svg`
+- `visuals/ultra-processed-foods-cancer-risk.es.svg`
+- `visuals/ultra-processed-foods-cancer-risk.de.svg`
+- `visuals/ultra-processed-foods-cancer-risk.zh.svg`
+- `visuals/ultra-processed-foods-cancer-risk.ru.svg`
+
+### What Changed
+
+- The wiki now has a focused public companion visual explaining ultra-processed foods as a pattern warning rather than a purity rule.
+- The synthesis uses non-CDC-heavy evidence: NutriNet-Sante/BMJ, the BMJ colorectal cohorts, UPF cancer meta-analyses, European cohort evidence, and the Hall controlled feeding trial for an indirect overeating/weight-gain mechanism.
+- The visual separates suggestive cancer evidence from stronger non-cancer feeding-trial mechanism evidence and avoids claiming every packaged food is the same.
+- First-pass localized versions now exist for Spanish, German, Mandarin Chinese, and Russian.
+
+### Decision For The Flagship Infographic
+
+Keep the flagship infographic's food-pattern line short. Use the UPF companion when readers need the nuance: reduce high-UPF routine patterns, especially sugary drinks, processed meats, and low-fiber packaged snacks, while making minimally processed and fiber-rich staples affordable and realistic.
+
+### Translation Impact
+
+Keep localized ultra-processed-food visuals under native review before promotion. Food-processing categories, shopping constraints, stigma-sensitive diet wording, and examples of affordable staples vary by country and language.
 
 ## 2026-06-12 Check: Tobacco Cessation And Cancer Risk Visual
 
