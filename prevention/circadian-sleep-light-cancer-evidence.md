@@ -9,6 +9,7 @@ Companion visual:
 
 - `visuals/circadian-sleep-light-cancer-risk.svg`
 - First localized visual variants: `visuals/circadian-sleep-light-cancer-risk.es.svg`, `visuals/circadian-sleep-light-cancer-risk.de.svg`, `visuals/circadian-sleep-light-cancer-risk.zh.svg`, and `visuals/circadian-sleep-light-cancer-risk.ru.svg`
+- Focused worker-protection follow-up: `visuals/night-shift-worker-protection-cancer.svg` and `prevention/night-shift-work-systems-cancer-prevention.md`
 
 ## Plain-Language Summary
 
@@ -122,10 +123,11 @@ The flagship public infographic already mentions sleep as part of metabolic and 
 - Night shift work as an occupational system issue.
 - Bright light at night as a modifiable environment.
 - Sleep advice without blame or false guarantees.
+- Worker-protection design: fewer unnecessary nights, shorter night-shift runs, recovery time, predictable schedules, worker control, strategic light/darkness, safe commute planning, and occupational support.
 
 ## Research Questions To Continue
 
-- Add occupational scheduling evidence: forward rotations, shift length, recovery time, light exposure, and worker control.
+- Deepen occupational scheduling evidence beyond the first systems page: occupation-specific implementation, drowsy driving, injury risk, worker voice, and labor-policy levers.
 - Add cancer-type-specific source cards for breast, prostate, colorectal, and lung evidence.
 - Add practical lighting guidance with evidence strength labels.
 - Add equity notes for caregivers, medical workers, factory workers, transport workers, hospitality workers, and people with unsafe housing.

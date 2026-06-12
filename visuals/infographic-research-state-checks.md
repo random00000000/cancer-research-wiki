@@ -53,6 +53,8 @@ Current body fatness, metabolic signaling, and cancer-site visual: `visuals/body
 
 Current circadian rhythm, sleep, and light-at-night visual: `visuals/circadian-sleep-light-cancer-risk.svg`
 
+Current night shift worker protection visual: `visuals/night-shift-worker-protection-cancer.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -166,6 +168,13 @@ Current localized circadian/sleep/light variants:
 - German: `visuals/circadian-sleep-light-cancer-risk.de.svg`
 - Mandarin Chinese: `visuals/circadian-sleep-light-cancer-risk.zh.svg`
 - Russian: `visuals/circadian-sleep-light-cancer-risk.ru.svg`
+
+Current localized night-shift worker protection variants:
+
+- Spanish: `visuals/night-shift-worker-protection-cancer.es.svg`
+- German: `visuals/night-shift-worker-protection-cancer.de.svg`
+- Mandarin Chinese: `visuals/night-shift-worker-protection-cancer.zh.svg`
+- Russian: `visuals/night-shift-worker-protection-cancer.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -1035,3 +1044,37 @@ Instead:
 ### Translation Impact
 
 First-pass circadian/sleep/light visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because shift-work vocabulary, occupational protections, sleep idioms, and clinical sleep-care pathways vary by country.
+
+## 2026-06-12 Check: Night Shift Worker Protection
+
+New evidence page:
+
+- `prevention/night-shift-work-systems-cancer-prevention.md`
+
+New visual:
+
+- `visuals/night-shift-worker-protection-cancer.svg`
+- `visuals/night-shift-worker-protection-cancer.es.svg`
+- `visuals/night-shift-worker-protection-cancer.de.svg`
+- `visuals/night-shift-worker-protection-cancer.zh.svg`
+- `visuals/night-shift-worker-protection-cancer.ru.svg`
+
+### What Changed
+
+- The wiki now separates the broad circadian-disruption message from the occupational systems question: how employers, schedulers, regulators, and workers can reduce night-work harm.
+- The page uses the NTP hazard update, Garde et al. 2020 scheduling recommendations, a Frontiers sleep-intervention meta-analysis, a Scientific Reports light-therapy review, and an older DARE review of organization-level shift redesign.
+- The visual frames night work as a system exposure: reduce unnecessary nights, limit long runs where possible, protect recovery, design light/darkness, and give workers control and support.
+
+### Decision For The Flagship Infographic
+
+Do not add detailed night-shift scheduling rules to the flagship image. The flagship should keep a short, humane message about sleep and circadian rhythm while focused visuals carry occupational detail.
+
+Instead:
+
+- Use `visuals/night-shift-worker-protection-cancer.svg` for readers asking about night work, rotating schedules, hospitals, factories, transport, warehouses, hospitality, public safety, or caregiving.
+- Future flagship versions can include a short systems phrase such as "protect sleep and safer work schedules where life allows."
+- Avoid any wording that claims a specific rota prevents cancer or blames night workers for occupational exposures.
+
+### Translation Impact
+
+First-pass night-shift worker protection visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because labor law, scheduling culture, pregnancy accommodations, commuting safety, and occupational-health wording vary by country.

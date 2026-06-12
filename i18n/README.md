@@ -248,6 +248,18 @@ This public visual explains circadian disruption, night shift work, light at nig
 | Mandarin Chinese | [circadian-sleep-light-cancer-risk.zh.svg](../visuals/circadian-sleep-light-cancer-risk.zh.svg) | First localized SVG; native review needed |
 | Russian | [circadian-sleep-light-cancer-risk.ru.svg](../visuals/circadian-sleep-light-cancer-risk.ru.svg) | First localized SVG; native review needed |
 
+## Night Shift Worker Protection Visual Variants
+
+This public visual explains night work as a system exposure, not a personal failure. It focuses on safer schedules, light and darkness, recovery time, worker control, transport, childcare, and occupational support. These translations should receive native review because labor law, scheduling norms, pregnancy accommodations, and worker-safety language vary by country.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [night-shift-worker-protection-cancer.svg](../visuals/night-shift-worker-protection-cancer.svg) | Canonical first-pass SVG |
+| Spanish | [night-shift-worker-protection-cancer.es.svg](../visuals/night-shift-worker-protection-cancer.es.svg) | First localized SVG; native review needed |
+| German | [night-shift-worker-protection-cancer.de.svg](../visuals/night-shift-worker-protection-cancer.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [night-shift-worker-protection-cancer.zh.svg](../visuals/night-shift-worker-protection-cancer.zh.svg) | First localized SVG; native review needed |
+| Russian | [night-shift-worker-protection-cancer.ru.svg](../visuals/night-shift-worker-protection-cancer.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

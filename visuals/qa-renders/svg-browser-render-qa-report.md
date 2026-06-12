@@ -4,8 +4,8 @@ Date: 2026-06-12
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 126
-Nonblank renders: 126
+SVG files rendered: 131
+Nonblank renders: 131
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -107,6 +107,11 @@ Blank or near-blank renders: 0
 | `metabolic-health-cancer-prevention.ru.svg` | 1500x980 | True | 38.78 |
 | `metabolic-health-cancer-prevention.svg` | 1500x980 | True | 38.71 |
 | `metabolic-health-cancer-prevention.zh.svg` | 1500x980 | True | 36.64 |
+| `night-shift-worker-protection-cancer.de.svg` | 1500x980 | True | 36.85 |
+| `night-shift-worker-protection-cancer.es.svg` | 1500x980 | True | 36.21 |
+| `night-shift-worker-protection-cancer.ru.svg` | 1500x980 | True | 36.24 |
+| `night-shift-worker-protection-cancer.svg` | 1500x980 | True | 35.84 |
+| `night-shift-worker-protection-cancer.zh.svg` | 1500x980 | True | 34.87 |
 | `population-burden-not-blame.de.svg` | 1500x1050 | True | 31.50 |
 | `population-burden-not-blame.es.svg` | 1500x1050 | True | 31.34 |
 | `population-burden-not-blame.ru.svg` | 1500x1050 | True | 31.93 |

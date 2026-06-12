@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">夜班是一种系统性暴露</title>
+  <desc id="desc">公共信息图：通过更安全的排班、光照、恢复时间和劳动者控制权来减少夜班相关的昼夜节律压力。</desc>
+  <rect width="1500" height="980" fill="#f7faf8"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#102033">夜班是一种系统性暴露</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">用更安全的排班、光照、恢复时间和劳动者控制权来保护昼夜节律。</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e3f3ee" stroke="#14745d" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#14745d"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">减少节律打乱</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">避免不必要的夜班；</text>
+  <text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">尽量限制连续夜班</text>
+  <text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">过长。</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">公共方向</text>
+  <text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">使用可预测、有人性的</text>
+  <text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">排班。</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff0d6" stroke="#b56512" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b56512"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">光照与恢复</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">工作时的光可帮助清醒；</text>
+  <text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">下班后的黑暗可保护</text>
+  <text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">睡眠和节律。</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">公共方向</text>
+  <text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">规划光照、通勤、饮食</text>
+  <text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">和受保护的睡眠。</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#e9ecff" stroke="#4b57b8" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#4b57b8"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">劳动者权力</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">人们需要足够人手、休息、</text>
+  <text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">育儿、交通和医疗</text>
+  <text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">便利安排。</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">公共方向</text>
+  <text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">让安全成为雇主和</text>
+  <text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">政策责任。</text>
+  <rect x="92" y="655" width="625" height="170" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">需要保护的系统</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">医院、工厂、交通、仓储、服务业、</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">公共安全和照护工作也需要</text>
+  <text x="130" y="808" font-family="Arial" font-size="23" fill="#f8fafc">癌症预防思维。</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#fbeeb8" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">安全边界</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">危险困倦、疲劳驾驶、睡眠呼吸暂停</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">症状、严重失眠、怀孕或用药问题</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">需要临床或职业健康支持。</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">证据锚点：NTP/IARC夜班危害评估；排班研究；睡眠和光照干预综述。</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">更安全的排班可能减少昼夜节律压力和疲劳；不能保证癌症不会发生。</text>
+</svg>

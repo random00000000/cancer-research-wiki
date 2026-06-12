@@ -121,6 +121,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Circadian rhythm, sleep, and light at night - German | `circadian-sleep-light-cancer-risk.de.svg` | First localized SVG; native review needed |
 | Circadian rhythm, sleep, and light at night - Mandarin Chinese | `circadian-sleep-light-cancer-risk.zh.svg` | First localized SVG; native review needed |
 | Circadian rhythm, sleep, and light at night - Russian | `circadian-sleep-light-cancer-risk.ru.svg` | First localized SVG; native review needed |
+| Night shift worker protection | `night-shift-worker-protection-cancer.svg` | First-pass English SVG |
+| Night shift worker protection - Spanish | `night-shift-worker-protection-cancer.es.svg` | First localized SVG; native review needed |
+| Night shift worker protection - German | `night-shift-worker-protection-cancer.de.svg` | First localized SVG; native review needed |
+| Night shift worker protection - Mandarin Chinese | `night-shift-worker-protection-cancer.zh.svg` | First localized SVG; native review needed |
+| Night shift worker protection - Russian | `night-shift-worker-protection-cancer.ru.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention | `colorectal-food-pattern-prevention.svg` | First-pass English SVG |
 | Colorectal food pattern prevention - Spanish | `colorectal-food-pattern-prevention.es.svg` | First localized SVG; native review needed |
 | Colorectal food pattern prevention - German | `colorectal-food-pattern-prevention.de.svg` | First localized SVG; native review needed |
