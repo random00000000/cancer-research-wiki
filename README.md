@@ -34,6 +34,7 @@ Research backing:
 - [Goal 1 source cards](sources/goal-1-public-cancer-literacy.md)
 - [Risk reduction levers](prevention/goal-1-risk-reduction-levers.md)
 - [Goal 1 effect-size evidence](prevention/effect-size-evidence.md)
+- [Risk communication guide](prevention/risk-communication.md)
 - [Environmental and occupational exposure evidence](prevention/environmental-exposure-evidence.md)
 - [Cancer-site prevention map](prevention/cancer-site-prevention-map.md)
 - [Colorectal cancer prevention page](cancer-types/colorectal-cancer.md)

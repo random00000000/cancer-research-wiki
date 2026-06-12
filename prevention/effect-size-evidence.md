@@ -5,6 +5,8 @@ Last updated: 2026-06-12
 
 This page gives future agents a reusable number sheet for the public infographic. It should be used carefully: effect sizes describe populations and study conditions, not a guarantee for any one person.
 
+Before translating any number here into public advice, check `prevention/risk-communication.md`.
+
 ## How To Use These Numbers
 
 Use numbers when they make the infographic more honest and concrete. Do not use them to imply that cancer is fully controllable.
@@ -15,6 +17,7 @@ Preferred wording:
 - "Attributable to evaluated risk factors" for population-attributable models.
 - "Lower risk" rather than "prevents cancer" unless the intervention prevents a defined precursor or infection.
 - "In this study/model/population" when the number depends heavily on method or geography.
+- Natural frequencies when source data support them.
 
 Avoid:
 
@@ -22,6 +25,7 @@ Avoid:
 - "One behavior explains cancer."
 - "This percentage applies to every country."
 - "A relative-risk number is the same as personal absolute risk."
+- "A population-attributable fraction proves personal blame."
 
 ## Anchor Numbers For Public Literacy
 
@@ -239,6 +243,5 @@ Suggested public text:
 ## Next Research Tasks
 
 - Add per-cancer absolute-risk examples where the source provides clean absolute numbers.
-- Add "relative risk versus absolute risk" explainer for the wiki.
 - Add a public visual showing why a common modest risk can matter more than a rare dramatic one.
 - Add effect-size cards for screening overdiagnosis and absolute-risk examples.
