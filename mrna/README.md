@@ -37,6 +37,16 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [Manufacturing constraints for personalized mRNA cancer therapy](manufacturing-constraints.md)
 - [Innate immune sensing in mRNA cancer vaccines](innate-immune-sensing.md)
 
+## Cancer-Type mRNA Pages
+
+- [Melanoma](cancer-types-melanoma.md)
+- [Pancreatic ductal adenocarcinoma](cancer-types-pancreatic-ductal-adenocarcinoma.md)
+- [Colorectal cancer](cancer-types-colorectal.md)
+- [Non-small cell lung cancer](cancer-types-non-small-cell-lung-cancer.md)
+- [Renal cell carcinoma](cancer-types-renal-cell-carcinoma.md)
+- [Bladder cancer](cancer-types-bladder-cancer.md)
+- [Cutaneous squamous cell carcinoma](cancer-types-cutaneous-squamous-cell-carcinoma.md)
+
 ## Source Cards
 
 - [KEYNOTE-942 / mRNA-4157-V940 in resected melanoma](../sources/mrna/keynote-942-mrna-4157-v940-melanoma.md)
@@ -78,6 +88,6 @@ The strongest current signal is not "mRNA cures cancer." The stronger and safer 
 
 - Expand source cards for mRNA-4157/V940, autogene cevumeran, LNP delivery, mRNA-lipoplex delivery, and shared-antigen mRNA vaccines with more full-text details and contradiction sections.
 - Expand mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
-- Cancer-type pages for melanoma, pancreatic ductal adenocarcinoma, non-small cell lung cancer, bladder cancer, renal cell carcinoma, colorectal cancer, and glioblastoma.
+- Expand cancer-type pages and add glioblastoma, breast cancer, gastric cancer, head and neck cancer, and prostate cancer if credible mRNA evidence emerges.
 - Expand the trial tracker with sponsor, geography, publication status, toxicity, and manufacturing fields.
 - Visuals for LNP delivery, neoantigen selection, immune response, manufacturing constraints, and trial endpoints.

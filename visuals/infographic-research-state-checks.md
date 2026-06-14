@@ -1267,3 +1267,28 @@ New visual:
 - The innate-sensing page explains that RNA immune detection is a balance, not simply "more inflammation is better."
 - The trial tracker starts a registry-backed table with current ClinicalTrials.gov status, phase, enrollment, and primary endpoint fields checked on 2026-06-14.
 - The new visual gives everyday readers the central neoantigen-selection lesson: many mutations narrow down to a few candidate targets, and target selection is clinical research infrastructure, not a recipe.
+
+## 2026-06-14 Check: mRNA Cancer-Type Evidence Layer
+
+New mRNA cancer-type pages:
+
+- `mrna/cancer-types-melanoma.md`
+- `mrna/cancer-types-pancreatic-ductal-adenocarcinoma.md`
+- `mrna/cancer-types-colorectal.md`
+- `mrna/cancer-types-non-small-cell-lung-cancer.md`
+- `mrna/cancer-types-renal-cell-carcinoma.md`
+- `mrna/cancer-types-bladder-cancer.md`
+- `mrna/cancer-types-cutaneous-squamous-cell-carcinoma.md`
+
+### What Changed
+
+- The mRNA section now has disease-specific retrieval pages instead of a single undifferentiated trial table.
+- Melanoma is labeled as the strongest current clinical signal, not as proof for every cancer.
+- PDAC and colorectal pages distinguish early immune signal and minimal residual disease logic from proven treatment.
+- NSCLC, RCC, and bladder pages are explicitly trial-in-progress, with setting and endpoint differences preserved.
+- The cSCC page preserves a negative/uncertain signal: NCT06295809 is terminated, and sponsor trial materials state enrollment stopped with no phase 3 expansion.
+- The trial tracker now includes additional registry rows for advanced melanoma, metastatic squamous NSCLC, and high-risk NMIBC.
+
+### Decision For Visuals
+
+No new SVG was added in this disease-page pass. The next visual should focus on either LNP delivery or T-cell antigen presentation, because the current public visuals already cover clinical chain and neoantigen selection.

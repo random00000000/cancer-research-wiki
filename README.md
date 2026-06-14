@@ -445,6 +445,16 @@ Current mRNA mechanism layer:
 - [Innate immune sensing in mRNA cancer vaccines](mrna/innate-immune-sensing.md)
 - [mRNA cancer trial tracker](mrna/trial-tracker.md)
 
+Current mRNA cancer-type layer:
+
+- [Melanoma](mrna/cancer-types-melanoma.md)
+- [Pancreatic ductal adenocarcinoma](mrna/cancer-types-pancreatic-ductal-adenocarcinoma.md)
+- [Colorectal cancer](mrna/cancer-types-colorectal.md)
+- [Non-small cell lung cancer](mrna/cancer-types-non-small-cell-lung-cancer.md)
+- [Renal cell carcinoma](mrna/cancer-types-renal-cell-carcinoma.md)
+- [Bladder cancer](mrna/cancer-types-bladder-cancer.md)
+- [Cutaneous squamous cell carcinoma](mrna/cancer-types-cutaneous-squamous-cell-carcinoma.md)
+
 Started mRNA source-card set:
 
 - [KEYNOTE-942 / mRNA-4157-V940 in resected melanoma](sources/mrna/keynote-942-mrna-4157-v940-melanoma.md)

@@ -266,7 +266,7 @@ For any disease-specific mRNA page, include:
 
 Goal 1 has already produced a multilingual, visual-first public cancer-literacy foundation with companion visuals for mechanisms, screening, infection prevention, environmental and occupational exposures, metabolic risk, tobacco, alcohol, UV, circadian disruption, night-shift worker protection, drowsy-driving safety, and sleep-disorder support.
 
-The first mRNA foundation pass has now started the dedicated `mrna/` track with a public explainer, a tumor-to-vaccine clinical translation pathway, a starter trial landscape, a registry-backed trial tracker, source cards, mechanism pages, a next-crawl queue, and public visuals. Its main lesson is that the safe public goal is not "craft your own cure"; it is to help non-specialists understand mRNA cancer therapy well enough to ask sharper questions and work with qualified clinicians and researchers.
+The first mRNA foundation pass has now started the dedicated `mrna/` track with a public explainer, a tumor-to-vaccine clinical translation pathway, a starter trial landscape, a registry-backed trial tracker, source cards, mechanism pages, cancer-type pages, a next-crawl queue, and public visuals. Its main lesson is that the safe public goal is not "craft your own cure"; it is to help non-specialists understand mRNA cancer therapy well enough to ask sharper questions and work with qualified clinicians and researchers.
 
 Important lessons for future agents:
 
@@ -280,6 +280,7 @@ Important lessons for future agents:
 - Render QA is necessary but not sufficient: nonblank SVGs still need human inspection for clipping, crowding, and language quality.
 - For mRNA work, make the clinical chain visible: biopsy quality, sequencing, antigen selection, delivery, sterile manufacturing, release testing, clinical monitoring, and adverse-event care are part of the therapy, not optional details.
 - Manufacturing constraints and innate immune sensing should be treated as core biology and safety topics, not appendix material.
+- Disease-specific mRNA pages must not copy-paste the melanoma story onto every cancer. Each page should name the setting, endpoint, combination therapy, trial status, and what not to infer.
 - Each coherent pass should update the README/indexes/state checks, run QA where relevant, then commit and push.
 
 ## Seed Scientific Anchors

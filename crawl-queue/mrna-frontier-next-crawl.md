@@ -18,14 +18,23 @@ Last updated: 2026-06-14
 
 - NCT03897881: KEYNOTE-942 / mRNA-4157 / V940 in resected melanoma.
 - NCT05933577: phase 3 V940 plus pembrolizumab in high-risk melanoma.
+- NCT06961006: V940 plus pembrolizumab in advanced melanoma.
 - NCT06077760: V940 plus pembrolizumab in non-small cell lung cancer.
+- NCT07221474: V940/placebo plus pembrolizumab and chemotherapy in metastatic squamous NSCLC.
 - NCT06295809: V940 plus pembrolizumab in cutaneous squamous cell carcinoma.
 - NCT06307431: V940 plus pembrolizumab in renal cell carcinoma.
 - NCT06305767: V940 plus pembrolizumab in urothelial carcinoma.
 - NCT06623422: V940 plus pembrolizumab in non-small cell lung cancer.
+- NCT06833073: V940 plus BCG in high-risk non-muscle-invasive bladder cancer.
 - NCT05968326: autogene cevumeran plus atezolizumab and mFOLFIRINOX in pancreatic ductal adenocarcinoma.
 - NCT04486378: RO7198457/autogene cevumeran colorectal setting.
 - NCT04526899: BNT111 and cemiplimab in advanced melanoma.
+
+## Disease Page Expansion Targets
+
+- Expand melanoma, PDAC, CRC, NSCLC, RCC, bladder, and cSCC pages with publication-specific source cards.
+- Add disease pages for glioblastoma, breast cancer, gastric cancer, head and neck cancer, and prostate cancer only when credible mRNA trial or review evidence is found.
+- For every disease page, keep "what not to infer" explicit so promising signals do not become treatment claims.
 
 ## Safety And Communication Tasks
 
