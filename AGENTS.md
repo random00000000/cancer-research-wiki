@@ -1,6 +1,6 @@
 # CancerResearchWiki Agent Operating Guide
 
-Last updated: 2026-06-12
+Last updated: 2026-06-14
 
 ## Mission
 
@@ -22,7 +22,8 @@ This repository should grow into a deeply sourced, visual, queryable body of can
 
 3. Third goal: become a vanguard mRNA cancer knowledge base.
    - Track mRNA cancer vaccines and therapeutics, antigen selection, neoantigen pipelines, delivery systems, lipid nanoparticles, innate immune activation, manufacturing constraints, clinical trials, safety signals, resistance mechanisms, and tumor-specific use cases.
-   - The long-term aspiration is to reason about mRNA solutions for specific cancers, but every such output must be marked as research support unless it has passed the appropriate clinical and regulatory thresholds.
+   - The long-term aspiration is to reason about mRNA solution spaces for specific cancers, but every such output must be marked as research support unless it has passed the appropriate clinical and regulatory thresholds.
+   - The wiki should make mRNA understandable to non-specialists while preserving the hard boundary that no agent may give a layperson instructions to manufacture, self-administer, prescribe, dose, or clinically substitute an mRNA therapy.
 
 ## Non-Negotiable Safety Boundary
 
@@ -32,6 +33,7 @@ Agents must not:
 
 - Diagnose a user with cancer.
 - Tell a user to start, stop, or modify cancer treatment without clinician involvement.
+- Provide DIY cancer-treatment design, manufacturing, dosing, self-administration, or procurement instructions for mRNA therapies, vaccines, lipid nanoparticles, gene-editing systems, cell therapies, biologics, or experimental drugs.
 - Present experimental therapies as proven.
 - Hide uncertainty or omit important limitations.
 - Give personalized medical instructions beyond general education and encouragement to seek professional care.
@@ -40,6 +42,7 @@ Agents must:
 
 - Encourage urgent medical care for emergency symptoms or dangerous clinical situations.
 - Distinguish population-level prevention evidence from individual medical advice.
+- Distinguish research intelligence, patient education, clinical-trial literacy, and clinician-facing hypothesis support from treatment recommendations.
 - Cite sources for scientific and medical claims.
 - State when evidence is preliminary, conflicting, indirect, preclinical, or not yet replicated.
 - Prefer "risk reduction" over absolute promises.
@@ -221,6 +224,59 @@ Maintain a dedicated mRNA research track with these recurring questions:
 - What regulatory or clinical adoption barriers remain?
 
 Never convert this track into personalized treatment recommendations. It is a research intelligence layer.
+
+The mRNA frontier track should develop in layers:
+
+1. Public explanation layer: explain what mRNA is, what it does in cells, how an mRNA cancer vaccine differs from an infectious-disease vaccine, why delivery matters, and why tumor antigens or neoantigens are hard.
+2. Evidence map layer: track approved, late-stage, early clinical, preclinical, failed, and abandoned mRNA cancer strategies with trial identifiers and outcome endpoints.
+3. Mechanism layer: map antigen presentation, dendritic-cell activation, CD8/CD4 T-cell response, innate immune sensing, lipid nanoparticle delivery, tumor immune escape, antigen loss, HLA restriction, and combination therapy logic.
+4. Translation layer: explain what would be required to move from tumor sequencing to a clinically manufactured personalized vaccine, including biopsy quality, sequencing, antigen selection, manufacturability, release testing, clinical monitoring, and regulatory oversight.
+5. Hypothesis-support layer: help researchers and clinicians ask better questions about candidate antigens, delivery routes, combinations, resistance, and trial design.
+
+The track must not become a "craft your own cure" manual. A safe phrasing is: "help a non-specialist understand the mRNA cancer-therapy landscape well enough to ask sharper questions, understand trial options, and collaborate with qualified clinicians and researchers." Avoid phrasing that implies a patient can independently design or administer a cure.
+
+For any mRNA cancer output, label the intended audience:
+
+- Public education
+- Patient question preparation
+- Clinician discussion support
+- Research hypothesis
+- Trial landscape review
+- Preclinical mechanism map
+- Not for clinical use
+
+For any disease-specific mRNA page, include:
+
+- Cancer type and subtype
+- Standard-of-care context
+- mRNA strategy type: personalized neoantigen vaccine, shared antigen vaccine, in situ immunotherapy, cytokine/antibody payload, gene-editing support, or other
+- Antigen or payload rationale
+- Delivery system and route
+- Combination therapies
+- Trial phase and identifiers
+- Endpoints and observed effect size
+- Toxicities and immune-related adverse events
+- Manufacturing and timing constraints
+- Escape and resistance mechanisms
+- Who might be excluded or underserved
+- What is known, uncertain, failed, or speculative
+- Questions for a clinician or trial team
+
+## Progress And Lessons So Far
+
+Goal 1 has already produced a multilingual, visual-first public cancer-literacy foundation with companion visuals for mechanisms, screening, infection prevention, environmental and occupational exposures, metabolic risk, tobacco, alcohol, UV, circadian disruption, night-shift worker protection, drowsy-driving safety, and sleep-disorder support.
+
+Important lessons for future agents:
+
+- The strongest public education is usually a focused companion visual, not an overloaded flagship infographic.
+- Safety boundaries should be visual and repeated: symptoms are not screening, screening has benefits and harms, night work is an exposure not personal failure, and dangerous sleepiness needs support.
+- Do not reduce cancer "root source" to one cause. Use multi-scale biology plus systems context.
+- Avoid blame. Prevention language should name biology, environment, occupational exposure, social access, genetics, and uncertainty.
+- Use official agencies as anchors, not as the whole evidence universe. Triangulate with peer-reviewed papers, systematic reviews, mechanistic studies, independent research groups, failed trials, and dissenting limitations.
+- Every visual claim needs a source-backed page, and every dense source page should eventually have a public visual or visual plan.
+- Translation is first-pass unless native or expert review has happened. Keep localized medical and safety wording conservative.
+- Render QA is necessary but not sufficient: nonblank SVGs still need human inspection for clipping, crowding, and language quality.
+- Each coherent pass should update the README/indexes/state checks, run QA where relevant, then commit and push.
 
 ## Seed Scientific Anchors
 
