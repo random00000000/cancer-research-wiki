@@ -1212,3 +1212,32 @@ Instead:
 ### Translation Impact
 
 First-pass mRNA pathway visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because mRNA, neoantigen, HLA, clinical trial, manufacturing, and treatment-boundary terms are easy to mistranslate or overstate.
+
+## 2026-06-14 Check: mRNA Mechanism And Source-Card Layer
+
+New mRNA mechanism pages:
+
+- `mrna/personalized-neoantigen-vaccines.md`
+- `mrna/shared-tumor-antigen-vaccines.md`
+- `mrna/delivery-lnp-and-lipoplex.md`
+- `mrna/antigen-presentation-and-dendritic-cells.md`
+- `mrna/immune-escape-safety-and-combinations.md`
+
+New mRNA source cards:
+
+- `sources/mrna/keynote-942-mrna-4157-v940-melanoma.md`
+- `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`
+- `sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md`
+- `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`
+
+### What Changed
+
+- The mRNA section now distinguishes personalized neoantigen vaccines from shared tumor-antigen vaccines.
+- The delivery page makes LNPs and lipoplexes part of the therapeutic mechanism, not a side note.
+- The antigen-presentation page gives future agents a plain-language path from mRNA uptake to MHC/HLA display and T-cell priming.
+- The immune-escape page gives future answers a safety-aware way to explain why immune response is not the same as cure.
+- The source cards separate peer-reviewed trial reports from company-reported topline data and registry-only trial status.
+
+### Decision For Visuals
+
+No new SVG was added in this mechanism pass. The next visual should probably be either "How T cells learn a cancer target" or "How a personalized neoantigen target is selected," but only after the mechanism pages receive a deeper source-card expansion.

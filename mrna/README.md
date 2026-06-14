@@ -26,6 +26,21 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [Tumor-to-vaccine clinical translation pathway](mrna-cancer-therapy-pathway.md)
 - [Starter mRNA cancer trial and evidence landscape](trial-landscape.md)
 
+## Mechanism Pages
+
+- [Personalized mRNA neoantigen vaccines](personalized-neoantigen-vaccines.md)
+- [Shared tumor-antigen mRNA vaccines](shared-tumor-antigen-vaccines.md)
+- [mRNA delivery: lipid nanoparticles, lipoplexes, and targeting](delivery-lnp-and-lipoplex.md)
+- [Antigen presentation and dendritic cells](antigen-presentation-and-dendritic-cells.md)
+- [Immune escape, safety signals, and combination logic](immune-escape-safety-and-combinations.md)
+
+## Source Cards
+
+- [KEYNOTE-942 / mRNA-4157-V940 in resected melanoma](../sources/mrna/keynote-942-mrna-4157-v940-melanoma.md)
+- [Autogene cevumeran personalized mRNA-lipoplex trials](../sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md)
+- [BNT111 FixVac shared-antigen mRNA vaccine in melanoma](../sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md)
+- [LNP and mRNA cancer vaccine delivery reviews](../sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md)
+
 ## First Public Visual
 
 - `visuals/mrna-cancer-therapy-pathway.svg`
@@ -49,11 +64,12 @@ The strongest current signal is not "mRNA cures cancer." The stronger and safer 
 - Pancreatic cancer mRNA-lipoplex neoantigen vaccine follow-up: https://www.nature.com/articles/s41586-024-08508-4
 - Pancreatic phase 2 trial: https://clinicaltrials.gov/study/NCT05968326
 - LNP-based mRNA cancer vaccine review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11336688/
+- BNT111 shared-antigen melanoma FixVac source card anchors: https://pubmed.ncbi.nlm.nih.gov/32728218/ and https://investors.biontech.de/news-releases/news-release-details/biontech-announces-positive-topline-phase-2-results-mrna/
 
 ## Next Build Targets
 
-- Source cards for mRNA-4157/V940, autogene cevumeran, LNP delivery, mRNA-lipoplex delivery, and shared-antigen mRNA vaccines.
-- Mechanism pages for antigen presentation, dendritic-cell targeting, HLA restriction, innate immune sensing, tumor immune escape, antigen loss, and checkpoint-combination logic.
+- Expand source cards for mRNA-4157/V940, autogene cevumeran, LNP delivery, mRNA-lipoplex delivery, and shared-antigen mRNA vaccines with more full-text details and contradiction sections.
+- Expand mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
 - Cancer-type pages for melanoma, pancreatic ductal adenocarcinoma, non-small cell lung cancer, bladder cancer, renal cell carcinoma, colorectal cancer, and glioblastoma.
 - Trial table with NCT identifiers, platform, cancer type, phase, endpoint, toxicity, and status.
 - Visuals for LNP delivery, neoantigen selection, immune response, manufacturing constraints, and trial endpoints.

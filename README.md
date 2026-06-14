@@ -434,6 +434,21 @@ Current mRNA foundation:
 - [Starter mRNA cancer trial and evidence landscape](mrna/trial-landscape.md)
 - [mRNA frontier crawl queue](crawl-queue/mrna-frontier-next-crawl.md)
 
+Current mRNA mechanism layer:
+
+- [Personalized mRNA neoantigen vaccines](mrna/personalized-neoantigen-vaccines.md)
+- [Shared tumor-antigen mRNA vaccines](mrna/shared-tumor-antigen-vaccines.md)
+- [mRNA delivery: lipid nanoparticles, lipoplexes, and targeting](mrna/delivery-lnp-and-lipoplex.md)
+- [Antigen presentation and dendritic cells](mrna/antigen-presentation-and-dendritic-cells.md)
+- [Immune escape, safety signals, and combination logic](mrna/immune-escape-safety-and-combinations.md)
+
+Started mRNA source-card set:
+
+- [KEYNOTE-942 / mRNA-4157-V940 in resected melanoma](sources/mrna/keynote-942-mrna-4157-v940-melanoma.md)
+- [Autogene cevumeran personalized mRNA-lipoplex trials](sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md)
+- [BNT111 FixVac shared-antigen mRNA vaccine in melanoma](sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md)
+- [LNP and mRNA cancer vaccine delivery reviews](sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md)
+
 First mRNA explainer visual:
 
 ![mRNA cancer therapy needs a clinical chain](visuals/mrna-cancer-therapy-pathway.svg)

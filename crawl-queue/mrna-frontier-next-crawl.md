@@ -5,10 +5,11 @@ Last updated: 2026-06-14
 
 ## Immediate Priorities
 
-- Build source cards for mRNA-4157/V940/intismeran autogene, KEYNOTE-942, INTerpath-001, and company-reported five-year follow-up.
-- Build source cards for autogene cevumeran in pancreatic ductal adenocarcinoma, including the phase 1 Nature papers and phase 2 trial records.
-- Create mechanism pages for antigen presentation, HLA restriction, dendritic-cell activation, T-cell priming, checkpoint-combination logic, and tumor immune escape.
-- Create delivery pages for lipid nanoparticles, mRNA-lipoplexes, dendritic-cell loading, tissue targeting, and innate immune sensing.
+- Expand the starter source cards for mRNA-4157/V940/intismeran autogene, KEYNOTE-942, INTerpath-001, and company-reported five-year follow-up.
+- Expand the starter source cards for autogene cevumeran in pancreatic ductal adenocarcinoma, including the phase 1 Nature papers and phase 2 trial records.
+- Expand the BNT111 FixVac shared-antigen source card once full peer-reviewed NCT04526899 phase 2 results are available.
+- Create deeper mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
+- Expand delivery pages for lipid nanoparticles, mRNA-lipoplexes, dendritic-cell loading, tissue targeting, and innate immune sensing.
 - Create manufacturing pages for tumor sample requirements, sequencing, neoantigen prediction, mRNA construct design at a non-protocol level, GMP manufacturing, release testing, and manufacturing failure.
 
 ## Trial Crawl Targets

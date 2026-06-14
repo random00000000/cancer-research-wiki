@@ -27,6 +27,14 @@ This page starts the trial map for mRNA cancer vaccines and therapeutics. It is 
 | mRNA-4157 / V940 + pembrolizumab | Bladder/urothelial cancers | Personalized neoantigen therapy in adjuvant settings | INTerpath studies, e.g. NCT06305767 | Trial-in-progress frontier | Endpoint and recurrence setting matter |
 | mRNA-4157 / V940 + pembrolizumab | Renal cell carcinoma | Personalized neoantigen therapy after definitive therapy | INTerpath study, e.g. NCT06307431 | Trial-in-progress frontier | RCC immune biology differs from melanoma |
 | Autogene cevumeran | Colorectal cancer and melanoma | Individualized mRNA-lipoplex vaccine | BioNTech/Genentech program reports and trial records | Trial-in-progress frontier | Need peer-reviewed disease-specific outcome data |
+| BNT111 + cemiplimab | Anti-PD-(L)1 relapsed/refractory advanced melanoma | Shared tumor-associated antigen mRNA-lipoplex vaccine plus PD-1 blockade | NCT04526899; BioNTech 2024 topline report; foundational FixVac report | Important shared-antigen signal, but company-reported phase 2 details need peer-reviewed publication | Historical-control interpretation and checkpoint-combination toxicity require caution |
+
+## Source Cards Started
+
+- `sources/mrna/keynote-942-mrna-4157-v940-melanoma.md`
+- `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`
+- `sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md`
+- `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`
 
 ## What To Track For Every Trial
 
