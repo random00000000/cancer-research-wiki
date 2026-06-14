@@ -186,3 +186,4 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | Visual | Asset | Status |
 | --- | --- | --- |
 | Risk, mechanism, and prevention map | `risk-mechanism-prevention-map.svg` | First-pass English SVG |
+| Rosie playbook for human cancer access | `rosie-playbook-human-cancer-access.svg` | First-pass English SVG |

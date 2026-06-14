@@ -491,6 +491,29 @@ Localized mRNA explainer variants:
 
 Safety boundary: this wiki can explain mRNA cancer mechanisms, trial landscapes, and questions to ask clinicians or trial teams. It must not provide DIY vaccine design, dosing, manufacturing, procurement, or self-treatment instructions.
 
+### 4. Rosie Playbook For Human Cancer Access
+
+The fourth milestone is a Rosie-inspired advanced-options workflow for people facing serious cancer when standard paths are failing or incomplete. It reverse-engineers the useful parts of the Paul Conyngham/Rosie case: gather the real facts, obtain usable tumor data, use AI as a research assistant, recruit qualified experts, evaluate legitimate advanced options, and track response or resistance.
+
+Current Rosie Playbook foundation:
+
+- [Rosie Playbook index](access/README.md)
+- [Rosie case action map for humans](access/rosie-case-action-map.md)
+- [Cancer case packet builder](access/cancer-case-packet-builder.md)
+- [Advanced options mapper](access/advanced-options-mapper.md)
+- [Expert outreach generator](access/expert-outreach-generator.md)
+- [Sequencing and biomarker decision checklist](access/sequencing-biomarker-decision-checklist.md)
+- [Neoantigen and mRNA trial finder](access/neoantigen-mrna-trial-finder.md)
+- [Resistance tracker](access/resistance-tracker.md)
+- [Scam filter for desperate cancer moments](access/cancer-treatment-scam-filter.md)
+- [Rosie Playbook next crawl](crawl-queue/rosie-playbook-next-crawl.md)
+
+First Rosie Playbook visual:
+
+![The Rosie playbook translated safely for humans](visuals/rosie-playbook-human-cancer-access.svg)
+
+Access safety boundary: this wiki can help people assemble a precise case packet, draft expert outreach, ask about tumor sequencing and biomarkers, find legitimate trials, and discuss expanded access or advanced personalized options with clinicians. It must not diagnose, prescribe, recommend DIY therapy, or tell someone to start, stop, delay, dose, combine, manufacture, procure, or self-administer treatment.
+
 ## Research Method
 
 This project should grow mostly through automated crawling, source triage, synthesis, and visual explanation.

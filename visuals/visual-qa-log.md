@@ -295,6 +295,7 @@ Repository note:
 | mRNA clinical infrastructure SVG | Passed | Headless Chrome nonblank passed; contact-sheet preview checked | Not applicable |
 | mRNA clinical infrastructure localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Mandarin/Russian contact-sheet previews checked | Still needed |
 | mRNA trial endpoint evidence ladder SVG | Passed | Headless Chrome nonblank passed; contact-sheet preview checked | Not applicable |
+| Rosie Playbook human cancer access SVG | Passed | Headless Chrome nonblank passed; contact-sheet preview checked | Not applicable |
 
 ## Next Visual QA Tasks
 

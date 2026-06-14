@@ -135,6 +135,7 @@ Recommended top-level areas:
 - `prevention/` for risk factors, protective factors, vaccines, screening, and population health.
 - `therapeutics/` for treatment modalities and intervention classes.
 - `mrna/` for mRNA cancer vaccine and therapeutic knowledge.
+- `access/` for Rosie-style advanced-options access navigation, case packets, sequencing/biomarker checklists, expert outreach, molecular tumor board questions, trial legitimacy, resistance tracking, expanded-access literacy, and scam avoidance.
 - `visuals/` for infographic plans, visual scripts, image prompts, and final assets.
 - `questions/` for answered user questions with citations and confidence labels.
 - `hypotheses/` for active scientific hypotheses and experiment maps.

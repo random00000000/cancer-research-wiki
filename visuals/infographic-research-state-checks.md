@@ -71,6 +71,8 @@ Current mRNA clinical-infrastructure safety visual: `visuals/mrna-clinical-infra
 
 Current mRNA trial endpoint evidence ladder: `visuals/mrna-trial-endpoints-evidence-ladder.svg`
 
+Current Rosie Playbook human cancer access visual: `visuals/rosie-playbook-human-cancer-access.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -1392,3 +1394,36 @@ Do not add trial endpoint ladders or mRNA clinical-chain details to the Goal 1 p
 ### Translation Impact
 
 First-pass clinical-infrastructure visuals now exist for Spanish, German, Mandarin Chinese, and Russian. Native or expert review remains necessary before public-final promotion, especially for safety-boundary wording.
+
+## 2026-06-14 Check: Rosie Playbook For Human Cancer Access
+
+New access pages:
+
+- `access/README.md`
+- `access/rosie-case-action-map.md`
+- `access/cancer-case-packet-builder.md`
+- `access/advanced-options-mapper.md`
+- `access/expert-outreach-generator.md`
+- `access/sequencing-biomarker-decision-checklist.md`
+- `access/neoantigen-mrna-trial-finder.md`
+- `access/resistance-tracker.md`
+- `access/cancer-treatment-scam-filter.md`
+
+New source card and crawl queue:
+
+- `sources/access/rosie-case-and-advanced-access-anchors.md`
+- `crawl-queue/rosie-playbook-next-crawl.md`
+
+New visual:
+
+- `visuals/rosie-playbook-human-cancer-access.svg`
+
+### What Changed
+
+- The access layer now centers the Rosie-case lesson: AI did not replace medicine; it helped a determined person organize research and recruit real sequencing, RNA, immunotherapy, ethics, and oncology infrastructure.
+- The human workflow is framed as case-packet building, decision-grade tumor data, AI-assisted literature/trial mapping, expert outreach, molecular tumor board review, legitimate trial or expanded-access discussion, and response/resistance tracking.
+- The playbook explicitly rejects DIY mRNA, vaccine, drug, cell therapy, procurement, self-injection, and dosing instructions.
+
+### Decision For The Flagship Infographic
+
+Do not add the Rosie Playbook to the Goal 1 prevention infographic. It is an advanced-access companion workflow for people facing serious cancer decisions, not population-level cancer literacy.
