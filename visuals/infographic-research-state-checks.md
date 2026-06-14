@@ -59,6 +59,8 @@ Current night shift drowsy-driving safety visual: `visuals/night-shift-drowsy-dr
 
 Current night shift sleep-disorder support visual: `visuals/night-shift-sleep-disorder-support.svg`
 
+Current mRNA cancer therapy pathway visual: `visuals/mrna-cancer-therapy-pathway.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -193,6 +195,13 @@ Current localized night-shift sleep-disorder support variants:
 - German: `visuals/night-shift-sleep-disorder-support.de.svg`
 - Mandarin Chinese: `visuals/night-shift-sleep-disorder-support.zh.svg`
 - Russian: `visuals/night-shift-sleep-disorder-support.ru.svg`
+
+Current localized mRNA cancer therapy pathway variants:
+
+- Spanish: `visuals/mrna-cancer-therapy-pathway.es.svg`
+- German: `visuals/mrna-cancer-therapy-pathway.de.svg`
+- Mandarin Chinese: `visuals/mrna-cancer-therapy-pathway.zh.svg`
+- Russian: `visuals/mrna-cancer-therapy-pathway.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -1164,3 +1173,42 @@ Instead:
 ### Translation Impact
 
 First-pass sleep-disorder support visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because sleep-disorder terms, emergency mental-health wording, pregnancy language, medication access, and occupational-health pathways vary by country.
+
+## 2026-06-14 Check: mRNA Cancer Therapy Pathway
+
+New mRNA foundation pages:
+
+- `mrna/README.md`
+- `mrna/public-mrna-cancer-therapy-explainer.md`
+- `mrna/mrna-cancer-therapy-pathway.md`
+- `mrna/trial-landscape.md`
+- `crawl-queue/mrna-frontier-next-crawl.md`
+
+New visual:
+
+- `visuals/mrna-cancer-therapy-pathway.svg`
+- `visuals/mrna-cancer-therapy-pathway.es.svg`
+- `visuals/mrna-cancer-therapy-pathway.de.svg`
+- `visuals/mrna-cancer-therapy-pathway.zh.svg`
+- `visuals/mrna-cancer-therapy-pathway.ru.svg`
+
+### What Changed
+
+- The wiki now has the first dedicated mRNA cancer-therapy foundation track.
+- The first public message is not "make your own cure." It is: mRNA is a temporary instruction, and cancer mRNA therapy requires a regulated clinical chain.
+- The trial landscape starts with mRNA-4157/V940 in resected high-risk melanoma, autogene cevumeran in pancreatic ductal adenocarcinoma, and trial-in-progress targets across NSCLC, bladder, renal cell, colorectal, melanoma, and pancreatic cancer.
+- The visual makes clinical infrastructure visible: biopsy, sequencing, antigen selection, regulated manufacturing, release testing, oncology monitoring, and adverse-event care.
+
+### Decision For The Flagship Infographic
+
+Do not add mRNA cancer therapy to the Goal 1 public prevention infographic yet. It belongs in the mRNA vanguard section, not the everyday prevention graphic.
+
+Instead:
+
+- Use `visuals/mrna-cancer-therapy-pathway.svg` as the first public mRNA companion visual.
+- Keep the flagship cancer literacy image focused on what cancer is, how it grows, and population-level prevention/screening.
+- Keep the mRNA track explicitly labeled as research intelligence and clinical-trial literacy, not treatment instruction.
+
+### Translation Impact
+
+First-pass mRNA pathway visuals exist for Spanish, German, Mandarin Chinese, and Russian. They need native review because mRNA, neoantigen, HLA, clinical trial, manufacturing, and treatment-boundary terms are easy to mistranslate or overstate.

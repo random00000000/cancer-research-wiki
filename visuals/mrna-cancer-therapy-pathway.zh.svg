@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">mRNA癌症治疗需要临床链条</title>
+  <desc id="desc">公共信息图：从肿瘤样本到mRNA癌症疫苗、免疫反应和临床监测的安全路径，以及为什么这不是自制疗法。</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#102033">mRNA癌症治疗需要临床链条</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">mRNA是临时指令。真正的治疗包括围绕它的整个受监管流程。</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e3f3ee" stroke="#14745d" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#14745d"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">寻找靶点</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">肿瘤和正常样本被测序，</text>
+  <text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">以寻找免疫系统能看见的</text>
+  <text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">癌症靶点。</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">关键 idea</text>
+  <text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">不是每个突变都能成为</text>
+  <text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">有用的免疫靶点。</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff0d6" stroke="#b56512" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b56512"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">制造并递送</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">选中的靶点被编码成</text>
+  <text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">mRNA，并包装用于</text>
+  <text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">临床递送。</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">关键 idea</text>
+  <text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">递送、质量检测和时间</text>
+  <text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">可能决定成败。</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#e9ecff" stroke="#4b57b8" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#4b57b8"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">训练T细胞</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">细胞展示靶点片段，</text>
+  <text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">让T细胞可能识别</text>
+  <text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">相同靶点的癌细胞。</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">关键 idea</text>
+  <text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">免疫反应不等于</text>
+  <text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">已经治愈。</text>
+  <rect x="92" y="655" width="625" height="200" rx="16" fill="#102033"/>
+  <text x="130" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#ffffff">临床基础设施也是治疗</text>
+  <text x="130" y="748" font-family="Arial" font-size="23" fill="#f8fafc">活检、测序、抗原排序、无菌制造、</text>
+  <text x="130" y="778" font-family="Arial" font-size="23" fill="#f8fafc">放行检测、肿瘤科监测和不良事件处理</text>
+  <text x="130" y="808" font-family="Arial" font-size="23" fill="#f8fafc">都不是附加项。</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#fbeeb8" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">安全边界</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">本wiki可以解释试验和机制。</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">不能提供自制疫苗设计、剂量、制造、</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">购买或自我治疗说明。</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">证据锚点：mRNA-4157/V940黑色素瘤试验；autogene cevumeran胰腺癌研究；LNP和新抗原综述。</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">目的：理解领域、提出更好问题，并与合格的临床和研究团队合作。</text>
+</svg>

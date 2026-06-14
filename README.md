@@ -426,6 +426,27 @@ This track should monitor:
 
 The goal is research intelligence. Experimental mRNA concepts must never be presented as proven treatment recommendations.
 
+Current mRNA foundation:
+
+- [mRNA cancer knowledge vanguard index](mrna/README.md)
+- [Plain-language mRNA cancer therapy explainer](mrna/public-mrna-cancer-therapy-explainer.md)
+- [Tumor-to-vaccine clinical translation pathway](mrna/mrna-cancer-therapy-pathway.md)
+- [Starter mRNA cancer trial and evidence landscape](mrna/trial-landscape.md)
+- [mRNA frontier crawl queue](crawl-queue/mrna-frontier-next-crawl.md)
+
+First mRNA explainer visual:
+
+![mRNA cancer therapy needs a clinical chain](visuals/mrna-cancer-therapy-pathway.svg)
+
+Localized mRNA explainer variants:
+
+- [Spanish mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.es.svg)
+- [German mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.de.svg)
+- [Mandarin Chinese mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.zh.svg)
+- [Russian mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.ru.svg)
+
+Safety boundary: this wiki can explain mRNA cancer mechanisms, trial landscapes, and questions to ask clinicians or trial teams. It must not provide DIY vaccine design, dosing, manufacturing, procurement, or self-treatment instructions.
+
 ## Research Method
 
 This project should grow mostly through automated crawling, source triage, synthesis, and visual explanation.

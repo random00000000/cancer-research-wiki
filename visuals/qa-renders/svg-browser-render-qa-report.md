@@ -1,11 +1,11 @@
 # SVG Browser Render QA Report
 
-Date: 2026-06-12
+Date: 2026-06-14
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 141
-Nonblank renders: 141
+SVG files rendered: 146
+Nonblank renders: 146
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -22,6 +22,7 @@ Blank or near-blank renders: 0
 - `visuals/qa-renders/contact-sheets/contact-sheet-10.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-11.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-12.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-13.png`
 
 ## Limits
 
@@ -108,6 +109,11 @@ Blank or near-blank renders: 0
 | `metabolic-health-cancer-prevention.ru.svg` | 1500x980 | True | 38.78 |
 | `metabolic-health-cancer-prevention.svg` | 1500x980 | True | 38.71 |
 | `metabolic-health-cancer-prevention.zh.svg` | 1500x980 | True | 36.64 |
+| `mrna-cancer-therapy-pathway.de.svg` | 1500x980 | True | 38.72 |
+| `mrna-cancer-therapy-pathway.es.svg` | 1500x980 | True | 38.68 |
+| `mrna-cancer-therapy-pathway.ru.svg` | 1500x980 | True | 38.83 |
+| `mrna-cancer-therapy-pathway.svg` | 1500x980 | True | 38.60 |
+| `mrna-cancer-therapy-pathway.zh.svg` | 1500x980 | True | 37.80 |
 | `night-shift-drowsy-driving-safety.de.svg` | 1500x980 | True | 37.20 |
 | `night-shift-drowsy-driving-safety.es.svg` | 1500x980 | True | 36.62 |
 | `night-shift-drowsy-driving-safety.ru.svg` | 1500x980 | True | 36.86 |

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">La terapia mRNA contra cancer necesita una cadena clinica</title>
+  <desc id="desc">Infografia publica sobre el camino seguro desde muestra tumoral hasta vacuna mRNA, respuesta inmune, monitoreo y por que no es una cura casera.</desc>
+  <rect width="1500" height="980" fill="#f8fbfb"/>
+  <rect x="48" y="45" width="1404" height="890" rx="26" fill="#ffffff" stroke="#24313d" stroke-width="3"/>
+  <text x="92" y="108" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#102033">La terapia mRNA contra cancer necesita una cadena clinica</text>
+  <text x="94" y="154" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#334155">El mRNA es una instruccion temporal. La terapia es todo el camino regulado alrededor.</text>
+  <rect x="92" y="218" width="392" height="392" rx="18" fill="#e3f3ee" stroke="#14745d" stroke-width="3"/>
+  <circle cx="152" cy="284" r="40" fill="#14745d"/><text x="143" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">1</text>
+  <text x="122" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Encontrar blancos</text>
+  <text x="122" y="396" font-family="Arial" font-size="22" fill="#334155">Muestras de tumor y sangre</text>
+  <text x="122" y="424" font-family="Arial" font-size="22" fill="#334155">se secuencian para buscar</text>
+  <text x="122" y="452" font-family="Arial" font-size="22" fill="#334155">blancos visibles del cancer.</text>
+  <text x="122" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Idea clave</text>
+  <text x="122" y="548" font-family="Arial" font-size="21" fill="#334155">No toda mutacion es un</text>
+  <text x="122" y="576" font-family="Arial" font-size="21" fill="#334155">buen blanco inmune.</text>
+  <rect x="555" y="218" width="392" height="392" rx="18" fill="#fff0d6" stroke="#b56512" stroke-width="3"/>
+  <circle cx="615" cy="284" r="40" fill="#b56512"/><text x="606" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">2</text>
+  <text x="585" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Fabricar y entregar</text>
+  <text x="585" y="396" font-family="Arial" font-size="22" fill="#334155">Los blancos elegidos se codifican</text>
+  <text x="585" y="424" font-family="Arial" font-size="22" fill="#334155">como mRNA y se empaquetan</text>
+  <text x="585" y="452" font-family="Arial" font-size="22" fill="#334155">para uso clinico.</text>
+  <text x="585" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Idea clave</text>
+  <text x="585" y="548" font-family="Arial" font-size="21" fill="#334155">Entrega, calidad y tiempo</text>
+  <text x="585" y="576" font-family="Arial" font-size="21" fill="#334155">pueden decidir el resultado.</text>
+  <rect x="1018" y="218" width="392" height="392" rx="18" fill="#e9ecff" stroke="#4b57b8" stroke-width="3"/>
+  <circle cx="1078" cy="284" r="40" fill="#4b57b8"/><text x="1069" y="299" font-family="Arial" font-size="38" font-weight="800" fill="#ffffff">3</text>
+  <text x="1048" y="352" font-family="Arial" font-size="30" font-weight="800" fill="#102033">Ensenar a celulas T</text>
+  <text x="1048" y="396" font-family="Arial" font-size="22" fill="#334155">Las celulas muestran fragmentos</text>
+  <text x="1048" y="424" font-family="Arial" font-size="22" fill="#334155">para que las T reconozcan</text>
+  <text x="1048" y="452" font-family="Arial" font-size="22" fill="#334155">celulas cancerosas.</text>
+  <text x="1048" y="512" font-family="Arial" font-size="25" font-weight="800" fill="#102033">Idea clave</text>
+  <text x="1048" y="548" font-family="Arial" font-size="21" fill="#334155">Respuesta inmune no es</text>
+  <text x="1048" y="576" font-family="Arial" font-size="21" fill="#334155">lo mismo que cura.</text>
+  <rect x="92" y="655" width="625" height="200" rx="16" fill="#102033"/>
+  <text x="130" y="700" font-family="Arial" font-size="29" font-weight="800" fill="#ffffff">La infraestructura clinica</text>
+  <text x="130" y="734" font-family="Arial" font-size="29" font-weight="800" fill="#ffffff">tambien es terapia</text>
+  <text x="130" y="772" font-family="Arial" font-size="21" fill="#f8fafc">Biopsia, secuenciacion, antigenos, fabricacion</text>
+  <text x="130" y="800" font-family="Arial" font-size="21" fill="#f8fafc">esteril, pruebas, monitoreo oncologico</text>
+  <text x="130" y="828" font-family="Arial" font-size="21" fill="#f8fafc">y manejo de eventos adversos no son extras.</text>
+  <rect x="775" y="655" width="635" height="200" rx="18" fill="#fbeeb8" stroke="#8a6b05" stroke-width="3"/>
+  <text x="814" y="705" font-family="Arial" font-size="31" font-weight="800" fill="#102033">Limite de seguridad</text>
+  <text x="814" y="748" font-family="Arial" font-size="23" fill="#111827">Esta wiki puede explicar ensayos y mecanismos.</text>
+  <text x="814" y="778" font-family="Arial" font-size="23" fill="#111827">No debe dar diseno casero, dosis, fabricacion,</text>
+  <text x="814" y="808" font-family="Arial" font-size="23" fill="#111827">compra o instrucciones de autotratamiento.</text>
+  <text x="92" y="890" font-family="Arial" font-size="19" fill="#334155">Anclas: ensayo melanoma mRNA-4157/V940; estudios autogene cevumeran; revisiones de LNP y neoantigenos.</text>
+  <text x="92" y="920" font-family="Arial" font-size="16" fill="#64748b">Proposito: entender el campo, hacer mejores preguntas y trabajar con equipos clinicos y de investigacion.</text>
+</svg>

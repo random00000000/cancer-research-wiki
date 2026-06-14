@@ -284,6 +284,18 @@ This public safety visual separates ordinary night-shift fatigue from symptoms t
 | Mandarin Chinese | [night-shift-sleep-disorder-support.zh.svg](../visuals/night-shift-sleep-disorder-support.zh.svg) | First localized SVG; native review needed |
 | Russian | [night-shift-sleep-disorder-support.ru.svg](../visuals/night-shift-sleep-disorder-support.ru.svg) | First localized SVG; native review needed |
 
+## mRNA Cancer Therapy Pathway Visual Variants
+
+This public visual explains that mRNA cancer therapy is not just a molecule or a recipe. It is a clinical chain involving tumor sampling, sequencing, target selection, regulated manufacturing, delivery, immune response, monitoring, and adverse-event care. These translations need native review because mRNA, neoantigen, trial, manufacturing, and treatment-boundary language vary by country and health system.
+
+| Language | Image | Status |
+| --- | --- | --- |
+| English | [mrna-cancer-therapy-pathway.svg](../visuals/mrna-cancer-therapy-pathway.svg) | Canonical first-pass SVG |
+| Spanish | [mrna-cancer-therapy-pathway.es.svg](../visuals/mrna-cancer-therapy-pathway.es.svg) | First localized SVG; native review needed |
+| German | [mrna-cancer-therapy-pathway.de.svg](../visuals/mrna-cancer-therapy-pathway.de.svg) | First localized SVG; native review needed |
+| Mandarin Chinese | [mrna-cancer-therapy-pathway.zh.svg](../visuals/mrna-cancer-therapy-pathway.zh.svg) | First localized SVG; native review needed |
+| Russian | [mrna-cancer-therapy-pathway.ru.svg](../visuals/mrna-cancer-therapy-pathway.ru.svg) | First localized SVG; native review needed |
+
 ## Colorectal Food Pattern Visual Variants
 
 This public visual focuses on fiber-rich foods, processed-meat limitation, colorectal screening, systems access, and symptom safety. These translations should receive native review because food names, screening terms, and shame-sensitive wording vary by country and language.

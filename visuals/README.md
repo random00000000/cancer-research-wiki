@@ -161,6 +161,11 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 
 | Visual | Asset | Status |
 | --- | --- | --- |
+| mRNA cancer therapy clinical pathway | `mrna-cancer-therapy-pathway.svg` | First-pass English SVG |
+| mRNA cancer therapy clinical pathway - Spanish | `mrna-cancer-therapy-pathway.es.svg` | First localized SVG; native review needed |
+| mRNA cancer therapy clinical pathway - German | `mrna-cancer-therapy-pathway.de.svg` | First localized SVG; native review needed |
+| mRNA cancer therapy clinical pathway - Mandarin Chinese | `mrna-cancer-therapy-pathway.zh.svg` | First localized SVG; native review needed |
+| mRNA cancer therapy clinical pathway - Russian | `mrna-cancer-therapy-pathway.ru.svg` | First localized SVG; native review needed |
 | How cancer keeps adapting | `cancer-keeps-adapting.svg` | First-pass English SVG |
 | How cancer keeps adapting - Spanish | `cancer-keeps-adapting.es.svg` | First localized SVG |
 | How cancer keeps adapting - German | `cancer-keeps-adapting.de.svg` | First localized SVG |

@@ -1,7 +1,7 @@
 # Visual QA Log
 
 Status: active
-Last updated: 2026-06-12
+Last updated: 2026-06-14
 
 This log records practical visual and accessibility checks for Goal 1 SVG assets. XML validity is not the same as human visual quality, so this file separates what has been verified from what still needs browser or native-language review.
 
@@ -178,7 +178,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 141 SVG files in `visuals/`.
+- All 146 SVG files in `visuals/`.
 
 Tooling:
 
@@ -200,11 +200,12 @@ Generated artifacts:
 - `visuals/qa-renders/contact-sheets/contact-sheet-10.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-11.png`
 - `visuals/qa-renders/contact-sheets/contact-sheet-12.png`
+- `visuals/qa-renders/contact-sheets/contact-sheet-13.png`
 
 Result:
 
-- Headless Chrome rendered all 141 SVG files at their declared canvas sizes.
-- All 141 renders were nonblank.
+- Headless Chrome rendered all 146 SVG files at their declared canvas sizes.
+- All 146 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -224,6 +225,7 @@ Result:
 - The night-shift worker protection visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 - The night-shift drowsy-driving safety visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 - The night-shift sleep-disorder support visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
+- The mRNA cancer therapy pathway visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit, and dark-panel clipping was corrected.
 
 Repository note:
 
@@ -280,6 +282,8 @@ Repository note:
 | Radon/home lung cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | Air pollution lung cancer SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | Air pollution lung cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
+| mRNA cancer therapy pathway SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked; dark-panel clipping fixed | Not applicable |
+| mRNA cancer therapy pathway localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Mandarin/Russian full-size previews checked | Still needed |
 
 ## Next Visual QA Tasks
 
