@@ -7,6 +7,8 @@ Audience label: trial landscape review, patient question preparation, research i
 
 This page starts the trial map for mRNA cancer vaccines and therapeutics. It is incomplete by design and should be expanded into source cards and disease-specific pages.
 
+For a more structured registry snapshot, see `trial-tracker.md`.
+
 ## Current Evidence Tiers
 
 | Tier | Meaning | Current examples |
@@ -35,6 +37,8 @@ This page starts the trial map for mRNA cancer vaccines and therapeutics. It is 
 - `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`
 - `sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md`
 - `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`
+- `sources/mrna/platform-regulation-and-manufacturing-quality.md`
+- `sources/mrna/innate-immune-sensing-mrna-vaccines.md`
 
 ## What To Track For Every Trial
 
@@ -68,7 +72,7 @@ The next frontier question is not "can mRNA make a target?" It is:
 
 ## Follow-Up Crawl Targets
 
-- NCT05933577, NCT06077760, NCT06295809, NCT06307431, NCT06305767, NCT05968326, NCT04486378.
+- NCT05933577, NCT06077760, NCT06623422, NCT06295809, NCT06307431, NCT06305767, NCT05968326, NCT04486378, NCT04526899.
 - Peer-reviewed updates after company or conference announcements.
 - Failed or discontinued mRNA cancer vaccine programs.
 - Shared-antigen mRNA vaccines, including tumor-associated antigen approaches.

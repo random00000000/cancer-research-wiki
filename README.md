@@ -441,6 +441,9 @@ Current mRNA mechanism layer:
 - [mRNA delivery: lipid nanoparticles, lipoplexes, and targeting](mrna/delivery-lnp-and-lipoplex.md)
 - [Antigen presentation and dendritic cells](mrna/antigen-presentation-and-dendritic-cells.md)
 - [Immune escape, safety signals, and combination logic](mrna/immune-escape-safety-and-combinations.md)
+- [Manufacturing constraints for personalized mRNA cancer therapy](mrna/manufacturing-constraints.md)
+- [Innate immune sensing in mRNA cancer vaccines](mrna/innate-immune-sensing.md)
+- [mRNA cancer trial tracker](mrna/trial-tracker.md)
 
 Started mRNA source-card set:
 
@@ -448,10 +451,14 @@ Started mRNA source-card set:
 - [Autogene cevumeran personalized mRNA-lipoplex trials](sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md)
 - [BNT111 FixVac shared-antigen mRNA vaccine in melanoma](sources/mrna/bnt111-fixvac-shared-antigen-melanoma.md)
 - [LNP and mRNA cancer vaccine delivery reviews](sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md)
+- [mRNA platform regulation and manufacturing quality](sources/mrna/platform-regulation-and-manufacturing-quality.md)
+- [Innate immune sensing in mRNA vaccines](sources/mrna/innate-immune-sensing-mrna-vaccines.md)
 
 First mRNA explainer visual:
 
 ![mRNA cancer therapy needs a clinical chain](visuals/mrna-cancer-therapy-pathway.svg)
+
+![A mutation is not automatically a vaccine target](visuals/mrna-neoantigen-selection-funnel.svg)
 
 Localized mRNA explainer variants:
 

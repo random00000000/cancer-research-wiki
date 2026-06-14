@@ -61,6 +61,8 @@ Current night shift sleep-disorder support visual: `visuals/night-shift-sleep-di
 
 Current mRNA cancer therapy pathway visual: `visuals/mrna-cancer-therapy-pathway.svg`
 
+Current mRNA neoantigen selection funnel visual: `visuals/mrna-neoantigen-selection-funnel.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -1241,3 +1243,27 @@ New mRNA source cards:
 ### Decision For Visuals
 
 No new SVG was added in this mechanism pass. The next visual should probably be either "How T cells learn a cancer target" or "How a personalized neoantigen target is selected," but only after the mechanism pages receive a deeper source-card expansion.
+
+## 2026-06-14 Check: mRNA Manufacturing, Innate Sensing, Trial Tracker, And Neoantigen Funnel
+
+New mRNA pages:
+
+- `mrna/manufacturing-constraints.md`
+- `mrna/innate-immune-sensing.md`
+- `mrna/trial-tracker.md`
+
+New mRNA source cards:
+
+- `sources/mrna/platform-regulation-and-manufacturing-quality.md`
+- `sources/mrna/innate-immune-sensing-mrna-vaccines.md`
+
+New visual:
+
+- `visuals/mrna-neoantigen-selection-funnel.svg`
+
+### What Changed
+
+- The wiki now explains why personalized mRNA cancer therapy can fail at tissue quality, sequencing, target ranking, manufacturing, release testing, chain of identity, or clinical timing.
+- The innate-sensing page explains that RNA immune detection is a balance, not simply "more inflammation is better."
+- The trial tracker starts a registry-backed table with current ClinicalTrials.gov status, phase, enrollment, and primary endpoint fields checked on 2026-06-14.
+- The new visual gives everyday readers the central neoantigen-selection lesson: many mutations narrow down to a few candidate targets, and target selection is clinical research infrastructure, not a recipe.

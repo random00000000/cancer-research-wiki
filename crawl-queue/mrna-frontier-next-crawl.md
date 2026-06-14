@@ -8,8 +8,10 @@ Last updated: 2026-06-14
 - Expand the starter source cards for mRNA-4157/V940/intismeran autogene, KEYNOTE-942, INTerpath-001, and company-reported five-year follow-up.
 - Expand the starter source cards for autogene cevumeran in pancreatic ductal adenocarcinoma, including the phase 1 Nature papers and phase 2 trial records.
 - Expand the BNT111 FixVac shared-antigen source card once full peer-reviewed NCT04526899 phase 2 results are available.
-- Create deeper mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
+- Create deeper mechanism pages for HLA restriction, safety signals, checkpoint-combination logic, neoantigen prediction, and tumor microenvironment resistance.
+- Expand the new innate immune sensing and manufacturing constraints pages with more source cards and trial-correlative evidence.
 - Expand delivery pages for lipid nanoparticles, mRNA-lipoplexes, dendritic-cell loading, tissue targeting, and innate immune sensing.
+- Refresh `mrna/trial-tracker.md` from ClinicalTrials.gov before every major trial-landscape pass.
 - Create manufacturing pages for tumor sample requirements, sequencing, neoantigen prediction, mRNA construct design at a non-protocol level, GMP manufacturing, release testing, and manufacturing failure.
 
 ## Trial Crawl Targets
@@ -20,8 +22,10 @@ Last updated: 2026-06-14
 - NCT06295809: V940 plus pembrolizumab in cutaneous squamous cell carcinoma.
 - NCT06307431: V940 plus pembrolizumab in renal cell carcinoma.
 - NCT06305767: V940 plus pembrolizumab in urothelial carcinoma.
+- NCT06623422: V940 plus pembrolizumab in non-small cell lung cancer.
 - NCT05968326: autogene cevumeran plus atezolizumab and mFOLFIRINOX in pancreatic ductal adenocarcinoma.
 - NCT04486378: RO7198457/autogene cevumeran colorectal setting.
+- NCT04526899: BNT111 and cemiplimab in advanced melanoma.
 
 ## Safety And Communication Tasks
 

@@ -174,11 +174,11 @@ Browser QA attempt:
 - The temporary server was stopped after the blocked attempt.
 - Because browser rendering was blocked, this pass does not prove absence of text clipping, font fallback issues, or cross-browser layout problems.
 
-## 2026-06-12 Headless Chrome Render QA
+## 2026-06-14 Headless Chrome Render QA
 
 Scope:
 
-- All 146 SVG files in `visuals/`.
+- All 147 SVG files in `visuals/`.
 
 Tooling:
 
@@ -204,8 +204,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 146 SVG files at their declared canvas sizes.
-- All 146 renders were nonblank.
+- Headless Chrome rendered all 147 SVG files at their declared canvas sizes.
+- All 147 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -226,6 +226,7 @@ Result:
 - The night-shift drowsy-driving safety visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 - The night-shift sleep-disorder support visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit.
 - The mRNA cancer therapy pathway visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit, and dark-panel clipping was corrected.
+- The mRNA neoantigen selection funnel visual was included in the latest render pass; the English full-size preview was inspected before commit.
 
 Repository note:
 
@@ -284,6 +285,7 @@ Repository note:
 | Air pollution lung cancer localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Russian/Mandarin full-size previews checked | Still needed |
 | mRNA cancer therapy pathway SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked; dark-panel clipping fixed | Not applicable |
 | mRNA cancer therapy pathway localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Mandarin/Russian full-size previews checked | Still needed |
+| mRNA neoantigen selection funnel SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 
 ## Next Visual QA Tasks
 
