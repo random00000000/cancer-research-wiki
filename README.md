@@ -470,6 +470,8 @@ First mRNA explainer visual:
 
 ![A mutation is not automatically a vaccine target](visuals/mrna-neoantigen-selection-funnel.svg)
 
+![LNP delivery is part of the therapy](visuals/mrna-lnp-delivery-immune-teaching.svg)
+
 Localized mRNA explainer variants:
 
 - [Spanish mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.es.svg)

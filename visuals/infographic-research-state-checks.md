@@ -63,6 +63,8 @@ Current mRNA cancer therapy pathway visual: `visuals/mrna-cancer-therapy-pathway
 
 Current mRNA neoantigen selection funnel visual: `visuals/mrna-neoantigen-selection-funnel.svg`
 
+Current mRNA LNP delivery and immune teaching visual: `visuals/mrna-lnp-delivery-immune-teaching.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -1292,3 +1294,24 @@ New mRNA cancer-type pages:
 ### Decision For Visuals
 
 No new SVG was added in this disease-page pass. The next visual should focus on either LNP delivery or T-cell antigen presentation, because the current public visuals already cover clinical chain and neoantigen selection.
+
+## 2026-06-14 Check: mRNA LNP Delivery Visual
+
+New source-backed visual:
+
+- `visuals/mrna-lnp-delivery-immune-teaching.svg`
+
+Updated support pages:
+
+- `mrna/delivery-lnp-and-lipoplex.md`
+- `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`
+
+### What Changed
+
+- The wiki now has a public LNP delivery visual that explains protection, cell uptake, endosomal escape, antigen display, and clinical monitoring.
+- The visual explicitly marks the safety boundary: no formulation ratios, recipes, dosing, or self-treatment instructions.
+- The delivery source card now flags dendritic-cell and spleen immune-cell targeting as promising but often preclinical or product-specific.
+
+### Decision For The Flagship Infographic
+
+Do not add LNP mechanics to the Goal 1 public prevention infographic. LNP delivery belongs in the mRNA vanguard companion visual set, where clinical-trial and research-safety boundaries can remain visible.

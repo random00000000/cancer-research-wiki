@@ -9,6 +9,8 @@ Last updated: 2026-06-14
 - LNP cancer vaccine review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11336688/
 - Clinical-frontier mRNA-LNP review: https://pmc.ncbi.nlm.nih.gov/articles/PMC12707129/
 - Recent LNP cancer vaccine delivery review: https://pmc.ncbi.nlm.nih.gov/articles/PMC12854052/
+- Dendritic-cell targeting LNP review/paper anchor: https://pmc.ncbi.nlm.nih.gov/articles/PMC9413374/
+- Spleen immune-cell targeting LNP study anchor: https://www.mdpi.com/1424-8247/15/8/1017
 - Biological domain: delivery systems, lipid nanoparticles, dendritic-cell uptake, endosomal escape, innate immune sensing
 
 ## Main Findings
@@ -17,6 +19,7 @@ Last updated: 2026-06-14
 - LNPs and lipoplexes protect mRNA, help cells take it up, and influence where the mRNA goes in the body.
 - Delivery chemistry can affect immune activation, toxicity, tissue distribution, endosomal escape, manufacturability, and repeat dosing.
 - The cancer-vaccine problem is not just making mRNA; the mRNA has to reach antigen-presenting contexts that can prime useful T-cell responses.
+- Preclinical and translational papers explore dendritic-cell and spleen immune-cell targeting, but human clinical relevance has to be shown product by product.
 
 ## Claims Safe To Reuse
 
@@ -36,4 +39,3 @@ Last updated: 2026-06-14
 - Route-of-administration comparisons.
 - Repeat-dose toxicity and anti-PEG/complement-related reactions.
 - Dendritic-cell-targeted LNPs, mannose targeting, and organ-selective delivery papers.
-

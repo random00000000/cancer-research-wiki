@@ -60,6 +60,7 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 
 - `visuals/mrna-cancer-therapy-pathway.svg`
 - `visuals/mrna-neoantigen-selection-funnel.svg`
+- `visuals/mrna-lnp-delivery-immune-teaching.svg`
 - First localized variants: `visuals/mrna-cancer-therapy-pathway.es.svg`, `visuals/mrna-cancer-therapy-pathway.de.svg`, `visuals/mrna-cancer-therapy-pathway.zh.svg`, and `visuals/mrna-cancer-therapy-pathway.ru.svg`
 
 ## Current Vanguard Reading
@@ -90,4 +91,4 @@ The strongest current signal is not "mRNA cures cancer." The stronger and safer 
 - Expand mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
 - Expand cancer-type pages and add glioblastoma, breast cancer, gastric cancer, head and neck cancer, and prostate cancer if credible mRNA evidence emerges.
 - Expand the trial tracker with sponsor, geography, publication status, toxicity, and manufacturing fields.
-- Visuals for LNP delivery, neoantigen selection, immune response, manufacturing constraints, and trial endpoints.
+- Visuals for T-cell immune response, manufacturing constraints, and trial endpoints.

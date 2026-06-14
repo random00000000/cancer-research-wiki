@@ -48,7 +48,7 @@ Last updated: 2026-06-14
 - QA the first mRNA pathway visual and localized variants.
 - Create companion visuals for:
   - "What is mRNA?"
-  - "How a personalized neoantigen vaccine is selected"
-  - "How LNP delivery works"
+  - Localized versions of "How a personalized neoantigen vaccine is selected"
+  - Localized versions of "How LNP delivery works"
   - "How T cells learn a cancer target"
   - "Why clinical infrastructure is part of the therapy"

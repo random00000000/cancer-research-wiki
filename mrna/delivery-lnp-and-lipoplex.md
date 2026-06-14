@@ -31,6 +31,7 @@ mRNA is like a temporary instruction, but an instruction only helps if it reache
 - Delivery is a therapeutic design variable, not just packaging.
 - Reviews emphasize that LNP composition affects immune activation, antigen presentation, biodistribution, toxicity, and manufacturability. See `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`.
 - Cancer vaccines may need different delivery behavior than infectious-disease vaccines because the goal is often strong cellular immunity against weak or private tumor targets.
+- Public visual: `visuals/mrna-lnp-delivery-immune-teaching.svg`.
 
 ## What Remains Uncertain
 
@@ -38,8 +39,8 @@ mRNA is like a temporary instruction, but an instruction only helps if it reache
 - How to balance innate immune stimulation against excessive inflammation and tolerability problems.
 - Whether preclinical organ/cell targeting translates reliably to humans.
 - How repeat dosing changes safety, immune recognition of the carrier, and response quality.
+- Which delivery findings remain preclinical and which have human cancer-vaccine evidence.
 
 ## Hard Safety Boundary
 
 Do not turn delivery research into formulation, manufacturing, dosing, or self-administration instructions. Delivery chemistry belongs inside regulated laboratory and clinical systems.
-
