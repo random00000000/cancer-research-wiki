@@ -33,6 +33,8 @@ mRNA cancer vaccines do not directly "kill cancer." They try to teach immune cel
 
 - Autogene cevumeran advanced solid tumor data reported poly-epitopic CD4+ and/or CD8+ neoantigen-specific responses in a phase 1 setting. See `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`.
 - Delivery reviews emphasize that antigen-presenting cell access and innate immune context shape vaccine performance. See `sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md`.
+- Immune-response interpretation needs endpoint caution. See `sources/mrna/t-cell-response-and-clinical-endpoints.md`.
+- Public visual: `visuals/mrna-t-cell-immune-response.svg`.
 
 ## What Remains Uncertain
 
@@ -40,8 +42,8 @@ mRNA cancer vaccines do not directly "kill cancer." They try to teach immune cel
 - How much immune activation is helpful versus harmful.
 - Which blood immune assays best reflect tumor-site T-cell function.
 - Whether a measured T-cell response is sufficient, necessary, or merely correlated with benefit.
+- Which immune assays should be treated as exploratory versus validated surrogate endpoints.
 
 ## Safe Interpretation
 
 An immune response is evidence that the vaccine engaged biology. It is not automatically evidence of cure, survival benefit, or personal treatment success.
-

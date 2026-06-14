@@ -50,5 +50,15 @@ Last updated: 2026-06-14
   - "What is mRNA?"
   - Localized versions of "How a personalized neoantigen vaccine is selected"
   - Localized versions of "How LNP delivery works"
-  - "How T cells learn a cancer target"
+  - Localized versions of "How T cells learn a cancer target"
   - "Why clinical infrastructure is part of the therapy"
+  - Localized versions of "Why clinical infrastructure is part of the therapy"
+  - Localized versions of "How to read mRNA trial endpoints"
+
+## High-Priority Added Targets From 2026-06-14 Pass
+
+- Peer-reviewed five-year KEYNOTE-942 follow-up and independent commentary on whether recurrence-free survival, distant metastasis-free survival, and overall survival signals remain consistent.
+- Full BNT111 phase 2 melanoma publication after the sponsor-reported topline result.
+- Reasons, posted results, and independent interpretation for terminated or stopped mRNA programs, especially NCT06295809.
+- TNBC individualized mRNA vaccine follow-up, including recurrence biology, MHC loss, and whether randomized studies are planned.
+- Registry refresh for all INTerpath studies, including NSCLC, bladder, RCC, melanoma, cSCC, and metastatic squamous NSCLC.

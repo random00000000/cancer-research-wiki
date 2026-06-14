@@ -23,6 +23,7 @@ A personalized mRNA neoantigen vaccine tries to teach the immune system targets 
 
 - KEYNOTE-942 provides a randomized phase 2b signal in resected high-risk melanoma for mRNA-4157/V940 plus pembrolizumab versus pembrolizumab alone. See `sources/mrna/keynote-942-mrna-4157-v940-melanoma.md`.
 - Autogene cevumeran shows that individualized mRNA-lipoplex vaccines can induce neoantigen-specific CD4+ and/or CD8+ T-cell responses in humans. See `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`.
+- A 2026 individualized mRNA vaccine TNBC report strengthens the immune-durability evidence while remaining too small for definitive clinical-benefit claims. See `sources/mrna/individualized-mrna-vaccine-tnbc.md`.
 - The strongest use case may be lower-burden disease after surgery, when there are fewer cancer cells and immune suppression may be less entrenched.
 
 ## What Remains Uncertain
@@ -45,4 +46,3 @@ Do not say: "A patient can design or make their own mRNA cure."
 - Phase 3 NCT05933577 updates.
 - NCT05968326 pancreatic phase 2 updates.
 - NCT04486378 ctDNA-positive colorectal trial updates.
-

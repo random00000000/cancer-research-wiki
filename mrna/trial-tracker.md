@@ -24,6 +24,7 @@ This tracker starts with registry fields checked from ClinicalTrials.gov on 2026
 | NCT05968326 | Autogene cevumeran + atezolizumab + mFOLFIRINOX | Resected pancreatic ductal adenocarcinoma | Phase 2 | Recruiting | 260 | Disease-free survival | Tests early PDAC immune signal in randomized setting |
 | NCT04486378 | RO7198457/autogene cevumeran versus watchful waiting | ctDNA-positive resected colorectal cancer | Phase 2 | Active, not recruiting | 327 | Disease-free survival | Minimal residual disease / ctDNA-positive frontier |
 | NCT04526899 | BNT111 and cemiplimab combinations | Advanced melanoma | Phase 2 | Completed | 184 | Objective response rate | Shared-antigen FixVac signal; peer-reviewed full details needed |
+| NCT02316457 | Individualized neoantigen mRNA-lipoplex vaccine | Triple-negative breast cancer | Phase 1 | Completed | See publication | Safety, tolerability, and immune response | Small 2026 Nature immune-durability report; not definitive efficacy |
 
 ## How To Read This Tracker
 
@@ -45,3 +46,10 @@ This tracker starts with registry fields checked from ClinicalTrials.gov on 2026
 - Toxicity summary and discontinuation.
 - Publication status.
 - Last checked date and source URL for each row.
+
+## Current Interpretation Labels
+
+- Moderate investigational evidence: KEYNOTE-942 in resected high-risk melanoma because it is randomized and uses recurrence-free survival, but still needs phase 3 confirmation and regulatory review.
+- Low-to-preliminary clinical-benefit evidence but important immune biology: autogene cevumeran in PDAC and individualized TNBC vaccine reports.
+- Preliminary sponsor-reported evidence: BNT111 phase 2 topline advanced melanoma and company-reported V940 five-year updates until full peer-reviewed details are available.
+- Negative/uncertain evidence to track: terminated cSCC V940 program and any trial with incomplete enrollment, discontinued development, or missing results.

@@ -52,12 +52,15 @@ The randomized phase 2b KEYNOTE-942 melanoma study reported longer recurrence-fr
 
 The autogene cevumeran pancreatic cancer studies are important because pancreatic ductal adenocarcinoma usually has few mutations and is hard to immunize against. In a small phase 1 setting, some patients developed durable vaccine-induced T-cell responses that were associated with longer recurrence-free survival. This remains early and needs larger randomized confirmation.
 
+A 2026 triple-negative breast cancer report described durable vaccine-induced T-cell responses in a small individualized mRNA vaccine cohort after standard therapy. This strengthens the biological case that personalized mRNA vaccination can produce long-lived T cells in some settings, but it is not proof that the approach improves survival.
+
 ## What Is Not Proven
 
 - It is not proven that every cancer can be treated with an mRNA vaccine.
 - It is not proven that every patient with a high-mutation tumor will benefit.
 - It is not proven that a person can choose targets and make a safe therapy outside regulated clinical infrastructure.
 - It is not proven that immune response automatically means survival benefit.
+- It is not proven that a positive trial in one cancer type transfers to another cancer type.
 
 ## Good Questions For A Clinician Or Trial Team
 
@@ -69,6 +72,7 @@ The autogene cevumeran pancreatic cancer studies are important because pancreati
 - What endpoint is being measured: immune response, recurrence-free survival, progression-free survival, overall survival, or safety?
 - What adverse events have been seen?
 - What happens if the tumor cannot yield enough usable antigen targets?
+- Is the evidence peer-reviewed, company-reported, registry-only, or still unpublished?
 
 ## Source Cards
 
@@ -105,3 +109,13 @@ The autogene cevumeran pancreatic cancer studies are important because pancreati
   - Delivery design affects immune activation, tissue targeting, tolerability, and manufacturability.
 - Caution:
   - Review-level promise should not be treated as proof of clinical benefit for a specific product.
+
+### Individualized mRNA Vaccine In Triple-Negative Breast Cancer
+
+- Nature: https://www.nature.com/articles/s41586-025-10004-2
+- Source type: small phase 1 / immune correlative report
+- Reusable claims:
+  - The study reported durable vaccine-induced T-cell responses to multiple neoantigens in a small TNBC cohort.
+  - The report is useful for explaining immune durability and immune escape.
+- Caution:
+  - The study was small and not definitive proof of recurrence-free or overall-survival benefit.

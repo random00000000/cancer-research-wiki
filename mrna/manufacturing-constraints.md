@@ -27,6 +27,7 @@ For a personalized mRNA cancer vaccine, the therapy is not just the mRNA sequenc
 - Personalized vaccines add biological promise but also add time and logistics.
 - Platform knowledge may help standardize parts of manufacturing, but individualized products still need product-specific quality evidence.
 - Regulatory and manufacturing sources emphasize CMC, release testing, potency, and platform comparability as central development issues. See `sources/mrna/platform-regulation-and-manufacturing-quality.md`.
+- The 2026 TNBC individualized mRNA vaccine report gives a concrete trial example: it reported feasible on-demand manufacturing in a standard clinical setting, with average sample-receipt-to-release time of 69 days and a range of 34-125 days. See `sources/mrna/individualized-mrna-vaccine-tnbc.md`.
 
 ## What Remains Uncertain
 
@@ -46,4 +47,3 @@ For a personalized mRNA cancer vaccine, the therapy is not just the mRNA sequenc
 ## Hard Safety Boundary
 
 This page must never become a manufacturing protocol. It explains why regulated manufacturing matters; it does not describe how to make, formulate, test, procure, dose, or administer an mRNA product.
-

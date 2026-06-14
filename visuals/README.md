@@ -168,6 +168,13 @@ Use `../tools/render_svg_contact_sheets.py` to render all SVGs with local headle
 | mRNA cancer therapy clinical pathway - Russian | `mrna-cancer-therapy-pathway.ru.svg` | First localized SVG; native review needed |
 | mRNA neoantigen selection funnel | `mrna-neoantigen-selection-funnel.svg` | First-pass English SVG |
 | mRNA LNP delivery and immune teaching | `mrna-lnp-delivery-immune-teaching.svg` | First-pass English SVG |
+| mRNA T-cell immune response | `mrna-t-cell-immune-response.svg` | First-pass English SVG |
+| mRNA clinical infrastructure is not DIY | `mrna-clinical-infrastructure-not-diy.svg` | First-pass English SVG |
+| mRNA clinical infrastructure is not DIY - Spanish | `mrna-clinical-infrastructure-not-diy.es.svg` | First localized SVG; native review needed |
+| mRNA clinical infrastructure is not DIY - German | `mrna-clinical-infrastructure-not-diy.de.svg` | First localized SVG; native review needed |
+| mRNA clinical infrastructure is not DIY - Mandarin Chinese | `mrna-clinical-infrastructure-not-diy.zh.svg` | First localized SVG; native review needed |
+| mRNA clinical infrastructure is not DIY - Russian | `mrna-clinical-infrastructure-not-diy.ru.svg` | First localized SVG; native review needed |
+| mRNA trial endpoint evidence ladder | `mrna-trial-endpoints-evidence-ladder.svg` | First-pass English SVG |
 | How cancer keeps adapting | `cancer-keeps-adapting.svg` | First-pass English SVG |
 | How cancer keeps adapting - Spanish | `cancer-keeps-adapting.es.svg` | First localized SVG |
 | How cancer keeps adapting - German | `cancer-keeps-adapting.de.svg` | First localized SVG |

@@ -4,8 +4,8 @@ Date: 2026-06-14
 
 Renderer: `C:\Program Files\Google\Chrome\Application\chrome.exe`
 
-SVG files rendered: 148
-Nonblank renders: 148
+SVG files rendered: 155
+Nonblank renders: 155
 Blank or near-blank renders: 0
 
 ## Contact Sheets
@@ -114,8 +114,15 @@ Blank or near-blank renders: 0
 | `mrna-cancer-therapy-pathway.ru.svg` | 1500x980 | True | 38.83 |
 | `mrna-cancer-therapy-pathway.svg` | 1500x980 | True | 38.60 |
 | `mrna-cancer-therapy-pathway.zh.svg` | 1500x980 | True | 37.80 |
+| `mrna-clinical-infrastructure-not-diy.de.svg` | 1200x760 | True | 10.40 |
+| `mrna-clinical-infrastructure-not-diy.es.svg` | 1200x760 | True | 10.35 |
+| `mrna-clinical-infrastructure-not-diy.ru.svg` | 1200x760 | True | 11.14 |
+| `mrna-clinical-infrastructure-not-diy.svg` | 1200x760 | True | 11.23 |
+| `mrna-clinical-infrastructure-not-diy.zh.svg` | 1200x760 | True | 9.83 |
 | `mrna-lnp-delivery-immune-teaching.svg` | 1500x980 | True | 26.94 |
 | `mrna-neoantigen-selection-funnel.svg` | 1500x980 | True | 23.57 |
+| `mrna-t-cell-immune-response.svg` | 1500x980 | True | 25.77 |
+| `mrna-trial-endpoints-evidence-ladder.svg` | 1200x760 | True | 15.79 |
 | `night-shift-drowsy-driving-safety.de.svg` | 1500x980 | True | 37.20 |
 | `night-shift-drowsy-driving-safety.es.svg` | 1500x980 | True | 36.62 |
 | `night-shift-drowsy-driving-safety.ru.svg` | 1500x980 | True | 36.86 |

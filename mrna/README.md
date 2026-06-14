@@ -26,6 +26,7 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [Tumor-to-vaccine clinical translation pathway](mrna-cancer-therapy-pathway.md)
 - [Starter mRNA cancer trial and evidence landscape](trial-landscape.md)
 - [mRNA cancer trial tracker](trial-tracker.md)
+- [Clinical endpoints and evidence labels for mRNA cancer trials](clinical-endpoints-and-evidence-labels.md)
 
 ## Mechanism Pages
 
@@ -34,6 +35,8 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [mRNA delivery: lipid nanoparticles, lipoplexes, and targeting](delivery-lnp-and-lipoplex.md)
 - [Antigen presentation and dendritic cells](antigen-presentation-and-dendritic-cells.md)
 - [Immune escape, safety signals, and combination logic](immune-escape-safety-and-combinations.md)
+- [Safety signals in mRNA cancer therapy](safety-signals.md)
+- [Combination therapy logic for mRNA cancer vaccines](combination-therapies.md)
 - [Manufacturing constraints for personalized mRNA cancer therapy](manufacturing-constraints.md)
 - [Innate immune sensing in mRNA cancer vaccines](innate-immune-sensing.md)
 
@@ -46,6 +49,7 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [Renal cell carcinoma](cancer-types-renal-cell-carcinoma.md)
 - [Bladder cancer](cancer-types-bladder-cancer.md)
 - [Cutaneous squamous cell carcinoma](cancer-types-cutaneous-squamous-cell-carcinoma.md)
+- [Triple-negative breast cancer](cancer-types-triple-negative-breast-cancer.md)
 
 ## Source Cards
 
@@ -55,13 +59,20 @@ Safe purpose: help people understand the landscape, ask better questions, unders
 - [LNP and mRNA cancer vaccine delivery reviews](../sources/mrna/lnp-and-mrna-cancer-vaccine-delivery-reviews.md)
 - [mRNA platform regulation and manufacturing quality](../sources/mrna/platform-regulation-and-manufacturing-quality.md)
 - [Innate immune sensing in mRNA vaccines](../sources/mrna/innate-immune-sensing-mrna-vaccines.md)
+- [T-cell response and clinical endpoint interpretation](../sources/mrna/t-cell-response-and-clinical-endpoints.md)
+- [Individualized mRNA vaccine in adjuvant TNBC](../sources/mrna/individualized-mrna-vaccine-tnbc.md)
+- [Terminated and uncertain mRNA cancer programs](../sources/mrna/terminated-and-uncertain-mrna-cancer-programs.md)
 
 ## First Public Visual
 
 - `visuals/mrna-cancer-therapy-pathway.svg`
 - `visuals/mrna-neoantigen-selection-funnel.svg`
 - `visuals/mrna-lnp-delivery-immune-teaching.svg`
+- `visuals/mrna-t-cell-immune-response.svg`
+- `visuals/mrna-clinical-infrastructure-not-diy.svg`
+- `visuals/mrna-trial-endpoints-evidence-ladder.svg`
 - First localized variants: `visuals/mrna-cancer-therapy-pathway.es.svg`, `visuals/mrna-cancer-therapy-pathway.de.svg`, `visuals/mrna-cancer-therapy-pathway.zh.svg`, and `visuals/mrna-cancer-therapy-pathway.ru.svg`
+- First localized clinical-infrastructure safety variants: `visuals/mrna-clinical-infrastructure-not-diy.es.svg`, `visuals/mrna-clinical-infrastructure-not-diy.de.svg`, `visuals/mrna-clinical-infrastructure-not-diy.zh.svg`, and `visuals/mrna-clinical-infrastructure-not-diy.ru.svg`
 
 ## Current Vanguard Reading
 
@@ -69,8 +80,9 @@ The strongest current signal is not "mRNA cures cancer." The stronger and safer 
 
 - Personalized mRNA neoantigen vaccines are becoming clinically credible in selected adjuvant settings, especially high-risk resected melanoma when combined with checkpoint blockade.
 - Pancreatic ductal adenocarcinoma has important early evidence that a personalized mRNA-lipoplex vaccine can generate durable neoantigen-specific T cells in some patients, but the clinical dataset is small and phase 2 testing is ongoing.
+- Triple-negative breast cancer now has a small 2026 individualized mRNA vaccine immune-durability report; it is biologically important but not clinical proof of benefit.
 - Delivery, antigen choice, immune context, tumor burden, HLA presentation, combination therapy, manufacturing time, and resistance mechanisms can decide whether the idea works.
-- Many mRNA cancer claims remain early, preclinical, company-reported, or trial-in-progress.
+- Many mRNA cancer claims remain early, preclinical, company-reported, trial-in-progress, terminated, or unpublished.
 
 ## Source Mix For This First Pass
 
@@ -84,11 +96,13 @@ The strongest current signal is not "mRNA cures cancer." The stronger and safer 
 - BNT111 shared-antigen melanoma FixVac source card anchors: https://pubmed.ncbi.nlm.nih.gov/32728218/ and https://investors.biontech.de/news-releases/news-release-details/biontech-announces-positive-topline-phase-2-results-mrna/
 - mRNA platform regulation review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11126020/
 - Innate sensing review anchor: https://pmc.ncbi.nlm.nih.gov/articles/PMC10601488/
+- TNBC individualized mRNA vaccine report: https://www.nature.com/articles/s41586-025-10004-2
+- Terminated/uncertain cSCC trial record: https://clinicaltrials.gov/study/NCT06295809
 
 ## Next Build Targets
 
 - Expand source cards for mRNA-4157/V940, autogene cevumeran, LNP delivery, mRNA-lipoplex delivery, and shared-antigen mRNA vaccines with more full-text details and contradiction sections.
-- Expand mechanism pages for HLA restriction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
+- Expand mechanism pages for HLA restriction, antigen-processing prediction, innate immune sensing, manufacturing constraints, safety signals, and checkpoint-combination logic.
 - Expand cancer-type pages and add glioblastoma, breast cancer, gastric cancer, head and neck cancer, and prostate cancer if credible mRNA evidence emerges.
 - Expand the trial tracker with sponsor, geography, publication status, toxicity, and manufacturing fields.
-- Visuals for T-cell immune response, manufacturing constraints, and trial endpoints.
+- Visuals for manufacturing constraints and trial endpoints.

@@ -13,12 +13,14 @@ Last updated: 2026-06-14
 - Related phase 3 trial: NCT05933577
 - Cancer type: resected high-risk melanoma
 - Platform: personalized neoantigen mRNA therapy plus PD-1 checkpoint blockade
+- Company-reported five-year update: https://www.merck.com/news/moderna-merck-announce-5-year-data-for-intismeran-autogene-in-combination-with-keytruda-pembrolizumab-demonstrated-sustained-improvement-in-the-primary-endpoint-of-recurrence-free-survival-i/
 
 ## Main Findings
 
 - The study tested mRNA-4157/V940 plus pembrolizumab against pembrolizumab alone after surgery for high-risk melanoma.
 - The PubMed abstract reports 157 randomized patients and a recurrence/death hazard ratio of 0.561 with 18-month recurrence-free survival of 79% in the combination group versus 62% in the pembrolizumab group.
 - Grade 3 or higher treatment-related adverse events were reported more often with the combination than pembrolizumab alone; the abstract reports no mRNA-4157-related grade 4 or 5 events.
+- A January 2026 company update reported a median five-year pre-planned follow-up hazard ratio of 0.510 for recurrence or death versus pembrolizumab alone. This should be labeled company-reported until the full follow-up can be independently assessed.
 
 ## Claims Safe To Reuse
 
@@ -31,6 +33,7 @@ Last updated: 2026-06-14
 - Do not infer that this melanoma result applies to all cancers.
 - Do not infer that mRNA alone caused the effect; the tested regimen included pembrolizumab and post-surgical oncology care.
 - Company-reported five-year updates should be labeled as company-reported until peer-reviewed and independently interpreted.
+- Do not treat the reported five-year recurrence-free survival update as regulatory approval or proof that overall survival is improved.
 
 ## Follow-Up Crawl Targets
 
@@ -38,4 +41,3 @@ Last updated: 2026-06-14
 - Peer-reviewed five-year follow-up if published.
 - Immune-response correlative studies from KEYNOTE-942.
 - Discontinuation, immune-related adverse-event, and quality-of-life data.
-

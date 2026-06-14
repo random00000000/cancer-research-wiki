@@ -178,7 +178,7 @@ Browser QA attempt:
 
 Scope:
 
-- All 148 SVG files in `visuals/`.
+- All 149 SVG files in `visuals/`.
 
 Tooling:
 
@@ -204,8 +204,8 @@ Generated artifacts:
 
 Result:
 
-- Headless Chrome rendered all 148 SVG files at their declared canvas sizes.
-- All 148 renders were nonblank.
+- Headless Chrome rendered all 149 SVG files at their declared canvas sizes.
+- All 149 renders were nonblank.
 - Contact-sheet inspection did not reveal blank canvases or completely missing non-Latin glyph rendering.
 - Some dense translated visuals, especially non-Latin and right-to-left layouts, still need close human inspection for clipping, text crowding, line overflow, and translation quality.
 - The alcohol biology visual set was included in the latest render pass; English, Spanish, Russian, and Mandarin full-size previews were inspected, and obvious safety-panel/footer overflow was corrected before commit.
@@ -228,6 +228,9 @@ Result:
 - The mRNA cancer therapy pathway visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian full-size previews were inspected before commit, and dark-panel clipping was corrected.
 - The mRNA neoantigen selection funnel visual was included in the latest render pass; the English full-size preview was inspected before commit.
 - The mRNA LNP delivery and immune teaching visual was included in the latest render pass; the English full-size preview was inspected before commit.
+- The mRNA T-cell immune response visual was included in the latest render pass; the English full-size preview was inspected before commit.
+- The mRNA clinical infrastructure visual set was included in the latest render pass; English, Spanish, German, Mandarin, and Russian contact-sheet previews rendered nonblank and were inspected for obvious blank/missing-glyph failure.
+- The mRNA trial endpoint evidence ladder was included in the latest render pass; the English contact-sheet preview rendered nonblank and was inspected for obvious blank/missing-glyph failure.
 
 Repository note:
 
@@ -288,6 +291,10 @@ Repository note:
 | mRNA cancer therapy pathway localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Mandarin/Russian full-size previews checked | Still needed |
 | mRNA neoantigen selection funnel SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
 | mRNA LNP delivery and immune teaching SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| mRNA T-cell immune response SVG | Passed | Headless Chrome nonblank passed; English full-size preview checked | Not applicable |
+| mRNA clinical infrastructure SVG | Passed | Headless Chrome nonblank passed; contact-sheet preview checked | Not applicable |
+| mRNA clinical infrastructure localized SVGs | Passed | Headless Chrome nonblank passed; Spanish/German/Mandarin/Russian contact-sheet previews checked | Still needed |
+| mRNA trial endpoint evidence ladder SVG | Passed | Headless Chrome nonblank passed; contact-sheet preview checked | Not applicable |
 
 ## Next Visual QA Tasks
 

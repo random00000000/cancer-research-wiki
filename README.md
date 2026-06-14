@@ -472,12 +472,22 @@ First mRNA explainer visual:
 
 ![LNP delivery is part of the therapy](visuals/mrna-lnp-delivery-immune-teaching.svg)
 
+![An immune response is not the same as a cure](visuals/mrna-t-cell-immune-response.svg)
+
+![Personalized mRNA cancer therapy is a clinical chain](visuals/mrna-clinical-infrastructure-not-diy.svg)
+
+![A trial result is only as strong as its endpoint](visuals/mrna-trial-endpoints-evidence-ladder.svg)
+
 Localized mRNA explainer variants:
 
 - [Spanish mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.es.svg)
 - [German mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.de.svg)
 - [Mandarin Chinese mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.zh.svg)
 - [Russian mRNA pathway SVG](visuals/mrna-cancer-therapy-pathway.ru.svg)
+- [Spanish mRNA clinical-chain SVG](visuals/mrna-clinical-infrastructure-not-diy.es.svg)
+- [German mRNA clinical-chain SVG](visuals/mrna-clinical-infrastructure-not-diy.de.svg)
+- [Mandarin Chinese mRNA clinical-chain SVG](visuals/mrna-clinical-infrastructure-not-diy.zh.svg)
+- [Russian mRNA clinical-chain SVG](visuals/mrna-clinical-infrastructure-not-diy.ru.svg)
 
 Safety boundary: this wiki can explain mRNA cancer mechanisms, trial landscapes, and questions to ask clinicians or trial teams. It must not provide DIY vaccine design, dosing, manufacturing, procurement, or self-treatment instructions.
 

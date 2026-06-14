@@ -22,6 +22,7 @@ The pathway from a tumor sample to an mRNA cancer therapy is a clinical and manu
 | Manufacturing and release testing | Product is made under regulated quality systems and tested before clinical use. | Sterility, identity, purity, potency, and timing are part of safety. | Batch failure, contamination, delay, release failure. |
 | Combination therapy | Vaccine may be paired with checkpoint inhibitors, chemotherapy, radiation, or surgery. | T-cell priming often needs a less suppressive tumor context. | Added toxicity, unclear contribution, wrong sequence, contraindications. |
 | Clinical monitoring | Team tracks immune response, recurrence, progression, scans, labs, and adverse events. | Immune activation is not the same as cure. | Pseudoprogression confusion, immune toxicity, recurrence despite response. |
+| Evidence interpretation | Researchers compare endpoints, control arms, toxicities, and follow-up. | A trial result should be read by what it measured. | Overreading immune assays, sponsor-only data, short follow-up, subgroup overclaiming. |
 
 ## Why "Craft The Cure" Is The Wrong Mental Model
 
@@ -39,6 +40,7 @@ When answering questions, use this page to:
 - Separate public understanding from clinical action.
 - Identify where a trial may fail or exclude a patient.
 - Help people ask trial teams about timing, tissue, endpoints, and safety.
+- Route endpoint questions to `clinical-endpoints-and-evidence-labels.md`.
 
 ## Next Sources To Inspect
 

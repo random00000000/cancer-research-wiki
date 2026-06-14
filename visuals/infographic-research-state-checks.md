@@ -65,6 +65,12 @@ Current mRNA neoantigen selection funnel visual: `visuals/mrna-neoantigen-select
 
 Current mRNA LNP delivery and immune teaching visual: `visuals/mrna-lnp-delivery-immune-teaching.svg`
 
+Current mRNA T-cell immune response visual: `visuals/mrna-t-cell-immune-response.svg`
+
+Current mRNA clinical-infrastructure safety visual: `visuals/mrna-clinical-infrastructure-not-diy.svg`
+
+Current mRNA trial endpoint evidence ladder: `visuals/mrna-trial-endpoints-evidence-ladder.svg`
+
 Current colorectal food pattern prevention visual: `visuals/colorectal-food-pattern-prevention.svg`
 
 Current ultra-processed foods and cancer-risk pattern visual: `visuals/ultra-processed-foods-cancer-risk.svg`
@@ -206,6 +212,13 @@ Current localized mRNA cancer therapy pathway variants:
 - German: `visuals/mrna-cancer-therapy-pathway.de.svg`
 - Mandarin Chinese: `visuals/mrna-cancer-therapy-pathway.zh.svg`
 - Russian: `visuals/mrna-cancer-therapy-pathway.ru.svg`
+
+Current localized mRNA clinical-infrastructure safety variants:
+
+- Spanish: `visuals/mrna-clinical-infrastructure-not-diy.es.svg`
+- German: `visuals/mrna-clinical-infrastructure-not-diy.de.svg`
+- Mandarin Chinese: `visuals/mrna-clinical-infrastructure-not-diy.zh.svg`
+- Russian: `visuals/mrna-clinical-infrastructure-not-diy.ru.svg`
 
 Current localized colorectal food-pattern variants:
 
@@ -1315,3 +1328,67 @@ Updated support pages:
 ### Decision For The Flagship Infographic
 
 Do not add LNP mechanics to the Goal 1 public prevention infographic. LNP delivery belongs in the mRNA vanguard companion visual set, where clinical-trial and research-safety boundaries can remain visible.
+
+## 2026-06-14 Check: mRNA T-Cell Immune Response Visual
+
+New source-backed visual:
+
+- `visuals/mrna-t-cell-immune-response.svg`
+
+New source card:
+
+- `sources/mrna/t-cell-response-and-clinical-endpoints.md`
+
+Updated support pages:
+
+- `mrna/antigen-presentation-and-dendritic-cells.md`
+- `mrna/immune-escape-safety-and-combinations.md`
+
+### What Changed
+
+- The wiki now has a public visual explaining why immune engagement is not automatically cure.
+- The source card separates T-cell assay evidence from clinical endpoints such as recurrence-free survival, disease-free survival, progression-free survival, overall survival, response durability, and safety.
+- The visual makes tumor escape visible: antigen loss, HLA loss, T-cell exclusion, exhaustion, and hostile tissue context can break the chain between immune response and patient benefit.
+
+### Decision For The Flagship Infographic
+
+Do not add T-cell assay details to the Goal 1 public prevention infographic. This belongs in the mRNA companion visual set and in answers about trials, endpoints, and immune-response claims.
+
+## 2026-06-14 Check: mRNA Endpoint, Safety, TNBC, And Uncertain-Program Layer
+
+New mRNA pages:
+
+- `mrna/clinical-endpoints-and-evidence-labels.md`
+- `mrna/safety-signals.md`
+- `mrna/combination-therapies.md`
+- `mrna/cancer-types-triple-negative-breast-cancer.md`
+
+New mRNA source cards:
+
+- `sources/mrna/individualized-mrna-vaccine-tnbc.md`
+- `sources/mrna/terminated-and-uncertain-mrna-cancer-programs.md`
+
+New visuals:
+
+- `visuals/mrna-clinical-infrastructure-not-diy.svg`
+- `visuals/mrna-clinical-infrastructure-not-diy.es.svg`
+- `visuals/mrna-clinical-infrastructure-not-diy.de.svg`
+- `visuals/mrna-clinical-infrastructure-not-diy.zh.svg`
+- `visuals/mrna-clinical-infrastructure-not-diy.ru.svg`
+- `visuals/mrna-trial-endpoints-evidence-ladder.svg`
+
+### What Changed
+
+- The mRNA section now gives future agents a dedicated endpoint vocabulary, so immune-response, response-rate, recurrence-free survival, progression-free survival, overall survival, and safety claims are not conflated.
+- Safety and combination-therapy pages now separate mRNA-product reactogenicity, delivery-system effects, checkpoint-inhibitor risks, manufacturing quality, clinical timing, and trial monitoring.
+- TNBC now has a disease-specific page and source card grounded in the 2026 Nature individualized mRNA vaccine report. It is labeled as immune-durability evidence, not definitive clinical benefit.
+- The uncertainty layer now explicitly tracks terminated and sponsor-reported programs, including cSCC V940 and BNT111 topline evidence, so negative or incomplete evidence is not silently dropped.
+- The new clinical-infrastructure visual repeats the key public message: the chain is sample, sequence, rank, manufacture, release-test, deliver, monitor, and interpret evidence under clinical oversight.
+
+### Decision For The Flagship Infographic
+
+Do not add trial endpoint ladders or mRNA clinical-chain details to the Goal 1 public prevention infographic. Keep them as mRNA companion visuals with explicit research, trial-literacy, and safety-boundary labels.
+
+### Translation Impact
+
+First-pass clinical-infrastructure visuals now exist for Spanish, German, Mandarin Chinese, and Russian. Native or expert review remains necessary before public-final promotion, especially for safety-boundary wording.

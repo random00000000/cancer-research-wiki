@@ -40,6 +40,9 @@ Even if an mRNA vaccine teaches T cells a cancer target, cancer may still surviv
 
 - KEYNOTE-942 shows why combination interpretation matters: the investigational mRNA product was tested with pembrolizumab, not as a standalone universal therapy. See `sources/mrna/keynote-942-mrna-4157-v940-melanoma.md`.
 - Autogene cevumeran studies often combine vaccine biology with checkpoint blockade and, in the pancreatic setting, chemotherapy. See `sources/mrna/autogene-cevumeran-solid-tumors-and-pdac.md`.
+- Immune-response source card for endpoint interpretation: `sources/mrna/t-cell-response-and-clinical-endpoints.md`.
+- TNBC immune-escape examples include weak vaccine-induced response, low MHC class I expression, and genetically distinct recurrence. See `sources/mrna/individualized-mrna-vaccine-tnbc.md`.
+- Dedicated pages: `safety-signals.md` and `combination-therapies.md`.
 
 ## Questions For A Trial Team
 
@@ -52,4 +55,3 @@ Even if an mRNA vaccine teaches T cells a cancer target, cancer may still surviv
 ## Safety Boundary
 
 These are questions for qualified oncology and trial teams. They are not instructions to combine drugs, alter treatment, or self-administer an experimental therapy.
-
